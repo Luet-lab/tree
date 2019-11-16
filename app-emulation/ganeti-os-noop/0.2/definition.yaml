@@ -1,0 +1,9 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: ganeti-os-noop
+requires: []
+set: false
+use_flags:
+- ""
+version: "0.2"

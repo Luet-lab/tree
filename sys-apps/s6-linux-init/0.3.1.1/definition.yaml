@@ -1,0 +1,58 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: s6-linux-init
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: s6
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.6.1.0
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: s6-linux-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.0.0
+- State: ""
+  category: sys-apps
+  conflicts: []
+  name: s6-portable-utils
+  requires:
+  - State: ""
+    category: dev-libs
+    conflicts: null
+    name: skalibs
+    requires: null
+    set: false
+    use_flags: null
+    version: 2.6.0.0
+  set: false
+  use_flags:
+  - static
+  version: 2.2.1.1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: skalibs
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.6.0.0
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: execline
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.3.0.2
+set: false
+use_flags:
+- static
+version: 0.3.1.1

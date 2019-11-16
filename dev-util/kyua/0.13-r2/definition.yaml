@@ -1,0 +1,33 @@
+State: ""
+category: dev-util
+conflicts: []
+name: kyua
+requires:
+- State: ""
+  category: dev-lua
+  conflicts: null
+  name: lutok
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: atf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 0.13-r2

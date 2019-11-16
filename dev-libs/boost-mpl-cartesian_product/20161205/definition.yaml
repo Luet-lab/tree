@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: boost-mpl-cartesian_product
+requires: null
+set: false
+use_flags: null
+version: "20161205"

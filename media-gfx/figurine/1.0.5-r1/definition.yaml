@@ -1,0 +1,9 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: figurine
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.5-r1

@@ -1,0 +1,33 @@
+State: ""
+category: dev-python
+conflicts: []
+name: configshell
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: epydoc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyparsing
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: urwid
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.6"

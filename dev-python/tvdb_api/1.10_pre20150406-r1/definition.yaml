@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: tvdb_api
+requires: null
+set: false
+use_flags: null
+version: 1.10_pre20150406-r1

@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: kismet
+requires: null
+set: false
+use_flags: null
+version: 2016.07.1-r2

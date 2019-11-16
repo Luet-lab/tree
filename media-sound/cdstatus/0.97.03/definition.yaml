@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: null
+name: cdstatus
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.97.03

@@ -1,0 +1,8 @@
+State: ""
+category: sys-power
+conflicts: null
+name: suspend
+requires: null
+set: false
+use_flags: null
+version: 1.0_p20190605

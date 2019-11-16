@@ -1,0 +1,32 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: ldapfuse
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libhx
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.12"
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: openldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.0-r2

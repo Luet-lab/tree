@@ -1,0 +1,11 @@
+State: ""
+category: media-libs
+conflicts: null
+name: vo-aacenc
+requires: null
+set: false
+use_flags:
+- cpu_flags_arm_neon
+- examples
+- static-libs
+version: 0.1.3

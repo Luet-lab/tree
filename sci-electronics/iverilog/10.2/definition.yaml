@@ -1,0 +1,33 @@
+State: ""
+category: sci-electronics
+conflicts: []
+name: iverilog
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+version: "10.2"

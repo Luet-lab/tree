@@ -1,0 +1,33 @@
+State: ""
+category: dev-embedded
+conflicts: []
+name: gnap-dev
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: catalyst
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0_rc40
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: squashfs-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-cdr
+  conflicts: null
+  name: cdrtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- minimal
+version: "2.0"

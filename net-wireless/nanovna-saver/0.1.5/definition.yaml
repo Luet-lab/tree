@@ -1,0 +1,33 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: nanovna-saver
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: PyQt5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: numpy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyserial
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.1.5

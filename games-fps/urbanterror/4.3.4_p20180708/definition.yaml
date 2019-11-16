@@ -1,0 +1,91 @@
+State: ""
+category: games-fps
+conflicts: []
+name: urbanterror
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvorbis
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: mumble
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openal
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: games-fps
+  conflicts: null
+  name: urbanterror-data
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.3.4
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: opusfile
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +altgamma
+- +client
+- +curl
+- debug
+- mumble
+- openal
+- +opus
+- server
+- +skeetshootmod
+- voip
+- vorbis
+version: 4.3.4_p20180708

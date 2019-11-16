@@ -1,0 +1,56 @@
+State: ""
+category: app-cdr
+conflicts: []
+name: dvdisaster
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.14"
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.20"
+set: false
+use_flags:
+- debug
+- nls
+- l10n_cs
+- l10n_de
+- l10n_it
+- l10n_pt-BR
+- l10n_ru
+- l10n_sv
+version: 0.72.4

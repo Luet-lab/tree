@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: openstack-guest-agents-unix
+requires: null
+set: false
+use_flags: null
+version: 1.39.0

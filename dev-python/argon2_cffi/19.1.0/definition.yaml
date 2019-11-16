@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: argon2_cffi
+requires: null
+set: false
+use_flags: null
+version: 19.1.0

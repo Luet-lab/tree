@@ -1,0 +1,8 @@
+State: ""
+category: net-dialup
+conflicts: null
+name: mingetty
+requires: null
+set: false
+use_flags: null
+version: 1.08-r1

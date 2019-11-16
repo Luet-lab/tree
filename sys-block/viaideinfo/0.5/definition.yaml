@@ -1,0 +1,9 @@
+State: ""
+category: sys-block
+conflicts: null
+name: viaideinfo
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.5"

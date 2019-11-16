@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: distorm64
+requires: null
+set: false
+use_flags: null
+version: 3.3.8

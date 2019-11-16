@@ -1,0 +1,8 @@
+State: ""
+category: sci-geosciences
+conflicts: null
+name: opencpn-plugin-dr
+requires: null
+set: false
+use_flags: null
+version: "1.1"

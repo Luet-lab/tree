@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: hwsetup
+requires: null
+set: false
+use_flags: null
+version: 1.2-r3

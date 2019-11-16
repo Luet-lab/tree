@@ -1,0 +1,8 @@
+State: ""
+category: app-misc
+conflicts: null
+name: mediacrush-cli
+requires: null
+set: false
+use_flags: null
+version: "9999"

@@ -1,0 +1,83 @@
+State: ""
+category: x11-plugins
+conflicts:
+- State: ""
+  category: x11-plugins
+  conflicts: null
+  name: epplets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: e16-epplets
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libcdaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-wm
+  conflicts: null
+  name: e16
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: libgtop
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: glu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa[X(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: imlib2
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.0
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cdaudio
+- libgtop
+- opengl
+version: "0.16"

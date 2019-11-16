@@ -1,0 +1,73 @@
+State: ""
+category: app-backup
+conflicts: []
+name: hdup
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.0"
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: openssh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: findutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: mcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: gzip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: tar
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- crypt
+version: 2.0.14

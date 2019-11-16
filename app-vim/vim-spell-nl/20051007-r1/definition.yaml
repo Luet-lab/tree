@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: vim-spell-nl
+requires: null
+set: false
+use_flags: null
+version: 20051007-r1

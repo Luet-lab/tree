@@ -1,0 +1,9 @@
+State: ""
+category: sec-policy
+conflicts: null
+name: apparmor-profiles
+requires: null
+set: false
+use_flags:
+- minimal
+version: 2.13.1

@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: ubuntu-keyring
+requires: null
+set: false
+use_flags:
+- ""
+version: 2018.09.18.1

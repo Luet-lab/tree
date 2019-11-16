@@ -1,0 +1,18 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: fprobe
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- messages
+version: 1.1-r3

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Apache-SizeLimit
+requires: null
+set: false
+use_flags: null
+version: 0.970.0-r1

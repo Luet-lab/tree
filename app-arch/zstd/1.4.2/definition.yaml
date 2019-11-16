@@ -1,0 +1,8 @@
+State: ""
+category: app-arch
+conflicts: null
+name: zstd
+requires: null
+set: false
+use_flags: null
+version: 1.4.2

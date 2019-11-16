@@ -1,0 +1,49 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: bashmount
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: udisks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: eject
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 3.2.0

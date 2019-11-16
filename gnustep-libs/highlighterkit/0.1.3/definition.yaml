@@ -1,0 +1,8 @@
+State: ""
+category: gnustep-libs
+conflicts: null
+name: highlighterkit
+requires: null
+set: false
+use_flags: null
+version: 0.1.3

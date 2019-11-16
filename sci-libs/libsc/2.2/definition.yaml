@@ -1,0 +1,55 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: libsc
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: lua
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: blas
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: lapack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mpi[romio?]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- examples
+- mpi
+- openmp
+- romio
+- static-libs
+- threads
+version: "2.2"

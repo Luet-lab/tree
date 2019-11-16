@@ -1,0 +1,28 @@
+State: ""
+category: media-libs
+conflicts: []
+name: quvi
+requires:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.18.0
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: lua
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+- test
+- offensive
+- static-libs
+version: 0.2.19

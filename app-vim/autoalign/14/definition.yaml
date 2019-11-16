@@ -1,0 +1,25 @@
+State: ""
+category: app-vim
+conflicts: []
+name: autoalign
+requires:
+- State: ""
+  category: app-vim
+  conflicts: null
+  name: align
+  requires: null
+  set: false
+  use_flags: null
+  version: "30"
+- State: ""
+  category: app-vim
+  conflicts: null
+  name: cecutil
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+set: false
+use_flags:
+- ""
+version: "14"

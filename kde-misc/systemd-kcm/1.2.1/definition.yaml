@@ -1,0 +1,8 @@
+State: ""
+category: kde-misc
+conflicts: null
+name: systemd-kcm
+requires: null
+set: false
+use_flags: null
+version: 1.2.1

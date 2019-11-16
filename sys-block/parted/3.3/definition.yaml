@@ -1,0 +1,62 @@
+State: ""
+category: sys-block
+conflicts: []
+name: parted
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: lvm2
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.02.45
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.7-r7
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: e2fsprogs
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.27"
+set: false
+use_flags:
+- +debug
+- device-mapper
+- nls
+- readline
+- selinux
+- static-libs
+version: "3.3"

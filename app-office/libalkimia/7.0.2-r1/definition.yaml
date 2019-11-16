@@ -1,0 +1,26 @@
+State: ""
+category: app-office
+conflicts: []
+name: libalkimia
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: mpir
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- gmp
+version: 7.0.2-r1

@@ -1,0 +1,19 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: proj
+requires:
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- europe
+- static-libs
+- test
+version: 6.2.0

@@ -1,0 +1,32 @@
+State: ""
+category: dev-python
+conflicts: []
+name: SaltTesting
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: requests
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.2
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: six
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: psutil
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 2017.6.1

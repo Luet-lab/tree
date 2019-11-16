@@ -1,0 +1,32 @@
+State: ""
+category: dev-db
+conflicts: []
+name: pspg
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: postgresql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 2.5.4

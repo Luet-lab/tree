@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-fritzbox
+requires: null
+set: false
+use_flags: null
+version: 1.5.3-r1

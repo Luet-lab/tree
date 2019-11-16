@@ -1,0 +1,25 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: recoverjpeg
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: exif
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: imagemagick-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.2.3-r1

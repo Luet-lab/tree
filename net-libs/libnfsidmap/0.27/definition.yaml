@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libnfsidmap
+requires: null
+set: false
+use_flags: null
+version: "0.27"

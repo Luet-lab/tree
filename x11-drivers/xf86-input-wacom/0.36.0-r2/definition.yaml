@@ -1,0 +1,73 @@
+State: ""
+category: x11-drivers
+conflicts: []
+name: xf86-input-wacom
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXinerama
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libwacom
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.7"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXrandr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+version: 0.36.0-r2

@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: vacation
+requires: null
+set: false
+use_flags: null
+version: 1.2.7.0

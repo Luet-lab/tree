@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: pecl-spl_types
+requires: null
+set: false
+use_flags: null
+version: 0.4.0-r2

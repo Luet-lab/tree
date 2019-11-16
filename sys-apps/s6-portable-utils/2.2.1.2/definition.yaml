@@ -1,0 +1,20 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: s6-portable-utils
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: []
+  name: skalibs
+  requires: []
+  set: false
+  use_flags:
+  - doc
+  - ipv6
+  - static-libs
+  version: 2.7.0.0
+set: false
+use_flags:
+- static
+version: 2.2.1.2

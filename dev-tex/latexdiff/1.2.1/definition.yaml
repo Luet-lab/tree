@@ -1,0 +1,41 @@
+State: ""
+category: dev-tex
+conflicts: []
+name: latexdiff
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.8"
+- State: ""
+  category: virtual
+  conflicts: null
+  name: latex-base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-plaingeneric
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Algorithm-Diff
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 1.2.1

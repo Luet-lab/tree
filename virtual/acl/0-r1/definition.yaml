@@ -1,0 +1,25 @@
+State: ""
+category: virtual
+conflicts: []
+name: acl
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: acl[static-libs?]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-freebsd
+  conflicts: null
+  name: freebsd-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+version: 0-r1

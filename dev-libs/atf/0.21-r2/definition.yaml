@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: atf
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.21-r2

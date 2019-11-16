@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: null
+name: bladeenc
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.94.2-r1

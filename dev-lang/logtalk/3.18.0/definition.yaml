@@ -1,0 +1,8 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: logtalk
+requires: null
+set: false
+use_flags: null
+version: 3.18.0

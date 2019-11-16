@@ -1,0 +1,76 @@
+State: ""
+category: sci-misc
+conflicts: []
+name: tango
+requires:
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: mariadb-connector-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: mysql-connector-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: mariadb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jdk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: zeromq
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: omniORB
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +dbserver
+- java
+- +mariadb
+- +zeromq
+version: 9.2.5a

@@ -1,0 +1,9 @@
+State: ""
+category: app-benchmarks
+conflicts: null
+name: forkbomb
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.4-r1

@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: libidn2
+requires: null
+set: false
+use_flags: null
+version: "99999"

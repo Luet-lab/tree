@@ -1,0 +1,25 @@
+State: ""
+category: app-text
+conflicts: []
+name: txt2man
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gawk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.6.0

@@ -1,0 +1,9 @@
+State: ""
+category: sys-devel
+conflicts: null
+name: automake-wrapper
+requires: null
+set: false
+use_flags:
+- ""
+version: "11"

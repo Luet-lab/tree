@@ -1,0 +1,8 @@
+State: ""
+category: net-proxy
+conflicts: null
+name: haproxy
+requires: null
+set: false
+use_flags: null
+version: 1.9.12

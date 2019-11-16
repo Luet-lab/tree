@@ -1,0 +1,42 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: sslsplit
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: fts-standalone
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libevent
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libnet
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- elibc_musl
+- test
+version: 0.5.4

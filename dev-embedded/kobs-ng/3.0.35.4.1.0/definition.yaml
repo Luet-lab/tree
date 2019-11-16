@@ -1,0 +1,8 @@
+State: ""
+category: dev-embedded
+conflicts: null
+name: kobs-ng
+requires: null
+set: false
+use_flags: null
+version: 3.0.35.4.1.0

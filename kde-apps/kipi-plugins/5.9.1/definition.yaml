@@ -1,0 +1,28 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kipi-plugins
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libmediawiki
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libkvkontakte
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- flashexport
+- mediawiki
+- +remotestorage
+- vkontakte
+version: 5.9.1

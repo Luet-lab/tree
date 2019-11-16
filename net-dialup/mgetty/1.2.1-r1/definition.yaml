@@ -1,0 +1,8 @@
+State: ""
+category: net-dialup
+conflicts: null
+name: mgetty
+requires: null
+set: false
+use_flags: null
+version: 1.2.1-r1

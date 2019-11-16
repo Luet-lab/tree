@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libkudzu
+requires: null
+set: false
+use_flags: null
+version: 1.2.57.1

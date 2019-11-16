@@ -1,0 +1,8 @@
+State: ""
+category: net-im
+conflicts: null
+name: poezio
+requires: null
+set: false
+use_flags: null
+version: "9999"

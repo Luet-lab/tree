@@ -1,0 +1,59 @@
+State: ""
+category: x11-wm
+conflicts: []
+name: herbstluftwm
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.24"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXinerama
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: zsh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+- xinerama
+- zsh-completion
+version: 0.7.0

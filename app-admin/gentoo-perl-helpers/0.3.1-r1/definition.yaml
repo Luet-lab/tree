@@ -1,0 +1,25 @@
+State: ""
+category: app-admin
+conflicts: []
+name: gentoo-perl-helpers
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-portage
+  conflicts: null
+  name: portage-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.60"
+set: false
+use_flags:
+- ""
+version: 0.3.1-r1

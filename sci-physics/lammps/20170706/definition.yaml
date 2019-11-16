@@ -1,0 +1,8 @@
+State: ""
+category: sci-physics
+conflicts: null
+name: lammps
+requires: null
+set: false
+use_flags: null
+version: "20170706"

@@ -1,0 +1,8 @@
+State: ""
+category: sys-devel
+conflicts: []
+name: gcc
+requires: []
+set: false
+use_flags: null
+version: 7.3.0-r3

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: glib-perl
+requires: null
+set: false
+use_flags: null
+version: 1.329.100

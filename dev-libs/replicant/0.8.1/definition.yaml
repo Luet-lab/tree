@@ -1,0 +1,57 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: replicant
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpo6
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.8"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libe
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.11"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: busybee
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.7"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: hyperleveldb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: glog
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: sparsehash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.8.1

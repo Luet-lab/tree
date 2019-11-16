@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: thunderbolt-software-user-space
+requires: null
+set: false
+use_flags: null
+version: 0.9.3

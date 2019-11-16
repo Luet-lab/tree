@@ -1,0 +1,26 @@
+State: ""
+category: net-libs
+conflicts: []
+name: libprotoident
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libtrace
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.0.1
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libflowmanager
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.0.0
+set: false
+use_flags:
+- static-libs
+- tools
+version: 2.0.13

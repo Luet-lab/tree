@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: null
+name: towitoko
+requires: null
+set: false
+use_flags:
+- moneyplex
+version: 2.0.7-r3

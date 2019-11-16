@@ -1,0 +1,41 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: chirp
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: suds
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyserial
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygtk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- radioreference
+version: "20190925"

@@ -1,0 +1,9 @@
+State: ""
+category: net-mail
+conflicts: null
+name: email
+requires: null
+set: false
+use_flags:
+- ""
+version: 3.1.3

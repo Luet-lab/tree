@@ -1,0 +1,58 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: android-file-transfer-linux
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: file
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- fuse
+- qt5
+version: "3.8"

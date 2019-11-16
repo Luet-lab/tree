@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: opencv
+requires: null
+set: false
+use_flags: null
+version: 3.4.1-r5

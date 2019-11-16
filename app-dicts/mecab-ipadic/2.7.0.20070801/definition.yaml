@@ -1,0 +1,9 @@
+State: ""
+category: app-dicts
+conflicts: null
+name: mecab-ipadic
+requires: null
+set: false
+use_flags:
+- unicode
+version: 2.7.0.20070801

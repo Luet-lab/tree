@@ -1,0 +1,25 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: keylookup
+requires:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: gnupg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "2.2"

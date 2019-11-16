@@ -1,0 +1,25 @@
+State: ""
+category: app-text
+conflicts: []
+name: nfoview
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygobject
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: terminus-font
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.27"

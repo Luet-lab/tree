@@ -1,0 +1,10 @@
+State: ""
+category: dev-python
+conflicts: []
+name: sip
+requires: []
+set: false
+use_flags:
+- debug
+- doc
+version: 4.19.13

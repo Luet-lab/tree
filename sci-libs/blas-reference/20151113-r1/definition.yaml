@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: blas-reference
+requires: null
+set: false
+use_flags: null
+version: 20151113-r1

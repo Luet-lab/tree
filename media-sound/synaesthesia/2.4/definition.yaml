@@ -1,0 +1,42 @@
+State: ""
+category: media-sound
+conflicts: []
+name: synaesthesia
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.2"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: svgalib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.3
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libSM
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- sdl
+- svga
+version: "2.4"

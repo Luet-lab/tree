@@ -1,0 +1,8 @@
+State: ""
+category: www-servers
+conflicts: null
+name: servefile
+requires: null
+set: false
+use_flags: null
+version: 0.4.4

@@ -1,0 +1,59 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: <dev-libs
+  conflicts: null
+  name: libbsd
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.3-r1
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: keyutils
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.5.9-r4
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: attr
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.47-r2
+- State: ""
+  category: <dev-libs
+  conflicts: null
+  name: libaio
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.109-r2
+name: man-pages
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: man
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+- ""
+- l10n_da
+- l10n_de
+- l10n_fr
+- l10n_it
+- l10n_ja
+- l10n_nl
+- l10n_pl
+- l10n_ru
+- l10n_zh-CN
+version: "5.02"

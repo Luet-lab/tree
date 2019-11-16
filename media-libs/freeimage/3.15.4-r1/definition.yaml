@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: freeimage
+requires: null
+set: false
+use_flags: null
+version: 3.15.4-r1

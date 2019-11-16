@@ -1,0 +1,8 @@
+State: ""
+category: net-im
+conflicts: null
+name: libcommuni
+requires: null
+set: false
+use_flags: null
+version: 3.5.0_p20180116

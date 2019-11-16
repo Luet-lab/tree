@@ -1,0 +1,9 @@
+State: ""
+category: sci-biology
+conflicts: null
+name: clustalw
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.1-r1

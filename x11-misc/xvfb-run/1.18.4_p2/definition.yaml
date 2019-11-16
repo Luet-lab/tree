@@ -1,0 +1,25 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: xvfb-run
+requires:
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: xauth
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.18.4_p2

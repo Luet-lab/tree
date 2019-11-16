@@ -1,0 +1,16 @@
+State: ""
+category: media-sound
+conflicts: []
+name: icecream
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "1.3"

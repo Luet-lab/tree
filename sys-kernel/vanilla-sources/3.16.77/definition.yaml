@@ -1,0 +1,8 @@
+State: ""
+category: sys-kernel
+conflicts: null
+name: vanilla-sources
+requires: null
+set: false
+use_flags: null
+version: 3.16.77

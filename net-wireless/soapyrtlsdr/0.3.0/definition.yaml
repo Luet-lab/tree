@@ -1,0 +1,24 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: soapyrtlsdr
+requires:
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: soapysdr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: rtl-sdr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.3.0

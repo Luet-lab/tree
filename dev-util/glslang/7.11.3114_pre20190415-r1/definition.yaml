@@ -1,0 +1,8 @@
+State: ""
+category: dev-util
+conflicts: null
+name: glslang
+requires: null
+set: false
+use_flags: null
+version: 7.11.3114_pre20190415-r1

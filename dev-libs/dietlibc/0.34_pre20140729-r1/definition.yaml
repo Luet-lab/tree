@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: dietlibc
+requires: null
+set: false
+use_flags: null
+version: 0.34_pre20140729-r1

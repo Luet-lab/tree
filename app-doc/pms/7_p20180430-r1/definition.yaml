@@ -1,0 +1,11 @@
+State: ""
+category: app-doc
+conflicts: null
+name: pms
+requires: null
+set: false
+use_flags:
+- binary
+- html
+- twoside
+version: 7_p20180430-r1

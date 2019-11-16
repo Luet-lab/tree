@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: webfuzzer
+requires: null
+set: false
+use_flags: null
+version: 0.2.0-r1

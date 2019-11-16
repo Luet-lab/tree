@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: rtl-entropy
+requires: null
+set: false
+use_flags: null
+version: 0.1.2_p20180118-r1

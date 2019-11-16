@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: python-x2go
+requires: null
+set: false
+use_flags: null
+version: 0.6.0.1

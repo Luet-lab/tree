@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libclc
+requires: null
+set: false
+use_flags:
+- video_cards_nvidia
+- video_cards_r600
+- video_cards_radeonsi
+version: 0.2.0_pre20190313

@@ -1,0 +1,8 @@
+State: ""
+category: net-irc
+conflicts: null
+name: quassel-irssi
+requires: null
+set: false
+use_flags: null
+version: 0_p20170107-r1

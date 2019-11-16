@@ -1,0 +1,57 @@
+State: ""
+category: dev-ros
+conflicts: []
+name: visp_camera_calibration
+requires:
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: geometry_msgs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: roscpp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: visp_bridge
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: ViSP
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: camera_calibration_parsers
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.11.1

@@ -1,0 +1,25 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: hg-git
+requires:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: mercurial
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.6"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: dulwich
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.7
+set: false
+use_flags:
+- ""
+version: 0.8.13_pre20190808

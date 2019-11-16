@@ -1,0 +1,9 @@
+State: ""
+category: sci-chemistry
+conflicts: null
+name: xds-bin
+requires: null
+set: false
+use_flags:
+- smp
+version: "20170930"

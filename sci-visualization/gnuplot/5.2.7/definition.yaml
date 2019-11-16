@@ -1,0 +1,194 @@
+State: ""
+category: sci-visualization
+conflicts: []
+name: gnuplot
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: gd
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.35-r3
+- State: ""
+  category: virtual
+  conflicts: null
+  name: latex-base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-tex
+  conflicts: null
+  name: pgf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtprintsupport
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libcaca
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXaw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-latexrecommended
+  requires: null
+  set: false
+  use_flags: null
+  version: 2008-r2
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: lua
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: libcerf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: wxGTK
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libggi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtnetwork
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: svgalib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- aqua
+- bitmap
+- cairo
+- compat
+- doc
+- examples
+- +gd
+- ggi
+- latex
+- libcaca
+- libcerf
+- lua
+- qt5
+- readline
+- regis
+- svga
+- wxwidgets
+- X
+version: 5.2.7

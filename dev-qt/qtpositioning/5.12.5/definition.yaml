@@ -1,0 +1,8 @@
+State: ""
+category: dev-qt
+conflicts: null
+name: qtpositioning
+requires: null
+set: false
+use_flags: null
+version: 5.12.5

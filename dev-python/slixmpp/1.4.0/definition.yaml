@@ -1,0 +1,33 @@
+State: ""
+category: dev-python
+conflicts: []
+name: slixmpp
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyasn1
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: aiodns
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyasn1-modules
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 1.4.0

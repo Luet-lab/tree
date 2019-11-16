@@ -1,0 +1,46 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: yatebts
+requires:
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: bladerf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: uhd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: yate
+  requires: null
+  set: false
+  use_flags: null
+  version: 6.0.0
+set: false
+use_flags:
+- rad1
+- usrp1
+- uhd
+- +bladerf
+- cpu_flags_x86_sse3
+- cpu_flags_x86_sse4_1
+version: 6.0.0-r1

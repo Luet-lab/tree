@@ -1,0 +1,9 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: iucode_tool
+requires: null
+set: false
+use_flags:
+- ""
+version: "2.3"

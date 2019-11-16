@@ -1,0 +1,128 @@
+State: ""
+category: media-video
+conflicts: []
+name: h264enc
+requires:
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: time
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: faac
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: aacplusenc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: lame
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: mkvtoolnix
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: gpac
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.4.5
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: ogmtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: vorbis-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: mplayer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: bc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: lsdvd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: flac
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- aac
+- dvd
+- flac
+- lame
+- matroska
+- mp4
+- ogm
+- vorbis
+version: 10.4.7

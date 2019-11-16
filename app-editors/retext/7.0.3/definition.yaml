@@ -1,0 +1,65 @@
+State: ""
+category: app-editors
+conflicts: []
+name: retext
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: chardet
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.3"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: docutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: markdown
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: markups
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.0"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygments
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: PyQt5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyenchant
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +spell
+version: 7.0.3

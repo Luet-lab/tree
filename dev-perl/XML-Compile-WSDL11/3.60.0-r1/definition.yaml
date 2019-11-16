@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: XML-Compile-WSDL11
+requires: null
+set: false
+use_flags: null
+version: 3.60.0-r1

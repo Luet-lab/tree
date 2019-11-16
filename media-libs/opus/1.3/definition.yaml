@@ -1,0 +1,13 @@
+State: ""
+category: media-libs
+conflicts: null
+name: opus
+requires: null
+set: false
+use_flags:
+- custom-modes
+- doc
+- static-libs
+- cpu_flags_x86_sse
+- cpu_flags_arm_neon
+version: "1.3"

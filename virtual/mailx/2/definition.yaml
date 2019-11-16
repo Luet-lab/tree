@@ -1,0 +1,48 @@
+State: ""
+category: virtual
+conflicts: []
+name: mailx
+requires:
+- State: ""
+  category: mail-client
+  conflicts: null
+  name: mailx
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: mail-client
+  conflicts: null
+  name: s-nail
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: mail-client
+  conflicts: null
+  name: nail
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-freebsd
+  conflicts: null
+  name: freebsd-ubin )
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: "|| (\tnet-mail"
+  conflicts: null
+  name: mailutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "2"

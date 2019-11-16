@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: seahorse
+requires: null
+set: false
+use_flags: null
+version: 3.32.2

@@ -1,0 +1,88 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: libsemanage
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: []
+  name: libsepol
+  requires: []
+  set: false
+  use_flags:
+  - ""
+  version: "2.9"
+- State: ""
+  category: sys-libs
+  conflicts: []
+  name: libselinux
+  requires:
+  - State: ""
+    category: dev-lang
+    conflicts: null
+    name: ruby
+    requires: null
+    set: false
+    use_flags: null
+    version: ""
+  - State: ""
+    category: sys-libs
+    conflicts: null
+    name: fts-standalone
+    requires: null
+    set: false
+    use_flags: null
+    version: ""
+  - State: ""
+    category: sys-libs
+    conflicts: null
+    name: libsepol
+    requires: null
+    set: false
+    use_flags: null
+    version: "2.9"
+  - State: ""
+    category: dev-libs
+    conflicts: null
+    name: libpcre
+    requires: null
+    set: false
+    use_flags: null
+    version: 8.33-r1
+  - State: ""
+    category: dev-libs
+    conflicts: null
+    name: libpcre2
+    requires: null
+    set: false
+    use_flags: null
+    version: ""
+  set: false
+  use_flags:
+  - pcre2
+  - python
+  - ruby
+  - static-libs
+  - ruby_targets_ruby24
+  - ruby_targets_ruby25
+  version: "2.9"
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: audit
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.2
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: ustr
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.4-r2
+set: false
+use_flags:
+- python
+version: "2.9"

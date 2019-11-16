@@ -1,0 +1,33 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: idesk-extras
+requires:
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: idesk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xdialog
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.37-r2

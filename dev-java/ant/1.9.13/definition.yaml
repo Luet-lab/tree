@@ -1,0 +1,202 @@
+State: ""
+category: dev-java
+conflicts:
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-tasks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-optional
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: ant
+requires:
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-bsf
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-javamail
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-jdepend
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-xalan2
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-bcel
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-commons-net
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-jsch
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-log4j
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-swing
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-junit
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-antlr
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-commons-logging
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-regexp
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-testutil
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-jmf
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-junit4
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-oro
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-apache-resolver
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-core
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: ant-jai
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.13
+set: false
+use_flags:
+- X
+- +antlr
+- +bcel
+- +bsf
+- +commonslogging
+- +commonsnet
+- jai
+- +javamail
+- +jdepend
+- "jmf\n\t+jsch"
+- +junit
+- +junit4
+- +log4j
+- +oro
+- +regexp
+- +resolver
+- swing
+- testutil
+version: 1.9.13

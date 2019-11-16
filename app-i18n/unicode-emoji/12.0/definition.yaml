@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: unicode-emoji
+requires: []
+set: false
+use_flags:
+- ""
+version: "12.0"

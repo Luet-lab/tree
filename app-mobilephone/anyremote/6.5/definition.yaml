@@ -1,0 +1,67 @@
+State: ""
+category: app-mobilephone
+conflicts: []
+name: anyremote
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dns
+  conflicts: null
+  name: avahi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXtst
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: bluez
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: dbus-glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- bluetooth
+- dbus
+- zeroconf
+version: "6.5"

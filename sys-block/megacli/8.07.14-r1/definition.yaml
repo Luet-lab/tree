@@ -1,0 +1,8 @@
+State: ""
+category: sys-block
+conflicts: null
+name: megacli
+requires: null
+set: false
+use_flags: null
+version: 8.07.14-r1

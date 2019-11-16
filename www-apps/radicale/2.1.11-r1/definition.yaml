@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: radicale
+requires: null
+set: false
+use_flags: null
+version: 2.1.11-r1

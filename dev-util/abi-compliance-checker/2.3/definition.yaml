@@ -1,0 +1,33 @@
+State: ""
+category: dev-util
+conflicts: []
+name: abi-compliance-checker
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: ctags
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: abi-dumper
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "2.3"

@@ -1,0 +1,8 @@
+State: ""
+category: app-i18n
+conflicts: null
+name: scim
+requires: null
+set: false
+use_flags: null
+version: 1.4.17

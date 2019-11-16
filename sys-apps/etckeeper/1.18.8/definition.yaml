@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: etckeeper
+requires: null
+set: false
+use_flags: null
+version: 1.18.8

@@ -1,0 +1,10 @@
+State: ""
+category: app-arch
+conflicts: []
+name: brotli
+requires: []
+set: false
+use_flags:
+- python
+- test
+version: 1.0.6

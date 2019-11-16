@@ -1,0 +1,83 @@
+State: ""
+category: x11-libs
+conflicts:
+- State: ""
+  category: sci-astronomy
+  conflicts: null
+  name: ast
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: libast
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: imlib2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-proto
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libICE
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libSM
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- imlib
+- cpu_flags_x86_mmx
+- pcre
+version: 0.7-r2

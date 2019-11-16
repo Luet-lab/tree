@@ -1,0 +1,10 @@
+State: ""
+category: sys-cluster
+conflicts: null
+name: legion
+requires: null
+set: false
+use_flags:
+- gasnet
+- +hwloc
+version: 17.05.0

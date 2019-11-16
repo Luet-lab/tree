@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: tensorflow
+requires: null
+set: false
+use_flags: null
+version: 1.14.0-r1

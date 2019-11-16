@@ -1,0 +1,8 @@
+State: ""
+category: sys-block
+conflicts: null
+name: hpacucli
+requires: null
+set: false
+use_flags: null
+version: 9.40.12.0

@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: mpeg2vidcodec
+requires: null
+set: false
+use_flags: null
+version: 12-r1

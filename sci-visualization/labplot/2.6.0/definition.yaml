@@ -1,0 +1,79 @@
+State: ""
+category: sci-visualization
+conflicts: []
+name: labplot
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: lz4
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gsl
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.15"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: fftw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: cfitsio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: hdf5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: libcerf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: netcdf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cantor
+- fftw
+- fits
+- hdf5
+- libcerf
+- netcdf
+- root
+version: 2.6.0

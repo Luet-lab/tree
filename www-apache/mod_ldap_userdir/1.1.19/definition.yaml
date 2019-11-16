@@ -1,0 +1,8 @@
+State: ""
+category: www-apache
+conflicts: null
+name: mod_ldap_userdir
+requires: null
+set: false
+use_flags: null
+version: 1.1.19

@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: protected_attributes
+requires: null
+set: false
+use_flags: null
+version: 1.1.4

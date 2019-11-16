@@ -1,0 +1,9 @@
+State: ""
+category: sec-policy
+conflicts: null
+name: selinux-dpkg
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.20180114-r1

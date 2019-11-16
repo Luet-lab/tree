@@ -1,0 +1,52 @@
+State: ""
+category: app-backup
+conflicts: []
+name: tsm
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: expat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: acl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jre
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.7"
+set: false
+use_flags:
+- acl
+- java
+- +tsm_cit
+- +tsm_hw
+version: 7.1.8.0

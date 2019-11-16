@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libudev-compat
+requires: null
+set: false
+use_flags: null
+version: 186-r1

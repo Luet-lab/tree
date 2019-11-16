@@ -1,0 +1,26 @@
+State: ""
+category: app-shells
+conflicts: []
+name: rc
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libedit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- libedit
+- readline
+version: 1.7.4-r1

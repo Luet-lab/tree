@@ -1,0 +1,50 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: s6-rc
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: []
+  name: execline
+  requires:
+  - State: ""
+    category: dev-libs
+    conflicts: []
+    name: skalibs
+    requires: []
+    set: false
+    use_flags:
+    - doc
+    - ipv6
+    - static-libs
+    version: 2.7.0.0
+  set: false
+  use_flags:
+  - static
+  - static-libs
+  version: 2.5.0.1
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: s6
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.7.2.0
+- State: ""
+  category: dev-libs
+  conflicts: []
+  name: skalibs
+  requires: []
+  set: false
+  use_flags:
+  - doc
+  - ipv6
+  - static-libs
+  version: 2.7.0.0
+set: false
+use_flags:
+- static
+- static-libs
+version: 0.4.1.0

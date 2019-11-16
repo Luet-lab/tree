@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-dvbhddevice
+requires: null
+set: false
+use_flags: null
+version: 2.1.6_p20141116-r1

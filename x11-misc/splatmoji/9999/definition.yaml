@@ -1,0 +1,40 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: splatmoji
+requires:
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: rofi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xdotool
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xsel
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "9999"

@@ -1,0 +1,48 @@
+State: ""
+category: app-shells
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.6.7_p1
+name: bash
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.2-r2
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.0"
+set: false
+use_flags:
+- afs
+- bashlogger
+- examples
+- mem-scramble
+- +net
+- nls
+- plugins
+- +readline
+version: 5.0_p9

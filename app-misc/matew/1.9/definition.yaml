@@ -1,0 +1,33 @@
+State: ""
+category: app-misc
+conflicts: []
+name: matew
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: imagemagick
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.9"

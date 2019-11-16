@@ -1,0 +1,25 @@
+State: ""
+category: app-misc
+conflicts: []
+name: joy2key
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: xwininfo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+version: 1.6.3-r1

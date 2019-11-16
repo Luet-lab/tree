@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: libcore
+requires: null
+set: false
+use_flags: null
+version: 2.1.1-r1

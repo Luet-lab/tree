@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: gnome-keyring-python
+requires: null
+set: false
+use_flags: null
+version: 2.32.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: app-editors
+conflicts: null
+name: emacs
+requires: null
+set: false
+use_flags: null
+version: 23.4-r18

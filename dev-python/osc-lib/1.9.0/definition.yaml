@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: osc-lib
+requires: null
+set: false
+use_flags: null
+version: 1.9.0

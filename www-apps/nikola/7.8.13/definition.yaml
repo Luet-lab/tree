@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: nikola
+requires: null
+set: false
+use_flags: null
+version: 7.8.13

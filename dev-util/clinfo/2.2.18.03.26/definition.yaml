@@ -1,0 +1,24 @@
+State: ""
+category: dev-util
+conflicts: []
+name: clinfo
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-eselect
+  conflicts: null
+  name: eselect-opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0-r4
+set: false
+use_flags: null
+version: 2.2.18.03.26

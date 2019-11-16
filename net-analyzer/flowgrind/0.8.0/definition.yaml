@@ -1,0 +1,44 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: flowgrind
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: xmlrpc-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- doc
+- gsl
+- pcap
+version: 0.8.0

@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: nitrocli
+requires: null
+set: false
+use_flags: null
+version: 0.2.4

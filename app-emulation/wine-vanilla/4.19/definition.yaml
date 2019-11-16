@@ -1,0 +1,519 @@
+State: ""
+category: app-emulation
+conflicts:
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: wine
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: wine-vanilla
+requires:
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: gsm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: vulkan-loader
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: wine-gecko
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: wine-mono
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: samba[netapi(+),]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libv4l
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: vkd3d
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXcomposite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: wine-desktop-common
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXfixes
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: mpg123
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.5.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openal
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: samba
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.0.25
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXxf86vm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXcursor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.2"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXinerama
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: "13"
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: sane-backends
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: gnutls
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-eselect
+  conflicts: null
+  name: eselect-wine
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.3"
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: XML-Simple
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: faudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: unixODBC
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: gstreamer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: dosbox
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.74_p20160629
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libgphoto2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: openldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: udisks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: rtkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libcapi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: krb5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: lcms
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxslt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-plugins
+  conflicts: null
+  name: gst-plugins-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-wine
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXrandr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-print
+  conflicts: null
+  name: cups
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fontconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: gettext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: glu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: pulseaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +abi_x86_32
+- +abi_x86_64
+- +alsa
+- capi
+- cups
+- custom-cflags
+- dos
+- elibc_glibc
+- +faudio
+- +fontconfig
+- +gecko
+- gphoto2
+- gsm
+- gssapi
+- gstreamer
+- +jpeg
+- kerberos
+- kernel_FreeBSD
+- +lcms
+- ldap
+- +mono
+- mp3
+- ncurses
+- netapi
+- nls
+- odbc
+- openal
+- opencl
+- +opengl
+- osmesa
+- oss
+- +perl
+- pcap
+- +png
+- prelink
+- pulseaudio
+- +realtime
+- +run-exes
+- samba
+- scanner
+- sdl
+- selinux
+- +ssl
+- test
+- +threads
+- +truetype
+- udev
+- +udisks
+- v4l
+- vkd3d
+- vulkan
+- +X
+- +xcomposite
+- xinerama
+- +xml
+version: "4.19"

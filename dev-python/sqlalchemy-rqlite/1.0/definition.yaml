@@ -1,0 +1,9 @@
+State: ""
+category: dev-python
+conflicts: null
+name: sqlalchemy-rqlite
+requires: null
+set: false
+use_flags:
+- test
+version: "1.0"

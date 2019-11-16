@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: dpkt
+requires: null
+set: false
+use_flags: null
+version: 1.8.8

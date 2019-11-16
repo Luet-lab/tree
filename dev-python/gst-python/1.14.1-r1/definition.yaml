@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: gst-python
+requires: null
+set: false
+use_flags: null
+version: 1.14.1-r1

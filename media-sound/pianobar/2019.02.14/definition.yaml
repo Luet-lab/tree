@@ -1,0 +1,58 @@
+State: ""
+category: media-sound
+conflicts: []
+name: pianobar
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libao
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: libav
+  requires: null
+  set: false
+  use_flags: null
+  version: "12"
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.1"
+set: false
+use_flags:
+- libav
+- static-libs
+version: 2019.02.14

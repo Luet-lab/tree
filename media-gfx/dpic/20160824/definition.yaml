@@ -1,0 +1,9 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: dpic
+requires: []
+set: false
+use_flags:
+- examples
+version: "20160824"

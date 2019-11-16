@@ -1,0 +1,25 @@
+State: ""
+category: media-radio
+conflicts: []
+name: dxcc
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Tk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- tk
+version: "20190309"

@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libdbusmenu
+requires: null
+set: false
+use_flags: null
+version: 16.04.0

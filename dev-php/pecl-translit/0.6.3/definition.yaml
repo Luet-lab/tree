@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: pecl-translit
+requires: null
+set: false
+use_flags: null
+version: 0.6.3

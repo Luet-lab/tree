@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: sgb
+requires: null
+set: false
+use_flags:
+- ""
+version: 20030623-r1

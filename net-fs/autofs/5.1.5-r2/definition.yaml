@@ -1,0 +1,8 @@
+State: ""
+category: net-fs
+conflicts: null
+name: autofs
+requires: null
+set: false
+use_flags: null
+version: 5.1.5-r2

@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: fbpanel
+requires: null
+set: false
+use_flags: null
+version: 7.0-r1

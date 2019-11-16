@@ -1,0 +1,9 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: ivtv-firmware
+requires: null
+set: false
+use_flags:
+- ""
+version: 20080701-r1

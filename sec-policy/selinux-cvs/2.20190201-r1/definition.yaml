@@ -1,0 +1,25 @@
+State: ""
+category: sec-policy
+conflicts: []
+name: selinux-cvs
+requires:
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-inetd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-apache
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.20190201-r1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: SNMP_Session
+requires: null
+set: false
+use_flags: null
+version: 1.13-r2

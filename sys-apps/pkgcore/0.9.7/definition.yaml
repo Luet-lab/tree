@@ -1,0 +1,18 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: pkgcore
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: snakeoil
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.3
+set: false
+use_flags:
+- doc
+- test
+version: 0.9.7

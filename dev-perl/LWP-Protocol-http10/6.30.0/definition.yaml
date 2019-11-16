@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: LWP-Protocol-http10
+requires: null
+set: false
+use_flags: null
+version: 6.30.0

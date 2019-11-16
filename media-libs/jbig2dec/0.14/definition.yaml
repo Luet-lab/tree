@@ -1,0 +1,19 @@
+State: ""
+category: media-libs
+conflicts: []
+name: jbig2dec
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- png
+- static-libs
+- test
+version: "0.14"

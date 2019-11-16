@@ -1,0 +1,9 @@
+State: ""
+category: sys-devel
+conflicts: null
+name: gnuconfig
+requires: null
+set: false
+use_flags:
+- ""
+version: "20190804"

@@ -1,0 +1,8 @@
+State: ""
+category: dev-erlang
+conflicts: null
+name: stun
+requires: null
+set: false
+use_flags: null
+version: 1.0.29

@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: HTTP-Tiny
+requires: null
+set: false
+use_flags: null
+version: 0.43.0

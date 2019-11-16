@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: ffmpegthumbnailer
+requires: null
+set: false
+use_flags: null
+version: 2.2.0-r1

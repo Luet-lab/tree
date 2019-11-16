@@ -1,0 +1,8 @@
+State: ""
+category: games-emulation
+conflicts: null
+name: pcsxr
+requires: null
+set: false
+use_flags: null
+version: 1.9.94-r2

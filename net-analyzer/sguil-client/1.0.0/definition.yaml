@@ -1,0 +1,81 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: sguil-client
+requires:
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: itcl
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.2"
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: tclx
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.3"
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: itk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: tls
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.1
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tcl
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.3"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tk
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.3"
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: iwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: tcllib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-analyzer
+  conflicts: null
+  name: wireshark
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ssl
+version: 1.0.0

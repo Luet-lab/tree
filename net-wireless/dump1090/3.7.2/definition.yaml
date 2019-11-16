@@ -1,0 +1,42 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: dump1090
+requires:
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: bladerf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: rtl-sdr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- bladerf
+- +rtlsdr
+version: 3.7.2

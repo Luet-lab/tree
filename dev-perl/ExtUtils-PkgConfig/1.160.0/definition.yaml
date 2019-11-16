@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: ExtUtils-PkgConfig
+requires: null
+set: false
+use_flags: null
+version: 1.160.0

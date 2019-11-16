@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libmediawiki
+requires: null
+set: false
+use_flags: null
+version: 5.37.0-r1

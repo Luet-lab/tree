@@ -1,0 +1,76 @@
+State: ""
+category: sys-kernel
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.9
+name: genkernel
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux[static-libs(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: linux-firmware
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: e2fsprogs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: cryptsetup
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: cpio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: pax-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.2
+set: false
+use_flags:
+- cryptsetup
+- ibm
+- +firmware
+- selinux
+version: 3.5.3.3

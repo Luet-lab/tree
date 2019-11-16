@@ -1,0 +1,26 @@
+State: ""
+category: kde-apps
+conflicts:
+- State: ""
+  category: kde-misc
+  conflicts: null
+  name: yakuake
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: yakuake
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- absolute-position
+- X
+version: 3.0.5-r1

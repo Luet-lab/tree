@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Log-Dispatch
+requires: null
+set: false
+use_flags: null
+version: 2.580.0

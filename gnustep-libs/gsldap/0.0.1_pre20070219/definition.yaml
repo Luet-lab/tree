@@ -1,0 +1,8 @@
+State: ""
+category: gnustep-libs
+conflicts: null
+name: gsldap
+requires: null
+set: false
+use_flags: null
+version: 0.0.1_pre20070219

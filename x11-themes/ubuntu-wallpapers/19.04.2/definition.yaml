@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: ubuntu-wallpapers
+requires: []
+set: false
+use_flags:
+- ""
+version: 19.04.2

@@ -1,0 +1,8 @@
+State: ""
+category: gnustep-apps
+conflicts: null
+name: cdplayer
+requires: null
+set: false
+use_flags: null
+version: 0.6.0

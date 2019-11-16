@@ -1,0 +1,9 @@
+State: ""
+category: app-shells
+conflicts: null
+name: fzy
+requires: null
+set: false
+use_flags:
+- test
+version: "1.0"

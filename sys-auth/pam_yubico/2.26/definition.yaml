@@ -1,0 +1,50 @@
+State: ""
+category: sys-auth
+conflicts: []
+name: pam_yubico
+requires:
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: libyubikey
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: ykclient
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.15"
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: ykpers
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: openldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ldap
+- test
+version: "2.26"

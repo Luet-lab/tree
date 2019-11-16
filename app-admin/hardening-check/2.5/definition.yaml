@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: []
+name: hardening-check
+requires: []
+set: false
+use_flags:
+- ""
+version: "2.5"

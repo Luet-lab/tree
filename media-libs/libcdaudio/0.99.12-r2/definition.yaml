@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libcdaudio
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.99.12-r2

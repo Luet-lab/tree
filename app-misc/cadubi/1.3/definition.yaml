@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: null
+name: cadubi
+requires: null
+set: false
+use_flags:
+- ""
+version: "1.3"

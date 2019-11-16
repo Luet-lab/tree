@@ -1,0 +1,25 @@
+State: ""
+category: sys-block
+conflicts: []
+name: endpoint
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libraw1394
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.9"
+set: false
+use_flags:
+- ""
+version: 0.1.0-r1

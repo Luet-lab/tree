@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: nanoc
+requires: null
+set: false
+use_flags: null
+version: 4.11.12

@@ -1,0 +1,33 @@
+State: ""
+category: net-im
+conflicts: []
+name: bitlbee-facebook
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-im
+  conflicts: null
+  name: bitlbee
+  requires: null
+  set: false
+  use_flags: null
+  version: "3"
+set: false
+use_flags:
+- ""
+version: 1.1.2

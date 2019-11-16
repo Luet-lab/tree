@@ -1,0 +1,61 @@
+State: ""
+category: gui-apps
+conflicts:
+- State: ""
+  category: <=gui-libs
+  conflicts: null
+  name: sway-1.0_beta2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: swaylock
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxkbcommon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- fish-completion
+- +gdk-pixbuf
+- +man
+- +pam
+- zsh-completion
+version: "1.3"

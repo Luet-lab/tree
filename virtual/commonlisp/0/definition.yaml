@@ -1,0 +1,64 @@
+State: ""
+category: virtual
+conflicts: []
+name: commonlisp
+requires:
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: abcl )
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: '|| ( dev-lisp'
+  conflicts: null
+  name: sbcl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: clisp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: clozurecl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: cmucl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: ecls
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lisp
+  conflicts: null
+  name: gcl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "0"

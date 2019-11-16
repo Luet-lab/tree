@@ -1,0 +1,25 @@
+State: ""
+category: kde-misc
+conflicts: []
+name: krusader
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: acl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.7.2

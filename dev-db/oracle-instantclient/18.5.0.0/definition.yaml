@@ -1,0 +1,54 @@
+State: ""
+category: dev-db
+conflicts:
+- State: ""
+  category: <dev-db
+  conflicts: null
+  name: oracle-instantclient-jdbc
+  requires: null
+  set: false
+  use_flags: null
+  version: "12"
+- State: ""
+  category: <dev-db
+  conflicts: null
+  name: oracle-instantclient-sqlplus
+  requires: null
+  set: false
+  use_flags: null
+  version: "12"
+- State: ""
+  category: <dev-db
+  conflicts: null
+  name: oracle-instantclient-basic
+  requires: null
+  set: false
+  use_flags: null
+  version: "12"
+- State: ""
+  category: <dev-db
+  conflicts: null
+  name: oracle-instantclient-odbc
+  requires: null
+  set: false
+  use_flags: null
+  version: "12"
+name: oracle-instantclient
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libaio
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.109-r5
+set: false
+use_flags:
+- jdbc
+- odbc
+- precomp
+- +sdk
+- +sqlplus
+- tools
+version: 18.5.0.0

@@ -1,0 +1,8 @@
+State: ""
+category: app-admin
+conflicts: null
+name: supervisor
+requires: null
+set: false
+use_flags: null
+version: 3.1.4

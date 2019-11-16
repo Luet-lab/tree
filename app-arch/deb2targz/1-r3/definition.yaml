@@ -1,0 +1,16 @@
+State: ""
+category: app-arch
+conflicts: []
+name: deb2targz
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1-r3

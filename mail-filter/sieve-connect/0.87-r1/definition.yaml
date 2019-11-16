@@ -1,0 +1,72 @@
+State: ""
+category: mail-filter
+conflicts: []
+name: sieve-connect
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: TermReadKey
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Term-ReadLine-Gnu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5"
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Authen-SASL
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.11"
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: IO-Socket-INET6
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: IO-Socket-SSL
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.97"
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Net-DNS
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Net-SSLeay
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.87-r1

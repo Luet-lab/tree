@@ -1,0 +1,37 @@
+State: ""
+category: sci-physics
+conflicts: []
+name: vgm
+requires:
+- State: ""
+  category: sci-physics
+  conflicts: null
+  name: geant
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.10.03
+- State: ""
+  category: sci-physics
+  conflicts: null
+  name: clhep
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-physics
+  conflicts: null
+  name: root
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+- +geant4
+- +root
+- test
+version: "4.5"

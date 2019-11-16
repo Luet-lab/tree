@@ -1,0 +1,1682 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kde-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: []
+  name: kde-apps-meta
+  requires:
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdegraphics-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kruler
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkipi
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: thumbnailers
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kamera
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdegraphics-mobipocket
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libksane
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcolorchooser
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkdcraw
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: spectacle
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkexiv2
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: okular
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: svgpart
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: gwenview
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kolourpaint
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - scanner
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdenetwork-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: zeroconf-ioslave
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dolphin-plugins-dropbox
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: []
+      name: plasma-telepathy-meta
+      requires:
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-contact-list
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-contact-runner
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-send-file
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-text-ui
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-accounts-kcm
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-approver
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-auth-handler
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-common-internals
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-desktop-applets
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-filetransfer-handler
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-kded-module
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      - State: ""
+        category: kde-apps
+        conflicts: null
+        name: ktp-call-ui
+        requires: null
+        set: false
+        use_flags: null
+        version: 19.04.3
+      set: false
+      use_flags:
+      - gstreamer
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdenetwork-filesharing
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kget
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: krdc
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kopete
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: krfb
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - dropbox
+    - +telepathy
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdeaccessibility-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmouth
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmag
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmousetool
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - ""
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdesdk-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdesdk-thumbnailers
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdesdk-kioslaves
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kde-dev-scripts
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kde-dev-utils
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kompare
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: poxml
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dolphin-plugins-mercurial
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kapptemplate
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kross-interpreters
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: lokalize
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: cervisia
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dolphin-plugins-subversion
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcachegrind
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dolphin-plugins-bazaar
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dolphin-plugins-git
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: umbrello
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkomparediff2
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - bazaar
+    - cvs
+    - git
+    - mercurial
+    - subversion
+    - +webkit
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdeadmin-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksystemlog
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcron
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - +cron
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: null
+    name: kdecore-meta
+    requires: null
+    set: false
+    use_flags: null
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdeedu-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdeedu-data
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kgeography
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kig
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: minuet
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: rocs
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: artikulate
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: blinken
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kalzium
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kbruch
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kqtquickcharts
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: marble
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: step
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: parley
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kanagram
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: klettres
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kturtle
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kwordquiz
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkeduvocdocument
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kalgebra
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: analitza
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: cantor
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: khangman
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kiten
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmplot
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ktouch
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - +webengine
+    - +webkit
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdegames-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: knavalbattle
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: knights
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kpat
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksnakeduel
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksquares
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ktuberling
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: palapeli
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: bomber
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kgoldrunner
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: konquest
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksirk
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: granatier
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmines
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kollision
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kreversi
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkmahjongg
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kajongg
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: bovo
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kblackbox
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kiriki
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kjumpingcube
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: klickety
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kspaceduel
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: picmi
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kbounce
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: killbots
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kbreakout
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmahjongg
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kolf
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kshisen
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: lskat
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kapman
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kblocks
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdiamond
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kfourinline
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kigo
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: klines
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: knetwalk
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: katomic
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkdegames
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksudoku
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kubrick
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - opengl
+    - python
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: []
+    name: kdemultimedia-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: k3b
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: dragon
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: juk
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdenlive
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kwave
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ffmpegthumbs
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kamoso
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmix
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkcddb
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: audiocd-kio
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkcompactdisc
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - +cdrom
+    - +ffmpeg
+    - gstreamer
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts: null
+    name: kdeutils-meta
+    requires: null
+    set: false
+    use_flags: null
+    version: 19.04.3
+  - State: ""
+    category: kde-apps
+    conflicts:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdepim-meta
+      requires: null
+      set: false
+      use_flags: null
+      version: ""
+    name: kdepim-meta
+    requires:
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-contacts
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kimap
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kitinerary
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-import-wizard
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: incidenceeditor
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: ksmtp
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-notes
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: calendarsupport
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kalarm
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kleopatra
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: eventviews
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: grantleetheme
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmailtransport
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmime
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libgravatar
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkdepim
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: mail-filter
+      conflicts: null
+      name: bogofilter
+      requires: null
+      set: false
+      use_flags: null
+      version: ""
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libktnef
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-calendar
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadiconsole
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcalutils
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: knotes
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kontactinterface
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: pimcommon
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: grantlee-editor
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkleo
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: mailcommon
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmbox
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libksieve
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: mbox-importer
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akregator
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kldap
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmail-account-wizard
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kontact
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: pim-data-exporter
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: mail-filter
+      conflicts: null
+      name: spamassassin
+      requires: null
+      set: false
+      use_flags: null
+      version: ""
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-mime
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcalcore
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdepim-addons
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: korganizer
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: libkgapi
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kpkpass
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kaddressbook
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kalarmcal
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kcontacts
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kmail
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kpimtextedit
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: app-antivirus
+      conflicts: null
+      name: clamav
+      requires: null
+      set: false
+      use_flags: null
+      version: ""
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: akonadi-search
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdepim-apps-libs
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kdepim-runtime
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: kidentitymanagement
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: konsolekalendar
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: messagelib
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: pim-sieve-editor
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: calendarjanitor
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    - State: ""
+      category: kde-apps
+      conflicts: null
+      name: mailimporter
+      requires: null
+      set: false
+      use_flags: null
+      version: 19.04.3
+    set: false
+    use_flags:
+    - bogofilter
+    - clamav
+    - spamassassin
+    version: 19.04.3
+  set: false
+  use_flags:
+  - accessibility
+  - pim
+  - sdk
+  version: 19.04.3
+- State: ""
+  category: kde-plasma
+  conflicts: null
+  name: plasma-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 19.04.3

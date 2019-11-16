@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: fcgi
+requires: null
+set: false
+use_flags: null
+version: 2.4.1_pre0910052249-r2

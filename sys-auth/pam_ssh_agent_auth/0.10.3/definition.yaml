@@ -1,0 +1,33 @@
+State: ""
+category: sys-auth
+conflicts: []
+name: pam_ssh_agent_auth
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: ssh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.10.3

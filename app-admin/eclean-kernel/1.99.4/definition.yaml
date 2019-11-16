@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: null
+name: eclean-kernel
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.99.4

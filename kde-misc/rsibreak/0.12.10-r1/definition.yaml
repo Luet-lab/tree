@@ -1,0 +1,9 @@
+State: ""
+category: kde-misc
+conflicts: []
+name: rsibreak
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.12.10-r1

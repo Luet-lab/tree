@@ -1,0 +1,33 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: 3dfm
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: glu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freeglut
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.0-r1

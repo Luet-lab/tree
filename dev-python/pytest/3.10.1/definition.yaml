@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: pytest
+requires: null
+set: false
+use_flags: null
+version: 3.10.1

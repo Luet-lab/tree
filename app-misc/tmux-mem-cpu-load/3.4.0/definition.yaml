@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: null
+name: tmux-mem-cpu-load
+requires: null
+set: false
+use_flags:
+- ""
+version: 3.4.0

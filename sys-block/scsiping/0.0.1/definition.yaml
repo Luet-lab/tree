@@ -1,0 +1,9 @@
+State: ""
+category: sys-block
+conflicts: []
+name: scsiping
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.0.1

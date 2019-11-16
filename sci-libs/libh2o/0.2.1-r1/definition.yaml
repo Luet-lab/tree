@@ -1,0 +1,10 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: libh2o
+requires: null
+set: false
+use_flags:
+- debug
+- static-libs
+version: 0.2.1-r1

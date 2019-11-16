@@ -1,0 +1,25 @@
+State: ""
+category: sec-policy
+conflicts: []
+name: selinux-djbdns
+requires:
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-daemontools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-ucspitcp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.20190201-r1

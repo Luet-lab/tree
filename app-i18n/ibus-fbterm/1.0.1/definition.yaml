@@ -1,0 +1,33 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: ibus-fbterm
+requires:
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: fbterm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: ibus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.0.1

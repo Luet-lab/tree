@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: citeproc-hs
+requires: null
+set: false
+use_flags: null
+version: 0.3.10-r1

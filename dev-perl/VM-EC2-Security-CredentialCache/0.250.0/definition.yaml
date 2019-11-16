@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: VM-EC2-Security-CredentialCache
+requires: null
+set: false
+use_flags: null
+version: 0.250.0

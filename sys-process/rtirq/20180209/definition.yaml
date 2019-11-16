@@ -1,0 +1,8 @@
+State: ""
+category: sys-process
+conflicts: null
+name: rtirq
+requires: null
+set: false
+use_flags: null
+version: "20180209"

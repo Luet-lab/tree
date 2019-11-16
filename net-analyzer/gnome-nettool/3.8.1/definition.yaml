@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: gnome-nettool
+requires: null
+set: false
+use_flags: null
+version: 3.8.1

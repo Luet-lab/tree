@@ -1,0 +1,41 @@
+State: ""
+category: x11-drivers
+conflicts: []
+name: xf86-video-ati
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm-2.4.89[video_cards_radeon]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libpciaccess
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.0
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- udev
+version: 19.0.1
