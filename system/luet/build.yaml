@@ -1,9 +1,12 @@
-image: golang
 prelude:
-- apt-get update
-- apt-get install git
+- equo up
+- equo i dev-lang/go
 - git clone https://github.com/mudler/luet
 steps:
 - cd luet && make build && mv luet /luet
 includes:
 - ^\/luet
+requires:
+- category: "layer"
+  name: "build"
+  version: ">=0.1"
