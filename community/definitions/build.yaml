@@ -1,0 +1,14 @@
+prelude:
+- equo up
+- equo i mottainai-cli
+- git clone https://github.com/Sabayon/community-repositories
+- rm -rf community-repositories/**/*.yml
+- git clone https://github.com/Sabayon/sbi-tasks
+steps:
+- cd sbi-tasks && make scr-tasks
+includes:
+- .*yml
+requires:
+- category: "layer"
+  name: "build"
+  version: ">=0.1"
