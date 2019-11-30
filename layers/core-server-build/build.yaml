@@ -1,0 +1,6 @@
+steps:
+- bash profile.sh
+requires:
+- category: "layer"
+  name: "portage"
+  version: ">=0.1"
