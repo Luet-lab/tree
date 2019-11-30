@@ -1,0 +1,7 @@
+steps:
+- bash profile.sh
+- bash portage_config.sh
+requires:
+- category: "layer"
+  name: "portage"
+  version: ">=0.1"
