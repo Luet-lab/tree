@@ -12,7 +12,7 @@ deps:
 
 .PHONY: clean
 clean:
-	sudo rm -rf build/
+	sudo rm -rf build/ *.tar *.metadata.yaml
 
 .PHONY: build
 build: clean

@@ -12,4 +12,4 @@ before_install:
   - sudo cp -rfv luet /usr/bin/luet
   - curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64 && chmod +x container-diff-linux-amd64 && mkdir -p $HOME/bin && sudo mv container-diff-linux-amd64 /usr/bin/container-diff
 script:
-  - sudo luet build layer/portage-0.20191126 --privileged
+  - sudo make build
