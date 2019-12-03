@@ -19,3 +19,8 @@ clean:
 build: clean
 	mkdir -p $(ROOT_DIR)/build
 	sudo $(LUET) build `cat $(ROOT_DIR)/targets | xargs echo` --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
+
+.PHONY: build-all
+build-all: clean
+	mkdir -p $(ROOT_DIR)/build
+	sudo $(LUET) build --all --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
