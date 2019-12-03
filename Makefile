@@ -1,4 +1,5 @@
-BACKEND?=img
+BACKEND?=docker
+CONCURRENCY?=1
 LUET?=luet
 export ROOT_DIR:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 
@@ -17,4 +18,4 @@ clean:
 .PHONY: build
 build: clean
 	mkdir -p $(ROOT_DIR)/build
-	sudo $(LUET) build `cat $(ROOT_DIR)/targets | xargs echo` --destination $(ROOT_DIR)/build --backend $(BACKEND)
+	sudo $(LUET) build `cat $(ROOT_DIR)/targets | xargs echo` --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
