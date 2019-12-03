@@ -105,6 +105,5 @@ includes:
 - /root$|/root/.*
 - /run$|/run/.*
 - /sbin$|/sbin/.*
-- /sys$|/sys/.*
 - /usr$|/usr/.*
 - /var$|/var/.*
