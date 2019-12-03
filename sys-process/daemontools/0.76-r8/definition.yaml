@@ -1,0 +1,8 @@
+State: ""
+category: sys-process
+conflicts: null
+name: daemontools
+requires: null
+set: false
+use_flags: null
+version: 0.76-r8

@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: ufsutils
+requires: null
+set: false
+use_flags: null
+version: 8.2_p3

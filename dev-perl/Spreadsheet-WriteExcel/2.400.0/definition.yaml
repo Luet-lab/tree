@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Spreadsheet-WriteExcel
+requires: null
+set: false
+use_flags: null
+version: 2.400.0

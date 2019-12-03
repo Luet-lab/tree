@@ -1,0 +1,8 @@
+State: ""
+category: dev-db
+conflicts: null
+name: mysql++
+requires: null
+set: false
+use_flags: null
+version: 3.2.3-r1

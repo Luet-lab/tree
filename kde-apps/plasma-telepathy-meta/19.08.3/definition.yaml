@@ -1,0 +1,105 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: plasma-telepathy-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-auth-handler
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-common-internals
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-contact-list
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-contact-runner
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-send-file
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-call-ui
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-accounts-kcm
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-approver
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-desktop-applets
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-filetransfer-handler
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-kded-module
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ktp-text-ui
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+set: false
+use_flags:
+- gstreamer
+version: 19.08.3

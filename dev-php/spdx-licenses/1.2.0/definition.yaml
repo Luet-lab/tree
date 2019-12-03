@@ -1,0 +1,24 @@
+State: ""
+category: dev-php
+conflicts: []
+name: spdx-licenses
+requires:
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: fedora-autoloader
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.2.0

@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: kodi-pvr-iptvsimple
+requires: null
+set: false
+use_flags: null
+version: 3.8.7

@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: kodi-audioencoder-wav
+requires: null
+set: false
+use_flags: null
+version: "9999"

@@ -1,0 +1,25 @@
+State: ""
+category: games-action
+conflicts:
+- State: ""
+  category: sci-biology
+  conflicts: null
+  name: emboss
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: xbomber
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 101-r1

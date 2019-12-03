@@ -1,0 +1,13 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: newlib
+requires: null
+set: false
+use_flags:
+- nls
+- threads
+- unicode
+- headers-only
+- nano
+version: 3.1.0

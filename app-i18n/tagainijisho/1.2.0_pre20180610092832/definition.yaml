@@ -1,0 +1,69 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: tagainijisho
+requires:
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.12"
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtnetwork
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtprintsupport
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ar
+- cs
+- de
+- es
+- fa
+- fi
+- fr
+- hu
+- id
+- it
+- nb
+- nl
+- pl
+- pt
+- ru
+- sv
+- th
+- tr
+- uk
+- vi
+- zh
+version: 1.2.0_pre20180610092832

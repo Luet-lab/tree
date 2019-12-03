@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: vcr
+requires: null
+set: false
+use_flags: null
+version: 5.0.0

@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: backports-ssl-match-hostname
+requires: null
+set: false
+use_flags: null
+version: 3.5.0.1-r1

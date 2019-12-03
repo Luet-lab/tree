@@ -1,0 +1,8 @@
+State: ""
+category: mail-mta
+conflicts: null
+name: postfix
+requires: null
+set: false
+use_flags: null
+version: 3.4.5-r1

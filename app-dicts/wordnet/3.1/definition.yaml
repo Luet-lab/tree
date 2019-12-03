@@ -1,0 +1,8 @@
+State: ""
+category: app-dicts
+conflicts: null
+name: wordnet
+requires: null
+set: false
+use_flags: null
+version: "3.1"

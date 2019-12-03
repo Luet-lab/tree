@@ -1,0 +1,10 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: superdiag
+requires: null
+set: false
+use_flags:
+- iso
+- usb
+version: 1.2.0.20190711

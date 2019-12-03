@@ -1,0 +1,158 @@
+State: ""
+category: gui-wm
+conflicts: []
+name: sway
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "239"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-c
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.13"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gui-libs
+  conflicts: null
+  name: wlroots
+  requires: null
+  set: false
+  use_flags: null
+  version: "9999"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gui-apps
+  conflicts: null
+  name: swaybg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gui-apps
+  conflicts: null
+  name: swayidle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gui-apps
+  conflicts: null
+  name: swaylock
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxcb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xkeyboard-config
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxkbcommon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pixman
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: elogind
+  requires: null
+  set: false
+  use_flags: null
+  version: "239"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libinput
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- elogind
+- fish-completion
+- +man
+- +swaybar
+- +swaybg
+- +swayidle
+- +swaylock
+- +swaymsg
+- +swaynag
+- systemd
+- tray
+- wallpapers
+- X
+- zsh-completion
+version: "9999"

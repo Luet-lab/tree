@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: tegaki-zinnia-japanese
+requires: []
+set: false
+use_flags:
+- ""
+version: "0.3"

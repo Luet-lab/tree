@@ -1,0 +1,8 @@
+State: ""
+category: x11-drivers
+conflicts: null
+name: xf86-video-nv
+requires: null
+set: false
+use_flags: null
+version: 2.1.21

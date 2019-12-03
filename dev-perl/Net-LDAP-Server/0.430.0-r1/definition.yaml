@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Net-LDAP-Server
+requires: null
+set: false
+use_flags: null
+version: 0.430.0-r1

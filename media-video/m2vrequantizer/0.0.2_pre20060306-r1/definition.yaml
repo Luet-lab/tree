@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: m2vrequantizer
+requires: null
+set: false
+use_flags: null
+version: 0.0.2_pre20060306-r1

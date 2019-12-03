@@ -1,0 +1,16 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: sec
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.8.0
+set: false
+use_flags: null
+version: 2.8.1

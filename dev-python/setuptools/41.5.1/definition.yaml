@@ -1,0 +1,9 @@
+State: ""
+category: dev-python
+conflicts: []
+name: setuptools
+requires: []
+set: false
+use_flags:
+- test
+version: 41.5.1

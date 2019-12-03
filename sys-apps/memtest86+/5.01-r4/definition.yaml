@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: memtest86+
+requires: null
+set: false
+use_flags: null
+version: 5.01-r4

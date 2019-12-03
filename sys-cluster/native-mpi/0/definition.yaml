@@ -1,0 +1,9 @@
+State: ""
+category: sys-cluster
+conflicts: []
+name: native-mpi
+requires: []
+set: false
+use_flags:
+- ""
+version: "0"

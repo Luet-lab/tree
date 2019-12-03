@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: confix-wrapper
+requires: null
+set: false
+use_flags:
+- ""
+version: "1"

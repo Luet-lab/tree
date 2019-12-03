@@ -1,0 +1,8 @@
+State: ""
+category: sci-mathematics
+conflicts: null
+name: coq
+requires: null
+set: false
+use_flags: null
+version: 8.9.1-r1

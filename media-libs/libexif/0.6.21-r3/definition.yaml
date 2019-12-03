@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libexif
+requires: null
+set: false
+use_flags: null
+version: 0.6.21-r3

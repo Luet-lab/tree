@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-pvrinput
+requires: null
+set: false
+use_flags: null
+version: 2011.09.17

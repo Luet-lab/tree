@@ -1,0 +1,8 @@
+State: ""
+category: kde-misc
+conflicts: null
+name: kwebkitpart
+requires: null
+set: false
+use_flags: null
+version: 1.4.0_pre20190110

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Thread-SigMask
+requires: null
+set: false
+use_flags: null
+version: 0.4.0

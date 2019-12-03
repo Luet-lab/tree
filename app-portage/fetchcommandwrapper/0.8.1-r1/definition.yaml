@@ -1,0 +1,8 @@
+State: ""
+category: app-portage
+conflicts: null
+name: fetchcommandwrapper
+requires: null
+set: false
+use_flags: null
+version: 0.8.1-r1

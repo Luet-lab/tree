@@ -1,0 +1,8 @@
+State: ""
+category: x11-wm
+conflicts: null
+name: treewm
+requires: null
+set: false
+use_flags: null
+version: 0.4.5-r2

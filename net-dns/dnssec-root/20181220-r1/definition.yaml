@@ -1,0 +1,9 @@
+State: ""
+category: net-dns
+conflicts: null
+name: dnssec-root
+requires: null
+set: false
+use_flags:
+- ""
+version: 20181220-r1

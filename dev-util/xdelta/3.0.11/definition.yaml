@@ -1,0 +1,18 @@
+State: ""
+category: dev-util
+conflicts: []
+name: xdelta
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: xz-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+- lzma
+version: 3.0.11

@@ -1,0 +1,9 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: iwl6030-ucode
+requires: null
+set: false
+use_flags:
+- ""
+version: 18.168.6.1

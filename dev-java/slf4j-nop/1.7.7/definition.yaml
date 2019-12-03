@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: slf4j-nop
+requires: null
+set: false
+use_flags: null
+version: 1.7.7

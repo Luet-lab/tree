@@ -1,0 +1,8 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: tcc
+requires: null
+set: false
+use_flags: null
+version: 0.9.26-r3

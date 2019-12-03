@@ -1,0 +1,37 @@
+State: ""
+category: net-print
+conflicts: []
+name: kyocera-1x2x-mfp-driver
+requires:
+- State: ""
+  category: net-print
+  conflicts: null
+  name: cups
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +rastertokpsl-fix
+- +en
+- ar
+- cs
+- de
+- el
+- es
+- fr
+- he
+- hu
+- it
+- ko
+- pl
+- pt
+- ro
+- ru
+- th
+- tr
+- vi
+- zh-CN
+- zh-TW
+version: 1.1203-r1

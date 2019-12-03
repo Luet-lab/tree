@@ -1,0 +1,33 @@
+State: ""
+category: dev-python
+conflicts: []
+name: ipdbplugin
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: ipython
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: ipdb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: nose
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.4"

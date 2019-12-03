@@ -1,0 +1,9 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: coldfire
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.3.1

@@ -1,0 +1,25 @@
+State: ""
+category: virtual
+conflicts: []
+name: imap-c-client
+requires:
+- State: ""
+  category: net-mail
+  conflicts: null
+  name: uw-imap[ssl=] )
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: "|| (\tnet-libs"
+  conflicts: null
+  name: c-client[ssl=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ssl
+version: "1"

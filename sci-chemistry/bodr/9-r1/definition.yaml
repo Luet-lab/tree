@@ -1,0 +1,9 @@
+State: ""
+category: sci-chemistry
+conflicts: []
+name: bodr
+requires: []
+set: false
+use_flags:
+- ""
+version: 9-r1

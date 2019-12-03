@@ -1,0 +1,10 @@
+State: ""
+category: media-tv
+conflicts: []
+name: w_scan
+requires: []
+set: false
+use_flags:
+- doc
+- examples
+version: "20170107"

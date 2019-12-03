@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libcorkipset
+requires: null
+set: false
+use_flags: null
+version: 1.1.1.20150311_p8

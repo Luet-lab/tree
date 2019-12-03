@@ -1,0 +1,57 @@
+State: ""
+category: dev-php
+conflicts: []
+name: phpspec-prophecy
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.6"
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: fedora-autoloader
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: doctrine-instantiator
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: phpdocumentor-reflection-docblock
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: sebastian-comparator
+  requires: null
+  set: false
+  use_flags: null
+  version: "3"
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: sebastian-recursion-context
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+set: false
+use_flags:
+- ""
+version: 1.7.0

@@ -1,0 +1,163 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: baselayout
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1-r1
+- State: ""
+  category: <sys-process
+  conflicts: null
+  name: procps
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.3.9-r2
+- State: ""
+  category: <sys-fs
+  conflicts: null
+  name: udev-init-scripts
+  requires: null
+  set: false
+  use_flags: null
+  version: "27"
+- State: ""
+  category: <app-shells
+  conflicts: null
+  name: gentoo-zsh-completions
+  requires: null
+  set: false
+  use_flags: null
+  version: "20180228"
+- State: ""
+  category: <app-shells
+  conflicts: null
+  name: gentoo-bashcomp
+  requires: null
+  set: false
+  use_flags: null
+  version: "20180302"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sysvinit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: openrc
+requires:
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: psmisc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sysvinit-2.86-r6[selinux?]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: tmpfiles
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.20170204-r4
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: audit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: policycoreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-base-policy
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.20170204-r4
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: pambase
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- audit
+- bash
+- debug
+- ncurses
+- pam
+- newnet
+- prefix
+- +netifrc
+- selinux
+- "static-libs\n\tsysv-utils"
+- unicode
+version: 0.42.1

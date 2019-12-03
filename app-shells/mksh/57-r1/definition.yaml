@@ -1,0 +1,18 @@
+State: ""
+category: app-shells
+conflicts: []
+name: mksh
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: klibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static
+- test
+version: 57-r1

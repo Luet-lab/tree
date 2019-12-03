@@ -1,0 +1,65 @@
+State: ""
+category: app-misc
+conflicts: []
+name: neofetch
+requires:
+- State: ""
+  category: www-client
+  conflicts: null
+  name: w3m
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: xprop
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: xrandr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: xwininfo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: imagemagick
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: imlib2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+version: 6.0.0

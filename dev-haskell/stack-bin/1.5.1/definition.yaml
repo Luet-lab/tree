@@ -1,0 +1,33 @@
+State: ""
+category: dev-haskell
+conflicts:
+- State: ""
+  category: dev-haskell
+  conflicts: null
+  name: stack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: stack-bin
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- symlink
+version: 1.5.1

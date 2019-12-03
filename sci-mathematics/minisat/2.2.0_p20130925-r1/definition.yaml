@@ -1,0 +1,8 @@
+State: ""
+category: sci-mathematics
+conflicts: null
+name: minisat
+requires: null
+set: false
+use_flags: null
+version: 2.2.0_p20130925-r1

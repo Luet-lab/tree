@@ -1,0 +1,49 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: kismet-ubertooth
+requires:
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: kismet
+  requires: null
+  set: false
+  use_flags: null
+  version: 2011.03.2-r1
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: kismet
+  requires: null
+  set: false
+  use_flags: null
+  version: 2017.0.0
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: ubertooth
+  requires: null
+  set: false
+  use_flags: null
+  version: 2017.03.2
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libbtbb
+  requires: null
+  set: false
+  use_flags: null
+  version: 2017.03.2
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2017.03.2

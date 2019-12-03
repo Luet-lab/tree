@@ -1,0 +1,9 @@
+State: ""
+category: dev-embedded
+conflicts: null
+name: libdisasm
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.23"

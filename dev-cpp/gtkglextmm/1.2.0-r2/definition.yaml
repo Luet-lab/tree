@@ -1,0 +1,8 @@
+State: ""
+category: dev-cpp
+conflicts: null
+name: gtkglextmm
+requires: null
+set: false
+use_flags: null
+version: 1.2.0-r2

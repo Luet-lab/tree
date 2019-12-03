@@ -1,0 +1,8 @@
+State: ""
+category: sys-cluster
+conflicts: null
+name: pacemaker
+requires: null
+set: false
+use_flags: null
+version: 1.1.19-r1

@@ -1,0 +1,19 @@
+State: ""
+category: dev-php
+conflicts: []
+name: PHPMailer
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- idn
+- ssl
+version: 6.1.2

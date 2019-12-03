@@ -1,0 +1,9 @@
+State: ""
+category: x11-libs
+conflicts: []
+name: fox-wrapper
+requires: []
+set: false
+use_flags:
+- ""
+version: "2"

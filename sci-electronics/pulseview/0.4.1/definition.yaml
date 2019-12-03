@@ -1,0 +1,82 @@
+State: ""
+category: sci-electronics
+conflicts: []
+name: pulseview
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: libsigrok
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.1
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: libsigrokdecode
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.2
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.55"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.28.0
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: glibmm
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.28.0
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +decode
+- static
+version: 0.4.1

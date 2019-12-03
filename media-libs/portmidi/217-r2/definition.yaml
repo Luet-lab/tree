@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: portmidi
+requires: null
+set: false
+use_flags: null
+version: 217-r2

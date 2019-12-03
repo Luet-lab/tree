@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: usbutils
+requires: null
+set: false
+use_flags: null
+version: 010-r1

@@ -1,0 +1,56 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: nitrokey-app
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: libnitrokey
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.5"
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtconcurrent
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "1.4"

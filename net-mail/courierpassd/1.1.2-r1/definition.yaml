@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: courierpassd
+requires: null
+set: false
+use_flags: null
+version: 1.1.2-r1

@@ -1,0 +1,10 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: bcm2835
+requires: []
+set: false
+use_flags:
+- doc
+- examples
+version: "1.52"

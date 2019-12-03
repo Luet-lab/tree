@@ -1,0 +1,8 @@
+State: ""
+category: www-client
+conflicts: null
+name: vivaldi-snapshot
+requires: null
+set: false
+use_flags: null
+version: 2.9.1745.9_p1

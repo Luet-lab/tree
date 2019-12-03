@@ -1,0 +1,8 @@
+State: ""
+category: net-p2p
+conflicts: null
+name: pybitmessage
+requires: null
+set: false
+use_flags: null
+version: 0.6.3.2_p20180521

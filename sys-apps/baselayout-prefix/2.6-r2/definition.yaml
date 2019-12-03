@@ -1,0 +1,12 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: baselayout-prefix
+requires: null
+set: false
+use_flags:
+- build
+- kernel_FreeBSD
+- kernel_linux
+- +split-usr
+version: 2.6-r2

@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: userspace-rcu
+requires: null
+set: false
+use_flags:
+- static-libs
+- regression-test
+- test
+version: 0.11.1

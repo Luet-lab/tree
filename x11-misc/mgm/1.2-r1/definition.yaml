@@ -1,0 +1,25 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: mgm
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.6.1
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Tk
+  requires: null
+  set: false
+  use_flags: null
+  version: "800.024"
+set: false
+use_flags:
+- ""
+version: 1.2-r1

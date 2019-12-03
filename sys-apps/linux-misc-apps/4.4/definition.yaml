@@ -1,0 +1,42 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: sys-power
+  conflicts: null
+  name: pmtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: linux-misc-apps
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: hwids
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: tcp-wrappers
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+- tcpd
+version: "4.4"

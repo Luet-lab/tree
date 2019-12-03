@@ -1,0 +1,8 @@
+State: ""
+category: sys-kernel
+conflicts: null
+name: linux-firmware
+requires: null
+set: false
+use_flags: null
+version: "99999999"

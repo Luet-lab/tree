@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: cppi
+requires: null
+set: false
+use_flags:
+- nls
+version: "1.18"

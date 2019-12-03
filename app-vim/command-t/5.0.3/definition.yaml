@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: command-t
+requires: null
+set: false
+use_flags: null
+version: 5.0.3

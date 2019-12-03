@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: podlators
+requires: null
+set: false
+use_flags: null
+version: 2.5.3

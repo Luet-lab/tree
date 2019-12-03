@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: stunnel
+requires: null
+set: false
+use_flags: null
+version: "5.56"

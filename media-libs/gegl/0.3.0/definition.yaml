@@ -1,0 +1,196 @@
+State: ""
+category: media-libs
+conflicts: []
+name: gegl
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: lensfun
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.5
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libopenraw
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.0.9
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.18"
+- State: ""
+  category: media-video
+  conflicts: null
+  name: libav
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gobject-introspection
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.32"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: lcms
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.2"
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: librsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.14"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: umfpack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libwebp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.36"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openexr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libv4l
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: babl
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.12
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cairo
+- cpu_flags_x86_mmx
+- cpu_flags_x86_sse
+- debug
+- ffmpeg
+- +introspection
+- jpeg
+- lcms
+- lensfun
+- libav
+- openexr
+- png
+- raw
+- sdl
+- svg
+- test
+- umfpack
+- vala
+- v4l
+- webp
+version: 0.3.0

@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: uhd
+requires: null
+set: false
+use_flags: null
+version: 3.11.0.0

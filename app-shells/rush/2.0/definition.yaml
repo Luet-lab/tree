@@ -1,0 +1,9 @@
+State: ""
+category: app-shells
+conflicts: null
+name: rush
+requires: null
+set: false
+use_flags:
+- nls
+version: "2.0"

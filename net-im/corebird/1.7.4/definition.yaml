@@ -1,0 +1,8 @@
+State: ""
+category: net-im
+conflicts: null
+name: corebird
+requires: null
+set: false
+use_flags: null
+version: 1.7.4

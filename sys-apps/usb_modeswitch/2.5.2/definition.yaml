@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: usb_modeswitch
+requires: null
+set: false
+use_flags: null
+version: 2.5.2

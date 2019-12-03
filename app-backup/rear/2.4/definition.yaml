@@ -1,0 +1,123 @@
+State: ""
+category: app-backup
+conflicts: []
+name: rear
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: iproute2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sed
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: cifs-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dialup
+  conflicts: null
+  name: mingetty
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: lsb-release
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-block
+  conflicts: null
+  name: parted
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-boot
+  conflicts: null
+  name: syslinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: cdrtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: nfs-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gawk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- libressl
+- udev
+- samba
+version: "2.4"

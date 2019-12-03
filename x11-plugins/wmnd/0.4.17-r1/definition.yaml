@@ -1,0 +1,49 @@
+State: ""
+category: x11-plugins
+conflicts: []
+name: wmnd
+requires:
+- State: ""
+  category: net-analyzer
+  conflicts: null
+  name: net-snmp
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.2.1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- snmp
+version: 0.4.17-r1

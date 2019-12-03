@@ -1,0 +1,59 @@
+State: ""
+category: dev-util
+conflicts: []
+name: quilt
+requires:
+- State: ""
+  category: mail-mta
+  conflicts: null
+  name: sendmail
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: ed
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: getopt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.5"
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: graphviz
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: diffstat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- graphviz
+- elibc_Darwin
+- elibc_SunOS
+version: "9999"

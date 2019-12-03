@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: cpp_common
+requires: null
+set: false
+use_flags: null
+version: 0.6.7-r1

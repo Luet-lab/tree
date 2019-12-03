@@ -1,0 +1,8 @@
+State: ""
+category: dev-scheme
+conflicts: null
+name: chicken
+requires: null
+set: false
+use_flags: null
+version: 4.13.0-r1

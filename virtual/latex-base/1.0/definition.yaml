@@ -1,0 +1,32 @@
+State: ""
+category: virtual
+conflicts: []
+name: latex-base
+requires:
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-fontsrecommended
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-latexrecommended
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-fontutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "1.0"

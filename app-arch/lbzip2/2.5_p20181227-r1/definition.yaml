@@ -1,0 +1,18 @@
+State: ""
+category: app-arch
+conflicts:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: pbzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: lbzip2
+requires: []
+set: false
+use_flags:
+- debug
+- symlink
+version: 2.5_p20181227-r1

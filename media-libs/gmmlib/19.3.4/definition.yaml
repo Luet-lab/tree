@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: []
+name: gmmlib
+requires: []
+set: false
+use_flags:
+- ""
+version: 19.3.4

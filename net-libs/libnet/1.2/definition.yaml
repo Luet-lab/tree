@@ -1,0 +1,9 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libnet
+requires: null
+set: false
+use_flags:
+- static-libs
+version: "1.2"

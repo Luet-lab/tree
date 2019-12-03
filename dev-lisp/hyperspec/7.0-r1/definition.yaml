@@ -1,0 +1,9 @@
+State: ""
+category: dev-lisp
+conflicts: null
+name: hyperspec
+requires: null
+set: false
+use_flags:
+- ""
+version: 7.0-r1

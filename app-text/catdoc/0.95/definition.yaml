@@ -1,0 +1,9 @@
+State: ""
+category: app-text
+conflicts: null
+name: catdoc
+requires: null
+set: false
+use_flags:
+- tk
+version: "0.95"

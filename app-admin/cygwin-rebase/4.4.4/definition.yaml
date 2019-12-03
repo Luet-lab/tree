@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: []
+name: cygwin-rebase
+requires: []
+set: false
+use_flags:
+- ""
+version: 4.4.4

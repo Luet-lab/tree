@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: regex-compat-tdfa
+requires: null
+set: false
+use_flags: null
+version: 0.95.1.4

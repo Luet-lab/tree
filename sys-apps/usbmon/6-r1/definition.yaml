@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: usbmon
+requires: null
+set: false
+use_flags: null
+version: 6-r1

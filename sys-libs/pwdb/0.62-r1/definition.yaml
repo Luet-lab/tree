@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: pwdb
+requires: null
+set: false
+use_flags: null
+version: 0.62-r1

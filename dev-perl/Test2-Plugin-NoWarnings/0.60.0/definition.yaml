@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Test2-Plugin-NoWarnings
+requires: null
+set: false
+use_flags: null
+version: 0.60.0

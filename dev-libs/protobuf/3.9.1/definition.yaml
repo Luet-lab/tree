@@ -1,0 +1,29 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: protobuf
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: emacs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- emacs
+- examples
+- static-libs
+- test
+- zlib
+version: 3.9.1

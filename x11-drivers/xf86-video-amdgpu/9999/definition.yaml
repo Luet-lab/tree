@@ -1,0 +1,33 @@
+State: ""
+category: x11-drivers
+conflicts: []
+name: xf86-video-amdgpu
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm-2.4.89[video_cards_amdgpu]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- udev
+version: "9999"

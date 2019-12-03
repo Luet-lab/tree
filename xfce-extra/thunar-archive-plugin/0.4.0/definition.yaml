@@ -1,0 +1,8 @@
+State: ""
+category: xfce-extra
+conflicts: null
+name: thunar-archive-plugin
+requires: null
+set: false
+use_flags: null
+version: 0.4.0

@@ -1,0 +1,25 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: easy-rsa
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.6
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- libressl
+version: 3.0.4

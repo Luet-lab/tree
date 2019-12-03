@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: pecl-mongo
+requires: null
+set: false
+use_flags: null
+version: 1.6.14-r1

@@ -1,0 +1,42 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: neard
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.28"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libnl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.24
+set: false
+use_flags:
+- tools
+- systemd
+version: 0.15-r1

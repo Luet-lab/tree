@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: DBI-Shell
+requires: null
+set: false
+use_flags: null
+version: 11.950.0-r2

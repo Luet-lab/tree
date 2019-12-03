@@ -1,0 +1,9 @@
+State: ""
+category: www-misc
+conflicts: null
+name: wsmake
+requires: null
+set: false
+use_flags:
+- examples
+version: 0.6.4

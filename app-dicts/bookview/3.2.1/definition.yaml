@@ -1,0 +1,16 @@
+State: ""
+category: app-dicts
+conflicts: []
+name: bookview
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 3.2.1

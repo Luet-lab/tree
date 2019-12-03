@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: libdlo
+requires: null
+set: false
+use_flags: null
+version: 0.1.2-r1

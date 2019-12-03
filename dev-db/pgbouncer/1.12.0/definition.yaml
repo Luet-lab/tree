@@ -1,0 +1,8 @@
+State: ""
+category: dev-db
+conflicts: null
+name: pgbouncer
+requires: null
+set: false
+use_flags: null
+version: 1.12.0

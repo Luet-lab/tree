@@ -1,0 +1,40 @@
+State: ""
+category: x11-plugins
+conflicts: []
+name: wmsystemtray
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXfixes
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXmu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.4-r2

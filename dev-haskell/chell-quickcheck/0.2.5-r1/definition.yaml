@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: chell-quickcheck
+requires: null
+set: false
+use_flags: null
+version: 0.2.5-r1

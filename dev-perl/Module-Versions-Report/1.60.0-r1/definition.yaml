@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Module-Versions-Report
+requires: null
+set: false
+use_flags: null
+version: 1.60.0-r1

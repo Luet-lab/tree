@@ -1,0 +1,19 @@
+State: ""
+category: media-sound
+conflicts: []
+name: elisa
+requires:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: vlc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- mpris
+- semantic-desktop
+- vlc
+version: 0.4.2-r1

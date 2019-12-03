@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: []
+name: scrub
+requires: []
+set: false
+use_flags:
+- ""
+version: 2.6.1

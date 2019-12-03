@@ -1,0 +1,11 @@
+State: ""
+category: net-fs
+conflicts: []
+name: libnfs
+requires: []
+set: false
+use_flags:
+- examples
+- static-libs
+- utils
+version: 3.0.0

@@ -1,0 +1,25 @@
+State: ""
+category: dev-lang
+conflicts: []
+name: ispc
+requires:
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: clang
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.0"
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: llvm
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.0"
+set: false
+use_flags:
+- examples
+version: 1.9.2

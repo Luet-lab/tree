@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: Getopt-Long
+requires: null
+set: false
+use_flags: null
+version: 2.420.0

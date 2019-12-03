@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: websocket-client
+requires: null
+set: false
+use_flags: null
+version: 0.48.0

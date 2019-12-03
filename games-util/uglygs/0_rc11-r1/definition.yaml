@@ -1,0 +1,25 @@
+State: ""
+category: games-util
+conflicts: []
+name: uglygs
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-analyzer
+  conflicts: null
+  name: rrdtool
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0_rc11-r1

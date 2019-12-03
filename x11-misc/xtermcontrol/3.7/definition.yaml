@@ -1,0 +1,9 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: xtermcontrol
+requires: null
+set: false
+use_flags:
+- ""
+version: "3.7"

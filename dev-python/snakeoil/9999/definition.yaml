@@ -1,0 +1,9 @@
+State: ""
+category: dev-python
+conflicts: null
+name: snakeoil
+requires: null
+set: false
+use_flags:
+- test
+version: "9999"

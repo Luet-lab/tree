@@ -1,0 +1,9 @@
+State: ""
+category: net-misc
+conflicts: null
+name: npapi-sdk
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.27.2

@@ -1,0 +1,17 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: keystone
+requires: []
+set: false
+use_flags:
+- python
+- AArch64
+- ARM
+- Hexagon
+- Mips
+- PowerPC
+- Sparc
+- SystemZ
+- X86
+version: 0.9.1

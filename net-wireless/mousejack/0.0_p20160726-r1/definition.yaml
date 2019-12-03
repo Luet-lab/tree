@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: mousejack
+requires: null
+set: false
+use_flags: null
+version: 0.0_p20160726-r1

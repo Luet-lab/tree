@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: opencl-clang
+requires: null
+set: false
+use_flags: null
+version: 8.0.1_p20191001-r1

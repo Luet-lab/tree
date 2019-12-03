@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libdmtx
+requires: []
+set: false
+use_flags:
+- static-libs
+version: 0.7.4

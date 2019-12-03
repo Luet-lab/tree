@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: flask-paranoid
+requires: null
+set: false
+use_flags: null
+version: 0.2.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: net-nntp
+conflicts: null
+name: nzbget
+requires: null
+set: false
+use_flags: null
+version: "20.0"

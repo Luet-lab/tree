@@ -1,0 +1,28 @@
+State: ""
+category: app-text
+conflicts: []
+name: libstaroffice
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: librevenge
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- doc
+- tools
+- +zlib
+version: "9999"

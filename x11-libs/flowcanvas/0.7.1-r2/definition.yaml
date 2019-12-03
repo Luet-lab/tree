@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: flowcanvas
+requires: null
+set: false
+use_flags: null
+version: 0.7.1-r2

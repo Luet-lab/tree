@@ -1,0 +1,19 @@
+State: ""
+category: app-editors
+conflicts:
+- State: ""
+  category: '!<app-editors'
+  conflicts: null
+  name: gvim
+  requires: null
+  set: false
+  use_flags: null
+  version: 8.1.0648
+name: vim-core
+requires: []
+set: false
+use_flags:
+- nls
+- acl
+- minimal
+version: 8.1.1846

@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: libpst
+requires: null
+set: false
+use_flags: null
+version: 0.6.66-r2

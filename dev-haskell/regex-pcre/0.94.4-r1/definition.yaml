@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: regex-pcre
+requires: null
+set: false
+use_flags: null
+version: 0.94.4-r1

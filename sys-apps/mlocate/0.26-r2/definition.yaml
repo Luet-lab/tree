@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: mlocate
+requires: null
+set: false
+use_flags: null
+version: 0.26-r2

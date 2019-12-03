@@ -1,0 +1,9 @@
+State: ""
+category: app-doc
+conflicts: null
+name: devmanual
+requires: null
+set: false
+use_flags:
+- ""
+version: 0_pre20141116

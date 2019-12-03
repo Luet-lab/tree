@@ -1,0 +1,36 @@
+State: ""
+category: app-text
+conflicts:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: blogc-git-receiver
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: www-servers
+  conflicts: null
+  name: blogc-runserver
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: blogc
+requires:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- git
+- httpd
+- make
+- test
+version: "9999"

@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: virt-viewer
+requires: null
+set: false
+use_flags: null
+version: "7.0"
