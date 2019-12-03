@@ -1,0 +1,25 @@
+State: ""
+category: net-libs
+conflicts: []
+name: libosmocore
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pcsc-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: talloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- pcsc-lite
+version: 0.10.2

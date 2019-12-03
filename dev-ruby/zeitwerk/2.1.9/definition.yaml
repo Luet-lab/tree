@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: zeitwerk
+requires: null
+set: false
+use_flags: null
+version: 2.1.9

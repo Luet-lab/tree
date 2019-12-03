@@ -1,0 +1,8 @@
+State: ""
+category: app-backup
+conflicts: null
+name: bacula
+requires: null
+set: false
+use_flags: null
+version: 9.0.8-r1

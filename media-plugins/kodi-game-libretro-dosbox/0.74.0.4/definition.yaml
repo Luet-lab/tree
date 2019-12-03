@@ -1,0 +1,33 @@
+State: ""
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-dosbox
+requires:
+- State: ""
+  category: media-plugins
+  conflicts: null
+  name: kodi-game-libretro
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-tv
+  conflicts: null
+  name: kodi
+  requires: null
+  set: false
+  use_flags: null
+  version: "18"
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: libretro-dosbox
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.74.0.4

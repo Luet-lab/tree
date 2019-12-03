@@ -1,0 +1,33 @@
+State: ""
+category: app-portage
+conflicts: []
+name: perl-info
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: PortageXS
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.02.04
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Term-ANSIColor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "0.16"

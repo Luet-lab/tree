@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: hash-slinger
+requires: null
+set: false
+use_flags: null
+version: 2.6-r1

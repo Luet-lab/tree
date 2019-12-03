@@ -1,0 +1,8 @@
+State: ""
+category: app-backup
+conflicts: null
+name: borgbackup
+requires: null
+set: false
+use_flags: null
+version: "9999"

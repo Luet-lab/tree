@@ -1,0 +1,8 @@
+State: ""
+category: sci-geosciences
+conflicts: null
+name: qgis
+requires: null
+set: false
+use_flags: null
+version: 3.10.0

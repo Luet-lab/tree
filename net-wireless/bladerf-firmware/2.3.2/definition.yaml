@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: bladerf-firmware
+requires: []
+set: false
+use_flags:
+- ""
+version: 2.3.2

@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-extb
+requires: null
+set: false
+use_flags: null
+version: 0.3.1

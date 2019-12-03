@@ -1,0 +1,19 @@
+State: ""
+category: net-libs
+conflicts: []
+name: libnxml
+requires:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+- static-libs
+version: 0.18.3

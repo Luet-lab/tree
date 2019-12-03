@@ -1,0 +1,33 @@
+State: ""
+category: app-laptop
+conflicts: []
+name: hdaps-gl
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: glu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freeglut
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.0.7

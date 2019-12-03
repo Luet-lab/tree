@@ -1,0 +1,10 @@
+State: ""
+category: app-admin
+conflicts: null
+name: mongo-tools
+requires: null
+set: false
+use_flags:
+- sasl
+- ssl
+version: 4.0.10

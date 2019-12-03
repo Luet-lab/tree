@@ -1,0 +1,66 @@
+State: ""
+category: x11-libs
+conflicts: []
+name: libva
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.46
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.0-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.11"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.2
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.3.2
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXfixes
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.0.1
+set: false
+use_flags:
+- +drm
+- opengl
+- utils
+- vdpau
+- wayland
+- X
+- video_cards_nvidia
+- video_cards_intel
+- video_cards_i965
+- video_cards_nouveau
+version: 2.5.0-r1

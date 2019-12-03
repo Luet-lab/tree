@@ -1,0 +1,33 @@
+State: ""
+category: media-plugins
+conflicts: []
+name: gmpc-tagedit
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: gmpc
+  requires: null
+  set: false
+  use_flags: null
+  version: 11.8.16
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: taglib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+version: 11.8.16

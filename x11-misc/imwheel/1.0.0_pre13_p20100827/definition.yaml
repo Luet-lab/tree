@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: imwheel
+requires: null
+set: false
+use_flags: null
+version: 1.0.0_pre13_p20100827

@@ -1,0 +1,16 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libggigcp
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libggi
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.2
+set: false
+use_flags: null
+version: 1.0.2-r1

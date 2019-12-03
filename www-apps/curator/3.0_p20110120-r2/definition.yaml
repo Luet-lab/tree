@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: curator
+requires: null
+set: false
+use_flags: null
+version: 3.0_p20110120-r2

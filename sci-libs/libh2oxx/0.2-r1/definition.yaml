@@ -1,0 +1,18 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: libh2oxx
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: libh2o
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.2"
+set: false
+use_flags:
+- debug
+- static-libs
+version: 0.2-r1

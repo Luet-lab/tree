@@ -1,0 +1,8 @@
+State: ""
+category: games-emulation
+conflicts: null
+name: gambatte
+requires: null
+set: false
+use_flags: null
+version: 0.5.0_p20131102-r2

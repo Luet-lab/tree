@@ -1,0 +1,10 @@
+State: ""
+category: dev-cpp
+conflicts: null
+name: gflags
+requires: null
+set: false
+use_flags:
+- static-libs
+- test
+version: 2.2.0

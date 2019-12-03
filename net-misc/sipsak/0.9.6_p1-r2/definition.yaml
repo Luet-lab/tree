@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: sipsak
+requires: null
+set: false
+use_flags: null
+version: 0.9.6_p1-r2

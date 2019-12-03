@@ -1,0 +1,9 @@
+State: ""
+category: net-news
+conflicts: null
+name: amphetadesk
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.93.1-r1

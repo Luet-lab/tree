@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: phpsysinfo
+requires: null
+set: false
+use_flags: null
+version: 3.3.1

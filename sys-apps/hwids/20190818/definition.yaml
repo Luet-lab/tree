@@ -1,0 +1,36 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.9-r2
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: usbutils
+  requires: null
+  set: false
+  use_flags: null
+  version: 005-r1
+name: hwids
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +net
+- +pci
+- +udev
+- +usb
+version: "20190818"

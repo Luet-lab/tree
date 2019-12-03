@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libiscsi
+requires: null
+set: false
+use_flags: null
+version: "9999"

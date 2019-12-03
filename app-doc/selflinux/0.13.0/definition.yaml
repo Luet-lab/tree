@@ -1,0 +1,9 @@
+State: ""
+category: app-doc
+conflicts: null
+name: selflinux
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.13.0

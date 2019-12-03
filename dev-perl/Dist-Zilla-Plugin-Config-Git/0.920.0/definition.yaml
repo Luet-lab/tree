@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Dist-Zilla-Plugin-Config-Git
+requires: null
+set: false
+use_flags: null
+version: 0.920.0

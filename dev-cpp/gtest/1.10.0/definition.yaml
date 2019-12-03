@@ -1,0 +1,19 @@
+State: ""
+category: dev-cpp
+conflicts:
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: gmock
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: gtest
+requires: []
+set: false
+use_flags:
+- doc
+- examples
+- test
+version: 1.10.0

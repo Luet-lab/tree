@@ -1,0 +1,51 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: girara
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.20"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.14"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libnotify
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- libnotify
+- test
+version: 0.3.2

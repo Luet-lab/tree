@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: compressed_depth_image_transport
+requires: null
+set: false
+use_flags: null
+version: 1.9.5-r1

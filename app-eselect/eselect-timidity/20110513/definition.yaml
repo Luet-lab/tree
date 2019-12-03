@@ -1,0 +1,16 @@
+State: ""
+category: app-eselect
+conflicts: []
+name: eselect-timidity
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: eselect
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.3
+set: false
+use_flags: null
+version: "20110513"

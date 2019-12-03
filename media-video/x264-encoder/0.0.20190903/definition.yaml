@@ -1,0 +1,56 @@
+State: ""
+category: media-video
+conflicts: []
+name: x264-encoder
+requires:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: libav
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: ffmpegsource
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: gpac
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: x264-0.0.20190903[interlaced=,threads=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- avs
+- custom-cflags
+- ffmpeg
+- ffmpegsource
+- +interlaced
+- libav
+- mp4
+- +threads
+version: 0.0.20190903

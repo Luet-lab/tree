@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libproxy
+requires: null
+set: false
+use_flags: null
+version: 0.4.13-r2

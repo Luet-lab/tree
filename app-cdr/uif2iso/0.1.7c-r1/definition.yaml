@@ -1,0 +1,8 @@
+State: ""
+category: app-cdr
+conflicts: null
+name: uif2iso
+requires: null
+set: false
+use_flags: null
+version: 0.1.7c-r1

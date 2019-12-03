@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: id3lib
+requires: null
+set: false
+use_flags: null
+version: 3.8.3-r8

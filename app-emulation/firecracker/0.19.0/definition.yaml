@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: firecracker
+requires: null
+set: false
+use_flags: null
+version: 0.19.0

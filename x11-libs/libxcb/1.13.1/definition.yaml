@@ -1,0 +1,36 @@
+State: ""
+category: x11-libs
+conflicts: []
+name: libxcb
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXau
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.7-r1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXdmcp
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.1-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpthread-stubs
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3-r1
+set: false
+use_flags:
+- doc
+- selinux
+- test
+- xkb
+version: 1.13.1

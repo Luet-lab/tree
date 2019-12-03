@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: haskellmode
+requires: null
+set: false
+use_flags: null
+version: 20101118-r1

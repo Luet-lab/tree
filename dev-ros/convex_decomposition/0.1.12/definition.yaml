@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: convex_decomposition
+requires: null
+set: false
+use_flags: null
+version: 0.1.12

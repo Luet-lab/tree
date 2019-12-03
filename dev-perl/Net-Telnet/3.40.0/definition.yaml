@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Net-Telnet
+requires: null
+set: false
+use_flags: null
+version: 3.40.0

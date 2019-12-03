@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: pecl-mysqlnd_ms
+requires: null
+set: false
+use_flags: null
+version: 1.6.0_pre20141127

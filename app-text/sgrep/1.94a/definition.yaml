@@ -1,0 +1,9 @@
+State: ""
+category: app-text
+conflicts: null
+name: sgrep
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.94a

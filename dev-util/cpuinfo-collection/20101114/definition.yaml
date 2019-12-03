@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: cpuinfo-collection
+requires: null
+set: false
+use_flags:
+- ""
+version: "20101114"

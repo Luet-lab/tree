@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: hashcat-utils
+requires: []
+set: false
+use_flags:
+- ""
+version: "1.9"

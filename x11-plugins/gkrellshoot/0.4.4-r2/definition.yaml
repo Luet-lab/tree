@@ -1,0 +1,8 @@
+State: ""
+category: x11-plugins
+conflicts: null
+name: gkrellshoot
+requires: null
+set: false
+use_flags: null
+version: 0.4.4-r2

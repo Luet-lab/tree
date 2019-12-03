@@ -1,0 +1,16 @@
+State: ""
+category: virtual
+conflicts: []
+name: libffi
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libffi
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.0.10
+set: false
+use_flags: null
+version: 3.0.10

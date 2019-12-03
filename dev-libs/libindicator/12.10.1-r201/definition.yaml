@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libindicator
+requires: null
+set: false
+use_flags: null
+version: 12.10.1-r201

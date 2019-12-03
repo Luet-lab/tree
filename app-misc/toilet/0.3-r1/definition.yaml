@@ -1,0 +1,16 @@
+State: ""
+category: app-misc
+conflicts: []
+name: toilet
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libcaca-0.99_beta18
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.3-r1

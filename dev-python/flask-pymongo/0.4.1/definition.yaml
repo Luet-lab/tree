@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: flask-pymongo
+requires: null
+set: false
+use_flags: null
+version: 0.4.1

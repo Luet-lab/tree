@@ -1,0 +1,9 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: iwl1000-ucode
+requires: null
+set: false
+use_flags:
+- ""
+version: 128.50.3.1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: hspec-core
+requires: null
+set: false
+use_flags: null
+version: 2.1.2

@@ -1,0 +1,25 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: conmon
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- systemd
+version: 2.0.1

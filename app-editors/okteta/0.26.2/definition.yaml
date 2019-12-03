@@ -1,0 +1,18 @@
+State: ""
+category: app-editors
+conflicts: []
+name: okteta
+requires:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: qca
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- crypt
+- designer
+version: 0.26.2

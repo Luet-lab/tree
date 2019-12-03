@@ -1,0 +1,32 @@
+State: ""
+category: virtual
+conflicts:
+- State: ""
+  category: =perl-core
+  conflicts: null
+  name: File-Temp
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.230.400
+name: perl-File-Temp
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: perl-core
+  conflicts: null
+  name: File-Temp
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.230.400
+set: false
+use_flags: null
+version: 0.230.400-r5

@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libart_lgpl
+requires: null
+set: false
+use_flags: null
+version: 2.3.21-r3

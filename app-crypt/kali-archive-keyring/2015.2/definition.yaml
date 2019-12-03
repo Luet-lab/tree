@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: kali-archive-keyring
+requires: null
+set: false
+use_flags:
+- ""
+version: "2015.2"

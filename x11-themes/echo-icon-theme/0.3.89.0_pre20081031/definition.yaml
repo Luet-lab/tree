@@ -1,0 +1,8 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: echo-icon-theme
+requires: null
+set: false
+use_flags: null
+version: 0.3.89.0_pre20081031

@@ -1,0 +1,9 @@
+State: ""
+category: net-irc
+conflicts: []
+name: dccserver
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.5-r1

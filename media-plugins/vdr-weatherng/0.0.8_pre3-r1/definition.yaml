@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-weatherng
+requires: null
+set: false
+use_flags: null
+version: 0.0.8_pre3-r1

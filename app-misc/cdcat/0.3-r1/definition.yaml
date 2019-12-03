@@ -1,0 +1,24 @@
+State: ""
+category: app-misc
+conflicts:
+- State: ""
+  category: app-backup
+  conflicts: null
+  name: cdbkup
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: cdcat
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: cdrtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.3-r1

@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: postfixadmin
+requires: null
+set: false
+use_flags: null
+version: "3.1"

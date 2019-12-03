@@ -1,0 +1,63 @@
+State: ""
+category: dev-embedded
+conflicts: []
+name: openocd
+requires:
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: plugdev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: jimtcl
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.76"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: hidapi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: libjaylink
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: libftdi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +cmsis-dap
+- dummy
+- +ftdi
+- +jlink
+- parport
+- +usb
+- verbose-io
+version: "9999"

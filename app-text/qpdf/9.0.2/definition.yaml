@@ -1,0 +1,37 @@
+State: ""
+category: app-text
+conflicts: []
+name: qpdf
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.8"
+set: false
+use_flags:
+- doc
+- examples
+- perl
+- static-libs
+- test
+version: 9.0.2

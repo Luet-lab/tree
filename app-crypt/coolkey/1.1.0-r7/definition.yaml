@@ -1,0 +1,33 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: coolkey
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pcsc-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.4
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nss
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+version: 1.1.0-r7

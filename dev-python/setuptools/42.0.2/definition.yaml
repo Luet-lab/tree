@@ -1,0 +1,9 @@
+State: ""
+category: dev-python
+conflicts: null
+name: setuptools
+requires: null
+set: false
+use_flags:
+- test
+version: 42.0.2

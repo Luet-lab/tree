@@ -1,0 +1,8 @@
+State: ""
+category: sci-visualization
+conflicts: null
+name: quickplot
+requires: null
+set: false
+use_flags: null
+version: 0.10.8

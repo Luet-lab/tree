@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: null
+name: unicode-cldr
+requires: null
+set: false
+use_flags:
+- ""
+version: 31.0.1

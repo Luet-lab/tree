@@ -1,0 +1,9 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: proj
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 5.2.0

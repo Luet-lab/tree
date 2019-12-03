@@ -1,0 +1,16 @@
+State: ""
+category: app-doc
+conflicts: []
+name: kicad-doc
+requires: []
+set: false
+use_flags:
+- html
+- +pdf
+- l10n_en
+- l10n_fr
+- l10n_it
+- l10n_ja
+- l10n_nl
+- l10n_pl
+version: 4.0.7

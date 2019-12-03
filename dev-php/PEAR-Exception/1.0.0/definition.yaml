@@ -1,0 +1,25 @@
+State: ""
+category: dev-php
+conflicts:
+- State: ""
+  category: <=dev-php
+  conflicts: null
+  name: PEAR-PEAR
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.10.3-r1
+name: PEAR-Exception
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 1.0.0

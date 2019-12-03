@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: ExtUtils-AutoInstall
+requires: null
+set: false
+use_flags: null
+version: 0.640.0

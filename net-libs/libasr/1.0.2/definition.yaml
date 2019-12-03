@@ -1,0 +1,9 @@
+State: ""
+category: net-libs
+conflicts: []
+name: libasr
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.2

@@ -1,0 +1,9 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: spice-protocol
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.12.15

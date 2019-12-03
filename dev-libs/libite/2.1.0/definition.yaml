@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libite
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 2.1.0

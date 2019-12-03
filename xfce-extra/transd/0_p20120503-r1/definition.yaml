@@ -1,0 +1,25 @@
+State: ""
+category: xfce-extra
+conflicts: []
+name: transd
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4util
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.8"
+set: false
+use_flags:
+- ""
+version: 0_p20120503-r1

@@ -1,0 +1,8 @@
+State: ""
+category: xfce-extra
+conflicts: null
+name: xfce4-eyes-plugin
+requires: null
+set: false
+use_flags: null
+version: 4.5.0

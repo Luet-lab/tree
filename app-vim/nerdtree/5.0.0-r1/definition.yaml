@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: nerdtree
+requires: null
+set: false
+use_flags: null
+version: 5.0.0-r1

@@ -1,0 +1,301 @@
+State: ""
+category: app-admin
+conflicts: []
+name: salt
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyopenssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: mysql-python
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-vim
+  conflicts: null
+  name: salt-vim
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: markupsafe
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: requests
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: jinja
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-ldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: libvirt-python
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: keyring
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: www-servers
+  conflicts: null
+  name: tornado
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.2.1
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pycryptodome
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-novaclient
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.17.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: yappi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: msgpack
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.3"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyyaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setuptools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: python-futures
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: ioflo
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.7
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-salt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-neutronclient
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.3.6
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: mako
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: libnacl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: raet
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pymongo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: redis-py
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: timelib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: www-servers
+  conflicts: null
+  name: tornado
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.0"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: libcloud
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.14.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyzmq
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: cherrypy
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.2.2
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-gnupg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cherrypy
+- ldap
+- libcloud
+- libvirt
+- gnupg
+- keyring
+- mako
+- mongodb
+- mysql
+- neutron
+- nova
+- openssl
+- portage
+- profile
+- redis
+- selinux
+- test
+- timelib
+- raet
+- +zeromq
+- vim-syntax
+version: 2017.7.8

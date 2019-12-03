@@ -1,0 +1,8 @@
+State: ""
+category: app-shells
+conflicts: null
+name: mpv-bash-completion
+requires: null
+set: false
+use_flags: null
+version: 3.3.16

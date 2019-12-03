@@ -1,0 +1,8 @@
+State: ""
+category: sci-physics
+conflicts: null
+name: qutip
+requires: null
+set: false
+use_flags: null
+version: 4.2.0

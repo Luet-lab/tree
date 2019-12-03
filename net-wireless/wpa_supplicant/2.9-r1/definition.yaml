@@ -1,0 +1,143 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: wpa_supplicant
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libnl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: crda
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2k
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pcsc-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-networkmanager
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ap
+- bindist
+- dbus
+- eap-sim
+- eapol_test
+- fasteap
+- +fils
+- +hs2-0
+- libressl
+- macsec
+- p2p
+- privsep
+- ps3
+- qt5
+- readline
+- selinux
+- smartcard
+- tdls
+- uncommon-eap-types
+- wimax
+- wps
+- kernel_linux
+- kernel_FreeBSD
+version: 2.9-r1

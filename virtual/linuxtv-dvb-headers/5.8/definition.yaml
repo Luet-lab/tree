@@ -1,0 +1,16 @@
+State: ""
+category: virtual
+conflicts: []
+name: linuxtv-dvb-headers
+requires:
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: linux-headers
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.7"
+set: false
+use_flags: null
+version: "5.8"

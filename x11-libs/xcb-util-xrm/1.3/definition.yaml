@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: xcb-util-xrm
+requires: null
+set: false
+use_flags: null
+version: "1.3"

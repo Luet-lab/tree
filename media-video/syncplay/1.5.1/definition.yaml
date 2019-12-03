@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: syncplay
+requires: null
+set: false
+use_flags: null
+version: 1.5.1

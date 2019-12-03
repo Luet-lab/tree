@@ -1,0 +1,17 @@
+State: ""
+category: sys-boot
+conflicts: []
+name: makebootfat
+requires:
+- State: ""
+  category: sys-boot
+  conflicts: null
+  name: syslinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.4"

@@ -1,0 +1,9 @@
+State: ""
+category: app-portage
+conflicts: null
+name: cpuid2cpuflags
+requires: null
+set: false
+use_flags:
+- ""
+version: "5"

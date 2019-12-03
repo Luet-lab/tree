@@ -1,0 +1,9 @@
+State: ""
+category: net-misc
+conflicts: null
+name: babeld
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.9.1

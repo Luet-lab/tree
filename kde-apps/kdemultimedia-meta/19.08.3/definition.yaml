@@ -1,0 +1,99 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kdemultimedia-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kamoso
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dragon
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kmix
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kwave
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: audiocd-kio
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: libkcompactdisc
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: juk
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdenlive
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: k3b
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: libkcddb
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: ffmpegthumbs
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+set: false
+use_flags:
+- +cdrom
+- +ffmpeg
+- gstreamer
+version: 19.08.3

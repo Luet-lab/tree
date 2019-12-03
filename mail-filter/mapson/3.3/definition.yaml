@@ -1,0 +1,8 @@
+State: ""
+category: mail-filter
+conflicts: null
+name: mapson
+requires: null
+set: false
+use_flags: null
+version: "3.3"

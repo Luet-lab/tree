@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: python-openstackclient
+requires: null
+set: false
+use_flags: null
+version: 3.18.0

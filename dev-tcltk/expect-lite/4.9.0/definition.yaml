@@ -1,0 +1,26 @@
+State: ""
+category: dev-tcltk
+conflicts: []
+name: expect-lite
+requires:
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: expect
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: tclx
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- examples
+version: 4.9.0

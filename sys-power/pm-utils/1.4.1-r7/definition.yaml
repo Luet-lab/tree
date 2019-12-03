@@ -1,0 +1,8 @@
+State: ""
+category: sys-power
+conflicts: null
+name: pm-utils
+requires: null
+set: false
+use_flags: null
+version: 1.4.1-r7

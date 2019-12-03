@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: go-mtpfs
+requires: null
+set: false
+use_flags: null
+version: "9999"

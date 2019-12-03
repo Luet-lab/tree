@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: oslo-cache
+requires: null
+set: false
+use_flags: null
+version: 1.33.2-r1

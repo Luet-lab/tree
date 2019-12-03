@@ -1,0 +1,9 @@
+State: ""
+category: net-news
+conflicts: null
+name: yydecode
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.2.10-r1

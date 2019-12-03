@@ -1,0 +1,25 @@
+State: ""
+category: app-shells
+conflicts: []
+name: dsh
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: ssh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libdshconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+version: 0.25.10-r1

@@ -1,0 +1,10 @@
+State: ""
+category: app-doc
+conflicts: null
+name: clsync-docs
+requires: null
+set: false
+use_flags:
+- api
+- +examples
+version: 0.4.2

@@ -1,0 +1,16 @@
+State: ""
+category: net-dialup
+conflicts:
+- State: ""
+  category: <net-dialup
+  conflicts: null
+  name: ppp
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.7-r1
+name: ppp-scripts
+requires: []
+set: false
+use_flags: null
+version: "0"

@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: inform
+requires: null
+set: false
+use_flags:
+- emacs
+version: 6.33.1_p2

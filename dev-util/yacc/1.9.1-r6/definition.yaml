@@ -1,0 +1,8 @@
+State: ""
+category: dev-util
+conflicts: null
+name: yacc
+requires: null
+set: false
+use_flags: null
+version: 1.9.1-r6

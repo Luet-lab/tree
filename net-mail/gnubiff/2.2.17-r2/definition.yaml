@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: gnubiff
+requires: null
+set: false
+use_flags: null
+version: 2.2.17-r2

@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: rocm-device-libs
+requires: null
+set: false
+use_flags: null
+version: "9999"

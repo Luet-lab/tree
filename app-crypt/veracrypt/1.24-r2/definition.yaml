@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: veracrypt
+requires: null
+set: false
+use_flags: null
+version: 1.24-r2

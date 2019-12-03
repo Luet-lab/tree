@@ -1,0 +1,8 @@
+State: ""
+category: games-fps
+conflicts: null
+name: quake3-bin
+requires: null
+set: false
+use_flags: null
+version: 1.32c-r2

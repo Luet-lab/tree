@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libcxxabi
+requires: null
+set: false
+use_flags: null
+version: 6.0.1

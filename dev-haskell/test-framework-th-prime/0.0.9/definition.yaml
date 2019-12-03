@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: test-framework-th-prime
+requires: null
+set: false
+use_flags: null
+version: 0.0.9

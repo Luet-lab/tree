@@ -1,0 +1,9 @@
+State: ""
+category: sec-policy
+conflicts: null
+name: selinux-policykit
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.20190201-r1

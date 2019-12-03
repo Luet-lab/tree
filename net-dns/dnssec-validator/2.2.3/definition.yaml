@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: dnssec-validator
+requires: null
+set: false
+use_flags: null
+version: 2.2.3

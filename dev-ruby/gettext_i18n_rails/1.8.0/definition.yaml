@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: gettext_i18n_rails
+requires: null
+set: false
+use_flags: null
+version: 1.8.0

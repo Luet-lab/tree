@@ -1,0 +1,8 @@
+State: ""
+category: sci-biology
+conflicts: null
+name: velvet
+requires: null
+set: false
+use_flags: null
+version: 1.2.10

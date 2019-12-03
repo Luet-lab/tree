@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: rosserial_tivac
+requires: null
+set: false
+use_flags: null
+version: 0.8.0

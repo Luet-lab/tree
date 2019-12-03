@@ -1,0 +1,25 @@
+State: ""
+category: dev-ada
+conflicts: []
+name: gnat-suite-bin
+requires:
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: binutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: gdb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "2014"

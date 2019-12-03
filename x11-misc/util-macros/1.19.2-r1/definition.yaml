@@ -1,0 +1,9 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: util-macros
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.19.2-r1

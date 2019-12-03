@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: compsize
+requires: []
+set: false
+use_flags: null
+version: "1.1"

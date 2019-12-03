@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: x11-ssh-askpass
+requires: null
+set: false
+use_flags: null
+version: 1.2.4.1-r2

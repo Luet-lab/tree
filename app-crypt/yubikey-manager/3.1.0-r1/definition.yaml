@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: yubikey-manager
+requires: null
+set: false
+use_flags: null
+version: 3.1.0-r1

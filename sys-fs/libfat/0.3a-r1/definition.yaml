@@ -1,0 +1,25 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: libfat
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.3a-r1

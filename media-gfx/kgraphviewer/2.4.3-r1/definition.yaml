@@ -1,0 +1,25 @@
+State: ""
+category: media-gfx
+conflicts:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: kgraphviewer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: kgraphviewer
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: graphviz
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.30"
+set: false
+use_flags:
+- ""
+version: 2.4.3-r1

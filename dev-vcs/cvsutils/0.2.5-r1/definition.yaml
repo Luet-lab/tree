@@ -1,0 +1,16 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: cvsutils
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.2.5-r1

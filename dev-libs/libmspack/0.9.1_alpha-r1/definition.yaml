@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libmspack
+requires: []
+set: false
+use_flags:
+- debug
+- doc
+- static-libs
+version: 0.9.1_alpha-r1

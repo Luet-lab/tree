@@ -1,0 +1,9 @@
+State: ""
+category: net-dns
+conflicts: null
+name: dnscrypt-proxy
+requires: null
+set: false
+use_flags:
+- pie
+version: 2.0.25

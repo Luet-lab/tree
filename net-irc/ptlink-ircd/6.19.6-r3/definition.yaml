@@ -1,0 +1,8 @@
+State: ""
+category: net-irc
+conflicts: null
+name: ptlink-ircd
+requires: null
+set: false
+use_flags: null
+version: 6.19.6-r3

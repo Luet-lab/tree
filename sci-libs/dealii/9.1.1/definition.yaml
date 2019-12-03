@@ -1,0 +1,243 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: dealii
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: sundials
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: trilinos
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: adolc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: arpack[mpi=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: muParser
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: nanoflann
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: umfpack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: lapack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mpi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: assimp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gmsh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: hdf5[mpi=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: netcdf-cxx
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: p4est
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-mathematics
+  conflicts: null
+  name: petsc[mpi=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: tbb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: parmetis
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: opencascade
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: scalapack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-mathematics
+  conflicts: null
+  name: slepc[mpi=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: symengine
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.4"
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: nvidia-cuda-sdk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- adolc
+- assimp
+- arpack
+- cpu_flags_x86_avx
+- "cpu_flags_x86_avx512f\n\tcpu_flags_x86_sse2"
+- cuda
+- +debug
+- doc
+- +examples
+- gmsh
+- +gsl
+- hdf5
+- "+lapack\n\tmetis"
+- mpi
+- muparser
+- nanoflann
+- opencascade
+- netcdf
+- p4est
+- petsc
+- "scalapack\n\tslepc"
+- +sparse
+- static-libs
+- sundials
+- symengine
+- +tbb
+- trilinos
+version: 9.1.1

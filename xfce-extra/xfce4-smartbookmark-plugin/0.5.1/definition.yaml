@@ -1,0 +1,9 @@
+State: ""
+category: xfce-extra
+conflicts: null
+name: xfce4-smartbookmark-plugin
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.5.1

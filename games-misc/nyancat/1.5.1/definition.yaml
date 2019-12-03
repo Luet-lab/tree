@@ -1,0 +1,9 @@
+State: ""
+category: games-misc
+conflicts: null
+name: nyancat
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.5.1

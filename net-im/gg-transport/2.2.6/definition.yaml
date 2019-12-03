@@ -1,0 +1,49 @@
+State: ""
+category: net-im
+conflicts: []
+name: gg-transport
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.6.4
+- State: ""
+  category: net-dns
+  conflicts: null
+  name: libidn
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libgadu
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.0_rc3
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: expat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-im
+  conflicts: null
+  name: jabber-base
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.01"
+set: false
+use_flags:
+- ""
+version: 2.2.6

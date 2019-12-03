@@ -1,0 +1,8 @@
+State: ""
+category: app-emacs
+conflicts: null
+name: magit-popup
+requires: null
+set: false
+use_flags: null
+version: 2.13.0

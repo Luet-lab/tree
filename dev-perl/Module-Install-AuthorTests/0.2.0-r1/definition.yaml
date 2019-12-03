@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Module-Install-AuthorTests
+requires: null
+set: false
+use_flags: null
+version: 0.2.0-r1

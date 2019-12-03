@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: oslo-rootwrap
+requires: null
+set: false
+use_flags: null
+version: 5.15.2

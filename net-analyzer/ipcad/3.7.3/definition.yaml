@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: ipcad
+requires: null
+set: false
+use_flags: null
+version: 3.7.3

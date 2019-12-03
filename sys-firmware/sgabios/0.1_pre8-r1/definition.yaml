@@ -1,0 +1,8 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: sgabios
+requires: null
+set: false
+use_flags: null
+version: 0.1_pre8-r1

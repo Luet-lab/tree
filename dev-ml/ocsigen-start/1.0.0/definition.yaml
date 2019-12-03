@@ -1,0 +1,81 @@
+State: ""
+category: dev-ml
+conflicts: []
+name: ocsigen-start
+requires:
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ocaml-safepass
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: eliom
+  requires: null
+  set: false
+  use_flags: null
+  version: "6.2"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: ocaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: pgocaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_deriving
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: yojson
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: OCaml-ImageMagick
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: macaque
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ocsigen-toolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.0.0

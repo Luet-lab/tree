@@ -1,0 +1,33 @@
+State: ""
+category: dev-ml
+conflicts: []
+name: base
+requires:
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: sexplib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: sexplib
+  requires: null
+  set: false
+  use_flags: null
+  version: "100"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: ocaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.9.4

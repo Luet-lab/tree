@@ -1,0 +1,49 @@
+State: ""
+category: dev-qt
+conflicts: []
+name: qtbluetooth
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtconcurrent
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdbus
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: bluez
+  requires: null
+  set: false
+  use_flags: null
+  version: "5"
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdeclarative
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+set: false
+use_flags:
+- qml
+version: 5.12.3

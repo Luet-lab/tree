@@ -1,0 +1,8 @@
+State: ""
+category: xfce-extra
+conflicts: null
+name: xfce4-weather-plugin
+requires: null
+set: false
+use_flags: null
+version: 0.10.0

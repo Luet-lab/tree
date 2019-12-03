@@ -1,0 +1,8 @@
+State: ""
+category: games-util
+conflicts: null
+name: lgogdownloader
+requires: null
+set: false
+use_flags: null
+version: "3.5"

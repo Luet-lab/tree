@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: ruby-gtk3
+requires: null
+set: false
+use_flags: null
+version: 3.3.2

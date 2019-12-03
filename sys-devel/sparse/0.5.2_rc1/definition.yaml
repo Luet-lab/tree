@@ -1,0 +1,36 @@
+State: ""
+category: sys-devel
+conflicts: []
+name: sparse
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: llvm
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.0"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gtk
+- llvm
+- test
+- xml
+version: 0.5.2_rc1

@@ -1,0 +1,10 @@
+State: ""
+category: mail-filter
+conflicts: []
+name: mailfilter
+requires: []
+set: false
+use_flags:
+- libressl
+- +ssl
+version: 0.8.4

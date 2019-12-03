@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: visualization_msgs
+requires: null
+set: false
+use_flags: null
+version: 1.12.7

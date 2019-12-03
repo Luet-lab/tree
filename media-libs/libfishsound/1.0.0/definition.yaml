@@ -1,0 +1,42 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libfishsound
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libogg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvorbis
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: flac
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: speex
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- flac
+- speex
+version: 1.0.0

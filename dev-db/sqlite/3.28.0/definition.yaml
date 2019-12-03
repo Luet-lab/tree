@@ -1,0 +1,8 @@
+State: ""
+category: dev-db
+conflicts: null
+name: sqlite
+requires: null
+set: false
+use_flags: null
+version: 3.28.0

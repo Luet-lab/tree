@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: findutils
+requires: null
+set: false
+use_flags: null
+version: 4.7.0

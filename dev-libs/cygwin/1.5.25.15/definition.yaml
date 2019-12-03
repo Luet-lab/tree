@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: cygwin
+requires: null
+set: false
+use_flags:
+- headers-only
+version: 1.5.25.15

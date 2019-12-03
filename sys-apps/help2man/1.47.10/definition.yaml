@@ -1,0 +1,25 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: help2man
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Locale-gettext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+version: 1.47.10

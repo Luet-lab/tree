@@ -1,0 +1,8 @@
+State: ""
+category: app-office
+conflicts: null
+name: wps-office
+requires: null
+set: false
+use_flags: null
+version: 11.1.0.8865-r1

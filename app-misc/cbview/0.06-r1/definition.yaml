@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: []
+name: cbview
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.06-r1

@@ -1,0 +1,89 @@
+State: ""
+category: dev-ros
+conflicts: []
+name: visp_auto_tracker
+requires:
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: geometry_msgs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: resource_retriever
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: roscpp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: visp_bridge
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: message_filters
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: sensor_msgs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: std_msgs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ros
+  conflicts: null
+  name: visp_tracker
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: ViSP
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.10.0

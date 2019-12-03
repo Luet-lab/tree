@@ -1,0 +1,8 @@
+State: ""
+category: net-vpn
+conflicts: null
+name: badvpn
+requires: null
+set: false
+use_flags: null
+version: 1.999.129

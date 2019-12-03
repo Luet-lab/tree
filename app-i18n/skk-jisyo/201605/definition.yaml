@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: skk-jisyo
+requires: []
+set: false
+use_flags:
+- cdb
+version: "201605"

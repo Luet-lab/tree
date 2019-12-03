@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Mail-DMARC
+requires: null
+set: false
+use_flags: null
+version: 1.201.709.110

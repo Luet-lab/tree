@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: ExtUtils-Manifest
+requires: null
+set: false
+use_flags: null
+version: 1.700.0

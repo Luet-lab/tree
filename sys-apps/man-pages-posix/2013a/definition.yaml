@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: man-pages-posix
+requires: null
+set: false
+use_flags: null
+version: 2013a

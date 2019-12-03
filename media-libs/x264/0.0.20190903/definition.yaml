@@ -1,0 +1,23 @@
+State: ""
+category: media-libs
+conflicts: []
+name: x264
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: 0-r3
+set: false
+use_flags:
+- altivec
+- +interlaced
+- opencl
+- pic
+- static-libs
+- cpu_flags_x86_sse
+- +threads
+version: 0.0.20190903

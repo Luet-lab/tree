@@ -1,0 +1,10 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: wine-gecko
+requires: null
+set: false
+use_flags:
+- abi_x86_32
+- abi_x86_64
+version: 2.47-r1

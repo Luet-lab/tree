@@ -1,0 +1,8 @@
+State: ""
+category: sci-astronomy
+conflicts: null
+name: healpix
+requires: null
+set: false
+use_flags: null
+version: "3.30"

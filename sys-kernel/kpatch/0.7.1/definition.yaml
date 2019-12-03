@@ -1,0 +1,37 @@
+State: ""
+category: sys-kernel
+conflicts: []
+name: kpatch
+requires:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pesign
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- contrib
+- +kpatch
+- +kpatch-build
+- kmod
+- test
+version: 0.7.1

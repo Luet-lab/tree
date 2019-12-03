@@ -1,0 +1,9 @@
+State: ""
+category: app-forensics
+conflicts: null
+name: zzuf
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.15"

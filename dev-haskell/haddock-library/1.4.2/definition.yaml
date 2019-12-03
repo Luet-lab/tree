@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: haddock-library
+requires: null
+set: false
+use_flags: null
+version: 1.4.2

@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libbson
+requires: null
+set: false
+use_flags:
+- debug
+- examples
+- static-libs
+version: 1.8.2

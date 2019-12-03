@@ -1,0 +1,16 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: mate-icon-theme
+requires:
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: hicolor-icon-theme
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.10"
+set: false
+use_flags: null
+version: 1.22.0

@@ -1,0 +1,10 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: ext3grep
+requires: null
+set: false
+use_flags:
+- debug
+- pch
+version: 0.10.2

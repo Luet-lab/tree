@@ -1,0 +1,9 @@
+State: ""
+category: games-util
+conflicts: null
+name: qstat
+requires: null
+set: false
+use_flags:
+- debug
+version: "2.11"

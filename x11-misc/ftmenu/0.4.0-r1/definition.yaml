@@ -1,0 +1,33 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: ftmenu
+requires:
+- State: ""
+  category: x11-wm
+  conflicts: null
+  name: fluxbox
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+set: false
+use_flags:
+- ""
+version: 0.4.0-r1

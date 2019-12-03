@@ -1,0 +1,43 @@
+State: ""
+category: www-apps
+conflicts: []
+name: gitea
+requires:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: acct-user
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +acct
+- pam
+- sqlite
+version: 1.10.0

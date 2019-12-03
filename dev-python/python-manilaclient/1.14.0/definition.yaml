@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: python-manilaclient
+requires: null
+set: false
+use_flags: null
+version: 1.14.0

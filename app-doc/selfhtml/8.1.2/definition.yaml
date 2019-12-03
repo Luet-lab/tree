@@ -1,0 +1,9 @@
+State: ""
+category: app-doc
+conflicts: null
+name: selfhtml
+requires: null
+set: false
+use_flags:
+- ""
+version: 8.1.2

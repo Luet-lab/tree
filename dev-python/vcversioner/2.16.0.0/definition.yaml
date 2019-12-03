@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: vcversioner
+requires: null
+set: false
+use_flags: null
+version: 2.16.0.0

@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: null
+name: hcloud
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.12.0

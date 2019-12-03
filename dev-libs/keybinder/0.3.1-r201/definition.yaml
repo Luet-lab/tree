@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: keybinder
+requires: null
+set: false
+use_flags: null
+version: 0.3.1-r201
