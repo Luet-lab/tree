@@ -1,0 +1,14 @@
+steps:
+- emerge sys-kernel/linux-headers
+- emerge =sys-kernel/sabayon-sources-${PACKAGE_VERSION}
+- emerge =sys-kernel/linux-sabayon-${PACKAGE_VERSION}
+requires:
+    - category: "layer"
+      name: "core-desktop-build"
+      version: "0.1"
+    - category: "layer"
+      name: "sabayon-overlay"
+      version: ">=0.1"
+includes:
+- ^/boot/.*
+- ^/lib/firmware/.*
