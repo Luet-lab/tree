@@ -19,3 +19,12 @@ mv portage portage-gentoo
 #mv make.conf make.conf-gentoo
 # symlink to sabayon /etc/make.conf /etc/portage/:
 cp -rfv /opt/sabayon-build/conf/intel/portage portage
+
+# Drop portdir, we use default here
+sed -i 's/PORTDIR.*//g' /etc/portage/make.conf
+
+eselect profile list
+# We need to select a profile here, because we just overwrote /etc/portage
+eselect profile set 16
+
+#emerge --update --newuse --deep --complete-graph @world

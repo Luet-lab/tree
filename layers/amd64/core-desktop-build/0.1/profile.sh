@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -ex
 # Setting locale.conf
 for f in /etc/env.d/02locale /etc/locale.conf; do
     echo LANG=en_US.UTF-8 > "${f}"
@@ -51,9 +51,6 @@ gcc-config 1
 # emerging equo and expect
 #USE="ncurses" emerge -j -vt equo --autounmask-write || exit 1
 emerge -j expect || exit 1
-
-# Remove sys-apps/openrc from gentoo stage3
-emerge --unmerge sys-apps/openrc
 
 # Enforce choosing only python2.7 for now, cleaning others
 eselect python set python3.6

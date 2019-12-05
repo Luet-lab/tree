@@ -1,7 +1,10 @@
 unpack: true
+steps:
+- rm -rf /usr/portage || true
 requires:
 - category: "layer"
   name: "base"
+  #name: "core-desktop-build"
   version: ">=0.1"
 includes:
 - /bin$|/bin/.*
