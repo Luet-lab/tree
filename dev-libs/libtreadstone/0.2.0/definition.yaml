@@ -1,0 +1,25 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libtreadstone
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpo6
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libe
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.10.0
+set: false
+use_flags:
+- ""
+version: 0.2.0

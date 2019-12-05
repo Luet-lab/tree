@@ -1,0 +1,8 @@
+State: ""
+category: net-dialup
+conflicts: null
+name: xc
+requires: null
+set: false
+use_flags: null
+version: 4.3.2-r3

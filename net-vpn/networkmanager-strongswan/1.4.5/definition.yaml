@@ -1,0 +1,49 @@
+State: ""
+category: net-vpn
+conflicts: []
+name: networkmanager-strongswan
+requires:
+- State: ""
+  category: gnome-extra
+  conflicts: null
+  name: nm-applet
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: networkmanager
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-vpn
+  conflicts: null
+  name: strongswan
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: libsecret
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +glib
+version: 1.4.5

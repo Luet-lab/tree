@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: openpgp-keys-gentoo-auth
+requires: null
+set: false
+use_flags: null
+version: "20191030"

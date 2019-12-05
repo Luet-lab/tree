@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: qt5ct
+requires: null
+set: false
+use_flags: null
+version: "0.36"

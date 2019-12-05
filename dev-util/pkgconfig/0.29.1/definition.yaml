@@ -1,0 +1,52 @@
+State: ""
+category: dev-util
+conflicts:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: pkg-config-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: pkgconfig-openbsd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: pkgconf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: pkgconfig
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.34.3
+set: false
+use_flags:
+- elibc_FreeBSD
+- elibc_glibc
+- hardened
+- internal-glib
+version: 0.29.1

@@ -1,0 +1,9 @@
+State: ""
+category: net-misc
+conflicts: []
+name: ndppd
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.2.5

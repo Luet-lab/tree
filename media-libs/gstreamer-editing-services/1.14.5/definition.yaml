@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: gstreamer-editing-services
+requires: null
+set: false
+use_flags: null
+version: 1.14.5

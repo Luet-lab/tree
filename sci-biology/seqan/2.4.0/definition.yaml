@@ -1,0 +1,35 @@
+State: ""
+category: sci-biology
+conflicts:
+- State: ""
+  category: '!sci-biology'
+  conflicts: null
+  name: seqan
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: seqan
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cpu_flags_x86_sse4_1
+- doc
+- tools
+version: 2.4.0

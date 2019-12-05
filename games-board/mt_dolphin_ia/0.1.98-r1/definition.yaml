@@ -1,0 +1,41 @@
+State: ""
+category: games-board
+conflicts: []
+name: mt_dolphin_ia
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-games
+  conflicts: null
+  name: libmaitretarot
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-games
+  conflicts: null
+  name: libmt_client
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.1.98-r1

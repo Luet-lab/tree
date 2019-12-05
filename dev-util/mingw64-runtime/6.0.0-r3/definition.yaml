@@ -1,0 +1,8 @@
+State: ""
+category: dev-util
+conflicts: null
+name: mingw64-runtime
+requires: null
+set: false
+use_flags: null
+version: 6.0.0-r3

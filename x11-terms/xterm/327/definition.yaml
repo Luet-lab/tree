@@ -1,0 +1,8 @@
+State: ""
+category: x11-terms
+conflicts: null
+name: xterm
+requires: null
+set: false
+use_flags: null
+version: "327"

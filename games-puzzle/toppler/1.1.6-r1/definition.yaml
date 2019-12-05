@@ -1,0 +1,33 @@
+State: ""
+category: games-puzzle
+conflicts: []
+name: toppler
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sdl-mixer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+version: 1.1.6-r1

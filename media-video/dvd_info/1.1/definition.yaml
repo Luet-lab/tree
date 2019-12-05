@@ -1,0 +1,17 @@
+State: ""
+category: media-video
+conflicts: []
+name: dvd_info
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libdvdread
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.1"

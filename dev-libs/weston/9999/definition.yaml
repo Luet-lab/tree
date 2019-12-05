@@ -1,0 +1,273 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: weston
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXcursor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxcb
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.9"
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: freerdp
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0_rc2
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libinput
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: lcms
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xkeyboard-config
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: pipewire
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.2"
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: pambase
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxkbcommon
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.0
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: mtdev
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: "17.1"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pixman
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.25.2
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: "136"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "209"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.17.0
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.11.3
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: gst-plugins-base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.68
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: colord
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.27
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: gstreamer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland-protocols
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.18"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libwebp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- colord
+- +desktop
+- +drm
+- editor
+- examples
+- fbdev
+- fullscreen
+- +gles2
+- headless
+- ivi
+- jpeg
+- +launch
+- lcms
+- pipewire
+- rdp
+- remoting
+- +resize-optimization
+- screen-sharing
+- +suid
+- systemd
+- test
+- wayland-compositor
+- webp
+- +X
+- xwayland
+version: "9999"

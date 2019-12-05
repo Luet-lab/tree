@@ -1,0 +1,42 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: sane-frontends
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: gimp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: sane-backends
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gimp
+- gtk
+version: 1.0.14-r4

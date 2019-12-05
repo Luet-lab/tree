@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: libu2f-host
+requires: null
+set: false
+use_flags: null
+version: 1.1.10

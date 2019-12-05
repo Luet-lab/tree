@@ -1,0 +1,30 @@
+State: ""
+category: sci-biology
+conflicts: []
+name: hmmer-3.1_beta2
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mpi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- altivec
+- cpu_flags_x86_sse
+- gsl
+- mpi
+- test
+- +threads
+version: ""

@@ -1,0 +1,9 @@
+State: ""
+category: app-dicts
+conflicts: null
+name: mecab-naist-jdic
+requires: null
+set: false
+use_flags:
+- unicode
+version: 0.6.3b_p20111013

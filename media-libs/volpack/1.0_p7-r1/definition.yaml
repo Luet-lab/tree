@@ -1,0 +1,11 @@
+State: ""
+category: media-libs
+conflicts: null
+name: volpack
+requires: null
+set: false
+use_flags:
+- doc
+- examples
+- static-libs
+version: 1.0_p7-r1

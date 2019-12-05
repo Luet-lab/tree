@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: apsw
+requires: null
+set: false
+use_flags: null
+version: 3.25.2_p1

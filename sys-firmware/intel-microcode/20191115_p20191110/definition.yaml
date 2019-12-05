@@ -1,0 +1,8 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: intel-microcode
+requires: null
+set: false
+use_flags: null
+version: 20191115_p20191110

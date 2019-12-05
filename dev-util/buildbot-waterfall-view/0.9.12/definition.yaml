@@ -1,0 +1,33 @@
+State: ""
+category: dev-util
+conflicts: []
+name: buildbot-waterfall-view
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: buildbot
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.12
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: mock
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: buildbot-www
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.12
+set: false
+use_flags:
+- test
+version: 0.9.12

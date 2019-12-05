@@ -1,0 +1,9 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: dnstracer
+requires: null
+set: false
+use_flags:
+- ipv6
+version: 1.9-r2

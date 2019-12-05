@@ -1,0 +1,50 @@
+State: ""
+category: www-client
+conflicts: []
+name: firefox
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nss
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.28.3
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nspr
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.13.1
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-mozilla
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- bindist
+- eme-free
+- +gmp-autoupdate
+- hardened
+- hwaccel
+- jack
+- pgo
+- rust
+- selinux
+- test
+version: 52.9.0

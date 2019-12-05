@@ -1,0 +1,8 @@
+State: ""
+category: app-xemacs
+conflicts: null
+name: perl-modes
+requires: null
+set: false
+use_flags: null
+version: "1.14"

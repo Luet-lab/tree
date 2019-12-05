@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libserialport
+requires: []
+set: false
+use_flags:
+- static-libs
+version: 0.1.1

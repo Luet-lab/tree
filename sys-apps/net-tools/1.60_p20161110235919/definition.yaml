@@ -1,0 +1,41 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.9.3
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: net-tools
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +arp
+- +hostname
+- ipv6
+- nis
+- nls
+- plipconfig
+- selinux
+- slattach
+- static
+version: 1.60_p20161110235919

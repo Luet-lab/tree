@@ -1,0 +1,32 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: soapyplutosdr
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libiio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libad9361-iio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: soapysdr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.2.0

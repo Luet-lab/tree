@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: qfits
+requires: null
+set: false
+use_flags: null
+version: 6.2.0

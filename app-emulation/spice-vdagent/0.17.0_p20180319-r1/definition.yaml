@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: spice-vdagent
+requires: null
+set: false
+use_flags: null
+version: 0.17.0_p20180319-r1

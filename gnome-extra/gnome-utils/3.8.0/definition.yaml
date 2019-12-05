@@ -1,0 +1,57 @@
+State: ""
+category: gnome-extra
+conflicts: []
+name: gnome-utils
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: baobab
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: gnome-system-log
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+- State: ""
+  category: app-dicts
+  conflicts: null
+  name: gnome-dictionary
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+- State: ""
+  category: gnome-extra
+  conflicts: null
+  name: gnome-search-tool
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.6.0
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: gnome-font-viewer
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: gnome-screenshot
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+set: false
+use_flags:
+- ""
+version: 3.8.0

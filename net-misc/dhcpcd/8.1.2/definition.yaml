@@ -1,0 +1,21 @@
+State: ""
+category: net-misc
+conflicts: []
+name: dhcpcd
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- elibc_glibc
+- +embedded
+- ipv6
+- kernel_linux
+- +udev
+version: 8.1.2

@@ -1,0 +1,8 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: iwl8000-ucode
+requires: null
+set: false
+use_flags: null
+version: 16.242414.0

@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: opendnssec
+requires: null
+set: false
+use_flags: null
+version: 1.4.12-r1

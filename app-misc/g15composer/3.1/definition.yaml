@@ -1,0 +1,10 @@
+State: ""
+category: app-misc
+conflicts: null
+name: g15composer
+requires: null
+set: false
+use_flags:
+- truetype
+- examples
+version: "3.1"

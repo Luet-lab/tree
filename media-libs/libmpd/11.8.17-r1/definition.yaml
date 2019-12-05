@@ -1,0 +1,18 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libmpd
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.16"
+set: false
+use_flags:
+- doc
+- static-libs
+version: 11.8.17-r1

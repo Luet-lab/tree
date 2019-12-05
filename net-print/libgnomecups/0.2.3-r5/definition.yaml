@@ -1,0 +1,8 @@
+State: ""
+category: net-print
+conflicts: null
+name: libgnomecups
+requires: null
+set: false
+use_flags: null
+version: 0.2.3-r5

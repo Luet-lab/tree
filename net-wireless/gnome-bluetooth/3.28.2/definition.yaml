@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: gnome-bluetooth
+requires: null
+set: false
+use_flags: null
+version: 3.28.2

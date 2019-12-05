@@ -1,0 +1,8 @@
+State: ""
+category: net-vpn
+conflicts: null
+name: httptunnel
+requires: null
+set: false
+use_flags: null
+version: 3.3-r2

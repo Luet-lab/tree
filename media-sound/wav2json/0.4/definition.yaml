@@ -1,0 +1,25 @@
+State: ""
+category: media-sound
+conflicts: []
+name: wav2json
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsndfile
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "0.4"

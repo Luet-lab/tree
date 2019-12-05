@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: Sys-Syslog
+requires: null
+set: false
+use_flags: null
+version: 0.330.0-r1

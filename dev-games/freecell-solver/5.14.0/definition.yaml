@@ -1,0 +1,8 @@
+State: ""
+category: dev-games
+conflicts: null
+name: freecell-solver
+requires: null
+set: false
+use_flags: null
+version: 5.14.0

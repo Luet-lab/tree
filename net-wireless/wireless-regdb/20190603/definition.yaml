@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: wireless-regdb
+requires: null
+set: false
+use_flags:
+- ""
+version: "20190603"

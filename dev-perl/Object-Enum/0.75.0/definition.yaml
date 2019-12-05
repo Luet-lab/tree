@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Object-Enum
+requires: null
+set: false
+use_flags: null
+version: 0.75.0

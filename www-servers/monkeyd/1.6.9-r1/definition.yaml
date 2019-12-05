@@ -1,0 +1,28 @@
+State: ""
+category: www-servers
+conflicts: []
+name: monkeyd
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cgi
+- -debug
+- fastcgi
+- php
+- static-plugins
+- monkeyd_plugins_auth
+- monkeyd_plugins_cheetah
+- monkeyd_plugins_dirlisting
+- +monkeyd_plugins_liana
+- monkeyd_plugins_logger
+- monkeyd_plugins_mandril
+- monkeyd_plugins_tls
+version: 1.6.9-r1

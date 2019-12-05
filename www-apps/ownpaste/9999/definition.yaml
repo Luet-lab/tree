@@ -1,0 +1,81 @@
+State: ""
+category: www-apps
+conflicts: []
+name: ownpaste
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: flask
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.8"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: flask-script
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.3
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: jinja
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: werkzeug
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.8"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: sqlalchemy-migrate
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.2
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setuptools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: flask-sqlalchemy
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.15"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygments
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pytz
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+version: "9999"

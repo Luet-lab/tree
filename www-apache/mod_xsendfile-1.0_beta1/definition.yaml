@@ -1,0 +1,8 @@
+State: ""
+category: www-apache
+conflicts: null
+name: mod_xsendfile-1.0_beta1
+requires: null
+set: false
+use_flags: null
+version: ""

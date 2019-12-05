@@ -1,0 +1,116 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: libblockdev
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: kmod
+  requires: null
+  set: false
+  use_flags: null
+  version: "19"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: volume_key
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: lvm2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: dmraid
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libyaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.42.2
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbytesize
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.27"
+- State: ""
+  category: sys-block
+  conflicts: null
+  name: parted
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.1"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nss
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.18.0
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: cryptsetup
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.7
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- bcache
+- +cryptsetup
+- device-mapper
+- dmraid
+- escrow
+- gtk-doc
+- introspection
+- lvm
+- kbd
+- test
+- +tools
+- vdo
+version: "2.23"

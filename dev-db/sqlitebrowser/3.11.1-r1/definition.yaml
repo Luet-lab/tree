@@ -1,0 +1,8 @@
+State: ""
+category: dev-db
+conflicts: null
+name: sqlitebrowser
+requires: null
+set: false
+use_flags: null
+version: 3.11.1-r1

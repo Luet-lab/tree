@@ -1,0 +1,32 @@
+State: ""
+category: virtual
+conflicts: []
+name: libc
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: uclibc-ng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: glibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: musl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "0"

@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: IO-Zlib
+requires: null
+set: false
+use_flags: null
+version: 1.100.0

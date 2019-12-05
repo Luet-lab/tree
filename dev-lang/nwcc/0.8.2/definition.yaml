@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: []
+name: nwcc
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.8.2

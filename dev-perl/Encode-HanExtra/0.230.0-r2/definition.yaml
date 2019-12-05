@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Encode-HanExtra
+requires: null
+set: false
+use_flags: null
+version: 0.230.0-r2

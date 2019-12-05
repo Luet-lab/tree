@@ -1,0 +1,8 @@
+State: ""
+category: app-emacs
+conflicts: null
+name: moccur-edit
+requires: null
+set: false
+use_flags: null
+version: "2.16"

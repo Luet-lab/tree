@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: case-insensitive
+requires: null
+set: false
+use_flags: null
+version: 1.0.0.2-r1

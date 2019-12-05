@@ -1,0 +1,51 @@
+State: ""
+category: dev-python
+conflicts: []
+name: flask
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: werkzeug
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.14"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: click
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: blinker
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: itsdangerous
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: jinja
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.10"
+set: false
+use_flags:
+- doc
+- examples
+- test
+version: 1.0.2

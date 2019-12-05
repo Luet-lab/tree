@@ -1,0 +1,33 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: fcitx-sunpinyin
+requires:
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: fcitx
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.2.9
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: sunpinyin
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.4_alpha
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.4.2

@@ -1,0 +1,57 @@
+State: ""
+category: dev-util
+conflicts: []
+name: bpftrace
+requires:
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: clang
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbpf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: llvm
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.7.1
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: bcc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.10.0
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libelf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: systemtap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 0.9.3

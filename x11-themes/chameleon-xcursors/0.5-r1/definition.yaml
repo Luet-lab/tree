@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: chameleon-xcursors
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.5-r1

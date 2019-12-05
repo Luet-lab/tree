@@ -1,0 +1,49 @@
+State: ""
+category: media-sound
+conflicts: []
+name: streamtranscoder
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libogg
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.1"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvorbis
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.1-r2
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: lame
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.96"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libmad
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.15.1b
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.11.0
+set: false
+use_flags:
+- ""
+version: 3.1.11

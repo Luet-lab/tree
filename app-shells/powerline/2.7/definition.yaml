@@ -1,0 +1,9 @@
+State: ""
+category: app-shells
+conflicts: []
+name: powerline
+requires: []
+set: false
+use_flags:
+- test
+version: "2.7"

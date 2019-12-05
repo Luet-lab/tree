@@ -1,0 +1,25 @@
+State: ""
+category: sys-devel
+conflicts:
+- State: ""
+  category: '>=gnome-base'
+  conflicts: null
+  name: gnome-common-3.14.0-r1[-autoconf-archive(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: =gnome-base
+  conflicts: null
+  name: gnome-common
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.14.0
+name: autoconf-archive
+requires: []
+set: false
+use_flags:
+- ""
+version: 2018.03.13

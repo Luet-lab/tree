@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: importlib_resources
+requires: null
+set: false
+use_flags: null
+version: 1.0.2-r1

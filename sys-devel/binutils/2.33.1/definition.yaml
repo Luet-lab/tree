@@ -1,0 +1,32 @@
+State: ""
+category: sys-devel
+conflicts: []
+name: binutils
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: binutils-config
+  requires: null
+  set: false
+  use_flags: null
+  version: "3"
+set: false
+use_flags:
+- default-gold
+- doc
+- +gold
+- multitarget
+- +nls
+- +plugins
+- static-libs
+- test
+version: 2.33.1

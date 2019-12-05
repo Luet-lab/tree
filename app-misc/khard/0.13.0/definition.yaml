@@ -1,0 +1,50 @@
+State: ""
+category: app-misc
+conflicts: []
+name: khard
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: atomicwrites
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: configobj
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: ruamel-yaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: unidecode
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: vobject
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.3
+set: false
+use_flags:
+- test
+- zsh-completion
+version: 0.13.0

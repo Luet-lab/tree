@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Gearman-Client-Async
+requires: null
+set: false
+use_flags: null
+version: 0.940.0-r2

@@ -1,0 +1,105 @@
+State: ""
+category: mate-extra
+conflicts: []
+name: caja-dropbox
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXinerama
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.50"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.22"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fontconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: dropbox
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: atk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygobject
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: mate-base
+  conflicts: null
+  name: caja
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.19.1
+set: false
+use_flags:
+- debug
+version: 1.22.1

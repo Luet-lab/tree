@@ -1,0 +1,10 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: libccd
+requires: []
+set: false
+use_flags:
+- double
+- doc
+version: "2.0"

@@ -1,0 +1,8 @@
+State: ""
+category: sci-mathematics
+conflicts: null
+name: octave-epstk
+requires: null
+set: false
+use_flags: null
+version: "2.4"

@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: docker-credential-helpers
+requires: null
+set: false
+use_flags: null
+version: 0.6.0

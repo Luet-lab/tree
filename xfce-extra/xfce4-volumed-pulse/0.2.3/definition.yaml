@@ -1,0 +1,57 @@
+State: ""
+category: xfce-extra
+conflicts: []
+name: xfce4-volumed-pulse
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.16"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: keybinder
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: pulseaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.19
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.20"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfconf
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.8"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libnotify
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- libnotify
+version: 0.2.3

@@ -1,0 +1,9 @@
+State: ""
+category: net-misc
+conflicts: null
+name: bsdwhois
+requires: null
+set: false
+use_flags:
+- userland_BSD
+version: 1.43.2.1

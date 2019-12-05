@@ -1,0 +1,25 @@
+State: ""
+category: media-video
+conflicts: []
+name: dvdbackup
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libdvdread
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.2.0_pre
+set: false
+use_flags:
+- nls
+version: 0.4.2

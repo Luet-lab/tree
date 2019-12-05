@@ -1,0 +1,88 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: arpd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: iproute2
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libmnl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libelf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dialup
+  conflicts: null
+  name: linux-atm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbsd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: iptables
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.20
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: db
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- atm
+- berkdb
+- caps
+- elf
+- +iptables
+- ipv6
+- minimal
+- selinux
+version: 5.3.0

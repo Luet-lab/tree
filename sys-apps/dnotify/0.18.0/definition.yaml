@@ -1,0 +1,9 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: dnotify
+requires: []
+set: false
+use_flags:
+- nls
+version: 0.18.0

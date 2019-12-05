@@ -1,0 +1,98 @@
+State: ""
+category: net-misc
+conflicts: []
+name: cfengine
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: postgresql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: tokyocabinet
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.7
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libnsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: db
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: qdbm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: libvirt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+- html
+- libvirt
+- mysql
+- postgres
+- +qdbm
+- selinux
+- tests
+- tokyocabinet
+- vim-syntax
+version: 3.3.9

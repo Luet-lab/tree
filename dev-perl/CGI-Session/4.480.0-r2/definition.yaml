@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: CGI-Session
+requires: null
+set: false
+use_flags: null
+version: 4.480.0-r2

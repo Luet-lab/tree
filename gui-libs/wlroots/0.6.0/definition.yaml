@@ -1,0 +1,134 @@
+State: ""
+category: gui-libs
+conflicts: []
+name: wlroots
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.17.0
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util-wm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxcb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util-image
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-base
+  conflicts: null
+  name: xorg-server
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxkbcommon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pixman
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: elogind
+  requires: null
+  set: false
+  use_flags: null
+  version: "237"
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: freerdp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "237"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libinput
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- elogind
+- icccm
+- rdp
+- systemd
+- x11-backend
+- X
+version: 0.6.0

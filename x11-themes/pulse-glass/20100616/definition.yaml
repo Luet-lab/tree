@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: pulse-glass
+requires: null
+set: false
+use_flags:
+- ""
+version: "20100616"

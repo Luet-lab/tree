@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libieee1284
+requires: null
+set: false
+use_flags: null
+version: 0.2.11-r6

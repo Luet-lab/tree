@@ -1,0 +1,20 @@
+State: ""
+category: sys-libs
+conflicts:
+- State: ""
+  category: <
+  conflicts: null
+  name: newlib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.0
+name: newlib
+requires: []
+set: false
+use_flags:
+- nls
+- threads
+- unicode
+- headers-only
+version: 2.2.0

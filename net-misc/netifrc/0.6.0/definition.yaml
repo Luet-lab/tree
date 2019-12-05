@@ -1,0 +1,33 @@
+State: ""
+category: net-misc
+conflicts:
+- State: ""
+  category: <sys-fs
+  conflicts: null
+  name: udev-init-scripts
+  requires: null
+  set: false
+  use_flags: null
+  version: "27"
+name: netifrc
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gentoo-functions
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.15"
+set: false
+use_flags:
+- ""
+version: 0.6.0

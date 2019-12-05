@@ -1,0 +1,9 @@
+State: ""
+category: app-shells
+conflicts: null
+name: bashdb
+requires: null
+set: false
+use_flags:
+- test
+version: 5.0.1.1.0

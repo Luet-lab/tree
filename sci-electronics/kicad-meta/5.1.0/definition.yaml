@@ -1,0 +1,66 @@
+State: ""
+category: sci-electronics
+conflicts: []
+name: kicad-meta
+requires:
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad-templates
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: app-doc
+  conflicts: null
+  name: kicad-doc
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad-i18n
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad-symbols
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad-footprints
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+- State: ""
+  category: sci-electronics
+  conflicts: null
+  name: kicad-packages3d
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.1.0
+set: false
+use_flags:
+- doc
+- nls
+version: 5.1.0

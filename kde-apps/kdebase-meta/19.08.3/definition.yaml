@@ -1,0 +1,25 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kdebase-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdecore-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-plasma
+  conflicts: null
+  name: plasma-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 19.08.3

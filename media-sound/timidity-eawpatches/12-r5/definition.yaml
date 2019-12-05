@@ -1,0 +1,8 @@
+State: ""
+category: media-sound
+conflicts: []
+name: timidity-eawpatches
+requires: []
+set: false
+use_flags: null
+version: 12-r5

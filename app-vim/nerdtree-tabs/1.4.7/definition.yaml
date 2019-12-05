@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: nerdtree-tabs
+requires: null
+set: false
+use_flags: null
+version: 1.4.7

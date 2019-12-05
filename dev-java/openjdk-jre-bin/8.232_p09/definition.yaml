@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: openjdk-jre-bin
+requires: null
+set: false
+use_flags: null
+version: 8.232_p09

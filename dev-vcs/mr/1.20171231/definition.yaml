@@ -1,0 +1,33 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: mr
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: libwww-perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: HTML-Parser
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.20171231"

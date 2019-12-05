@@ -1,0 +1,8 @@
+State: ""
+category: lxde-base
+conflicts: null
+name: lxpanel
+requires: null
+set: false
+use_flags: null
+version: 0.9.3

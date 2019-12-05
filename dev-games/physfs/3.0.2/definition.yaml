@@ -1,0 +1,20 @@
+State: ""
+category: dev-games
+conflicts: null
+name: physfs
+requires: null
+set: false
+use_flags:
+- 7zip
+- doc
+- grp
+- hog
+- iso
+- mvl
+- qpak
+- slb
+- static-libs
+- vdf
+- wad
+- +zip
+version: 3.0.2

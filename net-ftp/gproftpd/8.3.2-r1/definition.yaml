@@ -1,0 +1,66 @@
+State: ""
+category: net-ftp
+conflicts: []
+name: gproftpd
+requires:
+- State: ""
+  category: net-ftp
+  conflicts: null
+  name: proftpd
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.9
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.0"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: atk
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.0"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.0"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.6f
+set: false
+use_flags:
+- gnome
+- ssl
+version: 8.3.2-r1

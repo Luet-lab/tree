@@ -1,0 +1,30 @@
+State: ""
+category: sys-libs
+conflicts:
+- State: ""
+  category: '!sys-libs'
+  conflicts: null
+  name: uclibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: uclibc-ng
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- hardened
+- iconv
+- ipv6
+- symlink-compat
+- headers-only
+version: 1.0.32

@@ -1,0 +1,9 @@
+State: ""
+category: sci-electronics
+conflicts: []
+name: vbs
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.4.0

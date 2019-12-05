@@ -1,0 +1,8 @@
+State: ""
+category: net-print
+conflicts: null
+name: pykota
+requires: null
+set: false
+use_flags: null
+version: 1.26-r1

@@ -1,0 +1,9 @@
+State: ""
+category: net-mail
+conflicts: null
+name: renattach
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.2.4-r1

@@ -1,0 +1,8 @@
+State: ""
+category: games-fps
+conflicts: null
+name: yamagi-quake2
+requires: null
+set: false
+use_flags: null
+version: "7.41"

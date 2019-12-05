@@ -1,0 +1,67 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: libqalculate
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: cln
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: wget
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-visualization
+  conflicts: null
+  name: gnuplot
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.7"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gnuplot
+- readline
+- static-libs
+version: 0.9.9

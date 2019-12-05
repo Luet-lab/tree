@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: re2c
+requires: null
+set: false
+use_flags:
+- debug
+version: 1.2.1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: driver_base
+requires: null
+set: false
+use_flags: null
+version: 1.6.8

@@ -1,0 +1,9 @@
+State: ""
+category: net-vpn
+conflicts: null
+name: 6tunnel
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.12"

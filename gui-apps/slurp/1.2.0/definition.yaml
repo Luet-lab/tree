@@ -1,0 +1,33 @@
+State: ""
+category: gui-apps
+conflicts: []
+name: slurp
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland-protocols
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.14"
+set: false
+use_flags:
+- +man
+version: 1.2.0

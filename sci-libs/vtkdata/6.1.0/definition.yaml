@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: vtkdata
+requires: null
+set: false
+use_flags: null
+version: 6.1.0

@@ -1,0 +1,32 @@
+State: ""
+category: net-print
+conflicts: []
+name: c2esp
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: jbigkit
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0-r1
+- State: ""
+  category: net-print
+  conflicts: null
+  name: cups
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "27"

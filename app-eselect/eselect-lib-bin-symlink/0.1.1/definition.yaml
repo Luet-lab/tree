@@ -1,0 +1,8 @@
+State: ""
+category: app-eselect
+conflicts: null
+name: eselect-lib-bin-symlink
+requires: null
+set: false
+use_flags: null
+version: 0.1.1

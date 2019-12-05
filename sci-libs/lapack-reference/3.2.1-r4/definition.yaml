@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: lapack-reference
+requires: null
+set: false
+use_flags: null
+version: 3.2.1-r4

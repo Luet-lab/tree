@@ -1,0 +1,25 @@
+State: ""
+category: www-apps
+conflicts:
+- State: ""
+  category: www-client
+  conflicts: null
+  name: chromium
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: chromedriver-bin
+requires:
+- State: ""
+  category: www-client
+  conflicts: null
+  name: google-chrome
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.35-r1

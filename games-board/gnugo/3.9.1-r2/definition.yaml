@@ -1,0 +1,25 @@
+State: ""
+category: games-board
+conflicts: []
+name: gnugo
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.2-r3
+set: false
+use_flags:
+- readline
+version: 3.9.1-r2

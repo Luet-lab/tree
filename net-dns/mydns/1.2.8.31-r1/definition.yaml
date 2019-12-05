@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: mydns
+requires: null
+set: false
+use_flags: null
+version: 1.2.8.31-r1

@@ -1,0 +1,16 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: prelude-lml-rules
+requires:
+- State: ""
+  category: net-analyzer
+  conflicts: null
+  name: prelude-lml
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.0
+set: false
+use_flags: null
+version: 3.1.0

@@ -1,0 +1,9 @@
+State: ""
+category: app-portage
+conflicts: null
+name: euses
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.5.9

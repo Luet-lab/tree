@@ -1,0 +1,56 @@
+State: ""
+category: virtual
+conflicts: []
+name: inetd
+requires:
+- State: ""
+  category: sys-freebsd
+  conflicts: null
+  name: freebsd-usbin )
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: '|| ( sys-apps'
+  conflicts: null
+  name: xinetd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: netkit-base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: ucspi-tcp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: twisted-runner
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: ipsvd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "0"

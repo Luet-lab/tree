@@ -1,0 +1,33 @@
+State: ""
+category: gnustep-base
+conflicts: []
+name: gnustep-updater
+requires:
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: pax-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnustep-base
+  conflicts: null
+  name: gnustep-make
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.6.0
+set: false
+use_flags:
+- ""
+version: "0.2"

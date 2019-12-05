@@ -1,0 +1,25 @@
+State: ""
+category: app-admin
+conflicts: []
+name: restart-services
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: lib_users
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.14.1

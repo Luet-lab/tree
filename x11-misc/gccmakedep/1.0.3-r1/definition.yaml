@@ -1,0 +1,9 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: gccmakedep
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.0.3-r1

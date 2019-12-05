@@ -1,0 +1,9 @@
+State: ""
+category: app-text
+conflicts: null
+name: poppler-data
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.4.9

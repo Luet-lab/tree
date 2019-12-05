@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: lucene
+requires: null
+set: false
+use_flags: null
+version: 2.4.1-r2

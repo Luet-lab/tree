@@ -1,0 +1,40 @@
+State: ""
+category: app-mobilephone
+conflicts: []
+name: gnocky
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: libglade
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-mobilephone
+  conflicts: null
+  name: gnokii
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.0.7

@@ -1,0 +1,24 @@
+State: ""
+category: app-eselect
+conflicts:
+- State: ""
+  category: <app-eselect
+  conflicts: null
+  name: eselect-emacs
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.18"
+name: eselect-ctags
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: eselect
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.3
+set: false
+use_flags: null
+version: "1.18"

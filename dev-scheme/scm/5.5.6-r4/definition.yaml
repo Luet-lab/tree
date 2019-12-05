@@ -1,0 +1,56 @@
+State: ""
+category: dev-scheme
+conflicts: []
+name: scm
+requires:
+- State: ""
+  category: dev-scheme
+  conflicts: null
+  name: slib
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.5
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: cproto
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libtermcap-compat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- arrays
+- bignums
+- cautious
+- dynamic-linking
+- engineering-notation
+- gsubr
+- inexact
+- ioext
+- libscm
+- macro
+- ncurses
+- posix
+- readline
+- regex
+- sockets
+- unix
+version: 5.5.6-r4

@@ -1,0 +1,117 @@
+State: ""
+category: sci-misc
+conflicts:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: quickswitch
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: boinc
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: wxGTK
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-drivers
+  conflicts: null
+  name: nvidia-drivers
+  requires: null
+  set: false
+  use_flags: null
+  version: "180.22"
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl[curl_ssl_gnutls(-)=,curl_ssl_libressl(-)=,-curl_ssl_nss(-),curl_ssl_openssl(-)=,-curl_ssl_axtls(-),-curl_ssl_cyassl(-)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freeglut
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libnotify
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.7"
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: ca-certificates
+  requires: null
+  set: false
+  use_flags: null
+  version: "20080809"
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: nvidia-cuda-toolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.1"
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+- cuda
+- curl_ssl_gnutls
+- curl_ssl_libressl
+- +curl_ssl_openssl
+version: 7.14.2

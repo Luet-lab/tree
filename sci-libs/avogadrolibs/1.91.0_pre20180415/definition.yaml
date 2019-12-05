@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: avogadrolibs
+requires: null
+set: false
+use_flags: null
+version: 1.91.0_pre20180415

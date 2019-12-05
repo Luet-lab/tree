@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: python-dateutil
+requires: null
+set: false
+use_flags: null
+version: 2.7.3

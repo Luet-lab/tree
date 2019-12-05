@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: kodi-visualization-fishbmc
+requires: null
+set: false
+use_flags: null
+version: 5.1.1

@@ -1,0 +1,8 @@
+State: ""
+category: app-emacs
+conflicts: null
+name: csharp-mode
+requires: null
+set: false
+use_flags: null
+version: 0.9.2

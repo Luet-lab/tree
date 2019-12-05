@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: null
+name: dtach
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.9"

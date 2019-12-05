@@ -1,0 +1,18 @@
+State: ""
+category: dev-lang
+conflicts: []
+name: coffee-script
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: nodejs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+version: 1.12.5

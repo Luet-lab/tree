@@ -1,0 +1,24 @@
+State: ""
+category: virtual
+conflicts: []
+name: perl-Scalar-List-Utils
+requires:
+- State: ""
+  category: perl-core
+  conflicts: null
+  name: Scalar-List-Utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.460.0
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.460.0-r1

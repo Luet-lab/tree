@@ -1,0 +1,25 @@
+State: ""
+category: app-emulation
+conflicts:
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: virtualbox-bin
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: =app-emulation
+  conflicts: null
+  name: virtualbox
+  requires: null
+  set: false
+  use_flags: null
+  version: "9999"
+name: virtualbox-additions
+requires: []
+set: false
+use_flags:
+- ""
+version: 5.2.32

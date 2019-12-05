@@ -1,0 +1,18 @@
+State: ""
+category: dev-lang
+conflicts:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: julia
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: julia-bin
+requires: []
+set: false
+use_flags:
+- elibc_glibc
+- elibc_FreeBSD
+version: 1.2.0

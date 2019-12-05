@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: null
+name: skkserv
+requires: null
+set: false
+use_flags:
+- ""
+version: 9.6-r3

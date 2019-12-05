@@ -1,0 +1,33 @@
+State: ""
+category: mate-extra
+conflicts: []
+name: mate-indicator-applet
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.22"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libindicator
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.4"
+- State: ""
+  category: mate-base
+  conflicts: null
+  name: mate-panel
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.17.0
+set: false
+use_flags:
+- ""
+version: 1.22.0

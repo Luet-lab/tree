@@ -1,0 +1,8 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: gtk-engines-ubuntulooks
+requires: null
+set: false
+use_flags: null
+version: 0.9.12-r3

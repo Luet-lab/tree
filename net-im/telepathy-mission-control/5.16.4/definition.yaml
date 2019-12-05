@@ -1,0 +1,8 @@
+State: ""
+category: net-im
+conflicts: null
+name: telepathy-mission-control
+requires: null
+set: false
+use_flags: null
+version: 5.16.4

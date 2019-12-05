@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: apt-cacher-ng
+requires: null
+set: false
+use_flags: null
+version: 3.3_p1-r1

@@ -1,0 +1,10 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: fping
+requires: null
+set: false
+use_flags:
+- ipv6
+- suid
+version: "3.13"

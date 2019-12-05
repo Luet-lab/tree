@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: json_schema
+requires: null
+set: false
+use_flags: null
+version: 0.20.6

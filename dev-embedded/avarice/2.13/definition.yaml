@@ -1,0 +1,9 @@
+State: ""
+category: dev-embedded
+conflicts: null
+name: avarice
+requires: null
+set: false
+use_flags:
+- ""
+version: "2.13"

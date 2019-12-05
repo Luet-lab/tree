@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: ekg-json
+requires: null
+set: false
+use_flags: null
+version: 0.1.0.1

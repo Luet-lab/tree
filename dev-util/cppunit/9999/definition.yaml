@@ -1,0 +1,11 @@
+State: ""
+category: dev-util
+conflicts: []
+name: cppunit
+requires: []
+set: false
+use_flags:
+- doc
+- examples
+- static-libs
+version: "9999"

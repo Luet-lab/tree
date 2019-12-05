@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Net-DNS-Resolver-Mock
+requires: null
+set: false
+use_flags: null
+version: 1.201.710.310

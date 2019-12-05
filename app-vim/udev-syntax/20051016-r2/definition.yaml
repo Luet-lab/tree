@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: udev-syntax
+requires: null
+set: false
+use_flags: null
+version: 20051016-r2

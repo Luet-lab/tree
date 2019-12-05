@@ -1,0 +1,16 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: lft
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "3.80"

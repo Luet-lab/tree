@@ -1,0 +1,17 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: libcangjie
+requires:
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.3"

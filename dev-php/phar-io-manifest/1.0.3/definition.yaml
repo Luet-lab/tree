@@ -1,0 +1,33 @@
+State: ""
+category: dev-php
+conflicts: []
+name: phar-io-manifest
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: fedora-autoloader
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: phar-io-version
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+set: false
+use_flags:
+- examples
+version: 1.0.3

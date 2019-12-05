@@ -1,0 +1,8 @@
+State: ""
+category: dev-vcs
+conflicts: null
+name: hgsubversion
+requires: null
+set: false
+use_flags: null
+version: 1.9.2

@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: xautolock
+requires: null
+set: false
+use_flags: null
+version: 2.2_p5_p1-r1

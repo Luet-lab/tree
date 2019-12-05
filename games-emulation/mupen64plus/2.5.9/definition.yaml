@@ -1,0 +1,79 @@
+State: ""
+category: games-emulation
+conflicts: []
+name: mupen64plus
+requires:
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-core
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-audio-sdl
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-input-sdl
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-rsp-hle
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-ui-console
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: m64py
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.3-r1
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-video-glide64mk2
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: mupen64plus-video-rice
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.9
+set: false
+use_flags:
+- +audio-sdl
+- +input-sdl
+- +rsp-hle
+- +ui-console
+- +ui-m64py
+- +video-glide64mk2
+- +video-rice
+version: 2.5.9

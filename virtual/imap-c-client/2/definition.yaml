@@ -1,0 +1,26 @@
+State: ""
+category: virtual
+conflicts: []
+name: imap-c-client
+requires:
+- State: ""
+  category: "|| (\tnet-libs"
+  conflicts: null
+  name: c-client[kerberos=,ssl=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-mail
+  conflicts: null
+  name: uw-imap[kerberos=,ssl=] )
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- kerberos
+- ssl
+version: "2"

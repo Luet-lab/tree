@@ -1,0 +1,100 @@
+State: ""
+category: net-voip
+conflicts: []
+name: yate
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: speex
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: ilbc-rfc3951
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: spandsp
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.0.3
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: dahdi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: postgresql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: gsm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- cpu_flags_x86_sse2
+- sctp
+- dahdi
+- zaptel
+- wpcard
+- tdmcard
+- wanpipe
+- +ilbc
+- +ilbc-webrtc
+- +isac-float
+- isac-fixed
+- postgres
+- mysql
+- +gsm
+- +speex
+- spandsp
+- +ssl
+- +zlib
+- amrnb
+version: 6.0.0

@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: jemalloc
+requires: null
+set: false
+use_flags: null
+version: 5.0.1

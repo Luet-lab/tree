@@ -1,0 +1,9 @@
+State: ""
+category: app-dicts
+conflicts: null
+name: migemo-dict
+requires: null
+set: false
+use_flags:
+- unicode
+version: "200812"

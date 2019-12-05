@@ -1,0 +1,33 @@
+State: ""
+category: dev-util
+conflicts: []
+name: dwarves
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: elfutils
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.131"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: elfutils
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.177"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+version: "1.13"

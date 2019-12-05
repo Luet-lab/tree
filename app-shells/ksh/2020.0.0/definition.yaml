@@ -1,0 +1,16 @@
+State: ""
+category: app-shells
+conflicts:
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: pdksh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: ksh
+requires: []
+set: false
+use_flags: null
+version: 2020.0.0

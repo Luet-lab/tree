@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libhugetlbfs
+requires: null
+set: false
+use_flags: null
+version: "2.21"

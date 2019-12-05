@@ -1,0 +1,9 @@
+State: ""
+category: dev-qt
+conflicts: []
+name: qttranslations
+requires: []
+set: false
+use_flags:
+- ""
+version: 5.12.5

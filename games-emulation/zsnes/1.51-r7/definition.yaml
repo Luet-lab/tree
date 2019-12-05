@@ -1,0 +1,8 @@
+State: ""
+category: games-emulation
+conflicts: null
+name: zsnes
+requires: null
+set: false
+use_flags: null
+version: 1.51-r7

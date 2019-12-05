@@ -1,0 +1,9 @@
+State: ""
+category: app-cdr
+conflicts: null
+name: cdck
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.7.0-r2

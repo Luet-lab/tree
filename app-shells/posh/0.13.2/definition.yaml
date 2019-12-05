@@ -1,0 +1,9 @@
+State: ""
+category: app-shells
+conflicts: null
+name: posh
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.13.2

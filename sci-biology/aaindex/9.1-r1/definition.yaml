@@ -1,0 +1,18 @@
+State: ""
+category: sci-biology
+conflicts: []
+name: aaindex
+requires:
+- State: ""
+  category: sci-biology
+  conflicts: null
+  name: emboss
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- emboss
+- minimal
+version: 9.1-r1

@@ -1,0 +1,22 @@
+State: ""
+category: dev-qt
+conflicts: null
+name: qt-docs
+requires: null
+set: false
+use_flags:
+- 3d
+- bluetooth
+- charts
+- datavis
+- declarative
+- graphicaleffects
+- +html
+- "location\n\tmultimedia"
+- networkauth
+- +qch
+- script
+- sensors
+- virtualkeyboard
+- webengine
+version: 5.12.3_p201904161302

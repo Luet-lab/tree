@@ -1,0 +1,10 @@
+State: ""
+category: app-doc
+conflicts: null
+name: csound-manual
+requires: null
+set: false
+use_flags:
+- html
+- l10n_fr
+version: "6.08"

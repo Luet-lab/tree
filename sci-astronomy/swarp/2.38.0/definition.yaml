@@ -1,0 +1,10 @@
+State: ""
+category: sci-astronomy
+conflicts: []
+name: swarp
+requires: []
+set: false
+use_flags:
+- doc
+- threads
+version: 2.38.0

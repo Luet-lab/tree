@@ -1,0 +1,11 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: libcerf
+requires: null
+set: false
+use_flags:
+- doc
+- static-libs
+- test
+version: "1.5"

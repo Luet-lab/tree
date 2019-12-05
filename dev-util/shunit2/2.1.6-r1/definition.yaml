@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: shunit2
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.1.6-r1

@@ -1,0 +1,8 @@
+State: ""
+category: gnustep-apps
+conflicts: null
+name: terminal
+requires: null
+set: false
+use_flags: null
+version: 0.9.8

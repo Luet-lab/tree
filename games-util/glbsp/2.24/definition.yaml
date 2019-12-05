@@ -1,0 +1,8 @@
+State: ""
+category: games-util
+conflicts: null
+name: glbsp
+requires: null
+set: false
+use_flags: null
+version: "2.24"

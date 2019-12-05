@@ -1,0 +1,49 @@
+State: ""
+category: net-nds
+conflicts: []
+name: led
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: URI
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Digest-MD5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Authen-SASL
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.6.1
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: perl-ldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.111"

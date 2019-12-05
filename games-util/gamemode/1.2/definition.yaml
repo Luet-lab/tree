@@ -1,0 +1,25 @@
+State: ""
+category: games-util
+conflicts: []
+name: gamemode
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "236"
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: polkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.2"

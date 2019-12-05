@@ -1,0 +1,8 @@
+State: ""
+category: sci-astronomy
+conflicts: null
+name: sextractor
+requires: null
+set: false
+use_flags: null
+version: 2.19.5

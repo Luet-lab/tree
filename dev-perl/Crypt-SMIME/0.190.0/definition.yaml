@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Crypt-SMIME
+requires: null
+set: false
+use_flags: null
+version: 0.190.0

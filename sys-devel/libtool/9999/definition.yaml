@@ -1,0 +1,49 @@
+State: ""
+category: sys-devel
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: sandbox
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.10-r4
+name: libtool
+requires:
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: gnuconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: autoconf
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.69"
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: automake
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.13"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libltdl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- vanilla
+version: "9999"
