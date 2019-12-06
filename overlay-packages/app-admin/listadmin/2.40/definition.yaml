@@ -1,0 +1,81 @@
+
+category: app-admin
+conflicts: []
+name: listadmin
+requires:
+- 
+  category: dev-perl
+
+  name: HTML-TokeParser-Simple
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: Text-Reform
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: TermReadKey
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: Term-ReadLine-Perl
+
+  
+
+  version: ""
+- 
+  category: virtual
+
+  name: perl-MIME-Base64
+
+  
+
+  version: ""
+- 
+  category: dev-lang
+
+  name: perl
+
+  
+
+  version: ""
+- 
+  category: net-mail
+
+  name: mailman
+
+  
+
+  version: ""
+- 
+  category: virtual
+
+  name: perl-Getopt-Long
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: libwww-perl
+
+  
+
+  version: ""
+
+use_flags:
+- ""
+version: "2.40"

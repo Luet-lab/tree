@@ -1,0 +1,155 @@
+
+category: sys-boot
+conflicts:
+- 
+  category: sys-boot
+
+  name: grub
+
+  
+
+  version: ""
+name: grub-2.02_beta3-r1
+requires:
+- 
+  category: sys-libs
+
+  name: ncurses
+
+  
+
+  version: 5.2-r5
+- 
+  category: sys-devel
+
+  name: gettext
+
+  
+
+  version: ""
+- 
+  category: app-crypt
+
+  name: sbsigntools
+
+  
+
+  version: ""
+- 
+  category: x11-themes
+
+  name: sabayon-artwork-grub
+
+  
+
+  version: ""
+- 
+  category: sys-fs
+
+  name: lvm2
+
+  
+
+  version: 2.02.45
+- 
+  category: app-arch
+
+  name: xz-utils
+
+  
+
+  version: ""
+- 
+  category: media-libs
+
+  name: libsdl
+
+  
+
+  version: ""
+- 
+  category: sys-apps
+
+  name: powerpc-utils
+
+  
+
+  version: ""
+- 
+  category: sys-boot
+
+  name: efibootmgr
+
+  
+
+  version: ""
+- 
+  category: sys-fs
+
+  name: zfs
+
+  
+
+  version: ""
+- 
+  category: sys-apps
+
+  name: ibm-powerpc-utils
+
+  
+
+  version: ""
+- 
+  category: media-libs
+
+  name: freetype
+
+  
+
+  version: ""
+- 
+  category: sys-boot
+
+  name: os-prober
+
+  
+
+  version: ""
+- 
+  category: sys-fs
+
+  name: fuse
+
+  
+
+  version: ""
+
+use_flags:
+- debug
+- device-mapper
+- doc
+- efiemu
+- +fonts
+- mount
+- +multislot
+- nls
+- static
+- sdl
+- test
+- +themes
+- truetype
+- libzfs
+- coreboot
+- efi-32
+- efi-64
+- emu
+- ieee1275
+- loongson
+- multiboot
+- qemu
+- qemu-mips
+- pc
+- uboot
+- xen
+- xen-32
+version: ""

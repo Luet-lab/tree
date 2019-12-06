@@ -1,0 +1,250 @@
+
+category: www-apps
+conflicts: []
+name: gitweb
+requires:
+- 
+  category: dev-perl
+
+  name: TermReadKey
+
+  
+
+  version: ""
+- 
+  category: dev-libs
+
+  name: libpcre2[jit(+)]
+
+  
+
+  version: ""
+- 
+  category: dev-libs
+
+  name: expat
+
+  
+
+  version: ""
+- 
+  category: dev-vcs
+
+  name: subversion
+
+  
+
+  version: ""
+- 
+  category: dev-lang
+
+  name: tk
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: MailTools
+
+  
+
+  version: ""
+- 
+  category: dev-lang
+
+  name: perl
+
+  
+
+  version: ""
+- 
+  category: app-crypt
+
+  name: gnupg
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: highlight
+
+  
+
+  version: ""
+- 
+  category: dev-vcs
+
+  name: cvsps
+
+  
+
+  version: "2.1"
+- 
+  category: dev-perl
+
+  name: DateTime-Format-ISO8601
+
+  
+
+  version: ""
+- 
+  category: app-crypt
+
+  name: libsecret
+
+  
+
+  version: ""
+- 
+  category: dev-libs
+
+  name: openssl
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: HTML-Tree
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: libwww-perl
+
+  
+
+  version: ""
+- 
+  category: net-misc
+
+  name: curl
+
+  
+
+  version: ""
+- 
+  category: virtual
+
+  name: emacs
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: MediaWiki-API
+
+  
+
+  version: ""
+- 
+  category: dev-libs
+
+  name: libpcre
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: Authen-SASL
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: CGI
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: DBI
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: DBD-SQLite
+
+  
+
+  version: ""
+- 
+  category: dev-libs
+
+  name: libressl
+
+  
+
+  version: ""
+- 
+  category: dev-perl
+
+  name: Error
+
+  
+
+  version: ""
+- 
+  category: sys-libs
+
+  name: zlib
+
+  
+
+  version: ""
+- 
+  category: dev-vcs
+
+  name: git
+
+  
+
+  version: 2.21.0
+
+use_flags:
+- +blksha1
+- +curl
+- cgi
+- doc
+- emacs
+- gnome-keyring
+- +gpg
+- highlight
+- +iconv
+- libressl
+- mediawiki
+- mediawiki-experimental
+- +nls
+- +pcre
+- +pcre-jit
+- +perl
+- +python
+- ppcsha1
+- tk
+- +threads
+- +webdav
+- xinetd
+- cvs
+- subversion
+- test
+- sab-split
+version: 2.21.0-r2

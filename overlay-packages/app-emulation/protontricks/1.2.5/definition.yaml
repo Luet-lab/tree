@@ -1,0 +1,25 @@
+
+category: app-emulation
+conflicts: []
+name: protontricks
+requires:
+- 
+  category: dev-python
+
+  name: vdf
+
+  
+
+  version: ""
+- 
+  category: app-emulation
+
+  name: winetricks
+
+  
+
+  version: ""
+
+use_flags:
+- ""
+version: 1.2.5
