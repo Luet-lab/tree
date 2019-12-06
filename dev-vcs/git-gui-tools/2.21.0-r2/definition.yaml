@@ -1,0 +1,250 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: git-gui-tools
+requires:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: subversion
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: expat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DBI
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: MediaWiki-API
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: libsecret
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: gnupg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: MailTools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: CGI
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: highlight
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: cvsps
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.1"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Error
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: libwww-perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DateTime-Format-ISO8601
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: TermReadKey
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.21.0
+- State: ""
+  category: virtual
+  conflicts: null
+  name: emacs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Authen-SASL
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: HTML-Tree
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre2[jit(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DBD-SQLite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +blksha1
+- +curl
+- cgi
+- doc
+- emacs
+- gnome-keyring
+- +gpg
+- highlight
+- +iconv
+- libressl
+- mediawiki
+- mediawiki-experimental
+- +nls
+- +pcre
+- +pcre-jit
+- +perl
+- +python
+- ppcsha1
+- tk
+- +threads
+- +webdav
+- xinetd
+- cvs
+- subversion
+- test
+- sab-split
+version: 2.21.0-r2

@@ -1,0 +1,103 @@
+State: ""
+category: app-text
+conflicts: []
+name: poppler
+requires:
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[jpeg2k=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[lcms=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[png=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[tiff=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[nss=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[debug=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[jpeg=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[utils=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[cxx=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler-base-0.79.0[curl=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cairo
+- cjk
+- curl
+- cxx
+- debug
+- doc
+- +introspection
+- +jpeg
+- +jpeg2k
+- +lcms
+- nss
+- png
+- qt5
+- tiff
+- +utils
+version: 0.79.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: broadcom-sta
+requires: null
+set: false
+use_flags: null
+version: 6.30.223.271-r6

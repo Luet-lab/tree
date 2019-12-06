@@ -1,0 +1,8 @@
+State: ""
+category: net-print
+conflicts: null
+name: cnijfilter
+requires: null
+set: false
+use_flags: null
+version: "3.80"

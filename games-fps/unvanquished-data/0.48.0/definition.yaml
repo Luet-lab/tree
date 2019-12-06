@@ -1,0 +1,9 @@
+State: ""
+category: games-fps
+conflicts: null
+name: unvanquished-data
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.48.0

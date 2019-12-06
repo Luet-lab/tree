@@ -1,0 +1,64 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: lightdm-settings
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygobject
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: polkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: xapp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: hicolor-icon-theme
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: lsb-release
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: lightdm-slick-greeter
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setproctitle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.2.4

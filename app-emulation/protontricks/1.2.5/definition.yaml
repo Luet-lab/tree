@@ -1,0 +1,25 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: protontricks
+requires:
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: winetricks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: vdf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.2.5

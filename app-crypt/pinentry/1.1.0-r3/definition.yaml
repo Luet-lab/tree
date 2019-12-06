@@ -1,0 +1,56 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: pinentry
+requires:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pinentry-qt5
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: gcr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pinentry-base
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pinentry-gnome
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pinentry-gtk2
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.0
+set: false
+use_flags:
+- caps
+- emacs
+- gnome-keyring
+- fltk
+- gtk
+- ncurses
+- qt5
+- static
+version: 1.1.0-r3

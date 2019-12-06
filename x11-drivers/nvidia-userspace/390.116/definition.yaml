@@ -1,0 +1,8 @@
+State: ""
+category: x11-drivers
+conflicts: null
+name: nvidia-userspace
+requires: null
+set: false
+use_flags: null
+version: "390.116"

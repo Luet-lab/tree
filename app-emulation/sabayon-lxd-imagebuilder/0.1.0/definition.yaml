@@ -1,0 +1,33 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: sabayon-lxd-imagebuilder
+requires:
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: docker-companion
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: docker
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: lxd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.1.0

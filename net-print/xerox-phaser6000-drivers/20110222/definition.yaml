@@ -1,0 +1,25 @@
+State: ""
+category: net-print
+conflicts: []
+name: xerox-phaser6000-drivers
+requires:
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: emul-linux-x86-baselibs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-print
+  conflicts: null
+  name: cups
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "20110222"

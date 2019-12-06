@@ -1,0 +1,8 @@
+State: ""
+category: x11-plugins
+conflicts: null
+name: cairo-dock-plugins
+requires: null
+set: false
+use_flags: null
+version: 3.4.1

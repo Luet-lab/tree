@@ -1,0 +1,31 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: lightdm
+requires:
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: lightdm-base-1.24.0[introspection=,vala=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: lightdm-qt5
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.24.0
+set: false
+use_flags:
+- audit
+- +gtk
+- +introspection
+- kde
+- qt5
+- +gnome
+- +vala
+version: 1.24.0-r1

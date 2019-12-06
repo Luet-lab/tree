@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: []
+name: pkgs-checker
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.3.1

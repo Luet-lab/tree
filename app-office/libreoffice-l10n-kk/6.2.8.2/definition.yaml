@@ -1,0 +1,8 @@
+State: ""
+category: app-office
+conflicts: null
+name: libreoffice-l10n-kk
+requires: null
+set: false
+use_flags: null
+version: 6.2.8.2

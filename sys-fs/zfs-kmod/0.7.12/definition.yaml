@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: zfs-kmod
+requires: null
+set: false
+use_flags: null
+version: 0.7.12

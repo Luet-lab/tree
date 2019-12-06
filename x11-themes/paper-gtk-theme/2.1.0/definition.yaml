@@ -1,0 +1,24 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: paper-gtk-theme
+requires:
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: gtk-engines
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 2.1.0

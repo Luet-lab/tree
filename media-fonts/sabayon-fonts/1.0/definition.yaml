@@ -1,0 +1,33 @@
+State: ""
+category: media-fonts
+conflicts: []
+name: sabayon-fonts
+requires:
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: asenine
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: animal-tracks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: cicle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.0"

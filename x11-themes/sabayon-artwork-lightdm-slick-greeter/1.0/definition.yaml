@@ -1,0 +1,33 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: sabayon-artwork-lightdm-slick-greeter
+requires:
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: lightdm-slick-greeter
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: lightdm-settings
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: sabayon-artwork-core
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.0"

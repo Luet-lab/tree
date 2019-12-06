@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: avahi-gtk
+requires: null
+set: false
+use_flags: null
+version: 0.7-r1

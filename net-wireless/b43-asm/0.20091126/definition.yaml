@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: b43-asm
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.20091126"

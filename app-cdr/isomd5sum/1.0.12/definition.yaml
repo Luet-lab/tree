@@ -1,0 +1,9 @@
+State: ""
+category: app-cdr
+conflicts: []
+name: isomd5sum
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.12

@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: bamf
+requires: null
+set: false
+use_flags: null
+version: 0.5.3
