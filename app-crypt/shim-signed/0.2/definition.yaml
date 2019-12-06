@@ -1,0 +1,9 @@
+
+category: app-crypt
+conflicts: []
+name: shim-signed
+requires: []
+
+use_flags:
+- ""
+version: "0.2"

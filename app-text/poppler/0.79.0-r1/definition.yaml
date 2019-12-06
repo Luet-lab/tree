@@ -1,0 +1,103 @@
+
+category: app-text
+conflicts: []
+name: poppler
+requires:
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[debug=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[png=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[tiff=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[nss=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[lcms=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[utils=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[cxx=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[curl=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[jpeg=]
+
+  
+
+  version: ""
+- 
+  category: app-text
+
+  name: poppler-base-0.79.0[jpeg2k=]
+
+  
+
+  version: ""
+
+use_flags:
+- cairo
+- cjk
+- curl
+- cxx
+- debug
+- doc
+- +introspection
+- +jpeg
+- +jpeg2k
+- +lcms
+- nss
+- png
+- qt5
+- tiff
+- +utils
+version: 0.79.0-r1

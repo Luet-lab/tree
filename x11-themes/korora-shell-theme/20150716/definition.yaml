@@ -1,0 +1,24 @@
+
+category: x11-themes
+conflicts: []
+name: korora-shell-theme
+requires:
+- 
+  category: gnome-base
+
+  name: gnome-shell
+
+  
+
+  version: "3.10"
+- 
+  category: gnome-extra
+
+  name: gnome-shell-extensions
+
+  
+
+  version: ""
+
+
+version: "20150716"

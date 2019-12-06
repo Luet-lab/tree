@@ -1,0 +1,9 @@
+
+category: net-wireless
+
+name: b43-openfwwf
+
+
+use_flags:
+- ""
+version: "5.2"

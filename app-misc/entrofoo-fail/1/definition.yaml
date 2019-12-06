@@ -1,0 +1,9 @@
+
+category: app-misc
+conflicts: []
+name: entrofoo-fail
+requires: []
+
+use_flags:
+- ""
+version: "1"

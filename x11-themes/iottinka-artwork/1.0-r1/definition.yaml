@@ -1,0 +1,9 @@
+
+category: x11-themes
+conflicts: []
+name: iottinka-artwork
+requires: []
+
+use_flags:
+- ""
+version: 1.0-r1
