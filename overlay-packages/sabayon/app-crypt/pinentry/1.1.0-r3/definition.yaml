@@ -1,0 +1,39 @@
+category: app-crypt
+conflicts: []
+name: pinentry
+requires:
+- 
+  category: app-crypt
+  name: pinentry-base
+  
+  version: 1.1.0
+- 
+  category: app-crypt
+  name: pinentry-gnome
+  
+  version: 1.1.0
+- 
+  category: app-crypt
+  name: pinentry-gtk2
+  
+  version: 1.1.0
+- 
+  category: app-crypt
+  name: pinentry-qt5
+  
+  version: 1.1.0
+- 
+  category: app-crypt
+  name: gcr
+  
+  version: ""
+use_flags:
+- caps
+- emacs
+- gnome-keyring
+- fltk
+- gtk
+- ncurses
+- qt5
+- static
+version: 1.1.0-r3

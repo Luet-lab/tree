@@ -1,0 +1,5 @@
+category: app-misc
+name: passwordless-upgrade
+use_flags:
+- ""
+version: "1"

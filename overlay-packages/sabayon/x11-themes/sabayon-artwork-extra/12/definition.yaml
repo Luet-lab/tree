@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: sabayon-artwork-extra
+requires: []
+use_flags:
+- ""
+version: "12"

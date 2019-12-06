@@ -1,0 +1,14 @@
+category: dev-libs
+conflicts: []
+name: klibc
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- debug
+- test
+- custom-cflags
+version: 2.0.4-r3

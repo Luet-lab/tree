@@ -1,0 +1,22 @@
+category: media-fonts
+conflicts: []
+name: sabayon-fonts
+requires:
+- 
+  category: media-fonts
+  name: cicle
+  
+  version: ""
+- 
+  category: media-fonts
+  name: asenine
+  
+  version: ""
+- 
+  category: media-fonts
+  name: animal-tracks
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

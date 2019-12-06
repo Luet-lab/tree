@@ -1,0 +1,12 @@
+category: x11-misc
+conflicts: []
+name: alacarte-xfce
+requires:
+- 
+  category: x11-misc
+  name: alacarte
+  
+  version: ""
+use_flags:
+- ""
+version: 3.7.90

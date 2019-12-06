@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: crossguid
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+use_flags:
+- ""
+version: 0_pre20150817

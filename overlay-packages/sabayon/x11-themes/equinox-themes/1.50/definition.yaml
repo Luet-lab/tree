@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: equinox-themes
+requires:
+- 
+  category: x11-themes
+  name: gtk-engines-equinox
+  
+  version: ""
+use_flags:
+- chromium
+version: "1.50"

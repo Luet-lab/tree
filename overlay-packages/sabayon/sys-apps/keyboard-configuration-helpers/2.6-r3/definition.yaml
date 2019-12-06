@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: keyboard-configuration-helpers
+requires: []
+use_flags:
+- ""
+version: 2.6-r3

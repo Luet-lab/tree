@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: calamares-sabayon-branding
+requires:
+- 
+  category: app-admin
+  name: calamares
+  
+  version: "1.0"
+use_flags:
+- ""
+version: "15.10"

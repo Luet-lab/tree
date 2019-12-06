@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: linux-binary
+requires:
+- 
+  category: sys-kernel
+  name: linux-sabayon
+  
+  version: ""
+version: "1"

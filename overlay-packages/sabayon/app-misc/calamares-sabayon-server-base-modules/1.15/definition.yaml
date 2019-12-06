@@ -1,0 +1,22 @@
+category: app-misc
+conflicts:
+- 
+  category: '!app-misc'
+  name: calamares-sabayon-base-modules
+  
+  version: ""
+name: calamares-sabayon-server-base-modules
+requires:
+- 
+  category: app-admin
+  name: calamares
+  
+  version: ""
+- 
+  category: sys-kernel
+  name: dracut
+  
+  version: "049"
+use_flags:
+- ""
+version: "1.15"

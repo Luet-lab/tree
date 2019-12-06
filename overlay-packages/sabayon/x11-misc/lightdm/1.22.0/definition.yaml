@@ -1,0 +1,28 @@
+category: x11-misc
+conflicts: []
+name: lightdm
+requires:
+- 
+  category: x11-misc
+  name: lightdm-base-1.22.0[introspection=]
+  
+  version: ""
+- 
+  category: x11-misc
+  name: lightdm-qt4
+  
+  version: 1.22.0
+- 
+  category: x11-misc
+  name: lightdm-qt5
+  
+  version: 1.22.0
+use_flags:
+- audit
+- +gtk
+- +introspection
+- kde
+- qt4
+- qt5
+- +gnome
+version: 1.22.0

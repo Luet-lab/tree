@@ -1,0 +1,8 @@
+category: sys-apps
+name: baselayout
+use_flags:
+- build
+- kernel_FreeBSD
+- kernel_linux
+- +split-usr
+version: 2.6-r1

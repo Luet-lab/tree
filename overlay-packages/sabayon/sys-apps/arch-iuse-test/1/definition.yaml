@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: arch-iuse-test
+requires: []
+use_flags:
+- ""
+version: "1"

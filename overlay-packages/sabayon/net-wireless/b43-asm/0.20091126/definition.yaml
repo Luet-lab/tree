@@ -1,0 +1,5 @@
+category: net-wireless
+name: b43-asm
+use_flags:
+- ""
+version: "0.20091126"

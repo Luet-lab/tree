@@ -1,0 +1,15 @@
+category: x11-themes
+conflicts: []
+name: paper-gtk-theme
+requires:
+- 
+  category: x11-themes
+  name: gtk-engines
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+version: 2.1.0

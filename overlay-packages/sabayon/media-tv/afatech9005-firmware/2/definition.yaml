@@ -1,0 +1,7 @@
+category: media-tv
+conflicts: []
+name: afatech9005-firmware
+requires: []
+use_flags:
+- ""
+version: "2"

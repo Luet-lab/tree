@@ -1,0 +1,20 @@
+category: app-admin
+conflicts: []
+name: cado
+requires:
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+version: "0.9"

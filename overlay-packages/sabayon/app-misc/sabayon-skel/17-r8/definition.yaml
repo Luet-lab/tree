@@ -1,0 +1,12 @@
+category: app-misc
+conflicts:
+- 
+  category: <=app-misc
+  name: sabayonlinux-skel
+  
+  version: 3.5-r6
+name: sabayon-skel
+requires: []
+use_flags:
+- ""
+version: 17-r8

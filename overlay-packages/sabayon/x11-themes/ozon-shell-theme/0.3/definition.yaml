@@ -1,0 +1,15 @@
+category: x11-themes
+conflicts: []
+name: ozon-shell-theme
+requires:
+- 
+  category: gnome-base
+  name: gnome-shell
+  
+  version: "3.12"
+- 
+  category: gnome-extra
+  name: gnome-shell-extensions
+  
+  version: ""
+version: "0.3"
