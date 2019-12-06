@@ -1,0 +1,27 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: libhangul
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+- static-libs
+- test
+version: 0.1.0

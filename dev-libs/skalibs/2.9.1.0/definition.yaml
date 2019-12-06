@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: skalibs
+requires: null
+set: false
+use_flags:
+- doc
+- ipv6
+- static-libs
+version: 2.9.1.0

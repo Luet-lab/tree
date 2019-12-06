@@ -1,0 +1,41 @@
+State: ""
+category: dev-util
+conflicts:
+- State: ""
+  category: <dev-util
+  conflicts: null
+  name: buildbot
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.7
+name: buildbot-worker
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: future
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setuptools
+  requires: null
+  set: false
+  use_flags: null
+  version: 21.2.1
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: twisted
+  requires: null
+  set: false
+  use_flags: null
+  version: 17.9.0
+set: false
+use_flags:
+- test
+version: "9999"

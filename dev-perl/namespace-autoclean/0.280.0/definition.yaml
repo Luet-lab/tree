@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: namespace-autoclean
+requires: null
+set: false
+use_flags: null
+version: 0.280.0

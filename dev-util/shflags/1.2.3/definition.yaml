@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: shflags
+requires: null
+set: false
+use_flags:
+- examples
+version: 1.2.3

@@ -1,0 +1,49 @@
+State: ""
+category: dev-python
+conflicts:
+- State: ""
+  category: <dev-util
+  conflicts: null
+  name: catkin
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.14
+name: catkin_pkg
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: docutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-dateutil
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyparsing
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setuptools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 0.4.12

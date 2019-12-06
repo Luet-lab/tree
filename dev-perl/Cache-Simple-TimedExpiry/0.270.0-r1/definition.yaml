@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Cache-Simple-TimedExpiry
+requires: null
+set: false
+use_flags: null
+version: 0.270.0-r1

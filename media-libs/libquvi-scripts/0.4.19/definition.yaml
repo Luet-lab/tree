@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libquvi-scripts
+requires: null
+set: false
+use_flags:
+- offensive
+version: 0.4.19

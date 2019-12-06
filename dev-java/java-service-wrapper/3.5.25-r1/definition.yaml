@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: java-service-wrapper
+requires: null
+set: false
+use_flags: null
+version: 3.5.25-r1

@@ -1,0 +1,97 @@
+State: ""
+category: x11-terms
+conflicts: []
+name: mate-terminal
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libICE
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libSM
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.50"
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: dconf
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.13.4
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.22"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: vte
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.48"
+- State: ""
+  category: mate-base
+  conflicts: null
+  name: mate-desktop
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: atk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.22.1

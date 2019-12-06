@@ -1,0 +1,38 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libisofs
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: acl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: attr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- acl
+- debug
+- static-libs
+- verbose-debug
+- xattr
+- zlib
+version: 1.5.2

@@ -1,0 +1,8 @@
+State: ""
+category: app-mobilephone
+conflicts: null
+name: smstools
+requires: null
+set: false
+use_flags: null
+version: 3.1.21-r1

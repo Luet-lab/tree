@@ -1,0 +1,8 @@
+State: ""
+category: app-laptop
+conflicts: null
+name: radeontool
+requires: null
+set: false
+use_flags: null
+version: 1.6.3

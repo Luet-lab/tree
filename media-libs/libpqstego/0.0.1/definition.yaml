@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libpqstego
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.0.1

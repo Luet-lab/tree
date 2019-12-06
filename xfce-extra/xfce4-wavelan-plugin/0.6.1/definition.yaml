@@ -1,0 +1,33 @@
+State: ""
+category: xfce-extra
+conflicts: []
+name: xfce4-wavelan-plugin
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: net-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4ui
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfce4-panel
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+set: false
+use_flags:
+- kernel_linux
+version: 0.6.1

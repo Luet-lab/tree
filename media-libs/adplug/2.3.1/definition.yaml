@@ -1,0 +1,18 @@
+State: ""
+category: media-libs
+conflicts: []
+name: adplug
+requires:
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: libbinio
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.4"
+set: false
+use_flags:
+- debug
+- static-libs
+version: 2.3.1

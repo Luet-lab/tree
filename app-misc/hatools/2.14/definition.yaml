@@ -1,0 +1,9 @@
+State: ""
+category: app-misc
+conflicts: null
+name: hatools
+requires: null
+set: false
+use_flags:
+- test
+version: "2.14"

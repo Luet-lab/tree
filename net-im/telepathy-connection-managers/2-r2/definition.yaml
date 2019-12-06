@@ -1,0 +1,91 @@
+State: ""
+category: net-im
+conflicts: []
+name: telepathy-connection-managers
+requires:
+- State: ""
+  category: net-im
+  conflicts: null
+  name: pidgin
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: telepathy-haze
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.0
+- State: ""
+  category: net-irc
+  conflicts: null
+  name: telepathy-idle
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.14
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: telepathy-rakia
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.4
+- State: ""
+  category: x11-plugins
+  conflicts: null
+  name: pidgin-sipe
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.17.1
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: telepathy-salut
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.1
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: telepathy-haze
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-voip
+  conflicts: null
+  name: telepathy-gabble
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.16.4
+- State: ""
+  category: x11-plugins
+  conflicts: null
+  name: pidgin-opensteamworks
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gadu
+- icq
+- +irc
+- meanwhile
+- msn
+- sip
+- sipe
+- +xmpp
+- yahoo
+- steam
+- zeroconf
+version: 2-r2

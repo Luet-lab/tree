@@ -1,0 +1,8 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: mate-backgrounds
+requires: null
+set: false
+use_flags: null
+version: 1.22.0

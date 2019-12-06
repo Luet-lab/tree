@@ -1,0 +1,9 @@
+State: ""
+category: www-servers
+conflicts: []
+name: thttpd
+requires: []
+set: false
+use_flags:
+- ""
+version: 2.27.1

@@ -1,0 +1,8 @@
+State: ""
+category: xfce-extra
+conflicts: null
+name: xfce4-diskperf-plugin
+requires: null
+set: false
+use_flags: null
+version: 2.6.2

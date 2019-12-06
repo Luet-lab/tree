@@ -1,0 +1,9 @@
+State: ""
+category: app-arch
+conflicts: null
+name: lz4
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 1.9.1

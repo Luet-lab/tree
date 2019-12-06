@@ -1,0 +1,57 @@
+State: ""
+category: x11-misc
+conflicts:
+- State: ""
+  category: '!x11-misc'
+  conflicts: null
+  name: mate-menu-editor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: mozo
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.22"
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pygobject
+  requires: null
+  set: false
+  use_flags: null
+  version: "3"
+- State: ""
+  category: mate-base
+  conflicts: null
+  name: mate-menus
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.21.0
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.22.0

@@ -1,0 +1,33 @@
+State: ""
+category: games-server
+conflicts: []
+name: crossfire-server
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXaw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+version: 1.71.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: mail-client
+conflicts: null
+name: novell-groupwise-client
+requires: null
+set: false
+use_flags: null
+version: 8.0.2.96933-r1

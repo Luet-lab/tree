@@ -1,0 +1,8 @@
+State: ""
+category: x11-drivers
+conflicts: null
+name: xf86-input-vmmouse
+requires: null
+set: false
+use_flags: null
+version: "9999"

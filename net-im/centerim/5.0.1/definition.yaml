@@ -1,0 +1,50 @@
+State: ""
+category: net-im
+conflicts: []
+name: centerim
+requires:
+- State: ""
+  category: net-im
+  conflicts: null
+  name: pidgin
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.7.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.16.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libsigc++
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.0
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: gettext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.2"
+set: false
+use_flags:
+- debug
+- nls
+version: 5.0.1

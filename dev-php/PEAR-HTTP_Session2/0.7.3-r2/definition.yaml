@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: PEAR-HTTP_Session2
+requires: null
+set: false
+use_flags: null
+version: 0.7.3-r2

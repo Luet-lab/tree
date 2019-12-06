@@ -1,0 +1,44 @@
+State: ""
+category: app-editors
+conflicts: []
+name: vis
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: tre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-eselect
+  conflicts: null
+  name: eselect-vi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libtermkey
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +ncurses
+- selinux
+- test
+- tre
+version: "0.5"

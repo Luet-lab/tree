@@ -1,0 +1,33 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: screen-message
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.16"
+set: false
+use_flags:
+- ""
+version: "0.25"

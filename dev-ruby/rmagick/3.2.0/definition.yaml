@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: rmagick
+requires: null
+set: false
+use_flags: null
+version: 3.2.0

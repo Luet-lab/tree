@@ -1,0 +1,9 @@
+State: ""
+category: dev-cpp
+conflicts: null
+name: tclap
+requires: null
+set: false
+use_flags:
+- doc
+version: 1.2.2

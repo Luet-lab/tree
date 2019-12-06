@@ -1,0 +1,8 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: mdk
+requires: null
+set: false
+use_flags: null
+version: 3.6-r1

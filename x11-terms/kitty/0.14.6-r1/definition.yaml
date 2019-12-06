@@ -1,0 +1,8 @@
+State: ""
+category: x11-terms
+conflicts: null
+name: kitty
+requires: null
+set: false
+use_flags: null
+version: 0.14.6-r1

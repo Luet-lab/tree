@@ -1,0 +1,11 @@
+State: ""
+category: net-misc
+conflicts: null
+name: iperf
+requires: null
+set: false
+use_flags:
+- ipv6
+- threads
+- debug
+version: 2.0.14a

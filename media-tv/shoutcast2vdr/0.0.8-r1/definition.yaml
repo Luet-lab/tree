@@ -1,0 +1,9 @@
+State: ""
+category: media-tv
+conflicts: []
+name: shoutcast2vdr
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.0.8-r1

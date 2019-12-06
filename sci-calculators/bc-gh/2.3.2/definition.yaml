@@ -1,0 +1,9 @@
+State: ""
+category: sci-calculators
+conflicts: null
+name: bc-gh
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.3.2

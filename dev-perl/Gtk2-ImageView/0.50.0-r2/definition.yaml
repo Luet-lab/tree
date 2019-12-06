@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Gtk2-ImageView
+requires: null
+set: false
+use_flags: null
+version: 0.50.0-r2

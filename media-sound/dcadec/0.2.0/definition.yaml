@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: null
+name: dcadec
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.2.0

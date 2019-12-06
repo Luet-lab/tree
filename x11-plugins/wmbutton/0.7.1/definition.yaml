@@ -1,0 +1,33 @@
+State: ""
+category: x11-plugins
+conflicts: []
+name: wmbutton
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- branding
+version: 0.7.1

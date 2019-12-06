@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: streaming-commons
+requires: null
+set: false
+use_flags: null
+version: 0.1.15

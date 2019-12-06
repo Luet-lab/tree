@@ -1,0 +1,62 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: squashfs-tools-ng
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: lz4
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: lzo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: xz-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: zstd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- lz4
+- lzo
+- selinux
+- +tools
+- +xz
+- zstd
+version: "0.7"

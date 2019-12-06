@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: []
+name: duktape
+requires: []
+set: false
+use_flags:
+- ""
+version: 2.4.0

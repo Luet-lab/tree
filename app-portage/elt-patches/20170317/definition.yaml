@@ -1,0 +1,9 @@
+State: ""
+category: app-portage
+conflicts: null
+name: elt-patches
+requires: null
+set: false
+use_flags:
+- ""
+version: "20170317"

@@ -1,0 +1,8 @@
+State: ""
+category: dev-vcs
+conflicts: null
+name: git-merge-changelog
+requires: null
+set: false
+use_flags: null
+version: "20170131"

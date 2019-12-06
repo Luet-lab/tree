@@ -1,0 +1,26 @@
+State: ""
+category: games-puzzle
+conflicts: []
+name: sgt-puzzles
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xdg-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +doc
+- gtk3
+version: "20190415"

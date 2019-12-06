@@ -1,0 +1,18 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: librevenge
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- test
+version: 0.0.4-r1

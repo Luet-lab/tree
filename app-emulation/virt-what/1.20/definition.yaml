@@ -1,0 +1,25 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: virt-what
+requires:
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dmidecode
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- dmi
+version: "1.20"

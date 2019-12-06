@@ -1,0 +1,727 @@
+State: ""
+category: media-video
+conflicts:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: qt-faststart
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpostproc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: ffmpeg
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: kvazaar
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libiec61883
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.0-r1
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: xz-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.0.5-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.0-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libbluray
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.0-r1
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: snappy
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.2-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fdk-aac
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.3
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: zeromq
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.1.6
+- State: ""
+  category: media-video
+  conflicts: null
+  name: nvidia_video_sdk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: gsm
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.13-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: 0-r1
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libraw1394
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.0-r1
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: pulseaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libcdio-paranoia
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.90_p1-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: chromaprint
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: vo-amrwbenc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.2-r1
+- State: ""
+  category: app-accessibility
+  conflicts: null
+  name: flite
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4-r4
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: librsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: zimg
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.4"
+- State: ""
+  category: media-plugins
+  conflicts: null
+  name: frei0r-plugins
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libssh
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.5
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: opencore-amr
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.3-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libogg
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.3.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libwebp
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: game-music-emu
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libass
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.10.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: x264
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.0.20130506
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: xvid
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.3.2-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fontconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.10.92
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openjpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openh264
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.0-r1
+- State: ""
+  category: media-video
+  conflicts: null
+  name: rtmpdump
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4_p20131018
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: speex
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2_rc1-r1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxcb
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.4"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvpx
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.27.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: x265
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: soxr
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: raspberrypi-userland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: samba
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.6.23-r1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libva
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.1-r1
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: lame
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.99.5-r1
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: gnutls
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.12.23-r6
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXext
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.3.2
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: "6"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libcaca-0.99_beta18-r1
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libv4l
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.5
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libmodplug
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.8.4-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.1h-r2
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.6-r4
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libtheora
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.1
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: wavpack
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.60.1-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: fribidi
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.19.6
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libavc1394
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.5.4-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libbs2b
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.0-r1
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: twolame
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.3.13-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libdrm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: rubberband
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.8.1-r1
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.8-r1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.6"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.0.1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXv
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.10
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: zvbi
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.35
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libdc1394
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libilbc
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: openal
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.15.1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: opus
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2-r2
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libvdpau
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.7"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvorbis
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.3.3-r1
+set: false
+use_flags:
+- alsa
+- chromium
+- doc
+- +encode
+- jack
+- oss
+- pic
+- static-libs
+- test
+- "v4l\n\t+bzip2"
+- cpudetection
+- debug
+- gcrypt
+- gnutls
+- gmp
+- +gpl
+- +hardcoded-tables
+- +iconv
+- lzma
+- +network
+- opencl
+- openssl
+- +postproc
+- samba
+- sdl
+- vaapi
+- vdpau
+- X
+- xcb
+- +zlib
+- cdio
+- iec61883
+- ieee1394
+- libcaca
+- openal
+- opengl
+- libv4l
+- pulseaudio
+- libdrm
+- amr
+- fdk
+- jpeg2k
+- bluray
+- gme
+- gsm
+- mmal
+- modplug
+- opus
+- libilbc
+- librtmp
+- ssh
+- speex
+- svg
+- vorbis
+- vpx
+- zvbi
+- appkit
+- bs2b
+- chromaprint
+- flite
+- frei0r
+- fribidi
+- fontconfig
+- ladspa
+- libass
+- truetype
+- rubberband
+- zeromq
+- zimg
+- libsoxr
+- "+threads\n\tamrenc"
+- mp3
+- kvazaar
+- nvenc
+- openh264
+- snappy
+- theora
+- twolame
+- wavpack
+- webp
+- x264
+- x265
+- "xvid\n\n\tcpu_flags_arm_thumb:armv5te"
+- cpu_flags_arm_v6:armv6
+- cpu_flags_arm_thumb2:armv6t2
+- cpu_flags_arm_neon:neon
+- cpu_flags_arm_vfp:vfp
+- cpu_flags_arm_vfpv3:vfpv3
+- cpu_flags_arm_v8
+- mipsdspr1
+- altivec
+- 3dnow:amd3dnow
+- 3dnowext:amd3dnowext
+- aes:aesni
+- avx:avx
+- avx2:avx2
+- fma3:fma3
+- fma4:fma4
+- mmx:mmx
+- mmxext:mmxext
+- sse:sse
+- sse2:sse2
+- sse3:sse3
+- ssse3:ssse3
+- sse4_1:sse4
+- sse4_2:sse42
+- xop
+- aviocat
+- cws2fws
+- ffescape
+- ffeval
+- ffhash
+- fourcc2pixfmt
+- graph2dot
+- ismindex
+- pktdumper
+- qt-faststart
+- sidxindex
+- trasher
+version: 3.4.6-r1

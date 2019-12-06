@@ -1,0 +1,8 @@
+State: ""
+category: dev-tcltk
+conflicts: null
+name: tablelist
+requires: null
+set: false
+use_flags: null
+version: "5.8"

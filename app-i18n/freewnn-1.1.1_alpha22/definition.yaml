@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: null
+name: freewnn-1.1.1_alpha22
+requires: null
+set: false
+use_flags:
+- ipv6
+version: ""

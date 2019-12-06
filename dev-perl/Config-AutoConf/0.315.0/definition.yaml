@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Config-AutoConf
+requires: null
+set: false
+use_flags: null
+version: 0.315.0

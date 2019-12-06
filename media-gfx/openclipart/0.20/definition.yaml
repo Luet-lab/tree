@@ -1,0 +1,11 @@
+State: ""
+category: media-gfx
+conflicts: null
+name: openclipart
+requires: null
+set: false
+use_flags:
+- svg
+- png
+- gzip
+version: "0.20"

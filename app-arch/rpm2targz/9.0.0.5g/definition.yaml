@@ -1,0 +1,8 @@
+State: ""
+category: app-arch
+conflicts: null
+name: rpm2targz
+requires: null
+set: false
+use_flags: null
+version: 9.0.0.5g

@@ -1,0 +1,26 @@
+State: ""
+category: sys-cluster
+conflicts: []
+name: ucx
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: binutils-libs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: numactl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +numa
+- +openmp
+version: 1.5.2

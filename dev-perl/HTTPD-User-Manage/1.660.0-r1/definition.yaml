@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: HTTPD-User-Manage
+requires: null
+set: false
+use_flags: null
+version: 1.660.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: mail-client
+conflicts: null
+name: mailx
+requires: null
+set: false
+use_flags: null
+version: 8.1.2.20160123

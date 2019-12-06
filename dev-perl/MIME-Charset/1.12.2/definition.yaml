@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: MIME-Charset
+requires: null
+set: false
+use_flags: null
+version: 1.12.2

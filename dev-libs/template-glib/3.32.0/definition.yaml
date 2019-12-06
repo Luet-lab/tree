@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: template-glib
+requires: null
+set: false
+use_flags: null
+version: 3.32.0

@@ -1,0 +1,42 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: hashcat
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: lzma
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: xxhash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-drivers
+  conflicts: null
+  name: nvidia-drivers
+  requires: null
+  set: false
+  use_flags: null
+  version: "367.0"
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- brain
+- video_cards_nvidia
+version: 5.1.0

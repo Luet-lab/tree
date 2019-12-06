@@ -1,0 +1,32 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: ckbcomp
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: kbd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xkeyboard-config
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "1.164"

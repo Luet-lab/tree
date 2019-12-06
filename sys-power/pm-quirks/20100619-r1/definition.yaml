@@ -1,0 +1,9 @@
+State: ""
+category: sys-power
+conflicts: null
+name: pm-quirks
+requires: null
+set: false
+use_flags:
+- ""
+version: 20100619-r1

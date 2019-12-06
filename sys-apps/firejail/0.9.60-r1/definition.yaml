@@ -1,0 +1,32 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: firejail
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libapparmor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- apparmor
+- +chroot
+- contrib
+- debug
+- +file-transfer
+- +globalcfg
+- +network
+- +overlayfs
+- +private-home
+- +seccomp
+- +suid
+- test
+- +userns
+- vim-syntax
+- +whitelist
+- x11
+version: 0.9.60-r1

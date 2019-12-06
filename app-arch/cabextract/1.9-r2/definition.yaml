@@ -1,0 +1,25 @@
+State: ""
+category: app-arch
+conflicts: []
+name: cabextract
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libmspack
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8_alpha
+set: false
+use_flags:
+- extras
+version: 1.9-r2

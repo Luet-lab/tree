@@ -1,0 +1,8 @@
+State: ""
+category: app-metrics
+conflicts: null
+name: alertmanager
+requires: null
+set: false
+use_flags: null
+version: 0.18.0

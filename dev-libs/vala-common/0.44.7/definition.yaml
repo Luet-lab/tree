@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: vala-common
+requires: null
+set: false
+use_flags: null
+version: 0.44.7

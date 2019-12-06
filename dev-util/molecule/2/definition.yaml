@@ -1,0 +1,25 @@
+State: ""
+category: dev-util
+conflicts: []
+name: molecule
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: molecule-core
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: molecule-plugins
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2
+set: false
+use_flags:
+- +plugins
+version: "2"

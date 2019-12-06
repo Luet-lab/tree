@@ -1,0 +1,8 @@
+State: ""
+category: sys-auth
+conflicts: null
+name: pam_u2f
+requires: null
+set: false
+use_flags: null
+version: 1.0.7

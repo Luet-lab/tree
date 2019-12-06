@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: []
+name: timidity-freepats
+requires: []
+set: false
+use_flags:
+- ""
+version: 20060219-r1

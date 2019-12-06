@@ -1,0 +1,47 @@
+State: ""
+category: dev-embedded
+conflicts:
+- State: ""
+  category: <dev-embedded
+  conflicts: null
+  name: ftdi_eeprom
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.0"
+name: libftdi
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: confuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cxx
+- doc
+- examples
+- python
+- static-libs
+- test
+- tools
+version: 1.2-r1

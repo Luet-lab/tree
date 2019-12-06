@@ -1,0 +1,14 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: gentoo-artwork
+requires: []
+set: false
+use_flags:
+- kde
+- offensive
+- +icons
+- +pixmaps
+- +grub
+- lilo
+version: 0.4.2-r1

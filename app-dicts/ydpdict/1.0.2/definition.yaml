@@ -1,0 +1,33 @@
+State: ""
+category: app-dicts
+conflicts: []
+name: ydpdict
+requires:
+- State: ""
+  category: app-dicts
+  conflicts: null
+  name: libydpdict
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libao
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ao
+version: 1.0.2

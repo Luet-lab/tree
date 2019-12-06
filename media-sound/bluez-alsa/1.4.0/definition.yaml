@@ -1,0 +1,87 @@
+State: ""
+category: media-sound
+conflicts: []
+name: bluez-alsa
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.26"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sbc
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libldac
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: bluez
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.0"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fdk-aac
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbsd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- aac
+- debug
+- hcitop
+- ldac
+- ofono
+- static-libs
+- test
+version: 1.4.0

@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libpo6
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.8.0

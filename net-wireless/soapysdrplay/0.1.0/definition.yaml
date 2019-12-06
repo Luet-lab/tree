@@ -1,0 +1,25 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: soapysdrplay
+requires:
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: soapysdr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-wireless
+  conflicts: null
+  name: sdrplay
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.1.0

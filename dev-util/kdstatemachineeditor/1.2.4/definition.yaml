@@ -1,0 +1,50 @@
+State: ""
+category: dev-util
+conflicts: []
+name: kdstatemachineeditor
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdeclarative
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtnetwork
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- test
+version: 1.2.4

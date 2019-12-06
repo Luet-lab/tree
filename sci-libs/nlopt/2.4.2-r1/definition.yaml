@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: nlopt
+requires: null
+set: false
+use_flags: null
+version: 2.4.2-r1

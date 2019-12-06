@@ -1,0 +1,31 @@
+State: ""
+category: games-mud
+conflicts: []
+name: tf-50_beta8-r2
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +atcp
+- debug
+- doc
+- +gmcp
+- ipv6
+- +option102
+- ssl
+version: ""

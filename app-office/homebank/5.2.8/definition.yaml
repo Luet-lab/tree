@@ -1,0 +1,8 @@
+State: ""
+category: app-office
+conflicts: null
+name: homebank
+requires: null
+set: false
+use_flags: null
+version: 5.2.8

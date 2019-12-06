@@ -1,0 +1,25 @@
+State: ""
+category: media-libs
+conflicts:
+- State: ""
+  category: <media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: "9"
+name: glu
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.0-r1
+set: false
+use_flags:
+- static-libs
+version: "9999"

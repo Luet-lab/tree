@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: metamail
+requires: null
+set: false
+use_flags: null
+version: 2.7.53.3-r2

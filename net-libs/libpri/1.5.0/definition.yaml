@@ -1,0 +1,9 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libpri
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.5.0

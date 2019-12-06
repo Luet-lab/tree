@@ -1,0 +1,9 @@
+State: ""
+category: dev-util
+conflicts: null
+name: distro-info-data
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.29"

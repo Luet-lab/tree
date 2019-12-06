@@ -1,0 +1,57 @@
+State: ""
+category: dev-php
+conflicts: []
+name: PEAR-File_Archive
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-MIME_Type
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-PEAR
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-Mail_Mime
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-Mail
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-Cache_Lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- minimal
+version: 1.5.5-r1

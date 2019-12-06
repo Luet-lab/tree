@@ -1,0 +1,19 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libinsane
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: sane-backends
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- gtk-doc
+- test
+version: 1.0.1

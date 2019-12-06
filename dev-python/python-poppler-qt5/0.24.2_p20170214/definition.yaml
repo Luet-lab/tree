@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: python-poppler-qt5
+requires: null
+set: false
+use_flags: null
+version: 0.24.2_p20170214

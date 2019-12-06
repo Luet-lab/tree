@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: PEAR-Text_Wiki_Mediawiki
+requires: null
+set: false
+use_flags: null
+version: 0.2.0_p20140604

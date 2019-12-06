@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: gnulib
+requires: null
+set: false
+use_flags:
+- doc
+version: 2019.03.17.09.24.57

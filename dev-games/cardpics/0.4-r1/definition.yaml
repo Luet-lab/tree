@@ -1,0 +1,9 @@
+State: ""
+category: dev-games
+conflicts: null
+name: cardpics
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.4-r1

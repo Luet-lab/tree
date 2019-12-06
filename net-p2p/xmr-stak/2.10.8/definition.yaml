@@ -1,0 +1,54 @@
+State: ""
+category: net-p2p
+conflicts: []
+name: xmr-stak
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: hwloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libmicrohttpd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: nvidia-cuda-toolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cuda
+- devfee
+- hwloc
+- opencl
+- ssl
+- webserver
+version: 2.10.8

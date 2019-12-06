@@ -1,0 +1,11 @@
+State: ""
+category: sci-biology
+conflicts: []
+name: hmmer
+requires: []
+set: false
+use_flags:
+- altivec
+- test
+- threads
+version: 2.3.2-r4

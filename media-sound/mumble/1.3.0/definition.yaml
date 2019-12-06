@@ -1,0 +1,222 @@
+State: ""
+category: media-sound
+conflicts: []
+name: mumble
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtxml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: speex
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: opus
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.1
+- State: ""
+  category: net-dns
+  conflicts: null
+  name: avahi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: portaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: protobuf
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.0b
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtnetwork
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: speexdsp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: g15daemon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: pulseaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsndfile
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.20
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: lsb-release
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-accessibility
+  conflicts: null
+  name: speech-dispatcher
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.0
+set: false
+use_flags:
+- +alsa
+- +dbus
+- debug
+- g15
+- jack
+- libressl
+- +opus
+- oss
+- pch
+- portaudio
+- pulseaudio
+- +rnnoise
+- speech
+- zeroconf
+version: 1.3.0

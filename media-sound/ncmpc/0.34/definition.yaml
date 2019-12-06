@@ -1,0 +1,8 @@
+State: ""
+category: media-sound
+conflicts: null
+name: ncmpc
+requires: null
+set: false
+use_flags: null
+version: "0.34"

@@ -1,0 +1,8 @@
+State: ""
+category: app-office
+conflicts: null
+name: gnucash
+requires: null
+set: false
+use_flags: null
+version: "3.7"

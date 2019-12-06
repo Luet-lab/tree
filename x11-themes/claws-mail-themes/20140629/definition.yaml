@@ -1,0 +1,16 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: claws-mail-themes
+requires:
+- State: ""
+  category: mail-client
+  conflicts: null
+  name: claws-mail
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "20140629"

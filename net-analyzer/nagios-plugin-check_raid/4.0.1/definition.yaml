@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: nagios-plugin-check_raid
+requires: null
+set: false
+use_flags: null
+version: 4.0.1

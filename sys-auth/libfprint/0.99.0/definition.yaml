@@ -1,0 +1,8 @@
+State: ""
+category: sys-auth
+conflicts: null
+name: libfprint
+requires: null
+set: false
+use_flags: null
+version: 0.99.0

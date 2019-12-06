@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: wine-desktop-common
+requires: null
+set: false
+use_flags: null
+version: 20150204-r1

@@ -1,0 +1,34 @@
+State: ""
+category: dev-tcltk
+conflicts: []
+name: tkpng
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tk
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.4"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tcl
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.4"
+set: false
+use_flags:
+- debug
+- threads
+version: "0.9"

@@ -1,0 +1,26 @@
+State: ""
+category: dev-php
+conflicts: []
+name: PEAR-Console_CommandLine
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-PEAR
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- examples
+- test
+version: 1.2.2

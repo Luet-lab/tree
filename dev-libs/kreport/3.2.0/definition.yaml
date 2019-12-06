@@ -1,0 +1,27 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: kreport
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: kproperty
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.0
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwebkit
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.212.0_pre20180120
+set: false
+use_flags:
+- marble
+- +scripting
+- webkit
+version: 3.2.0

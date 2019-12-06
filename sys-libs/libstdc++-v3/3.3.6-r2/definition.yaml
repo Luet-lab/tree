@@ -1,0 +1,8 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: libstdc++-v3
+requires: null
+set: false
+use_flags: null
+version: 3.3.6-r2

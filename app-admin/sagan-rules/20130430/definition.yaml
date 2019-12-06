@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: []
+name: sagan-rules
+requires: []
+set: false
+use_flags:
+- +lognorm
+version: "20130430"

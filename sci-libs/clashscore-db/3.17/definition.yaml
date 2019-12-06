@@ -1,0 +1,9 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: clashscore-db
+requires: null
+set: false
+use_flags:
+- ""
+version: "3.17"

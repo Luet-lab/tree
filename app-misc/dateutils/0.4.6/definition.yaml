@@ -1,0 +1,16 @@
+State: ""
+category: app-misc
+conflicts:
+- State: ""
+  category: sys-fabric
+  conflicts: null
+  name: dapl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: dateutils
+requires: []
+set: false
+use_flags: null
+version: 0.4.6

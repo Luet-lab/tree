@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: reducers
+requires: null
+set: false
+use_flags: null
+version: 3.12.1-r1

@@ -1,0 +1,25 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: rar2fs
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: unrar
+  requires: null
+  set: false
+  use_flags: null
+  version: "5"
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+version: 1.28.0

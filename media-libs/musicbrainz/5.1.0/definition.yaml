@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: musicbrainz
+requires: null
+set: false
+use_flags: null
+version: 5.1.0

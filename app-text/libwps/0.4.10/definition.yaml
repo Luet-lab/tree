@@ -1,0 +1,20 @@
+State: ""
+category: app-text
+conflicts: []
+name: libwps
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: librevenge
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- debug
+- static-libs
+- tools
+version: 0.4.10

@@ -1,0 +1,10 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libaio
+requires: null
+set: false
+use_flags:
+- static-libs
+- test
+version: 0.3.112

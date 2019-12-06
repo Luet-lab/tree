@@ -1,0 +1,9 @@
+State: ""
+category: dev-lisp
+conflicts: []
+name: alexandria
+requires: []
+set: false
+use_flags:
+- doc
+version: "20171029"

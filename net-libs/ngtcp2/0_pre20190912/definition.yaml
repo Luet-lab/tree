@@ -1,0 +1,10 @@
+State: ""
+category: net-libs
+conflicts: []
+name: ngtcp2
+requires: []
+set: false
+use_flags:
+- ssl
+- test
+version: 0_pre20190912

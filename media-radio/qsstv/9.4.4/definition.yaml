@@ -1,0 +1,8 @@
+State: ""
+category: media-radio
+conflicts: null
+name: qsstv
+requires: null
+set: false
+use_flags: null
+version: 9.4.4

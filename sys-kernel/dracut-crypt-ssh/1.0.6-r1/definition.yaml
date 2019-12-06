@@ -1,0 +1,33 @@
+State: ""
+category: sys-kernel
+conflicts: []
+name: dracut-crypt-ssh
+requires:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: dhcp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: dropbear
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: dracut
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.0.6-r1

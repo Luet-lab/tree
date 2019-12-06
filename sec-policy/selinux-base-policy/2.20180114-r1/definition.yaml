@@ -1,0 +1,10 @@
+State: ""
+category: sec-policy
+conflicts: null
+name: selinux-base-policy
+requires: null
+set: false
+use_flags:
+- systemd
+- +unconfined
+version: 2.20180114-r1

@@ -1,0 +1,8 @@
+State: ""
+category: net-misc
+conflicts: null
+name: minissdpd
+requires: null
+set: false
+use_flags: null
+version: 1.5.20190824

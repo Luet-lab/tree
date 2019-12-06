@@ -1,0 +1,9 @@
+State: ""
+category: games-board
+conflicts: null
+name: tablebase-syzygy
+requires: null
+set: false
+use_flags:
+- 6-pieces
+version: 0_pre20131213-r100

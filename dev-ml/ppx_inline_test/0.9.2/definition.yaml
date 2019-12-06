@@ -1,0 +1,8 @@
+State: ""
+category: dev-ml
+conflicts: null
+name: ppx_inline_test
+requires: null
+set: false
+use_flags: null
+version: 0.9.2

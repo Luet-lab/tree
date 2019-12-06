@@ -1,0 +1,66 @@
+State: ""
+category: dev-ml
+conflicts:
+- State: ""
+  category: <www-servers
+  conflicts: null
+  name: ocsigen
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.1"
+name: lwt
+requires:
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_tools_versioned
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: camlp4
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: ocaml
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.02"
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: result
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ocaml-migrate-parsetree
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +camlp4
+- +libev
+version: 3.1.0

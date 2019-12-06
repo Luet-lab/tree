@@ -1,0 +1,33 @@
+State: ""
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-twentyfortyeight
+requires:
+- State: ""
+  category: games-emulation
+  conflicts: null
+  name: libretro-twentyfortyeight
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-plugins
+  conflicts: null
+  name: kodi-game-libretro
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-tv
+  conflicts: null
+  name: kodi
+  requires: null
+  set: false
+  use_flags: null
+  version: "18"
+set: false
+use_flags:
+- ""
+version: 1.0.0.109

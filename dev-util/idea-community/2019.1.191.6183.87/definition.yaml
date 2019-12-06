@@ -1,0 +1,26 @@
+State: ""
+category: dev-util
+conflicts:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: idea-community
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: idea-community
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jdk
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.7"
+set: false
+use_flags:
+- +jbr8
+- -jbr11
+version: 2019.1.191.6183.87

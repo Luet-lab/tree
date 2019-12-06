@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: paperkey
+requires: null
+set: false
+use_flags:
+- ""
+version: "1.6"

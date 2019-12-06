@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: owfs
+requires: null
+set: false
+use_flags: null
+version: 3.2_p2-r2

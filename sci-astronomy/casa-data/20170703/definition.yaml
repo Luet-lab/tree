@@ -1,0 +1,9 @@
+State: ""
+category: sci-astronomy
+conflicts: []
+name: casa-data
+requires: []
+set: false
+use_flags:
+- ""
+version: "20170703"

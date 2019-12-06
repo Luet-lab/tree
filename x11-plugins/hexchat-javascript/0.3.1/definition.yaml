@@ -1,0 +1,8 @@
+State: ""
+category: x11-plugins
+conflicts: null
+name: hexchat-javascript
+requires: null
+set: false
+use_flags: null
+version: 0.3.1

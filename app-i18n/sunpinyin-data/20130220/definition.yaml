@@ -1,0 +1,9 @@
+State: ""
+category: app-i18n
+conflicts: null
+name: sunpinyin-data
+requires: null
+set: false
+use_flags:
+- ""
+version: "20130220"

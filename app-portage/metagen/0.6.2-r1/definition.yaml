@@ -1,0 +1,8 @@
+State: ""
+category: app-portage
+conflicts: null
+name: metagen
+requires: null
+set: false
+use_flags: null
+version: 0.6.2-r1

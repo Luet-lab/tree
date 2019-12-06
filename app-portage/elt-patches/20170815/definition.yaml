@@ -1,0 +1,17 @@
+State: ""
+category: app-portage
+conflicts: []
+name: elt-patches
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gentoo-functions
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "20170815"

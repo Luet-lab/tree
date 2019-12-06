@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: null
+name: dcaenc
+requires: null
+set: false
+use_flags:
+- alsa
+version: "2"

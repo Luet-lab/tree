@@ -1,0 +1,18 @@
+State: ""
+category: app-doc
+conflicts:
+- State: ""
+  category: app-doc
+  conflicts: null
+  name: pms-bin
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: pms
+requires: []
+set: false
+use_flags:
+- html
+- twoside
+version: 7_p20180430-r1

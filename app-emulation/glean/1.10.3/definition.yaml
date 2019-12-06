@@ -1,0 +1,8 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: glean
+requires: null
+set: false
+use_flags: null
+version: 1.10.3

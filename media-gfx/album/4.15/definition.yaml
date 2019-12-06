@@ -1,0 +1,44 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: album
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: jhead
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: imagemagick-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- ffmpeg
+- plugins
+- themes
+version: "4.15"

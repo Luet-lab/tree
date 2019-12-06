@@ -1,0 +1,48 @@
+State: ""
+category: x11-plugins
+conflicts: []
+name: purple-hangouts
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: protobuf-c
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-im
+  conflicts: null
+  name: pidgin
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: json-glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0_p20181108

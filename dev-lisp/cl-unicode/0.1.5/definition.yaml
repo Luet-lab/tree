@@ -1,0 +1,8 @@
+State: ""
+category: dev-lisp
+conflicts: null
+name: cl-unicode
+requires: null
+set: false
+use_flags: null
+version: 0.1.5

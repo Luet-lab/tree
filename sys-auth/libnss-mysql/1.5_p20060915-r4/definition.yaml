@@ -1,0 +1,8 @@
+State: ""
+category: sys-auth
+conflicts: null
+name: libnss-mysql
+requires: null
+set: false
+use_flags: null
+version: 1.5_p20060915-r4

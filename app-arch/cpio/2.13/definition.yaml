@@ -1,0 +1,9 @@
+State: ""
+category: app-arch
+conflicts: null
+name: cpio
+requires: null
+set: false
+use_flags:
+- nls
+version: "2.13"

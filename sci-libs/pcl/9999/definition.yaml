@@ -1,0 +1,158 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: pcl
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: qhull
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: vtk
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.6"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freeglut
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtopengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: nvidia-cuda-toolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: eigen
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: OpenNI2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: flann
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.7.1
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: OpenNI
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtconcurrent
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cuda
+- doc
+- opengl
+- openni
+- openni2
+- pcap
+- png
+- +qhull
+- qt5
+- usb
+- vtk
+- cpu_flags_x86_sse
+- test
+- tutorials
+version: "9999"

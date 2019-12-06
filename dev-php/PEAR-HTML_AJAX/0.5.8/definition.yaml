@@ -1,0 +1,9 @@
+State: ""
+category: dev-php
+conflicts: null
+name: PEAR-HTML_AJAX
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.5.8

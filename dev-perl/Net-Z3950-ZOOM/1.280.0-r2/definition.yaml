@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Net-Z3950-ZOOM
+requires: null
+set: false
+use_flags: null
+version: 1.280.0-r2

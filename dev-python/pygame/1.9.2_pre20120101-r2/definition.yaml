@@ -1,0 +1,67 @@
+State: ""
+category: dev-python
+conflicts: []
+name: pygame
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sdl-ttf
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.6
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: smpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.4.4-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl-1.2.5[X,video]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.5
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: numpy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sdl-image
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sdl-mixer
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.4
+set: false
+use_flags:
+- doc
+- examples
+- X
+version: 1.9.2_pre20120101-r2

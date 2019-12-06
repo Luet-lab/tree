@@ -1,0 +1,51 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libpcre
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libedit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- bzip2
+- +cxx
+- +jit
+- libedit
+- pcre16
+- pcre32
+- +readline
+- +recursion-limit
+- static-libs
+- unicode
+- zlib
+version: "8.43"

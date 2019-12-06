@@ -1,0 +1,26 @@
+State: ""
+category: net-misc
+conflicts: []
+name: pen
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: geoip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- geoip
+- ssl
+version: 0.34.1

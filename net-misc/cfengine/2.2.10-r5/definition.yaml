@@ -1,0 +1,41 @@
+State: ""
+category: net-misc
+conflicts: []
+name: cfengine
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.1"
+- State: ""
+  category: app-portage
+  conflicts: null
+  name: portage-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libnsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: db
+  requires: null
+  set: false
+  use_flags: null
+  version: "4"
+set: false
+use_flags:
+- vim-syntax
+version: 2.2.10-r5

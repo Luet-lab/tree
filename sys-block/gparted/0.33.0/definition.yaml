@@ -1,0 +1,8 @@
+State: ""
+category: sys-block
+conflicts: null
+name: gparted
+requires: null
+set: false
+use_flags: null
+version: 0.33.0

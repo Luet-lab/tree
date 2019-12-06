@@ -1,0 +1,9 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: snapraid
+requires: null
+set: false
+use_flags:
+- test
+version: "10.0"

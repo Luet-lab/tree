@@ -1,0 +1,16 @@
+State: ""
+category: lxqt-base
+conflicts: []
+name: libsysstat
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0.4.2

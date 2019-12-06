@@ -1,0 +1,105 @@
+State: ""
+category: dev-ml
+conflicts: []
+name: bin-prot
+requires:
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_fields_conv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_type_conv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_variants_conv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: ocaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_driver
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_custom_printf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_core
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_sexp_conv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: sexplib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ocaml-migrate-parsetree
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ppx_compare
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.9.2

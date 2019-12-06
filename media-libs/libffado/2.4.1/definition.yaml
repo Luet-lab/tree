@@ -1,0 +1,115 @@
+State: ""
+category: media-libs
+conflicts:
+- State: ""
+  category: <media-sound
+  conflicts: null
+  name: jack-audio-connection-kit
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.9
+- State: ""
+  category: <media-sound
+  conflicts: null
+  name: jack-audio-connection-kit
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.122.0
+name: libffado
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: dbus-c++
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libiec61883
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libraw1394
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xdg-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: libxmlpp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libavc1394
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: dbus-python
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: PyQt5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- qt5
+- test-programs
+version: 2.4.1

@@ -1,0 +1,53 @@
+State: ""
+category: gui-apps
+conflicts:
+- State: ""
+  category: <=gui-wm
+  conflicts: null
+  name: sway-1.0_beta1
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: ~gui-wm
+  conflicts: null
+  name: sway-1.0_beta2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: swayidle
+requires:
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: elogind
+  requires: null
+  set: false
+  use_flags: null
+  version: "237"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "237"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- elogind
+- fish-completion
+- +man
+- systemd
+- zsh-completion
+version: "1.5"

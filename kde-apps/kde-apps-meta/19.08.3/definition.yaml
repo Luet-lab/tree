@@ -1,0 +1,99 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kde-apps-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdecore-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdeedu-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdegames-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdegraphics-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdemultimedia-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdenetwork-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdeutils-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdeadmin-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdepim-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdeaccessibility-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdesdk-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+set: false
+use_flags:
+- accessibility
+- pim
+- sdk
+version: 19.08.3

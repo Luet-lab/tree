@@ -1,0 +1,9 @@
+State: ""
+category: dev-cpp
+conflicts: []
+name: metslib
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.5.3

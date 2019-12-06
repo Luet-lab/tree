@@ -1,0 +1,8 @@
+State: ""
+category: net-print
+conflicts: null
+name: npadmin
+requires: null
+set: false
+use_flags: null
+version: 0.8.7-r1

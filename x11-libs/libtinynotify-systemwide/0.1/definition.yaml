@@ -1,0 +1,26 @@
+State: ""
+category: x11-libs
+conflicts: []
+name: libtinynotify-systemwide
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libtinynotify
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: procps
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- static-libs
+version: "0.1"

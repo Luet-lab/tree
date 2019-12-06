@@ -1,0 +1,62 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: slang
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: oniguruma
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.9.5
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: 8.33-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.10
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: 6.2_p5-r1
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.8-r1
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cjk
+- pcre
+- png
+- readline
+- static-libs
+- zlib
+version: 2.3.2

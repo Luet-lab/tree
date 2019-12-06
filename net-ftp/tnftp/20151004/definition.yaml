@@ -1,0 +1,26 @@
+State: ""
+category: net-ftp
+conflicts: []
+name: tnftp
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.1"
+- State: ""
+  category: net-proxy
+  conflicts: null
+  name: dante
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ipv6
+- socks5
+version: "20151004"

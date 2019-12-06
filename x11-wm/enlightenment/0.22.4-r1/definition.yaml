@@ -1,0 +1,8 @@
+State: ""
+category: x11-wm
+conflicts: null
+name: enlightenment
+requires: null
+set: false
+use_flags: null
+version: 0.22.4-r1

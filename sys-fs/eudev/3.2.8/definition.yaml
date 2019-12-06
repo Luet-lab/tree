@@ -1,0 +1,119 @@
+State: ""
+category: sys-fs
+conflicts:
+- State: ""
+  category: <sys-libs
+  conflicts: null
+  name: glibc
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.11"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gentoo-systemd-integration
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: <sys-fs
+  conflicts: null
+  name: lvm2
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.02.103
+- State: ""
+  category: <sec-policy
+  conflicts: null
+  name: selinux-base
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.20120725-r10
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: eudev
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gobject-introspection
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.38"
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: input
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: kvm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: render
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.20"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: kmod
+  requires: null
+  set: false
+  use_flags: null
+  version: "16"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.9
+set: false
+use_flags:
+- +hwdb
+- +kmod
+- introspection
+- rule-generator
+- selinux
+- static-libs
+- test
+version: 3.2.8

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Net-IMAP-Simple-SSL
+requires: null
+set: false
+use_flags: null
+version: 1.300.0-r1

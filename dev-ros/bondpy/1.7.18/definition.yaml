@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: bondpy
+requires: null
+set: false
+use_flags: null
+version: 1.7.18

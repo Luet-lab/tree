@@ -1,0 +1,105 @@
+State: ""
+category: xfce-extra
+conflicts: []
+name: xfce4-xkb-plugin
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libwnck
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4ui
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4util
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfce4-panel
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfce4-settings
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.11"
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: librsvg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxklavier
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.4"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: garcon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfconf
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.12.1
+- State: ""
+  category: x11-apps
+  conflicts: null
+  name: setxkbmap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.8.1

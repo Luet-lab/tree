@@ -1,0 +1,51 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: octomap
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libQGLViewer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- qt5
+- dynamicEDT3D
+- doc
+version: "9999"

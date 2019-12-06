@@ -1,0 +1,8 @@
+State: ""
+category: dev-cpp
+conflicts: null
+name: tbb
+requires: null
+set: false
+use_flags: null
+version: "2018.20180312"

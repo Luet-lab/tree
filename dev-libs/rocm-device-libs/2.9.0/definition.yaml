@@ -1,0 +1,24 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: rocm-device-libs
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: rocr-runtime
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.9.0
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: llvm-roc
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.9.0
+set: false
+use_flags: null
+version: 2.9.0

@@ -1,0 +1,33 @@
+State: ""
+category: sci-biology
+conflicts: []
+name: repeatmasker
+requires:
+- State: ""
+  category: sci-biology
+  conflicts: null
+  name: trf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-biology
+  conflicts: null
+  name: repeatmasker-libraries
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-biology
+  conflicts: null
+  name: rmblast
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 4.0.1

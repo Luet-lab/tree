@@ -1,0 +1,51 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libheif
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libde265
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: x265
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+- test
+- +threads
+version: 1.6.0

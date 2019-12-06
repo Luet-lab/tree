@@ -1,0 +1,33 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: mcrypt
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libmcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.8
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: mhash
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.9.9
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+version: 2.6.8-r3

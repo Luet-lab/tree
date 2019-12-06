@@ -1,0 +1,67 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: usbip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-power
+  conflicts: null
+  name: pmtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: linux-misc-apps
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: tcp-wrappers
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: hwids
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.6"
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: linux-headers
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+- tcpd
+- usbip
+version: "4.19"

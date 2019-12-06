@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: liblscp
+requires: null
+set: false
+use_flags:
+- doc
+version: 0.6.0

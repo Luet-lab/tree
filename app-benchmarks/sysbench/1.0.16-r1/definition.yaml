@@ -1,0 +1,8 @@
+State: ""
+category: app-benchmarks
+conflicts: null
+name: sysbench
+requires: null
+set: false
+use_flags: null
+version: 1.0.16-r1

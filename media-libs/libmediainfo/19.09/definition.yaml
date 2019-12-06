@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libmediainfo
+requires: null
+set: false
+use_flags: null
+version: "19.09"

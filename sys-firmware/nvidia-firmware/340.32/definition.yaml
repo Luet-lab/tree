@@ -1,0 +1,8 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: nvidia-firmware
+requires: null
+set: false
+use_flags: null
+version: "340.32"

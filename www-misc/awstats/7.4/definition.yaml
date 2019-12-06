@@ -1,0 +1,58 @@
+State: ""
+category: www-misc
+conflicts: []
+name: awstats
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.6.1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Time-Local
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: URI
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Geo-IP
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Net-IP
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Net-DNS
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- geoip
+- ipv6
+version: "7.4"

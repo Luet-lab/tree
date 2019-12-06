@@ -1,0 +1,9 @@
+State: ""
+category: app-eselect
+conflicts: null
+name: eselect-awk
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.2"

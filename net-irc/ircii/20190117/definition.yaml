@@ -1,0 +1,8 @@
+State: ""
+category: net-irc
+conflicts: null
+name: ircii
+requires: null
+set: false
+use_flags: null
+version: "20190117"

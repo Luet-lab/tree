@@ -1,0 +1,12 @@
+State: ""
+category: net-misc
+conflicts: null
+name: ntpclient
+requires: null
+set: false
+use_flags:
+- debug
+- embedded
+- obsolete
+- +syslog
+version: "2018.244"

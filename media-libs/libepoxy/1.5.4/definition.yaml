@@ -1,0 +1,19 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libepoxy
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +egl
+- test
+- +X
+version: 1.5.4

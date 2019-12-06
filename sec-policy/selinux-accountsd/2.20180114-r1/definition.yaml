@@ -1,0 +1,17 @@
+State: ""
+category: sec-policy
+conflicts: []
+name: selinux-accountsd
+requires:
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.20180114-r1

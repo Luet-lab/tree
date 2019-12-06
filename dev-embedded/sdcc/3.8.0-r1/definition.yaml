@@ -1,0 +1,78 @@
+State: ""
+category: dev-embedded
+conflicts:
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: sdcc-svn
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: sdcc
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boost
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: gputils
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.13.7
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: boehm-gc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- avr
+- ds390
+- ds400
+- gbz80
+- hc08
+- mcs51
+- pic14
+- pic16
+- r2k
+- r3ka
+- s08
+- stm8
+- tlcs90
+- "z180\n\tz80\n\n\t+boehm-gc"
+- device-lib
+- doc
+- non-free
+- packihx
+- +sdbinutils
+- sdcdb
+- +sdcpp
+- ucsim
+version: 3.8.0-r1

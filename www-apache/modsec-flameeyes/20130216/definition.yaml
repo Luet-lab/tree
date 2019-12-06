@@ -1,0 +1,16 @@
+State: ""
+category: www-apache
+conflicts: []
+name: modsec-flameeyes
+requires:
+- State: ""
+  category: www-apache
+  conflicts: null
+  name: mod_security
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.1
+set: false
+use_flags: null
+version: "20130216"

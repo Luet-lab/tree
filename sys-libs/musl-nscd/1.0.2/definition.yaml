@@ -1,0 +1,9 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: musl-nscd
+requires: null
+set: false
+use_flags:
+- minimal
+version: 1.0.2

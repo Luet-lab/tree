@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: gnome-python-base
+requires: null
+set: false
+use_flags: null
+version: 2.28.1-r1

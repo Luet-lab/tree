@@ -1,0 +1,25 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: colorsvn
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: subversion
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.3.3

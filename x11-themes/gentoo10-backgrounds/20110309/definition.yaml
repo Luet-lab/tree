@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: gentoo10-backgrounds
+requires: []
+set: false
+use_flags:
+- ""
+version: "20110309"

@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: glm
+requires: null
+set: false
+use_flags: null
+version: 0.9.9.4

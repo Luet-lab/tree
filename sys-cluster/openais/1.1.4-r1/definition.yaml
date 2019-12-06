@@ -1,0 +1,8 @@
+State: ""
+category: sys-cluster
+conflicts: null
+name: openais
+requires: null
+set: false
+use_flags: null
+version: 1.1.4-r1
