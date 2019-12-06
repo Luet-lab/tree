@@ -1,4 +1,5 @@
 steps:
+- USE=x86emu emerge sys-apps/v86d
 - emerge sys-kernel/linux-headers
 - emerge =sys-kernel/sabayon-sources-${PACKAGE_VERSION}
 - emerge =sys-kernel/linux-sabayon-${PACKAGE_VERSION}
