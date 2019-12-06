@@ -1,0 +1,62 @@
+State: ""
+category: dev-db
+conflicts: []
+name: spatialite
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.7.5
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: geos
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.4"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: proj
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: freexl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +geos
+- iconv
+- +proj
+- test
+- +xls
+- +xml
+version: 4.3.0-r1

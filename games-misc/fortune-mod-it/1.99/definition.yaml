@@ -1,0 +1,9 @@
+State: ""
+category: games-misc
+conflicts: null
+name: fortune-mod-it
+requires: null
+set: false
+use_flags:
+- offensive
+version: "1.99"

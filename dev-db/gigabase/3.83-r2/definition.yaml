@@ -1,0 +1,10 @@
+State: ""
+category: dev-db
+conflicts: []
+name: gigabase
+requires: []
+set: false
+use_flags:
+- doc
+- static-libs
+version: 3.83-r2

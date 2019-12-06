@@ -1,0 +1,51 @@
+State: ""
+category: app-editors
+conflicts: []
+name: jed
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: slang
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: gpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXft
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+- gpm
+- xft
+version: 0.99.19-r1

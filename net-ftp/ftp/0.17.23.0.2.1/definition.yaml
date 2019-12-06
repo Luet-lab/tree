@@ -1,0 +1,8 @@
+State: ""
+category: net-ftp
+conflicts: null
+name: ftp
+requires: null
+set: false
+use_flags: null
+version: 0.17.23.0.2.1

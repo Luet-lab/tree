@@ -1,0 +1,25 @@
+State: ""
+category: app-accessibility
+conflicts: []
+name: emacspeak
+requires:
+- State: ""
+  category: app-accessibility
+  conflicts: null
+  name: espeak
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-tcltk
+  conflicts: null
+  name: tclx
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.4"
+set: false
+use_flags:
+- +espeak
+version: 39.0-r2

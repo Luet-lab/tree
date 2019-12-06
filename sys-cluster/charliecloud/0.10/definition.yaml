@@ -1,0 +1,28 @@
+State: ""
+category: sys-cluster
+conflicts: []
+name: charliecloud
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: squashfuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+- +pv
+- squashfuse
+version: "0.10"

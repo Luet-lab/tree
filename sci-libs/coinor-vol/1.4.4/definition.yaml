@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: coinor-vol
+requires: null
+set: false
+use_flags: null
+version: 1.4.4

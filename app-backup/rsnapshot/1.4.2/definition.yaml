@@ -1,0 +1,56 @@
+State: ""
+category: app-backup
+conflicts: []
+name: rsnapshot
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Lchown
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.12-r4
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.0.91-r4
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: openssh
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.7.1_p2-r1
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: rsync
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.6.0
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.8.2
+set: false
+use_flags: null
+version: 1.4.2

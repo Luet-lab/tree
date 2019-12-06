@@ -1,0 +1,9 @@
+State: ""
+category: media-sound
+conflicts: null
+name: mp3_check
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.98-r1

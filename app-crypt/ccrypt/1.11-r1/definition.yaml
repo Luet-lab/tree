@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: ccrypt
+requires: null
+set: false
+use_flags:
+- emacs
+version: 1.11-r1

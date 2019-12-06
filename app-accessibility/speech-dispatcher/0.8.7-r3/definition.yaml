@@ -1,0 +1,8 @@
+State: ""
+category: app-accessibility
+conflicts: null
+name: speech-dispatcher
+requires: null
+set: false
+use_flags: null
+version: 0.8.7-r3

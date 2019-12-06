@@ -1,0 +1,32 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: prettyping
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: awk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: iputils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.0.1

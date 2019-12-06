@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: pkg-config
+requires: null
+set: false
+use_flags: null
+version: 1.4.0

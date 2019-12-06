@@ -1,0 +1,52 @@
+State: ""
+category: net-nds
+conflicts: []
+name: gssproxy
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-gssproxy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libverto
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.2
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: ding-libs
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: krb5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- selinux
+- systemd
+- hardened
+version: 0.8.2

@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: fluxbox-syntax
+requires: null
+set: false
+use_flags: null
+version: 1.5-r1

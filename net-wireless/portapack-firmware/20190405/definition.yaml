@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: portapack-firmware
+requires: null
+set: false
+use_flags:
+- ""
+version: "20190405"

@@ -1,0 +1,9 @@
+State: ""
+category: app-emulation
+conflicts: null
+name: libdsk
+requires: null
+set: false
+use_flags:
+- doc
+version: 1.5.8

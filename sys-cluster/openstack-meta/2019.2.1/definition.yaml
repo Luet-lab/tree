@@ -1,0 +1,80 @@
+State: ""
+category: sys-cluster
+conflicts: []
+name: openstack-meta
+requires:
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: cinder
+  requires: null
+  set: false
+  use_flags: null
+  version: 15.0.0
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: nova
+  requires: null
+  set: false
+  use_flags: null
+  version: 20.0.1
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: heat
+  requires: null
+  set: false
+  use_flags: null
+  version: 13.0.0
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: placement
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0
+- State: ""
+  category: sys-auth
+  conflicts: null
+  name: keystone
+  requires: null
+  set: false
+  use_flags: null
+  version: 16.0.0
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: swift
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.23.1
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: neutron
+  requires: null
+  set: false
+  use_flags: null
+  version: 15.0.0
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: glance
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.0.0
+set: false
+use_flags:
+- cinder
+- glance
+- heat
+- keystone
+- neutron
+- nova
+- placement
+- swift
+version: 2019.2.1

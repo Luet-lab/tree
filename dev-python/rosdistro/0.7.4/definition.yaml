@@ -1,0 +1,41 @@
+State: ""
+category: dev-python
+conflicts: []
+name: rosdistro
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: catkin_pkg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: rospkg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyyaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: setuptools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 0.7.4

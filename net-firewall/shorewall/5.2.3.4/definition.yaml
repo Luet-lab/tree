@@ -1,0 +1,127 @@
+State: ""
+category: net-firewall
+conflicts:
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: shorewall-init
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: shorewall-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: shorewall6-lite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: shorewall-core
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: "214"
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: shorewall6
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: shorewall
+requires:
+- State: ""
+  category: net-firewall
+  conflicts: null
+  name: iptables
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.20
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-shorewall
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.20161023-r3
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.16"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: coreutils
+  requires: null
+  set: false
+  use_flags: null
+  version: "8.20"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: iproute2
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.8.0
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: bc
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.06.95
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Digest-SHA
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Socket6
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.230.0
+set: false
+use_flags:
+- doc
+- +init
+- +ipv4
+- ipv6
+- lite4
+- lite6
+- selinux
+version: 5.2.3.4

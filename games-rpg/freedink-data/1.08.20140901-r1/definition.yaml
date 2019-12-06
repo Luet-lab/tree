@@ -1,0 +1,9 @@
+State: ""
+category: games-rpg
+conflicts: null
+name: freedink-data
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.08.20140901-r1

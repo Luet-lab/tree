@@ -1,0 +1,10 @@
+State: ""
+category: media-sound
+conflicts: null
+name: chordii
+requires: null
+set: false
+use_flags:
+- doc
+- examples
+version: 4.5.1

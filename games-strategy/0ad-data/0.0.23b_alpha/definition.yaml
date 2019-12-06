@@ -1,0 +1,9 @@
+State: ""
+category: games-strategy
+conflicts: null
+name: 0ad-data
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.0.23b_alpha

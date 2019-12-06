@@ -1,0 +1,51 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: kphotoalbum
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: phonon[qt5(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kipi-plugins
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: exiv2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +kipi
+- map
+- +raw
+version: "5.5"

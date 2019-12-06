@@ -1,0 +1,30 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: ppl
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: "6"
+- State: ""
+  category: sci-mathematics
+  conflicts: null
+  name: glpk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +cxx
+- doc
+- lpsol
+- pch
+- static-libs
+- test
+version: 1.2-r1

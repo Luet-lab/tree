@@ -1,0 +1,620 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: qemu
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: lzo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opengl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: snappy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: ipxe
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.0_p20190728
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: vte
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fabric
+  conflicts: null
+  name: librdmacm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: numactl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dtc
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.5.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: cyrus-sasl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-qemu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fabric
+  conflicts: null
+  name: libibverbs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap-ng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: gnutls
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.0"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: usbredir
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.6"
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: edk2-ovmf
+  requires: null
+  set: false
+  use_flags: null
+  version: "201905"
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: seabios
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.10.2
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: attr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: xen-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: edk2-ovmf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: vde
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: ceph
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: sgabios
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1_pre8
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libiscsi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: capstone
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxkbcommon
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-accessibility
+  conflicts: null
+  name: brltty
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libseccomp
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.0
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: libcacard
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.0
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: kvm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: systemtap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libaio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.0"
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: xfsprogs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-fs
+  conflicts: null
+  name: libnfs
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.9.3
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libepoxy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-sound
+  conflicts: null
+  name: pulseaudio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: 1-r2
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: 7.15.4
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: sgabios
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-cluster
+  conflicts: null
+  name: glusterfs
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.4.0
+- State: ""
+  category: sys-fabric
+  conflicts: null
+  name: libibumad
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: spice
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.12.0
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pixman
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.28.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: jemalloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-emulation
+  conflicts: null
+  name: spice-protocol
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.12.3
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: virglrenderer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2[X]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: seabios
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.12.0
+- State: ""
+  category: sys-firmware
+  conflicts: null
+  name: ipxe
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.13
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libssh2
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.8
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nettle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- accessibility
+- +aio
+- alsa
+- bzip2
+- capstone
+- +caps
+- +curl
+- debug
+- "doc\n\t+fdt"
+- glusterfs
+- gnutls
+- gtk
+- infiniband
+- iscsi
+- jemalloc
+- +jpeg
+- "kernel_linux\n\tkernel_FreeBSD"
+- lzo
+- ncurses
+- nfs
+- nls
+- numa
+- opengl
+- +pin-upstream-blobs
+- "+png\n\tpulseaudio"
+- python
+- rbd
+- sasl
+- +seccomp
+- sdl
+- selinux
+- smartcard
+- "snappy\n\tspice"
+- ssh
+- static
+- static-user
+- systemtap
+- tci
+- test
+- usb
+- usbredir
+- "vde\n\t+vhost-net"
+- virgl
+- virtfs
+- +vnc
+- vte
+- xattr
+- xen
+- xfs
+- ""
+- qemu_softmmu_targets_aarch64
+- qemu_softmmu_targets_alpha
+- qemu_softmmu_targets_arm
+- qemu_softmmu_targets_cris
+- qemu_softmmu_targets_hppa
+- qemu_softmmu_targets_i386
+- qemu_softmmu_targets_m68k
+- qemu_softmmu_targets_microblaze
+- qemu_softmmu_targets_microblazeel
+- qemu_softmmu_targets_mips
+- qemu_softmmu_targets_mips64
+- qemu_softmmu_targets_mips64el
+- qemu_softmmu_targets_mipsel
+- qemu_softmmu_targets_nios2
+- qemu_softmmu_targets_or1k
+- qemu_softmmu_targets_ppc
+- qemu_softmmu_targets_ppc64
+- qemu_softmmu_targets_riscv32
+- qemu_softmmu_targets_riscv64
+- qemu_softmmu_targets_s390x
+- qemu_softmmu_targets_sh4
+- qemu_softmmu_targets_sh4eb
+- qemu_softmmu_targets_sparc
+- qemu_softmmu_targets_sparc64
+- qemu_softmmu_targets_x86_64
+- qemu_softmmu_targets_xtensa
+- qemu_softmmu_targets_xtensaeb
+- qemu_softmmu_targets_lm32
+- qemu_softmmu_targets_moxie
+- qemu_softmmu_targets_tricore
+- qemu_softmmu_targets_unicore32
+- qemu_user_targets_aarch64
+- qemu_user_targets_alpha
+- qemu_user_targets_arm
+- qemu_user_targets_cris
+- qemu_user_targets_hppa
+- qemu_user_targets_i386
+- qemu_user_targets_m68k
+- qemu_user_targets_microblaze
+- qemu_user_targets_microblazeel
+- qemu_user_targets_mips
+- qemu_user_targets_mips64
+- qemu_user_targets_mips64el
+- qemu_user_targets_mipsel
+- qemu_user_targets_nios2
+- qemu_user_targets_or1k
+- qemu_user_targets_ppc
+- qemu_user_targets_ppc64
+- qemu_user_targets_riscv32
+- qemu_user_targets_riscv64
+- qemu_user_targets_s390x
+- qemu_user_targets_sh4
+- qemu_user_targets_sh4eb
+- qemu_user_targets_sparc
+- qemu_user_targets_sparc64
+- qemu_user_targets_x86_64
+- qemu_user_targets_xtensa
+- qemu_user_targets_xtensaeb
+- qemu_user_targets_aarch64_be
+- qemu_user_targets_armeb
+- qemu_user_targets_mipsn32
+- qemu_user_targets_mipsn32el
+- qemu_user_targets_ppc64abi32
+- qemu_user_targets_ppc64le
+- qemu_user_targets_sparc32plus
+- qemu_user_targets_tilegx
+version: 4.0.0-r50

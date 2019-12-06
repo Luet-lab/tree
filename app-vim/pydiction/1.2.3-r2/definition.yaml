@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: pydiction
+requires: null
+set: false
+use_flags: null
+version: 1.2.3-r2

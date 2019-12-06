@@ -1,0 +1,8 @@
+State: ""
+category: www-apps
+conflicts: null
+name: Apache-Gallery
+requires: null
+set: false
+use_flags: null
+version: 1.0_rc3-r1

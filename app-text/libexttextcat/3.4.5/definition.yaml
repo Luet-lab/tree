@@ -1,0 +1,9 @@
+State: ""
+category: app-text
+conflicts: []
+name: libexttextcat
+requires: []
+set: false
+use_flags:
+- static-libs
+version: 3.4.5

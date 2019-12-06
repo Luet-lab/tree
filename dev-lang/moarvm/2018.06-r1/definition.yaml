@@ -1,0 +1,48 @@
+State: ""
+category: dev-lang
+conflicts: []
+name: moarvm
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: lua
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libffi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libatomic_ops
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libuv
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.26"
+set: false
+use_flags:
+- asan
+- clang
+- debug
+- doc
+- +jit
+- static-libs
+- optimize
+- ubsan
+version: 2018.06-r1

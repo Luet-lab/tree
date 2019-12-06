@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: PerlIO-utf8_strict
+requires: null
+set: false
+use_flags: null
+version: 0.7.0

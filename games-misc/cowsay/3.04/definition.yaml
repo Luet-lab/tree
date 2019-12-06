@@ -1,0 +1,16 @@
+State: ""
+category: games-misc
+conflicts: []
+name: cowsay
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5"
+set: false
+use_flags: null
+version: "3.04"

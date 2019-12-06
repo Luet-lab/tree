@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: icalendar
+requires: null
+set: false
+use_flags: null
+version: 3.11.7-r1

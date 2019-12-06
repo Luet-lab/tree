@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: File-Scan-ClamAV
+requires: null
+set: false
+use_flags: null
+version: 1.950.0

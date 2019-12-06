@@ -1,0 +1,26 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: chafa
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: imagemagick
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+- +tools
+version: 1.0.1

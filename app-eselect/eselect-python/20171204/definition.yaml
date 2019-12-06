@@ -1,0 +1,25 @@
+State: ""
+category: app-eselect
+conflicts: []
+name: eselect-python
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: eselect
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.3
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: python-exec
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.2
+set: false
+use_flags:
+- ""
+version: "20171204"

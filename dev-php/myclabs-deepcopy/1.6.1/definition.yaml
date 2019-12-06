@@ -1,0 +1,25 @@
+State: ""
+category: dev-php
+conflicts: []
+name: myclabs-deepcopy
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.6"
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: fedora-autoloader
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.6.1

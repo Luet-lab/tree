@@ -1,0 +1,73 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: acmebot
+requires:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: acme
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.25.1
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: appdirs
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.3
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyparsing
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: packaging
+  requires: null
+  set: false
+  use_flags: null
+  version: "16.8"
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyopenssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 17.5.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pydns
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.1.0
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: cryptography
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.4
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: asn1crypto
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.24.0
+set: false
+use_flags:
+- ""
+version: 2.3.0-r1

@@ -1,0 +1,56 @@
+State: ""
+category: virtual
+conflicts:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: musl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: uclibc-ng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: uclibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-freebsd
+  conflicts: null
+  name: freebsd-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: glibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: libc
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: cygwin-crypt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "1"

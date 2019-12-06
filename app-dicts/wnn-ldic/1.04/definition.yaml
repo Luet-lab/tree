@@ -1,0 +1,9 @@
+State: ""
+category: app-dicts
+conflicts: null
+name: wnn-ldic
+requires: null
+set: false
+use_flags:
+- ""
+version: "1.04"

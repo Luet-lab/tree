@@ -1,0 +1,61 @@
+State: ""
+category: sys-libs
+conflicts:
+- State: ""
+  category: <=sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.9-r4
+- State: ""
+  category: <sys-libs
+  conflicts: null
+  name: slang
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.3.2_pre23
+- State: ""
+  category: <x11-terms
+  conflicts: null
+  name: rxvt-unicode
+  requires: null
+  set: false
+  use_flags: null
+  version: 9.06-r3
+- State: ""
+  category: <x11-terms
+  conflicts: null
+  name: st
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6-r1
+name: ncurses
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: gpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ada
+- +cxx
+- debug
+- doc
+- gpm
+- minimal
+- profile
+- static-libs
+- test
+- threads
+- tinfo
+- trace
+- unicode
+version: 6.1_p20181020

@@ -1,0 +1,8 @@
+State: ""
+category: app-laptop
+conflicts: null
+name: tpacpi-bat
+requires: null
+set: false
+use_flags: null
+version: "9999"

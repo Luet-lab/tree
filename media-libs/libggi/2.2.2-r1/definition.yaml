@@ -1,0 +1,64 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libggi
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXxf86dga
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXxf86vm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libgii
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.2
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: aalib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2-r1
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: svgalib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.2
+set: false
+use_flags:
+- 3dfx
+- aalib
+- cpu_flags_x86_mmx
+- debug
+- fbcon
+- svga
+- vis
+- X
+version: 2.2.2-r1

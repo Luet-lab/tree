@@ -1,0 +1,33 @@
+State: ""
+category: app-portage
+conflicts: []
+name: emerge-delta-webrsync
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.3.69
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: diffball
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.5
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 3.7.6

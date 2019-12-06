@@ -1,0 +1,9 @@
+State: ""
+category: net-misc
+conflicts: []
+name: dhcpd-pools
+requires: []
+set: false
+use_flags:
+- doc
+version: "2.21"

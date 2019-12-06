@@ -1,0 +1,8 @@
+State: ""
+category: games-fps
+conflicts: null
+name: duke3d-demodata
+requires: null
+set: false
+use_flags: null
+version: "1.3"

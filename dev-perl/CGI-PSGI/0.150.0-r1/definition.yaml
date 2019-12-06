@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: CGI-PSGI
+requires: null
+set: false
+use_flags: null
+version: 0.150.0-r1

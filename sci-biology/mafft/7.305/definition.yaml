@@ -1,0 +1,8 @@
+State: ""
+category: sci-biology
+conflicts: null
+name: mafft
+requires: null
+set: false
+use_flags: null
+version: "7.305"

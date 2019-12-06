@@ -1,0 +1,9 @@
+State: ""
+category: media-gfx
+conflicts: null
+name: propaganda
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.0-r1

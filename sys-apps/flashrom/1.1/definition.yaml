@@ -1,0 +1,53 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: flashrom
+requires:
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: libftdi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: libjaylink
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dmidecode
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- "atahpt\n\t+atapromise\n\t+atavia\n\t+buspirate-spi\n\t+ch341a-spi\n\t+dediprog\n\t+developerbox-spi\n\t+digilent-spi\n\t+drkaiser\n\t+dummy\n\t+ft2232-spi\n\t+gfxnvidia\n\t+internal\n\t+it8212\n\tjlink-spi\n\t+linux-mtd\n\t+linux-spi\n\tmstarddc-spi\n\t+nic3com\n\t+nicintel\n\t+nicintel-eeprom\n\t+nicintel-spi\n\tnicnatsemi\n\t+nicrealtek\n\t+ogp-spi\n\t+pickit2-spi\n\t+pony-spi\n\t+rayer-spi\n\t+satamv\n\t+satasii\n\t+serprog\n\t+usbblaster-spi\n"
+- +internal-dmi
+- static
+- tools
+- +wiki
+version: "1.1"

@@ -1,0 +1,9 @@
+State: ""
+category: net-libs
+conflicts: []
+name: freaklabs-chibiarduino
+requires: []
+set: false
+use_flags:
+- +promisc
+version: 1.0.8_p20190329

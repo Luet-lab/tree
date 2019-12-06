@@ -1,0 +1,29 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: db
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jre
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.4"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tcl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- tcl
+- java
+- doc
+- cxx
+- rpc
+version: 4.5.20_p2-r2

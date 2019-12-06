@@ -1,0 +1,9 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: zd1201-firmware
+requires: null
+set: false
+use_flags:
+- ""
+version: "0.14"

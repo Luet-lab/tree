@@ -1,0 +1,49 @@
+State: ""
+category: media-video
+conflicts: []
+name: movit
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa[X(+)]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: eigen
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.2.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libepoxy
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: fftw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.2.0

@@ -1,0 +1,25 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: fbpager
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXrender
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +xrender
+version: 20090221-r1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: libatasmart
+requires: null
+set: false
+use_flags: null
+version: 0.19-r2

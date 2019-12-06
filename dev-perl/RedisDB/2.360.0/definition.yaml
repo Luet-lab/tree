@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: RedisDB
+requires: null
+set: false
+use_flags: null
+version: 2.360.0

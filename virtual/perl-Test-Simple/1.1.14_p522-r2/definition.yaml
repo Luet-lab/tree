@@ -1,0 +1,48 @@
+State: ""
+category: virtual
+conflicts:
+- State: ""
+  category: perl-core
+  conflicts: null
+  name: Test-Simple
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: <dev-perl
+  conflicts: null
+  name: Test-Tester
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.114.0
+- State: ""
+  category: <dev-perl
+  conflicts: null
+  name: Test-use-ok
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.160.0
+name: perl-Test-Simple
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.24"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.1.14_p522-r2

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: SQL-Abstract-Limit
+requires: null
+set: false
+use_flags: null
+version: 0.141.0-r1

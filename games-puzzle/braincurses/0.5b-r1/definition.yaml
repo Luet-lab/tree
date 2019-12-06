@@ -1,0 +1,9 @@
+State: ""
+category: games-puzzle
+conflicts: []
+name: braincurses
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.5b-r1

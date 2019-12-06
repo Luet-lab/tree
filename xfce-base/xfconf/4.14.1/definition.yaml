@@ -1,0 +1,8 @@
+State: ""
+category: xfce-base
+conflicts: null
+name: xfconf
+requires: null
+set: false
+use_flags: null
+version: 4.14.1

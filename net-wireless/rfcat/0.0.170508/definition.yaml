@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: rfcat
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.0.170508

@@ -1,0 +1,9 @@
+State: ""
+category: app-benchmarks
+conflicts: null
+name: stress
+requires: null
+set: false
+use_flags:
+- static
+version: 1.0.4-r2

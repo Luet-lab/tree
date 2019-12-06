@@ -1,0 +1,9 @@
+State: ""
+category: sci-geosciences
+conflicts: []
+name: mapnik-world-boundaries
+requires: []
+set: false
+use_flags:
+- ""
+version: "20090514"

@@ -1,0 +1,25 @@
+State: ""
+category: media-video
+conflicts: []
+name: mplay-sh
+requires:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: mplayer
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.90_rc4
+- State: ""
+  category: media-tv
+  conflicts: null
+  name: gentoo-vdr-scripts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.5.3-r1

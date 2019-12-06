@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: jackrabbit-webdav
+requires: null
+set: false
+use_flags: null
+version: 2.10.1

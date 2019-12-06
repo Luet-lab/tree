@@ -1,0 +1,8 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: gtk-engines-rezlooks
+requires: null
+set: false
+use_flags: null
+version: 0.6-r1

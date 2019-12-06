@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: isight-firmware-tools
+requires: null
+set: false
+use_flags: null
+version: 1.6-r1

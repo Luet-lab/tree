@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: cbflib
+requires: null
+set: false
+use_flags: null
+version: 0.9.3.3

@@ -1,0 +1,51 @@
+State: ""
+category: www-client
+conflicts: []
+name: seamonkey
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-plugins
+  conflicts: null
+  name: enigmail
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.0
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nss
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.28.3
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: nspr
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.13.1
+set: false
+use_flags:
+- +calendar
+- +chatzilla
+- +crypt
+- +gmp-autoupdate
+- +ipc
+- jack
+- minimal
+- pulseaudio
+- +roaming
+- selinux
+- test
+version: 2.49.5-r1

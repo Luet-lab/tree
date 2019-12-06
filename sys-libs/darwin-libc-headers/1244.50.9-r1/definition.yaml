@@ -1,0 +1,9 @@
+State: ""
+category: sys-libs
+conflicts: null
+name: darwin-libc-headers
+requires: null
+set: false
+use_flags:
+- +man
+version: 1244.50.9-r1

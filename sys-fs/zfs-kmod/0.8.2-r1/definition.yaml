@@ -1,0 +1,27 @@
+State: ""
+category: sys-fs
+conflicts:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: zfs-fuse
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: spl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: zfs-kmod
+requires: []
+set: false
+use_flags:
+- custom-cflags
+- debug
+- +rootfs
+version: 0.8.2-r1

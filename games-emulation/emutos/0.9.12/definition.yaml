@@ -1,0 +1,9 @@
+State: ""
+category: games-emulation
+conflicts: null
+name: emutos
+requires: null
+set: false
+use_flags:
+- debug
+version: 0.9.12

@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: libmodbus
+requires: []
+set: false
+use_flags:
+- static-libs
+- test
+- doc
+version: 3.1.4

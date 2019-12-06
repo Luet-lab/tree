@@ -1,0 +1,8 @@
+State: ""
+category: net-dns
+conflicts: null
+name: bind
+requires: null
+set: false
+use_flags: null
+version: 9.14.8

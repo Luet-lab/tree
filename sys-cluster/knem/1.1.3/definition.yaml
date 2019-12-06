@@ -1,0 +1,26 @@
+State: ""
+category: sys-cluster
+conflicts: []
+name: knem
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: hwloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: modutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- modules
+version: 1.1.3

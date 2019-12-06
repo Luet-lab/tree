@@ -1,0 +1,32 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: gallium-nine-standalone
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: mesa[d3d9,dri3,X(+),]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libxcb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "0.5"

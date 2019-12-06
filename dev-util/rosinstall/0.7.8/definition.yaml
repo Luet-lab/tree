@@ -1,0 +1,49 @@
+State: ""
+category: dev-util
+conflicts: []
+name: rosinstall
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: catkin_pkg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: vcstools
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.38
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: rosdistro
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: wstool
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.1.12
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pyyaml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- test
+version: 0.7.8

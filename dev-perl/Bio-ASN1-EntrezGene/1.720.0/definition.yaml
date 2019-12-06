@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Bio-ASN1-EntrezGene
+requires: null
+set: false
+use_flags: null
+version: 1.720.0

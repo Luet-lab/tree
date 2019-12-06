@@ -1,0 +1,40 @@
+State: ""
+category: app-crypt
+conflicts: []
+name: scute
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgpg-error
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.4"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libassuan
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: pinentry
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.7.0
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: gnupg
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.17-r1
+set: false
+use_flags: null
+version: 1.5.0

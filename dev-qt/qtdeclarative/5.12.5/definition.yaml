@@ -1,0 +1,68 @@
+State: ""
+category: dev-qt
+conflicts:
+- State: ""
+  category: <dev-qt
+  conflicts: null
+  name: qtquickcontrols
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.7"
+name: qtdeclarative
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtcore
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.5
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui-5.12.5[gles2=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtnetwork
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.5
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qttest
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.5
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtsql
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.5
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets-5.12.5[gles2=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gles2
+- +jit
+- localstorage
+- +widgets
+version: 5.12.5

@@ -1,0 +1,42 @@
+State: ""
+category: app-backup
+conflicts: []
+name: btrbk
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: btrfs-progs
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: openssh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-block
+  conflicts: null
+  name: mbuffer
+  requires: null
+  set: false
+  use_flags: null
+  version: "20180505"
+set: false
+use_flags:
+- +mbuffer
+- +doc
+version: 0.29.0

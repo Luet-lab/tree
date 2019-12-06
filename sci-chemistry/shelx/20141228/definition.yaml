@@ -1,0 +1,9 @@
+State: ""
+category: sci-chemistry
+conflicts: null
+name: shelx
+requires: null
+set: false
+use_flags:
+- ""
+version: "20141228"

@@ -1,0 +1,24 @@
+State: ""
+category: sys-fs
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.14"
+name: udev-init-scripts
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: udev
+  requires: null
+  set: false
+  use_flags: null
+  version: "217"
+set: false
+use_flags: null
+version: "33"

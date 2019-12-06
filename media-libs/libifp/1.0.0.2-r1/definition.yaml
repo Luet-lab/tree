@@ -1,0 +1,19 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libifp
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+- static-libs
+version: 1.0.0.2-r1

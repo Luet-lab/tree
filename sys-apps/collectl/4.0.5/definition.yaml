@@ -1,0 +1,49 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: collectl
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Time-HiRes
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Archive-Zip
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.20"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: ethtool
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.8.8
+set: false
+use_flags:
+- ""
+version: 4.0.5

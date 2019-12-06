@@ -1,0 +1,26 @@
+State: ""
+category: sci-calculators
+conflicts: []
+name: datamash
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+- openssl
+version: "1.4"

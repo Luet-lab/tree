@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: pecl-mailparse
+requires: null
+set: false
+use_flags: null
+version: 3.0.3-r1

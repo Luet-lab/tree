@@ -1,0 +1,9 @@
+State: ""
+category: sys-power
+conflicts: []
+name: bbswitch
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.8-r2

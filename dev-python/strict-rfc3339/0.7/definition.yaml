@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: strict-rfc3339
+requires: null
+set: false
+use_flags: null
+version: "0.7"

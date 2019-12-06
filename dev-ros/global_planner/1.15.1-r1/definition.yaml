@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: global_planner
+requires: null
+set: false
+use_flags: null
+version: 1.15.1-r1

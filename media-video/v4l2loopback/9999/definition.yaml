@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: v4l2loopback
+requires: null
+set: false
+use_flags: null
+version: "9999"

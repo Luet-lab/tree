@@ -1,0 +1,58 @@
+State: ""
+category: app-i18n
+conflicts: []
+name: ibus-handwrite
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: zinnia
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: zinnia-tomoe
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-i18n
+  conflicts: null
+  name: ibus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtkglext
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- nls
+- +zinnia
+version: 3.0.0

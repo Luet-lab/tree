@@ -1,0 +1,65 @@
+State: ""
+category: app-shells
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: baselayout
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.1
+name: zsh
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.9"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: gdbm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.1"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.7-r4
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- caps
+- debug
+- doc
+- examples
+- gdbm
+- maildir
+- pcre
+- static
+- unicode
+version: 5.7.1

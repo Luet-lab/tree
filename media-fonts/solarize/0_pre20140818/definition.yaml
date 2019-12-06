@@ -1,0 +1,9 @@
+State: ""
+category: media-fonts
+conflicts: []
+name: solarize
+requires: []
+set: false
+use_flags:
+- ""
+version: 0_pre20140818

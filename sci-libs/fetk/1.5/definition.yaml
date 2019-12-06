@@ -1,0 +1,49 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: fetk
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: maloc
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: sg
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gamer
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: mc
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: punc
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+set: false
+use_flags:
+- ""
+version: "1.5"

@@ -1,0 +1,48 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: rescan-scsi-bus
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: killproc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: modutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-shells
+  conflicts: null
+  name: bash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sg3_utils
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.24"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sg3_utils
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.44"
+set: false
+use_flags: null
+version: 1.57-r1

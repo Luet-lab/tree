@@ -1,0 +1,48 @@
+State: ""
+category: x11-themes
+conflicts:
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: etheme-BlueSteel
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: etheme-BrushedMetal-Tigert
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: etheme-Ganymede
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: etheme-ShinyMetal
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-themes
+  conflicts: null
+  name: ethemes
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: e16-themes
+requires: []
+set: false
+use_flags: null
+version: 1.0.2

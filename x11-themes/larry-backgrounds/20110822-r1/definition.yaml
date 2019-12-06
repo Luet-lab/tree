@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: larry-backgrounds
+requires: null
+set: false
+use_flags:
+- ""
+version: 20110822-r1

@@ -1,0 +1,8 @@
+State: ""
+category: virtual
+conflicts: null
+name: python-backports_abc
+requires: null
+set: false
+use_flags: null
+version: "0"

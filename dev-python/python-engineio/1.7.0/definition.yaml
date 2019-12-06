@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: python-engineio
+requires: null
+set: false
+use_flags: null
+version: 1.7.0

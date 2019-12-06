@@ -1,0 +1,9 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: libsepol
+requires: []
+set: false
+use_flags:
+- ""
+version: "2.9"

@@ -1,0 +1,177 @@
+State: ""
+category: app-text
+conflicts: []
+name: writerperfect
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libeot
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libabw
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libfreehand
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: gnome-extra
+  conflicts: null
+  name: libgsf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libwpg
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.3"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: librevenge
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.0.1
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libepubgen
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libwpd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libzmf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libebook
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpagemaker
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libvisio
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libwps
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.4"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libodfgen
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libcdr
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libetonyek
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libmspub
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.1"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libmwaw
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.3"
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libqxp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- abiword
+- +cdr
+- debug
+- ebook
+- epub
+- freehand
+- gsf
+- keynote
+- +mspub
+- +mwaw
+- pagemaker
+- qxp
+- +visio
+- +wpd
+- +wpg
+- +wps
+- zmf
+version: 0.9.6

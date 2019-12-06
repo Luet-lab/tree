@@ -1,0 +1,69 @@
+State: ""
+category: net-nntp
+conflicts: []
+name: slrn
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mta
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: canlock
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: uulib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: sharutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: slang
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.3
+set: false
+use_flags:
+- canlock
+- libressl
+- nls
+- ssl
+- uudeview
+version: 1.0.3

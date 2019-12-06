@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: fontconfig-ultimate
+requires: null
+set: false
+use_flags: null
+version: "2015.04"

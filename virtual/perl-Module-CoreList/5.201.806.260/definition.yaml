@@ -1,0 +1,40 @@
+State: ""
+category: virtual
+conflicts:
+- State: ""
+  category: <perl-core
+  conflicts: null
+  name: Module-CoreList
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.201.806.260
+- State: ""
+  category: '>perl-core'
+  conflicts: null
+  name: Module-CoreList
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.201.806.260-r999
+name: perl-Module-CoreList
+requires:
+- State: ""
+  category: perl-core
+  conflicts: null
+  name: Module-CoreList
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.201.806.260
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 5.201.806.260

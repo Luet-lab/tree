@@ -1,0 +1,25 @@
+State: ""
+category: app-cdr
+conflicts: []
+name: multicd
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.8.6
+- State: ""
+  category: virtual
+  conflicts: null
+  name: cdrtools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.7.5-r1

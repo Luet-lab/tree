@@ -1,0 +1,81 @@
+State: ""
+category: xfce-extra
+conflicts: []
+name: xfce4-places-plugin
+requires:
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4ui
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.13"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: libxfce4util
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfce4-panel
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: xfconf
+  requires: null
+  set: false
+  use_flags: null
+  version: "4.12"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libnotify
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.7"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.42"
+- State: ""
+  category: xfce-base
+  conflicts: null
+  name: exo
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.6"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.22"
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- libnotify
+version: 1.8.1

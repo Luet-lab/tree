@@ -1,0 +1,40 @@
+State: ""
+category: virtual
+conflicts:
+- State: ""
+  category: <perl-core
+  conflicts: null
+  name: Unicode-Collate
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.210.0
+- State: ""
+  category: '>perl-core'
+  conflicts: null
+  name: Unicode-Collate
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.210.0-r999
+name: perl-Unicode-Collate
+requires:
+- State: ""
+  category: perl-core
+  conflicts: null
+  name: Unicode-Collate
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.210.0
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.210.0

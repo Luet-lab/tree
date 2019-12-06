@@ -1,0 +1,8 @@
+State: ""
+category: xfce-base
+conflicts: null
+name: thunar
+requires: null
+set: false
+use_flags: null
+version: 1.8.9

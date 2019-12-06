@@ -1,0 +1,25 @@
+State: ""
+category: dev-java
+conflicts: []
+name: java-apicheck
+requires:
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: java-config
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: japitools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0_p20150907

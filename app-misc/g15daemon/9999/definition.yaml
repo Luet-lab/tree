@@ -1,0 +1,59 @@
+State: ""
+category: app-misc
+conflicts: []
+name: g15daemon
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libg15
+  requires: null
+  set: false
+  use_flags: null
+  version: "9999"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libg15render
+  requires: null
+  set: false
+  use_flags: null
+  version: "9999"
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: GDGraph
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Inline
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.4"
+set: false
+use_flags:
+- perl
+- python
+- static-libs
+version: "9999"

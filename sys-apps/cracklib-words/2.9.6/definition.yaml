@@ -1,0 +1,9 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: cracklib-words
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.9.6

@@ -1,0 +1,65 @@
+State: ""
+category: media-tv
+conflicts: []
+name: mythtv-status
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: libwww-perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: XML-LibXML
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Date-Manip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: MIME-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Sys-SigAction
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Config-Auto
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-tv
+  conflicts: null
+  name: mythtv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.10.4

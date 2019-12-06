@@ -1,0 +1,33 @@
+State: ""
+category: sys-fs
+conflicts: []
+name: f2fs-tools
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: queue-standalone
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libselinux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- selinux
+version: 1.10.0

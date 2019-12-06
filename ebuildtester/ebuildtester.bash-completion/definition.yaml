@@ -1,0 +1,8 @@
+State: ""
+category: ebuildtester
+conflicts: null
+name: ebuildtester.bash-completion
+requires: null
+set: false
+use_flags: null
+version: ""

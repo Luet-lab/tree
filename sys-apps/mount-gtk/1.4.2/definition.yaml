@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: mount-gtk
+requires: null
+set: false
+use_flags: null
+version: 1.4.2

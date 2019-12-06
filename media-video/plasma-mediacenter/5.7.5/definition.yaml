@@ -1,0 +1,8 @@
+State: ""
+category: media-video
+conflicts: null
+name: plasma-mediacenter
+requires: null
+set: false
+use_flags: null
+version: 5.7.5

@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: bashforth
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.58a

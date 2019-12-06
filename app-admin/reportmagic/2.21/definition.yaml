@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: null
+name: reportmagic
+requires: null
+set: false
+use_flags:
+- truetype
+version: "2.21"

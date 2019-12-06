@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: stomp
+requires: null
+set: false
+use_flags: null
+version: 1.4.4

@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-wapd
+requires: null
+set: false
+use_flags: null
+version: 0.9_p1-r1

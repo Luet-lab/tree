@@ -1,0 +1,8 @@
+State: ""
+category: sci-geosciences
+conflicts: null
+name: libtcd
+requires: null
+set: false
+use_flags: null
+version: 2.2.5_p2

@@ -1,0 +1,33 @@
+State: ""
+category: app-cdr
+conflicts: []
+name: disc-cover
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Audio-CD-disc-cover
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: latex-base
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.5.6-r1

@@ -1,0 +1,37 @@
+State: ""
+category: app-shells
+conflicts: []
+name: pdsh
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: openssh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: netkit-rsh
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- crypt
+- readline
+- rsh
+- static-libs
+- test
+version: 2.26-r1

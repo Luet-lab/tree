@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: GD
+requires: null
+set: false
+use_flags: null
+version: 2.560.0-r1

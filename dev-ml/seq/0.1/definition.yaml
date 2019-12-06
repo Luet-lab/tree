@@ -1,0 +1,25 @@
+State: ""
+category: dev-ml
+conflicts: []
+name: seq
+requires:
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: findlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-ml
+  conflicts: null
+  name: ocamlbuild
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "0.1"

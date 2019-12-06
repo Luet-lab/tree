@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: openh264
+requires: null
+set: false
+use_flags: null
+version: 1.7.0-r1

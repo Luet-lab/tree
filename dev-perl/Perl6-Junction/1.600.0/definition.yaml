@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Perl6-Junction
+requires: null
+set: false
+use_flags: null
+version: 1.600.0

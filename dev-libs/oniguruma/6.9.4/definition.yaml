@@ -1,0 +1,10 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: oniguruma
+requires: null
+set: false
+use_flags:
+- crnl-as-line-terminator
+- static-libs
+version: 6.9.4

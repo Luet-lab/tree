@@ -1,0 +1,8 @@
+State: ""
+category: media-plugins
+conflicts: null
+name: vdr-pvr350
+requires: null
+set: false
+use_flags: null
+version: 1.7.5

@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: i2c-tools
+requires: null
+set: false
+use_flags: null
+version: 4.1-r1

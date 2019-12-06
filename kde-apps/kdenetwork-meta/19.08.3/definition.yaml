@@ -1,0 +1,74 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kdenetwork-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kget
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: krdc
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kopete
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: krfb
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: zeroconf-ioslave
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dolphin-plugins-dropbox
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: plasma-telepathy-meta
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdenetwork-filesharing
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+set: false
+use_flags:
+- dropbox
+- +telepathy
+version: 19.08.3

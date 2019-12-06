@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Redis
+requires: null
+set: false
+use_flags: null
+version: 1.991.0

@@ -1,0 +1,24 @@
+State: ""
+category: games-action
+conflicts:
+- State: ""
+  category: <games-action
+  conflicts: null
+  name: d2x
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.5-r3
+- State: ""
+  category: games-action
+  conflicts: null
+  name: descent2-data
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: descent2-demodata
+requires: []
+set: false
+use_flags: null
+version: 1.0-r1

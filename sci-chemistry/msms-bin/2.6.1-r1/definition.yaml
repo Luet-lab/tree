@@ -1,0 +1,9 @@
+State: ""
+category: sci-chemistry
+conflicts: null
+name: msms-bin
+requires: null
+set: false
+use_flags:
+- ""
+version: 2.6.1-r1

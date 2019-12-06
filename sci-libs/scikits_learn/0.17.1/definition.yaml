@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: scikits_learn
+requires: null
+set: false
+use_flags: null
+version: 0.17.1

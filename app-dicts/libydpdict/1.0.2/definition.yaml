@@ -1,0 +1,9 @@
+State: ""
+category: app-dicts
+conflicts: []
+name: libydpdict
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.2

@@ -1,0 +1,8 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: signing-party
+requires: null
+set: false
+use_flags: null
+version: 2.10-r1

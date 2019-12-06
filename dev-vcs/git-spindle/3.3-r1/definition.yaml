@@ -1,0 +1,8 @@
+State: ""
+category: dev-vcs
+conflicts: null
+name: git-spindle
+requires: null
+set: false
+use_flags: null
+version: 3.3-r1

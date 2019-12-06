@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: qwtpolar
+requires: null
+set: false
+use_flags: null
+version: 1.1.1-r2

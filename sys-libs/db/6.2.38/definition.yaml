@@ -1,0 +1,29 @@
+State: ""
+category: sys-libs
+conflicts: []
+name: db
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: tcl
+  requires: null
+  set: false
+  use_flags: null
+  version: 8.5.15-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jre
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.5"
+set: false
+use_flags:
+- doc
+- java
+- cxx
+- tcl
+- test
+version: 6.2.38

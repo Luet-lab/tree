@@ -1,0 +1,8 @@
+State: ""
+category: dev-util
+conflicts: null
+name: gperf
+requires: null
+set: false
+use_flags: null
+version: "3.1"

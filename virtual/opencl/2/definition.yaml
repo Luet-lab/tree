@@ -1,0 +1,8 @@
+State: ""
+category: virtual
+conflicts: null
+name: opencl
+requires: null
+set: false
+use_flags: null
+version: "2"

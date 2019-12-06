@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: libkvkontakte
+requires: null
+set: false
+use_flags: null
+version: 5.0.0-r1

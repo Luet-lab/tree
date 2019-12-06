@@ -1,0 +1,8 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: caliper
+requires: null
+set: false
+use_flags: null
+version: 1.5.0

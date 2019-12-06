@@ -1,0 +1,26 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: authforce
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- curl
+- nls
+version: 0.9.9-r2

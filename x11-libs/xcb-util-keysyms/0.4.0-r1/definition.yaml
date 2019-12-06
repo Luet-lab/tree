@@ -1,0 +1,8 @@
+State: ""
+category: x11-libs
+conflicts: null
+name: xcb-util-keysyms
+requires: null
+set: false
+use_flags: null
+version: 0.4.0-r1

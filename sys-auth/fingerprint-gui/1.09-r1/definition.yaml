@@ -1,0 +1,8 @@
+State: ""
+category: sys-auth
+conflicts: null
+name: fingerprint-gui
+requires: null
+set: false
+use_flags: null
+version: 1.09-r1

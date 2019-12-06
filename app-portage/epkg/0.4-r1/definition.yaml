@@ -1,0 +1,33 @@
+State: ""
+category: app-portage
+conflicts: []
+name: epkg
+requires:
+- State: ""
+  category: app-portage
+  conflicts: null
+  name: gentoolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-portage
+  conflicts: null
+  name: eix
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.4-r1

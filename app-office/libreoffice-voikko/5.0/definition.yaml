@@ -1,0 +1,32 @@
+State: ""
+category: app-office
+conflicts: []
+name: libreoffice-voikko
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libvoikko
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-office
+  conflicts: null
+  name: libreoffice
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: voikko-fi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "5.0"

@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: autoprefixer-rails
+requires: null
+set: false
+use_flags: null
+version: 8.6.5

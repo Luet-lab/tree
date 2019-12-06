@@ -1,0 +1,8 @@
+State: ""
+category: app-pda
+conflicts: null
+name: gtkpod
+requires: null
+set: false
+use_flags: null
+version: 2.1.5

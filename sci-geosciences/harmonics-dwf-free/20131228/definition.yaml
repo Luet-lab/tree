@@ -1,0 +1,9 @@
+State: ""
+category: sci-geosciences
+conflicts: null
+name: harmonics-dwf-free
+requires: null
+set: false
+use_flags:
+- ""
+version: "20131228"

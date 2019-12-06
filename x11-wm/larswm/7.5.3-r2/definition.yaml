@@ -1,0 +1,8 @@
+State: ""
+category: x11-wm
+conflicts: null
+name: larswm
+requires: null
+set: false
+use_flags: null
+version: 7.5.3-r2

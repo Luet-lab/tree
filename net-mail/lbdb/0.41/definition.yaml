@@ -1,0 +1,8 @@
+State: ""
+category: net-mail
+conflicts: null
+name: lbdb
+requires: null
+set: false
+use_flags: null
+version: "0.41"

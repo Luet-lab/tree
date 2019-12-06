@@ -1,0 +1,32 @@
+State: ""
+category: net-irc
+conflicts: []
+name: quasselgrep
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: pycryptodome
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: psycopg
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.5.3
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: python-dateutil
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 0_p20170411

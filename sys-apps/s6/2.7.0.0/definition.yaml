@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: s6
+requires: null
+set: false
+use_flags: null
+version: 2.7.0.0
