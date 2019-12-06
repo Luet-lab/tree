@@ -1,0 +1,12 @@
+category: kde-misc
+conflicts: []
+name: kio-gdrive
+requires:
+- 
+  category: dev-libs
+  name: qtkeychain
+  
+  version: ""
+use_flags:
+- +kaccounts
+version: 1.2.7

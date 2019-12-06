@@ -1,0 +1,27 @@
+category: dev-php
+conflicts: []
+name: PEAR-Net_Sieve
+requires:
+- 
+  category: dev-php
+  name: PEAR-Net_Socket
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Auth_SASL
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: ""
+use_flags:
+- sasl
+version: 1.5.2-r1

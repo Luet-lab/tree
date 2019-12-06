@@ -1,0 +1,41 @@
+category: sci-astronomy
+conflicts: []
+name: kstars
+requires:
+- 
+  category: dev-libs
+  name: qtkeychain
+  
+  version: ""
+- 
+  category: media-libs
+  name: libraw
+  
+  version: ""
+- 
+  category: sci-astronomy
+  name: wcslib
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: cfitsio
+  
+  version: ""
+- 
+  category: sci-libs
+  name: indilib
+  
+  version: 1.7.5
+use_flags:
+- fits
+- indi
+- +password
+- raw
+- wcs
+version: 3.2.3

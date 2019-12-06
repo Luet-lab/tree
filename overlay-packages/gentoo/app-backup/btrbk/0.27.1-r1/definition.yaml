@@ -1,0 +1,28 @@
+category: app-backup
+conflicts: []
+name: btrbk
+requires:
+- 
+  category: sys-fs
+  name: btrfs-progs
+  
+  version: 3.18.2
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pv
+  
+  version: ""
+use_flags:
+- +pv
+- +doc
+version: 0.27.1-r1

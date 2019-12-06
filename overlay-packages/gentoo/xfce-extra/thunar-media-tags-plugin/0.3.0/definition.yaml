@@ -1,0 +1,27 @@
+category: xfce-extra
+conflicts: []
+name: thunar-media-tags-plugin
+requires:
+- 
+  category: media-libs
+  name: taglib
+  
+  version: "1.6"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: xfce-base
+  name: exo
+  
+  version: "0.11"
+- 
+  category: xfce-base
+  name: thunar
+  
+  version: "1.7"
+use_flags:
+- ""
+version: 0.3.0

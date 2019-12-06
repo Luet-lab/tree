@@ -1,0 +1,27 @@
+category: app-misc
+conflicts: []
+name: tmux-xpanes
+requires:
+- 
+  category: app-misc
+  name: tmux
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: app-shells
+  name: zsh
+  
+  version: ""
+use_flags:
+- zsh-completion
+version: 4.1.1

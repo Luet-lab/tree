@@ -1,0 +1,20 @@
+category: virtual
+conflicts: []
+name: texi2dvi
+requires:
+- 
+  category: sys-apps
+  name: texinfo
+  
+  version: ""
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-plaingeneric
+  
+  version: ""
+version: 0-r2

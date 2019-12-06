@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-tcpd
+requires:
+- 
+  category: sec-policy
+  name: selinux-inetd
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

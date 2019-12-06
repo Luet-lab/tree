@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: fcitx-table-extra
+requires:
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+use_flags:
+- ""
+version: 0.3.8

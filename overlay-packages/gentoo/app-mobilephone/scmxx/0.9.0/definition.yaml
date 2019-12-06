@@ -1,0 +1,13 @@
+category: app-mobilephone
+conflicts: []
+name: scmxx
+requires:
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: ""
+use_flags:
+- bluetooth
+- nls
+version: 0.9.0

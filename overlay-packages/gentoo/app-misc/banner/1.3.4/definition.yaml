@@ -1,0 +1,10 @@
+category: app-misc
+conflicts:
+- 
+  category: games-misc
+  name: bsd-games
+  
+  version: ""
+name: banner
+requires: []
+version: 1.3.4

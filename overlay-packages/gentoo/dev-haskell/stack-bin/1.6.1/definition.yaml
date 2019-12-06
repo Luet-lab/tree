@@ -1,0 +1,22 @@
+category: dev-haskell
+conflicts:
+- 
+  category: dev-haskell
+  name: stack
+  
+  version: ""
+name: stack-bin
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+use_flags:
+- symlink
+version: 1.6.1

@@ -1,0 +1,23 @@
+category: media-libs
+conflicts: []
+name: blib
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2"
+- 
+  category: media-libs
+  name: aalib
+  
+  version: 1.4_rc4-r2
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.4.4
+use_flags:
+- aalib
+- gtk
+version: 1.1.7-r2

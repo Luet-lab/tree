@@ -1,0 +1,5 @@
+category: net-dns
+name: resolvconf-symlink
+use_flags:
+- +symlink
+version: "0"

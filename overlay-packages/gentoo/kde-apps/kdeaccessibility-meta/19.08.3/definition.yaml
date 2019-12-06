@@ -1,0 +1,22 @@
+category: kde-apps
+conflicts: []
+name: kdeaccessibility-meta
+requires:
+- 
+  category: kde-apps
+  name: kmag
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kmousetool
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kmouth
+  
+  version: 19.08.3
+use_flags:
+- ""
+version: 19.08.3

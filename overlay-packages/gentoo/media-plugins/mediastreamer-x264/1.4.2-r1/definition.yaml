@@ -1,0 +1,27 @@
+category: media-plugins
+conflicts: []
+name: mediastreamer-x264
+requires:
+- 
+  category: media-libs
+  name: mediastreamer
+  
+  version: 2.7.0
+- 
+  category: media-libs
+  name: x264
+  
+  version: 0.0.20100118
+- 
+  category: media-video
+  name: libav
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+use_flags:
+- libav
+version: 1.4.2-r1

@@ -1,0 +1,25 @@
+category: x11-misc
+conflicts: []
+name: xautomation
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: "1.2"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+version: 1.09-r1

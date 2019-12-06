@@ -1,0 +1,7 @@
+category: dev-libs
+name: userspace-rcu
+use_flags:
+- static-libs
+- regression-test
+- test
+version: 0.11.1

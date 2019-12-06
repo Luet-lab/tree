@@ -1,0 +1,6 @@
+category: sys-fs
+name: ext3grep
+use_flags:
+- debug
+- pch
+version: 0.10.2

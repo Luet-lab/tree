@@ -1,0 +1,38 @@
+category: net-wireless
+conflicts: []
+name: iwd
+requires:
+- 
+  category: dev-libs
+  name: ell
+  
+  version: "0.23"
+- 
+  category: net-wireless
+  name: wireless-regdb
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-wireless
+  name: crda
+  
+  version: ""
+use_flags:
+- +client
+- +crda
+- +monitor
+- ofono
+- wired
+- cpu_flags_x86_aes
+- cpu_flags_x86_ssse3
+version: "0.21"

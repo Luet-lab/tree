@@ -1,0 +1,42 @@
+category: app-i18n
+conflicts: []
+name: fcitx-qt5
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+use_flags:
+- ""
+version: 1.2.3

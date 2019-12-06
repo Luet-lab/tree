@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: cityhash
+requires: []
+use_flags:
+- ""
+version: 1.1.0

@@ -1,0 +1,157 @@
+category: x11-base
+conflicts:
+- 
+  category: <x11-proto
+  name: glproto
+  
+  version: 1.4.17-r2
+- 
+  category: x11-proto
+  name: fontcacheproto
+  
+  version: ""
+- 
+  category: <x11-proto
+  name: randrproto
+  
+  version: 1.5.0-r1
+- 
+  category: <x11-proto
+  name: scrnsaverproto
+  
+  version: 1.2.2-r2
+- 
+  category: <x11-proto
+  name: xineramaproto
+  
+  version: 1.2.1-r2
+- 
+  category: <x11-proto
+  name: dri3proto
+  
+  version: 1.0-r1
+- 
+  category: <x11-proto
+  name: fixesproto
+  
+  version: 5.0-r2
+- 
+  category: <x11-proto
+  name: presentproto
+  
+  version: 1.1-r1
+- 
+  category: <x11-proto
+  name: inputproto
+  
+  version: 2.3.2-r1
+- 
+  category: <x11-proto
+  name: xf86driproto
+  
+  version: 2.1.1-r2
+- 
+  category: <x11-proto
+  name: xf86bigfontproto
+  
+  version: 1.2.0-r2
+- 
+  category: <x11-proto
+  name: xf86dgaproto
+  
+  version: 2.1-r3
+- 
+  category: <x11-proto
+  name: xf86miscproto
+  
+  version: 0.9.3-r1
+- 
+  category: <x11-proto
+  name: xproto
+  
+  version: 7.0.31-r1
+- 
+  category: <x11-proto
+  name: fontsproto
+  
+  version: 2.1.3-r1
+- 
+  category: <x11-proto
+  name: kbproto
+  
+  version: 1.0.7-r1
+- 
+  category: <x11-proto
+  name: recordproto
+  
+  version: 1.14.2-r2
+- 
+  category: <x11-proto
+  name: bigreqsproto
+  
+  version: 1.1.2-r1
+- 
+  category: <x11-proto
+  name: damageproto
+  
+  version: 1.2.1-r2
+- 
+  category: x11-proto
+  name: xf86rushproto
+  
+  version: ""
+- 
+  category: <x11-proto
+  name: compositeproto
+  
+  version: 0.4.2-r2
+- 
+  category: <x11-proto
+  name: xcmiscproto
+  
+  version: 1.2.2-r1
+- 
+  category: <x11-proto
+  name: xextproto
+  
+  version: 7.3.0-r1
+- 
+  category: <x11-proto
+  name: trapproto
+  
+  version: 3.4.3-r1
+- 
+  category: <x11-proto
+  name: dri2proto
+  
+  version: 2.8-r2
+- 
+  category: <x11-proto
+  name: renderproto
+  
+  version: 0.11.1-r2
+- 
+  category: <x11-proto
+  name: resourceproto
+  
+  version: 1.2.0-r1
+- 
+  category: <x11-proto
+  name: dmxproto
+  
+  version: 2.3.1-r2
+- 
+  category: <x11-proto
+  name: videoproto
+  
+  version: 2.3.3-r1
+- 
+  category: <x11-proto
+  name: xf86vidmodeproto
+  
+  version: 2.3.1-r2
+name: xorg-proto
+requires: []
+use_flags:
+- ""
+version: "2019.2"

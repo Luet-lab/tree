@@ -1,0 +1,6 @@
+category: media-libs
+name: vo-amrwbenc
+use_flags:
+- examples
+- static-libs
+version: 0.1.3

@@ -1,0 +1,17 @@
+category: x11-themes
+conflicts: []
+name: clearlooks-phenix
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 3.20.0
+- 
+  category: x11-themes
+  name: gtk-engines
+  
+  version: ""
+use_flags:
+- ""
+version: 7.0.1

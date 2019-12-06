@@ -1,0 +1,6 @@
+category: net-dns
+name: dnscrypt-proxy
+use_flags:
+- pie
+- test
+version: 2.0.19

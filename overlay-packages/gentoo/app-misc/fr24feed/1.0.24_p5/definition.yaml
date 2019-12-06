@@ -1,0 +1,15 @@
+category: app-misc
+conflicts: []
+name: fr24feed
+requires:
+- 
+  category: net-wireless
+  name: dump1090
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+version: 1.0.24_p5

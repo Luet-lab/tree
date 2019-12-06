@@ -1,0 +1,13 @@
+category: dev-lang
+conflicts: []
+name: execline
+requires:
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.7.0.0
+use_flags:
+- static
+- static-libs
+version: 2.5.0.1

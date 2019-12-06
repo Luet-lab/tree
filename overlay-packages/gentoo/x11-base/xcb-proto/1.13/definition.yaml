@@ -1,0 +1,7 @@
+category: x11-base
+conflicts: []
+name: xcb-proto
+requires: []
+use_flags:
+- ""
+version: "1.13"

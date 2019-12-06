@@ -1,0 +1,12 @@
+category: games-puzzle
+conflicts: []
+name: textmaze
+requires:
+- 
+  category: dev-perl
+  name: Curses
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2-r1

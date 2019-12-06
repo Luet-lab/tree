@@ -1,0 +1,77 @@
+category: mail-mta
+conflicts:
+- 
+  category: mail-mta
+  name: postfix
+  
+  version: ""
+- 
+  category: mail-mta
+  name: ssmtp
+  
+  version: ""
+- 
+  category: mail-mta
+  name: courier
+  
+  version: ""
+- 
+  category: mail-mta
+  name: msmtp
+  
+  version: ""
+- 
+  category: mail-mta
+mailer
+  
+  version: ""
+- 
+  category: mail-mta
+  name: qmail-ldap
+  
+  version: ""
+- 
+  category: mail-mta
+  name: sendmail
+  
+  version: ""
+- 
+  category: mail-mta
+  name: exim
+  
+  version: ""
+- 
+  category: mail-mta
+  name: mini-qmail
+  
+  version: ""
+- 
+  category: mail-mta
+  name: netqmail
+  
+  version: ""
+- 
+  category: mail-mta
+  name: opensmtpd
+  
+  version: ""
+name: esmtp
+requires:
+- 
+  category: net-libs
+  name: libesmtp
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 1.2-r1

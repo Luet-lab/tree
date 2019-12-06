@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: ca-certificates
+requires:
+- 
+  category: app-misc
+  name: c_rehash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: debianutils
+  
+  version: ""
+use_flags:
+- cacert
+version: 20190110.3.43

@@ -1,0 +1,10 @@
+category: games-board
+conflicts: []
+name: tablebase-syzygy
+requires:
+- 
+  category: ""
+  name: tablebase-syzygy
+  
+  version: "0"
+version: 0_pre20131213

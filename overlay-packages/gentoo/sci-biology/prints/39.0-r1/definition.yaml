@@ -1,0 +1,13 @@
+category: sci-biology
+conflicts: []
+name: prints
+requires:
+- 
+  category: sci-biology
+  name: emboss
+  
+  version: ""
+use_flags:
+- emboss
+- minimal
+version: 39.0-r1

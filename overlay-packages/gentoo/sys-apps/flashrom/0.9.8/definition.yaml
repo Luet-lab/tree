@@ -1,0 +1,31 @@
+category: sys-apps
+conflicts: []
+name: flashrom
+requires:
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-embedded
+  name: libftdi
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dmidecode
+  
+  version: ""
+use_flags:
+- "atahpt\n\t+atavia\n\t+buspirate-spi\n\tdediprog\n\t+drkaiser\n\t+dummy\n\t+ft2232-spi\n\t+gfxnvidia\n\t+internal\n\t+it8212\n\t+linux-spi\n\tmstarddc-spi\n\t+nic3com\n\t+nicintel\n\t+nicintel-eeprom\n\t+nicintel-spi\n\tnicnatsemi\n\t+nicrealtek\n\t+ogp-spi\n\t+pickit2-spi\n\t+pony-spi\n\t+rayer-spi\n\t+satamv\n\t+satasii\n\t+serprog\n\t+usbblaster-spi\n"
+- +internal-dmi
+- static
+- tools
+- +wiki
+version: 0.9.8

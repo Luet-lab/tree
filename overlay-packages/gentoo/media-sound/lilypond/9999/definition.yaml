@@ -1,0 +1,56 @@
+category: media-sound
+conflicts: []
+name: lilypond
+requires:
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: 1.8.2
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: "2"
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: "8.15"
+- 
+  category: media-fonts
+  name: tex-gyre
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: 1.12.3
+- 
+  category: virtual
+  name: emacs
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: "2.0"
+use_flags:
+- debug
+- emacs
+- guile2
+- profile
+- vim-syntax
+version: "9999"

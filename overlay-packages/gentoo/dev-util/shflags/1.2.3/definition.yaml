@@ -1,0 +1,5 @@
+category: dev-util
+name: shflags
+use_flags:
+- examples
+version: 1.2.3

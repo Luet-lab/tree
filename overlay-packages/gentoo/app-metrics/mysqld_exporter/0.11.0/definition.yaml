@@ -1,0 +1,3 @@
+category: app-metrics
+name: mysqld_exporter
+version: 0.11.0

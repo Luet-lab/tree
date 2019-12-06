@@ -1,0 +1,6 @@
+category: sec-policy
+name: selinux-base-policy
+use_flags:
+- systemd
+- +unconfined
+version: 2.20180114-r1

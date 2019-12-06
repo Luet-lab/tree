@@ -1,0 +1,45 @@
+category: lxqt-base
+conflicts: []
+name: lxqt-qtplugin
+requires:
+- 
+  category: x11-libs
+  name: libfm-qt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libdbusmenu-qt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libqtxdg
+  
+  version: 3.3.1
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+version: 0.14.0

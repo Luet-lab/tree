@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: nat-traverse
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.6.1
+use_flags:
+- ""
+version: "0.6"

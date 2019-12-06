@@ -1,0 +1,19 @@
+category: dev-libs
+conflicts: []
+name: eb
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- ipv6
+- nls
+- threads
+version: 4.4.1-r1

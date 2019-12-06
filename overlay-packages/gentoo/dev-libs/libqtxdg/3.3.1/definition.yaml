@@ -1,0 +1,42 @@
+category: dev-libs
+conflicts: []
+name: libqtxdg
+requires:
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+use_flags:
+- test
+version: 3.3.1

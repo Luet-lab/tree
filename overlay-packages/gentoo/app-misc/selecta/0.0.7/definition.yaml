@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: selecta
+requires:
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: 1.9.3
+use_flags:
+- ""
+version: 0.0.7

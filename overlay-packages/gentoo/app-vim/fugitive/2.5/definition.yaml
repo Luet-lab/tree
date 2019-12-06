@@ -1,0 +1,10 @@
+category: app-vim
+conflicts: []
+name: fugitive
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+version: "2.5"

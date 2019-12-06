@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: tmake
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5"
+use_flags:
+- ""
+version: 2.12-r1

@@ -1,0 +1,12 @@
+category: sci-electronics
+conflicts: []
+name: freehdl
+requires:
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: "2.0"
+use_flags:
+- ""
+version: 0.0.8

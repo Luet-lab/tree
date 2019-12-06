@@ -1,0 +1,12 @@
+category: sys-block
+conflicts: []
+name: spindown
+requires:
+- 
+  category: sys-apps
+  name: sg3_utils
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4.0-r5

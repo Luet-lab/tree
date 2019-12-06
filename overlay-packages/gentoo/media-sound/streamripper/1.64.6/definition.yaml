@@ -1,0 +1,27 @@
+category: media-sound
+conflicts: []
+name: streamripper
+requires:
+- 
+  category: media-libs
+  name: libmad
+  
+  version: ""
+- 
+  category: media-libs
+  name: faad2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.16"
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+use_flags:
+- vorbis
+version: 1.64.6

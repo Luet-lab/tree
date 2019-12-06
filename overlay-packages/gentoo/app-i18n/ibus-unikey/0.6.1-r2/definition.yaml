@@ -1,0 +1,29 @@
+category: app-i18n
+conflicts: []
+name: ibus-unikey
+requires:
+- 
+  category: app-i18n
+  name: ibus
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- +gtk
+- gtk2
+- nls
+version: 0.6.1-r2

@@ -1,0 +1,22 @@
+category: xfce-extra
+conflicts: []
+name: xfce4-systemload-plugin
+requires:
+- 
+  category: xfce-base
+  name: libxfce4ui
+  
+  version: "4.12"
+- 
+  category: xfce-base
+  name: xfce4-panel
+  
+  version: "4.12"
+- 
+  category: sys-power
+  name: upower
+  
+  version: 0.9.23
+use_flags:
+- upower
+version: 1.2.3

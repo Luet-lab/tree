@@ -1,0 +1,22 @@
+category: net-wireless
+conflicts: []
+name: gr-iqbal
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: net-wireless
+  name: gnuradio
+  
+  version: 3.7_rc
+- 
+  category: net-libs
+  name: libosmo-dsp
+  
+  version: ""
+use_flags:
+- ""
+version: 0.37.2

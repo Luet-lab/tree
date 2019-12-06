@@ -1,0 +1,19 @@
+category: sys-fs
+conflicts:
+- 
+  category: sys-fs
+  name: zfs-fuse
+  
+  version: ""
+- 
+  category: sys-kernel
+  name: spl
+  
+  version: ""
+name: zfs-kmod
+requires: []
+use_flags:
+- custom-cflags
+- debug
+- +rootfs
+version: 0.8.2

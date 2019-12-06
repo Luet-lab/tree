@@ -1,0 +1,15 @@
+category: x11-plugins
+conflicts: []
+name: wmforkplop
+requires:
+- 
+  category: gnome-base
+  name: libgtop
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2[X]
+  
+  version: ""
+version: 0.9.3-r3

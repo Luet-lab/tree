@@ -1,0 +1,273 @@
+category: media-fonts
+conflicts: []
+name: infinality-ultimate-meta
+requires:
+- 
+  category: media-fonts
+  name: liberation-fonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: cantarell
+  
+  version: ""
+- 
+  category: media-fonts
+  name: unfonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-odia
+  
+  version: ""
+- 
+  category: media-fonts
+  name: font-misc-meltho
+  
+  version: ""
+- 
+  category: media-fonts
+  name: heuristica
+  
+  version: ""
+- 
+  category: media-fonts
+  name: symbola
+  
+  version: ""
+- 
+  category: media-fonts
+  name: font-cursor-misc
+  
+  version: ""
+- 
+  category: media-fonts
+  name: ubuntu-font-family
+  
+  version: ""
+- 
+  category: media-fonts
+  name: dzongkha-fonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-gujarati
+  
+  version: ""
+- 
+  category: media-fonts
+  name: koruri
+  
+  version: ""
+- 
+  category: media-fonts
+  name: nanum
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-nepali
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-gurmukhi
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-telugu
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-devanagari
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lklug
+  
+  version: ""
+- 
+  category: media-fonts
+  name: corefonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: ja-ipafonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-assamese
+  
+  version: ""
+- 
+  category: media-fonts
+  name: tibetan-machine-font
+  
+  version: ""
+- 
+  category: media-fonts
+  name: ipaex
+  
+  version: ""
+- 
+  category: media-fonts
+  name: vlgothic
+  
+  version: ""
+- 
+  category: media-fonts
+  name: font-bh-ttf
+  
+  version: ""
+- 
+  category: media-fonts
+  name: khmer
+  
+  version: ""
+- 
+  category: media-fonts
+  name: mplus-fonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: inconsolata
+  
+  version: ""
+- 
+  category: media-fonts
+  name: wqy-microhei
+  
+  version: ""
+- 
+  category: media-fonts
+  name: dejavu
+  
+  version: ""
+- 
+  category: media-fonts
+  name: tex-gyre
+  
+  version: ""
+- 
+  category: media-fonts
+  name: droid
+  
+  version: ""
+- 
+  category: media-fonts
+  name: open-sans
+  
+  version: ""
+- 
+  category: media-fonts
+  name: source-pro
+  
+  version: ""
+- 
+  category: media-fonts
+  name: urw-fonts
+  
+  version: ""
+- 
+  category: media-fonts
+  name: paratype
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig-ultimate
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-marathi
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-tamil
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-tamil-classical
+  
+  version: ""
+- 
+  category: media-fonts
+  name: wqy-zenhei
+  
+  version: ""
+- 
+  category: media-fonts
+  name: noto
+  
+  version: ""
+- 
+  category: media-fonts
+  name: courier-prime
+  
+  version: ""
+- 
+  category: media-fonts
+  name: signika
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-bengali
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-kannada
+  
+  version: ""
+- 
+  category: media-fonts
+  name: lohit-malayalam
+  
+  version: ""
+use_flags:
+- minimal
+- +latin
+- +free
+- ms
+- l10n_as
+- l10n_bn
+- l10n_bo
+- l10n_brx
+- l10n_doi
+- l10n_dz
+- l10n_gu
+- l10n_hi
+- l10n_ja
+- l10n_km
+- l10n_kn
+- l10n_ko
+- l10n_kok
+- l10n_ks
+- l10n_mai
+- l10n_ml
+- l10n_mr
+- l10n_ne
+- l10n_or
+- l10n_pa
+- l10n_sa
+- l10n_sat
+- l10n_sd
+- l10n_si
+- l10n_syc
+- l10n_ta
+- l10n_te
+- l10n_zh
+version: "1"

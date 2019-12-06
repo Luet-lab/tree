@@ -1,0 +1,6 @@
+category: dev-cpp
+name: gflags
+use_flags:
+- static-libs
+- test
+version: 2.2.1

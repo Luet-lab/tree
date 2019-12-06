@@ -1,0 +1,57 @@
+category: x11-libs
+conflicts:
+- 
+  category: <x11-libs
+  name: neXtaw
+  
+  version: 0.15.1-r1
+name: neXtaw
+requires:
+- 
+  category: x11-base
+  name: xorg-proto
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbfile
+  
+  version: ""
+use_flags:
+- ""
+version: 0.15.1-r3

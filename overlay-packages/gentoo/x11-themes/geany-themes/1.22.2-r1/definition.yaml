@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: geany-themes
+requires:
+- 
+  category: dev-util
+  name: geany
+  
+  version: "1.22"
+use_flags:
+- ""
+version: 1.22.2-r1

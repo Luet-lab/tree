@@ -1,0 +1,44 @@
+category: net-wireless
+conflicts: []
+name: spectools
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- debug
+- +ncurses
+- +gtk
+version: 2016.01.1

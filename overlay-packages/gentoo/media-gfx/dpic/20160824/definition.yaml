@@ -1,0 +1,7 @@
+category: media-gfx
+conflicts: []
+name: dpic
+requires: []
+use_flags:
+- examples
+version: "20160824"

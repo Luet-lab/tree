@@ -1,0 +1,22 @@
+category: sys-auth
+conflicts: []
+name: pam-pgsql
+requires:
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: "8.0"
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: 1.2.0
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7.3.2

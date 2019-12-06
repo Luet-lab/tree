@@ -1,0 +1,60 @@
+category: app-admin
+conflicts: []
+name: diradm
+requires:
+- 
+  category: net-fs
+  name: samba
+  
+  version: 3.0.6
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: grep
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-MIME-Base64
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Crypt-SmbHash
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: "2.3"
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+use_flags:
+- automount
+- irixpasswd
+- samba
+- test
+version: 2.9.7.1

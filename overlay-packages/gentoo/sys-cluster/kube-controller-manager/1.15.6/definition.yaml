@@ -1,0 +1,3 @@
+category: sys-cluster
+name: kube-controller-manager
+version: 1.15.6

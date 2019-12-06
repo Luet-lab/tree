@@ -1,0 +1,28 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-power
+  name: pmtools
+  
+  version: ""
+name: linux-misc-apps
+requires:
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+- 
+  category: sys-apps
+  name: hwids
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.6"
+use_flags:
+- static-libs
+- tcpd
+version: "4.4"

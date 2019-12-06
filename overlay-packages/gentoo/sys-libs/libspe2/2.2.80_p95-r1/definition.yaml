@@ -1,0 +1,12 @@
+category: sys-libs
+conflicts:
+- 
+  category: sys-libs
+  name: libspe
+  
+  version: ""
+name: libspe2
+requires: []
+use_flags:
+- debug
+version: 2.2.80_p95-r1

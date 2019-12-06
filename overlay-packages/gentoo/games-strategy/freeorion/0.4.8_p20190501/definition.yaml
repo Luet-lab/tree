@@ -1,0 +1,67 @@
+category: games-strategy
+conflicts: []
+name: freeorion
+requires:
+- 
+  category: media-libs
+  name: freealut
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: 2.5.5
+- 
+  category: media-libs
+  name: glew
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2[X,opengl,video]
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: "1.58"
+- 
+  category: media-libs
+  name: libogg
+  
+  version: 1.1.3
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: 1.1.2
+- 
+  category: sci-physics
+  name: bullet
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- dedicated
+version: 0.4.8_p20190501

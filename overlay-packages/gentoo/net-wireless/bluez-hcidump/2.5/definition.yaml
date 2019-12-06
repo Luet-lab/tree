@@ -1,0 +1,12 @@
+category: net-wireless
+conflicts: []
+name: bluez-hcidump
+requires:
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: "4.98"
+use_flags:
+- ""
+version: "2.5"

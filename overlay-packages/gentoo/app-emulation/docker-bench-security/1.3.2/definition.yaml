@@ -1,0 +1,10 @@
+category: app-emulation
+conflicts: []
+name: docker-bench-security
+requires:
+- 
+  category: app-emulation
+  name: docker
+  
+  version: "1.10"
+version: 1.3.2

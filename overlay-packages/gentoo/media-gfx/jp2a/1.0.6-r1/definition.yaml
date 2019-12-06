@@ -1,0 +1,22 @@
+category: media-gfx
+conflicts: []
+name: jp2a
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- curl
+version: 1.0.6-r1

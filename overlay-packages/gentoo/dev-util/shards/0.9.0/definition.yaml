@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: shards
+requires:
+- 
+  category: dev-lang
+  name: crystal
+  
+  version: 0.11.1
+version: 0.9.0

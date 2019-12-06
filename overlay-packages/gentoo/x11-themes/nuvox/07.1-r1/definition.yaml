@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: nuvox
+requires: []
+use_flags:
+- ""
+version: 07.1-r1

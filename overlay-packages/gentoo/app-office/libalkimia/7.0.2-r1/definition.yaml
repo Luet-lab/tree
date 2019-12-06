@@ -1,0 +1,18 @@
+category: app-office
+conflicts: []
+name: libalkimia
+requires:
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: sci-libs
+  name: mpir
+  
+  version: ""
+use_flags:
+- doc
+- gmp
+version: 7.0.2-r1

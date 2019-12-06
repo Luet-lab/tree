@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: leechcraft-quark-sideprovider
+requires:
+- 
+  category: app-leechcraft
+  name: lc-sb2
+  
+  version: "9999"
+version: "9999"

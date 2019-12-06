@@ -1,0 +1,22 @@
+category: dev-php
+conflicts: []
+name: PEAR-MIME_Type
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.4"
+- 
+  category: dev-php
+  name: pear
+  
+  version: "1.9"
+- 
+  category: dev-php
+  name: PEAR-System_Command
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.1

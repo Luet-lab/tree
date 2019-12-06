@@ -1,0 +1,27 @@
+category: media-libs
+conflicts: []
+name: fluidsynth-dssi
+requires:
+- 
+  category: media-libs
+  name: dssi
+  
+  version: 0.9.0
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: media-libs
+  name: liblo
+  
+  version: "0.12"
+- 
+  category: media-sound
+  name: fluidsynth
+  
+  version: 1.0.3
+use_flags:
+- ""
+version: 1.0.0

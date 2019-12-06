@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: checkpolicy
+requires:
+- 
+  category: sys-libs
+  name: libsemanage
+  
+  version: "3.0"
+use_flags:
+- debug
+version: 3.0_rc2

@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: stringparser_bbcode
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- doc
+version: 0.3.3-r1

@@ -1,0 +1,5 @@
+category: sys-devel
+conflicts: []
+name: gcc
+requires: []
+version: 5.5.0

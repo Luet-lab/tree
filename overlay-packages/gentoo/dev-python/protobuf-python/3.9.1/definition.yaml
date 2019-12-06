@@ -1,0 +1,32 @@
+category: dev-python
+conflicts:
+- 
+  category: <dev-libs
+  name: protobuf-3[python(-)]
+  
+  version: ""
+name: protobuf-python
+requires:
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+- 
+  category: dev-python
+  name: six
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf
+  
+  version: 3.9.1
+- 
+  category: dev-python
+  name: namespace-google
+  
+  version: ""
+use_flags:
+- ""
+version: 3.9.1

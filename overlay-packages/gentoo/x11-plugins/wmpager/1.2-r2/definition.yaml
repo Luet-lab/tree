@@ -1,0 +1,20 @@
+category: x11-plugins
+conflicts: []
+name: wmpager
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+version: 1.2-r2

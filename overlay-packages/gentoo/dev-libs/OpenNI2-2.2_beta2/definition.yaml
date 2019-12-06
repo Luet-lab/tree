@@ -1,0 +1,36 @@
+category: dev-libs
+conflicts: []
+name: OpenNI2-2.2_beta2
+requires:
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.5"
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- doc
+- java
+- neon
+- opengl
+- static-libs
+version: ""

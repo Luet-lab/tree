@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: PEAR-Numbers_Words
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Math_BigInteger
+  
+  version: ""
+use_flags:
+- test
+version: 0.18.1-r1

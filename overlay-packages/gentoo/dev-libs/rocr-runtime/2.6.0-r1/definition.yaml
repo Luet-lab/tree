@@ -1,0 +1,10 @@
+category: dev-libs
+conflicts: []
+name: rocr-runtime
+requires:
+- 
+  category: sys-process
+  name: numactl
+  
+  version: ""
+version: 2.6.0-r1

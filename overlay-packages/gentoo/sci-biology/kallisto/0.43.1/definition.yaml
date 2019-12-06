@@ -1,0 +1,15 @@
+category: sci-biology
+conflicts: []
+name: kallisto
+requires:
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+version: 0.43.1

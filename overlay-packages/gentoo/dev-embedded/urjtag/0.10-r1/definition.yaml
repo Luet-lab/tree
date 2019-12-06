@@ -1,0 +1,29 @@
+category: dev-embedded
+conflicts:
+- 
+  category: dev-embedded
+  name: jtag
+  
+  version: ""
+name: urjtag
+requires:
+- 
+  category: dev-embedded
+  name: libftdi
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- ftdi
+- readline
+- usb
+version: 0.10-r1

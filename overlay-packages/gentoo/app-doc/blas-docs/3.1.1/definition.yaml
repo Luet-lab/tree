@@ -1,0 +1,5 @@
+category: app-doc
+name: blas-docs
+use_flags:
+- ""
+version: 3.1.1

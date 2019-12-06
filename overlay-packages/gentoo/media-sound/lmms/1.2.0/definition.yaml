@@ -1,0 +1,159 @@
+category: media-sound
+conflicts: []
+name: lmms
+requires:
+- 
+  category: media-libs
+  name: ladspa-cmt
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: media-plugins
+  name: caps-plugins
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-sound
+  name: lame
+  
+  version: ""
+- 
+  category: media-libs
+  name: portaudio
+  
+  version: 19_pre
+- 
+  category: virtual
+  name: wine
+  
+  version: ""
+- 
+  category: media-plugins
+  name: calf
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: 1.3.0_rc3
+- 
+  category: media-plugins
+  name: tap-plugins
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: media-libs
+  name: stk
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: media-libs
+  name: libgig
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl-sound
+  
+  version: 1.0.1
+- 
+  category: media-plugins
+  name: swh-plugins
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: 1.0.11
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsoundio
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsamplerate
+  
+  version: 0.1.8
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: media-sound
+  name: fluidsynth
+  
+  version: ""
+use_flags:
+- alsa
+- debug
+- fluidsynth
+- jack
+- libgig
+- mp3
+- ogg
+- portaudio
+- pulseaudio
+- sdl
+- soundio
+- stk
+- vst
+version: 1.2.0

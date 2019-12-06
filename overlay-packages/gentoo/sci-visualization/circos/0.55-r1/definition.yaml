@@ -1,0 +1,62 @@
+category: sci-visualization
+conflicts: []
+name: circos
+requires:
+- 
+  category: dev-perl
+  name: List-MoreUtils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Config-General
+  
+  version: ""
+- 
+  category: dev-perl
+  name: GD
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Math-Bezier
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Math-Round
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Math-VecStat
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Set-IntSpan
+  
+  version: "1.11"
+- 
+  category: dev-perl
+  name: Params-Validate
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Readonly
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Regexp-Common
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Graphics-ColorObject
+  
+  version: ""
+use_flags:
+- ""
+version: 0.55-r1

@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: emacs
+requires:
+- 
+  category: app-editors
+  name: emacs
+  
+  version: ""
+version: "23"

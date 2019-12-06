@@ -1,0 +1,12 @@
+category: dev-scheme
+conflicts: []
+name: bytestructures
+requires:
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: 2.0.0
+use_flags:
+- ""
+version: 1.0.1

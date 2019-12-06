@@ -1,0 +1,12 @@
+category: games-puzzle
+conflicts: []
+name: arrows
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.4"
+use_flags:
+- ""
+version: 0.6-r1

@@ -1,0 +1,17 @@
+category: www-misc
+conflicts: []
+name: fcgiwrap
+requires:
+- 
+  category: dev-libs
+  name: fcgi
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+use_flags:
+- systemd
+version: "9999"

@@ -1,0 +1,20 @@
+category: x11-misc
+conflicts: []
+name: xdaliclock
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+version: "2.44"

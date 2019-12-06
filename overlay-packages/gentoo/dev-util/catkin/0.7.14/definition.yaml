@@ -1,0 +1,22 @@
+category: dev-util
+conflicts: []
+name: catkin
+requires:
+- 
+  category: dev-python
+  name: catkin_pkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: empy
+  
+  version: ""
+- 
+  category: dev-util
+  name: cmake
+  
+  version: ""
+use_flags:
+- test
+version: 0.7.14

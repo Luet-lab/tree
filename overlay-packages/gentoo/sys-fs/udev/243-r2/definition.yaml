@@ -1,0 +1,120 @@
+category: sys-fs
+conflicts:
+- 
+  category: <sys-libs
+  name: glibc
+  
+  version: "2.11"
+- 
+  category: <sys-fs
+  name: lvm2
+  
+  version: 2.02.103
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: <sec-policy
+  name: selinux-base
+  
+  version: 2.20120725-r10
+- 
+  category: sys-apps
+  name: gentoo-systemd-integration
+  
+  version: ""
+name: udev
+requires:
+- 
+  category: acct-group
+  name: dialout
+  
+  version: ""
+- 
+  category: acct-group
+  name: input
+  
+  version: ""
+- 
+  category: acct-group
+  name: video
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: "2.30"
+- 
+  category: sys-apps
+  name: kmod
+  
+  version: "16"
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: 2.1.9
+- 
+  category: acct-group
+  name: cdrom
+  
+  version: ""
+- 
+  category: acct-group
+  name: kmem
+  
+  version: ""
+- 
+  category: acct-group
+  name: tty
+  
+  version: ""
+- 
+  category: acct-group
+  name: render
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+- 
+  category: acct-group
+  name: lp
+  
+  version: ""
+- 
+  category: acct-group
+  name: audio
+  
+  version: ""
+- 
+  category: acct-group
+  name: disk
+  
+  version: ""
+- 
+  category: acct-group
+  name: kvm
+  
+  version: ""
+- 
+  category: acct-group
+  name: tape
+  
+  version: ""
+use_flags:
+- acl
+- +kmod
+- selinux
+- static-libs
+version: 243-r2

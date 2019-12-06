@@ -1,0 +1,67 @@
+category: kde-apps
+conflicts: []
+name: plasma-telepathy-meta
+requires:
+- 
+  category: kde-apps
+  name: ktp-kded-module
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-send-file
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-text-ui
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-accounts-kcm
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-approver
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-common-internals
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-desktop-applets
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-filetransfer-handler
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-call-ui
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-auth-handler
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-contact-list
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktp-contact-runner
+  
+  version: 19.08.3
+use_flags:
+- gstreamer
+version: 19.08.3

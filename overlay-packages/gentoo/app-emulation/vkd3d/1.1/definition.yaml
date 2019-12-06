@@ -1,0 +1,32 @@
+category: app-emulation
+conflicts: []
+name: vkd3d
+requires:
+- 
+  category: dev-util
+  name: spirv-tools
+  
+  version: ""
+- 
+  category: media-libs
+  name: vulkan-loader[,X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-keysyms
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-wm
+  
+  version: ""
+use_flags:
+- spirv-tools
+version: "1.1"

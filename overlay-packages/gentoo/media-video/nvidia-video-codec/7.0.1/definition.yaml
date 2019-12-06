@@ -1,0 +1,17 @@
+category: media-video
+conflicts: []
+name: nvidia-video-codec
+requires:
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: "7.5"
+- 
+  category: x11-drivers
+  name: nvidia-drivers
+  
+  version: "367.35"
+use_flags:
+- ""
+version: 7.0.1

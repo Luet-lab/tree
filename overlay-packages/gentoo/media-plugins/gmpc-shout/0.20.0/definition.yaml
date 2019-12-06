@@ -1,0 +1,27 @@
+category: media-plugins
+conflicts: []
+name: gmpc-shout
+requires:
+- 
+  category: media-sound
+  name: gmpc
+  
+  version: 0.20.0
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+use_flags:
+- nls
+version: 0.20.0

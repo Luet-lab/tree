@@ -1,0 +1,23 @@
+category: app-misc
+conflicts: []
+name: screenfetch
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: media-gfx
+  name: scrot
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xdpyinfo
+  
+  version: ""
+use_flags:
+- curl
+- X
+version: 3.9.0

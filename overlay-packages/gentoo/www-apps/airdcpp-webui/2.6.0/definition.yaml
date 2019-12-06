@@ -1,0 +1,12 @@
+category: www-apps
+conflicts: []
+name: airdcpp-webui
+requires:
+- 
+  category: net-p2p
+  name: airdcpp-webclient
+  
+  version: "2.6"
+use_flags:
+- ""
+version: 2.6.0

@@ -1,0 +1,12 @@
+category: games-util
+conflicts: []
+name: xgame
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.7.1-r1

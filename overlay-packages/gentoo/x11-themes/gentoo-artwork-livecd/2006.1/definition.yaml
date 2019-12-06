@@ -1,0 +1,5 @@
+category: x11-themes
+name: gentoo-artwork-livecd
+use_flags:
+- ""
+version: "2006.1"

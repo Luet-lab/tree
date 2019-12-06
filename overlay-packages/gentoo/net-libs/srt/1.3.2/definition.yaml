@@ -1,0 +1,28 @@
+category: net-libs
+conflicts: []
+name: srt
+requires:
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- gnutls
+- libressl
+version: 1.3.2

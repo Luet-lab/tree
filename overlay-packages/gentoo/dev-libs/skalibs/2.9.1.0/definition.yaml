@@ -1,0 +1,7 @@
+category: dev-libs
+name: skalibs
+use_flags:
+- doc
+- ipv6
+- static-libs
+version: 2.9.1.0

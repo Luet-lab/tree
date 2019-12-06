@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: rocr-runtime
+requires:
+- 
+  category: sys-process
+  name: numactl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: hsa-ext-rocr
+  
+  version: ""
+use_flags:
+- nonfree
+version: 2.8.0-r1

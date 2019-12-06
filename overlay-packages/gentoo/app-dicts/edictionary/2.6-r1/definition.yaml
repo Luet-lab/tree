@@ -1,0 +1,7 @@
+category: app-dicts
+conflicts: []
+name: edictionary
+requires: []
+use_flags:
+- ""
+version: 2.6-r1

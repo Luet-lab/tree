@@ -1,0 +1,33 @@
+category: dev-php
+conflicts: []
+name: PEAR-Log
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-DB
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Mail
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-MDB2
+  
+  version: ""
+use_flags:
+- examples
+- test
+version: 1.13.1

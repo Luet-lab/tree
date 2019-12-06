@@ -1,0 +1,17 @@
+category: lxde-base
+conflicts: []
+name: lxtask
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.8

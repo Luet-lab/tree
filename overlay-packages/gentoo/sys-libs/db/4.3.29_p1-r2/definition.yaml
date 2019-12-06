@@ -1,0 +1,21 @@
+category: sys-libs
+conflicts: []
+name: db
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.4"
+use_flags:
+- tcl
+- java
+- doc
+- cxx
+- rpc
+version: 4.3.29_p1-r2

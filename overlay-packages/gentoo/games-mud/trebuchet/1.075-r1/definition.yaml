@@ -1,0 +1,17 @@
+category: games-mud
+conflicts: []
+name: trebuchet
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: tk
+  
+  version: 8.3.3
+use_flags:
+- ""
+version: 1.075-r1

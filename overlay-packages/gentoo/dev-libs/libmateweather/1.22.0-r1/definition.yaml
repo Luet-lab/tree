@@ -1,0 +1,42 @@
+category: dev-libs
+conflicts: []
+name: libmateweather
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: "2.6"
+- 
+  category: net-libs
+  name: libsoup
+  
+  version: "2.34"
+- 
+  category: sys-libs
+  name: timezone-data
+  
+  version: 2010k
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- debug
+version: 1.22.0-r1

@@ -1,0 +1,43 @@
+category: app-i18n
+conflicts: []
+name: nabi
+requires:
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: app-i18n
+  name: libhangul
+  
+  version: "0.1"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- debug
+- nls
+version: 1.0.0

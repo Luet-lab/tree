@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts: []
+name: idlmarkwardt
+requires:
+- 
+  category: dev-lang
+  name: gdl
+  
+  version: ""
+use_flags:
+- ""
+version: "20130418"

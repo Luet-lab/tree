@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: iceicons
+requires:
+- 
+  category: x11-wm
+  name: icewm
+  
+  version: 1.2.6
+use_flags:
+- ""
+version: 0.10.0-r1

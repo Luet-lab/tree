@@ -1,0 +1,12 @@
+category: app-arch
+conflicts: []
+name: lzop
+requires:
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: "2"
+use_flags:
+- ""
+version: "1.04"

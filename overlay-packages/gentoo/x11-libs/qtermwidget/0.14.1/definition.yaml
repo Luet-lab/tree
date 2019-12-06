@@ -1,0 +1,25 @@
+category: x11-libs
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: qtermwidget
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+version: 0.14.1

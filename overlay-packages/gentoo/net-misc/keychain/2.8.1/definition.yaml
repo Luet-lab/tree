@@ -1,0 +1,7 @@
+category: net-misc
+conflicts: []
+name: keychain
+requires: []
+use_flags:
+- ""
+version: 2.8.1

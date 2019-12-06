@@ -1,0 +1,47 @@
+category: www-servers
+conflicts: []
+name: pshs
+requires:
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: "2"
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: media-gfx
+  name: qrencode
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: "2.1"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-libs
+  name: miniupnpc
+  
+  version: ""
+use_flags:
+- libressl
+- +magic
+- +netlink
+- qrcode
+- ssl
+- upnp
+version: 0.3.3

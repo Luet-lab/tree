@@ -1,0 +1,42 @@
+category: net-analyzer
+conflicts: []
+name: dnsenum
+requires:
+- 
+  category: dev-perl
+  name: Net-DNS
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-IP
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-Netmask
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-Whois-IP
+  
+  version: ""
+- 
+  category: dev-perl
+  name: HTML-Parser
+  
+  version: ""
+- 
+  category: dev-perl
+  name: WWW-Mechanize
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Writer
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.2

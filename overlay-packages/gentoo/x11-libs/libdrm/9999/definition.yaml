@@ -1,0 +1,29 @@
+category: x11-libs
+conflicts: []
+name: libdrm
+requires:
+- 
+  category: dev-libs
+  name: libpthread-stubs
+  
+  version: "0.4"
+- 
+  category: x11-libs
+  name: libpciaccess
+  
+  version: 0.13.1-r1
+use_flags:
+- video_cards_amdgpu
+- video_cards_exynos
+- video_cards_freedreno
+- video_cards_intel
+- video_cards_nouveau
+- video_cards_omap
+- video_cards_radeon
+- video_cards_tegra
+- video_cards_vc4
+- video_cards_vivante
+- video_cards_vmware
+- libkms
+- valgrind
+version: "9999"

@@ -1,0 +1,5 @@
+category: app-vim
+name: detectindent
+use_flags:
+- ""
+version: 1.0_p20150908

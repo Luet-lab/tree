@@ -1,0 +1,7 @@
+category: app-i18n
+conflicts: []
+name: unicode-cldr
+requires: []
+use_flags:
+- ""
+version: "35.1"

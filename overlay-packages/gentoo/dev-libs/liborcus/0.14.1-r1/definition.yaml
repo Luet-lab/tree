@@ -1,0 +1,25 @@
+category: dev-libs
+conflicts: []
+name: liborcus
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libixion
+  
+  version: 0.14.0
+use_flags:
+- python
+- +spreadsheet-model
+- static-libs
+- tools
+version: 0.14.1-r1

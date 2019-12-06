@@ -1,0 +1,5 @@
+category: net-mail
+name: renattach
+use_flags:
+- ""
+version: 1.2.4-r1

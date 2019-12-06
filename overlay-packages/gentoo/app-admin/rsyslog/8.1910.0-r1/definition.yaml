@@ -1,0 +1,181 @@
+category: app-admin
+conflicts: []
+name: rsyslog
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: librdkafka
+  
+  version: 0.9.0.99
+- 
+  category: dev-libs
+  name: hiredis
+  
+  version: 0.11.0
+- 
+  category: net-analyzer
+  name: net-snmp
+  
+  version: 5.7.2
+- 
+  category: dev-libs
+  name: libmaxminddb
+  
+  version: ""
+- 
+  category: net-libs
+  name: rabbitmq-c
+  
+  version: 0.3.0
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 2.12.23
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.35.0
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: 8.4.20
+- 
+  category: dev-libs
+  name: librelp
+  
+  version: 1.2.17
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+- 
+  category: dev-libs
+  name: liblogging
+  
+  version: 1.0.1
+- 
+  category: net-libs
+  name: czmq
+  
+  version: 3.0.2
+- 
+  category: dev-libs
+  name: jemalloc
+  
+  version: 3.3.1
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: dev-libs
+  name: mongo-c-driver
+  
+  version: 1.1.10
+- 
+  category: net-libs
+  name: libnet
+  
+  version: 1.1.6
+- 
+  category: dev-libs
+  name: libestr
+  
+  version: 0.1.9
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.5
+- 
+  category: dev-libs
+  name: liblognorm
+  
+  version: 2.0.3
+- 
+  category: dev-libs
+  name: xxhash
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libfastjson
+  
+  version: 0.99.8
+- 
+  category: dev-db
+  name: libdbi
+  
+  version: 0.8.3
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: 1.5.3
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "234"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 0.9.8y
+use_flags:
+- curl
+- dbi
+- debug
+- doc
+- elasticsearch
+- +gcrypt
+- gnutls
+- jemalloc
+- kafka
+- kerberos
+- kubernetes
+- libressl
+- mdblookup
+- mongodb
+- mysql
+- normalize
+- clickhouse
+- omhttp
+- omhttpfs
+- omudpspoof
+- openssl
+- postgres
+- rabbitmq
+- redis
+- relp
+- rfc3195
+- rfc5424hmac
+- snmp
+- ssl
+- systemd
+- test
+- usertools
+- +uuid
+- xxhash
+- zeromq
+version: 8.1910.0-r1

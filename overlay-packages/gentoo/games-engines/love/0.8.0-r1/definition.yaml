@@ -1,0 +1,57 @@
+category: games-engines
+conflicts: []
+name: love
+requires:
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: media-sound
+  name: mpg123
+  
+  version: ""
+- 
+  category: dev-games
+  name: physfs
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: media-libs
+  name: devil
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmodplug
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.8.0-r1

@@ -1,0 +1,138 @@
+category: media-gfx
+conflicts:
+- 
+  category: app-office
+  name: calligra
+  
+  version: ""
+- 
+  category: app-office
+  name: calligra-l10n
+  
+  version: ""
+name: krita
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: opencolorio
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: media-libs
+  name: ilmbase
+  
+  version: ""
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: media-libs
+  name: libraw
+  
+  version: ""
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: dev-python
+  name: sip
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: media-gfx
+  name: exiv2
+  
+  version: ""
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libheif
+  
+  version: ""
+- 
+  category: media-libs
+  name: openexr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: quazip
+  
+  version: ""
+use_flags:
+- color-management
+- fftw
+- gif
+- +gsl
+- heif
+- +jpeg
+- openexr
+- pdf
+- qtmedia
+- +raw
+- tiff
+- vc
+version: 4.2.7.1

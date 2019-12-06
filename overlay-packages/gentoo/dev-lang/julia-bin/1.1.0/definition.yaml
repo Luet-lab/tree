@@ -1,0 +1,13 @@
+category: dev-lang
+conflicts:
+- 
+  category: dev-lang
+  name: julia
+  
+  version: ""
+name: julia-bin
+requires: []
+use_flags:
+- elibc_glibc
+- elibc_FreeBSD
+version: 1.1.0

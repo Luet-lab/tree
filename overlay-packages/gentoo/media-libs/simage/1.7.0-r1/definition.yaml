@@ -1,0 +1,55 @@
+category: media-libs
+conflicts: []
+name: simage
+requires:
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: ""
+use_flags:
+- debug
+- gif
+- jpeg
+- png
+- sndfile
+- static-libs
+- tiff
+- vorbis
+- zlib
+version: 1.7.0-r1

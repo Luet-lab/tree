@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: smc-sum
+requires:
+- 
+  category: sys-apps
+  name: smc-sum-driver
+  
+  version: ""
+use_flags:
+- module
+version: 2.3.0.20190808

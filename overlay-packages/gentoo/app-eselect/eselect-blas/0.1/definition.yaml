@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-blas
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.0.5
+use_flags:
+- ""
+version: "0.1"

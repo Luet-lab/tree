@@ -1,0 +1,12 @@
+category: games-action
+conflicts: []
+name: nighthawk
+requires:
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2-r1

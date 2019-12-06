@@ -1,0 +1,5 @@
+category: dev-ml
+name: ocaml-doc
+use_flags:
+- ""
+version: "4.05"

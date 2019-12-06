@@ -1,0 +1,165 @@
+category: dev-libs
+conflicts: []
+name: weston
+requires:
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: "1.9"
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: 1.11.3
+- 
+  category: x11-misc
+  name: xkeyboard-config
+  
+  version: ""
+- 
+  category: sys-libs
+  name: mtdev
+  
+  version: 1.1.0
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libinput
+  
+  version: 0.8.0
+- 
+  category: x11-misc
+  name: colord
+  
+  version: 0.1.27
+- 
+  category: sys-auth
+  name: pambase
+  
+  version: ""
+- 
+  category: virtual
+  name: udev
+  
+  version: "136"
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: 1.12.0
+- 
+  category: net-misc
+  name: freerdp-1.1.0_beta1_p20130710
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "209"
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: 0.5.0
+- 
+  category: x11-libs
+  name: libdrm
+  
+  version: 2.4.30
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: 0.25.2
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libunwind
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: "1.6"
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland-protocols
+  
+  version: "1.8"
+use_flags:
+- colord
+- dbus
+- +drm
+- editor
+- examples
+- fbdev
+- +gles2
+- headless
+- ivi
+- jpeg
+- +launch
+- lcms
+- rdp
+- +resize-optimization
+- screen-sharing
+- static-libs
+- +suid
+- systemd
+- test
+- unwind
+- wayland-compositor
+- webp
+- +X
+- xwayland
+version: 3.0.0

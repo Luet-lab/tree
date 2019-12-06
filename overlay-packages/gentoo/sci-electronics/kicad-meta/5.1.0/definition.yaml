@@ -1,0 +1,43 @@
+category: sci-electronics
+conflicts: []
+name: kicad-meta
+requires:
+- 
+  category: sci-electronics
+  name: kicad-packages3d
+  
+  version: 5.1.0
+- 
+  category: sci-electronics
+  name: kicad-templates
+  
+  version: 5.1.0
+- 
+  category: app-doc
+  name: kicad-doc
+  
+  version: 5.1.0
+- 
+  category: sci-electronics
+  name: kicad-i18n
+  
+  version: 5.1.0
+- 
+  category: sci-electronics
+  name: kicad
+  
+  version: 5.1.0
+- 
+  category: sci-electronics
+  name: kicad-symbols
+  
+  version: 5.1.0
+- 
+  category: sci-electronics
+  name: kicad-footprints
+  
+  version: 5.1.0
+use_flags:
+- doc
+- nls
+version: 5.1.0

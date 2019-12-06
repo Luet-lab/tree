@@ -1,0 +1,28 @@
+category: media-libs
+conflicts:
+- 
+  category: media-libs
+  name: mesa[-libglvnd(-)]
+  
+  version: ""
+- 
+  category: <media-libs
+  name: mesa
+  
+  version: 19.2.2
+name: libglvnd
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- test
+- X
+version: 1.3.0

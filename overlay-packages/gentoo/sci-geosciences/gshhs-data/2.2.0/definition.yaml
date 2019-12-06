@@ -1,0 +1,7 @@
+category: sci-geosciences
+conflicts: []
+name: gshhs-data
+requires: []
+use_flags:
+- ""
+version: 2.2.0

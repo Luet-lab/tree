@@ -1,0 +1,48 @@
+category: kde-apps
+conflicts: []
+name: kdenetwork-meta
+requires:
+- 
+  category: kde-apps
+  name: krfb
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: zeroconf-ioslave
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: dolphin-plugins-dropbox
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: plasma-telepathy-meta
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kdenetwork-filesharing
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kget
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: krdc
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kopete
+  
+  version: 19.08.3
+use_flags:
+- dropbox
+- +telepathy
+version: 19.08.3

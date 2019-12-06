@@ -1,0 +1,7 @@
+category: net-libs
+conflicts: []
+name: libtelnet
+requires: []
+use_flags:
+- ""
+version: "0.21"

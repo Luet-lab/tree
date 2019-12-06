@@ -1,0 +1,42 @@
+category: net-misc
+conflicts: []
+name: libteam
+requires:
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: 3.2.19
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: net-libs
+  name: zeromq
+  
+  version: 3.2.0
+- 
+  category: virtual
+  name: logger
+  
+  version: ""
+- 
+  category: dev-libs
+  name: jansson
+  
+  version: "2.4"
+- 
+  category: dev-libs
+  name: libdaemon
+  
+  version: ""
+use_flags:
+- dbus
+- debug
+- examples
+- static-libs
+- +syslog
+- zmq
+version: "1.29"

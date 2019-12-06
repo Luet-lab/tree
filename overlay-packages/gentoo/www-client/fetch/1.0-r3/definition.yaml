@@ -1,0 +1,10 @@
+category: www-client
+conflicts: []
+name: fetch
+requires:
+- 
+  category: dev-libs
+  name: http-fetcher
+  
+  version: ""
+version: 1.0-r3

@@ -1,0 +1,12 @@
+category: dev-cpp
+conflicts:
+- 
+  category: <dev-cpp
+  name: catch
+  
+  version: 1.12.2
+name: catch
+requires: []
+use_flags:
+- test
+version: 1.12.2

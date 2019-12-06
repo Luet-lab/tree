@@ -1,0 +1,20 @@
+category: net-mail
+conflicts: []
+name: t-prot
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Locale-gettext
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+version: "3.4"

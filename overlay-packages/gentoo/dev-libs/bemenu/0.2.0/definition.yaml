@@ -1,0 +1,60 @@
+category: dev-libs
+conflicts: []
+name: bemenu
+requires:
+- 
+  category: dev-libs
+  name: wayland-protocols
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango[X]
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- doc
+- ncurses
+- wayland
+- X
+version: 0.2.0

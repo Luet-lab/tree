@@ -1,0 +1,37 @@
+category: media-gfx
+conflicts: []
+name: synnefo
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: oyranos
+  
+  version: 0.9.6
+- 
+  category: x11-misc
+  name: xcalib
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.0

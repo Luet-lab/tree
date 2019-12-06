@@ -1,0 +1,27 @@
+category: app-shells
+conflicts: []
+name: bash
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.2-r2
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: "6.2"
+use_flags:
+- afs
+- mem-scramble
+- +net
+- nls
+- +readline
+- static
+version: 4.2_p53

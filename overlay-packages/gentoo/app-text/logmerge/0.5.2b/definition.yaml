@@ -1,0 +1,10 @@
+category: app-text
+conflicts: []
+name: logmerge
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 0.5.2b

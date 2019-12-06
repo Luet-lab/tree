@@ -1,0 +1,22 @@
+category: games-puzzle
+conflicts: []
+name: toppler
+requires:
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl-mixer
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- nls
+version: 1.1.6-r1

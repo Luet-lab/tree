@@ -1,0 +1,22 @@
+category: sys-fs
+conflicts: []
+name: dislocker
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: net-libs
+  name: mbedtls
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: ""
+use_flags:
+- ruby
+version: 0.7.1-r2

@@ -1,0 +1,97 @@
+category: net-p2p
+conflicts: []
+name: deluge
+requires:
+- 
+  category: dev-python
+  name: distro
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyxdg
+  
+  version: ""
+- 
+  category: dev-python
+  name: six
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: ""
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: ""
+- 
+  category: dev-python
+  name: mako
+  
+  version: ""
+- 
+  category: dev-python
+  name: rencode
+  
+  version: ""
+- 
+  category: dev-python
+  name: setproctitle
+  
+  version: ""
+- 
+  category: dev-python
+  name: geoip-python
+  
+  version: ""
+- 
+  category: dev-python
+  name: chardet
+  
+  version: ""
+- 
+  category: dev-python
+  name: pillow
+  
+  version: ""
+- 
+  category: dev-python
+  name: zope-interface
+  
+  version: 4.4.2
+- 
+  category: dev-python
+  name: pygame
+  
+  version: ""
+- 
+  category: net-libs
+  name: libtorrent-rasterbar
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyopenssl
+  
+  version: ""
+- 
+  category: dev-python
+  name: twisted
+  
+  version: 17.1.0
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+use_flags:
+- console
+- geoip
+- gtk
+- libnotify
+- sound
+- webinterface
+version: 2.0.3-r1

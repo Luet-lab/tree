@@ -1,0 +1,106 @@
+category: app-text
+conflicts: []
+name: poppler
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nss
+  
+  version: "3.19"
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: media-libs
+  name: openjpeg
+  
+  version: 2.3.0-r1
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: app-text
+  name: poppler-data
+  
+  version: ""
+use_flags:
+- cairo
+- cjk
+- curl
+- cxx
+- debug
+- doc
+- +introspection
+- +jpeg
+- +jpeg2k
+- +lcms
+- nss
+- png
+- qt5
+- tiff
+- +utils
+version: 0.83.0

@@ -1,0 +1,43 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: 0.13.8
+- 
+  category: <sys-apps
+  name: systemd
+  
+  version: 216-r3
+- 
+  category: sys-apps
+  name: module-init-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: modutils
+  
+  version: ""
+name: kmod
+requires:
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: 5.0.4-r1
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.6
+use_flags:
+- debug
+- doc
+- lzma
+- python
+- static-libs
+- +tools
+- zlib
+version: "25"

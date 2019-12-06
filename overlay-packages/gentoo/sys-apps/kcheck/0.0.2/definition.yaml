@@ -1,0 +1,10 @@
+category: sys-apps
+conflicts: []
+name: kcheck
+requires:
+- 
+  category: dev-python
+  name: configargparse
+  
+  version: ""
+version: 0.0.2

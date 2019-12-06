@@ -1,0 +1,17 @@
+category: app-emulation
+conflicts: []
+name: conmon
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+use_flags:
+- systemd
+version: 2.0.2

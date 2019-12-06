@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: lorcon
+requires:
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- python
+version: 0.0_p20150109

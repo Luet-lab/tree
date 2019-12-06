@@ -1,0 +1,32 @@
+category: app-crypt
+conflicts: []
+name: cardpeek
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.12"
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 0.7.2

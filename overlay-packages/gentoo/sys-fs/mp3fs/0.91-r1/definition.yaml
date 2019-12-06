@@ -1,0 +1,32 @@
+category: sys-fs
+conflicts: []
+name: mp3fs
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: media-libs
+  name: libid3tag
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-sound
+  name: lame
+  
+  version: ""
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+use_flags:
+- ""
+version: 0.91-r1

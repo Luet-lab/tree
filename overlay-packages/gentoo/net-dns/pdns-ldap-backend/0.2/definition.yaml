@@ -1,0 +1,3 @@
+category: net-dns
+name: pdns-ldap-backend
+version: "0.2"

@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: gnutu
+requires:
+- 
+  category: dev-lang
+  name: mono
+  
+  version: 1.2.5.1-r1
+- 
+  category: dev-dotnet
+  name: gtk-sharp
+  
+  version: 2.12.21
+use_flags:
+- ""
+version: 2.5-r1

@@ -1,0 +1,7 @@
+category: app-admin
+conflicts: []
+name: sagan-rules
+requires: []
+use_flags:
+- +lognorm
+version: "20130430"

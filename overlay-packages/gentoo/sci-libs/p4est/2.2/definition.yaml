@@ -1,0 +1,45 @@
+category: sci-libs
+conflicts: []
+name: p4est
+requires:
+- 
+  category: sci-libs
+  name: libsc-2.2[mpi=,openmp=,romio=,static-libs=,threads=]
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: virtual
+  name: blas
+  
+  version: ""
+- 
+  category: virtual
+  name: lapack
+  
+  version: ""
+- 
+  category: virtual
+  name: mpi[romio=]
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- examples
+- mpi
+- openmp
+- romio
+- static-libs
+- threads
+- +vtk-binary
+version: "2.2"

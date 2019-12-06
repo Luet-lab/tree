@@ -1,0 +1,20 @@
+category: dev-util
+conflicts: []
+name: trace-cmd
+requires:
+- 
+  category: sys-process
+  name: audit
+  
+  version: ""
+- 
+  category: dev-libs
+  name: udis86
+  
+  version: ""
+use_flags:
+- +audit
+- doc
+- python
+- udis86
+version: 2.8.3

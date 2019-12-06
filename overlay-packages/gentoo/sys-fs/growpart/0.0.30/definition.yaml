@@ -1,0 +1,12 @@
+category: sys-fs
+conflicts: []
+name: growpart
+requires:
+- 
+  category: sys-apps
+  name: gptfdisk
+  
+  version: ""
+use_flags:
+- ""
+version: 0.0.30

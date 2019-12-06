@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-unison
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.3
+use_flags:
+- ""
+version: "0.4"

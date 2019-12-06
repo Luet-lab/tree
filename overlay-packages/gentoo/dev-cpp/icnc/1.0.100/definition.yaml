@@ -1,0 +1,25 @@
+category: dev-cpp
+conflicts: []
+name: icnc
+requires:
+- 
+  category: virtual
+  name: mpi
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: tbb
+  
+  version: "4.2"
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- mpi
+- test
+version: 1.0.100

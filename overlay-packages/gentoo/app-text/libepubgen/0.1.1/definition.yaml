@@ -1,0 +1,14 @@
+category: app-text
+conflicts: []
+name: libepubgen
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- test
+version: 0.1.1

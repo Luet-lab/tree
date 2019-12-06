@@ -1,0 +1,17 @@
+category: dev-vcs
+conflicts: []
+name: git-mantle
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+- 
+  category: app-shells
+  name: zsh
+  
+  version: ""
+use_flags:
+- test
+version: "0.6"

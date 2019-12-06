@@ -1,0 +1,20 @@
+category: net-vpn
+conflicts: []
+name: wireguard
+requires:
+- 
+  category: net-firewall
+  name: iptables
+  
+  version: ""
+- 
+  category: net-libs
+  name: libmnl
+  
+  version: ""
+use_flags:
+- debug
+- +module
+- +tools
+- module-src
+version: 0.0.20191206

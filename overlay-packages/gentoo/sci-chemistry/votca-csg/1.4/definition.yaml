@@ -1,0 +1,36 @@
+category: sci-chemistry
+conflicts: []
+name: votca-csg
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sci-libs
+  name: votca-tools
+  
+  version: "1.4"
+- 
+  category: sci-chemistry
+  name: gromacs-2019_beta1
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- extras
+- +gromacs
+- hdf5
+version: "1.4"

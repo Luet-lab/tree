@@ -1,0 +1,79 @@
+category: app-backup
+conflicts: []
+name: rear
+requires:
+- 
+  category: net-dialup
+  name: mingetty
+  
+  version: ""
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-boot
+  name: syslinux
+  
+  version: ""
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: virtual
+  name: udev
+  
+  version: ""
+- 
+  category: net-fs
+  name: nfs-utils
+  
+  version: ""
+- 
+  category: net-fs
+  name: cifs-utils
+  
+  version: ""
+- 
+  category: sys-block
+  name: parted
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: iproute2
+  
+  version: ""
+- 
+  category: sys-apps
+  name: lsb-release
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+use_flags:
+- libressl
+- udev
+- samba
+version: "2.4"

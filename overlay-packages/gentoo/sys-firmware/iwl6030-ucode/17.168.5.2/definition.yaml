@@ -1,0 +1,5 @@
+category: sys-firmware
+name: iwl6030-ucode
+use_flags:
+- ""
+version: 17.168.5.2

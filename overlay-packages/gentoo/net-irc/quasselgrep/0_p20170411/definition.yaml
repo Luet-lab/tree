@@ -1,0 +1,20 @@
+category: net-irc
+conflicts: []
+name: quasselgrep
+requires:
+- 
+  category: dev-python
+  name: python-dateutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: pycryptodome
+  
+  version: ""
+- 
+  category: dev-python
+  name: psycopg
+  
+  version: 2.5.3
+version: 0_p20170411

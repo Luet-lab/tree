@@ -1,0 +1,28 @@
+category: app-admin
+conflicts: []
+name: setools
+requires:
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.8"
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+- 
+  category: dev-python
+  name: networkx
+  
+  version: "2.0"
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.8"
+use_flags:
+- X
+- test
+version: 4.2.2

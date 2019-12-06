@@ -1,0 +1,22 @@
+category: app-portage
+conflicts: []
+name: emerge-delta-webrsync
+requires:
+- 
+  category: dev-util
+  name: diffball
+  
+  version: 0.6.5
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: portage
+  
+  version: 2.3.69
+use_flags:
+- ""
+version: 3.7.6

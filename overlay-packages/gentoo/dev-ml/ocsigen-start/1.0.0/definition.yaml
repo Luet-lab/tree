@@ -1,0 +1,52 @@
+category: dev-ml
+conflicts: []
+name: ocsigen-start
+requires:
+- 
+  category: dev-ml
+  name: ppx_deriving
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-safepass
+  
+  version: ""
+- 
+  category: dev-ml
+  name: eliom
+  
+  version: "6.2"
+- 
+  category: dev-ml
+  name: yojson
+  
+  version: ""
+- 
+  category: dev-ml
+  name: OCaml-ImageMagick
+  
+  version: ""
+- 
+  category: dev-ml
+  name: pgocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: macaque
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocsigen-toolkit
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.0

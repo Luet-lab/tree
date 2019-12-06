@@ -1,0 +1,85 @@
+category: sci-biology
+conflicts: []
+name: embassy
+requires:
+- 
+  category: sci-biology
+  name: embassy-esim4
+  
+  version: 1.0.0.660
+- 
+  category: sci-biology
+  name: embassy-vienna
+  
+  version: 1.7.2.660
+- 
+  category: sci-biology
+  name: embassy-cbstools
+  
+  version: 1.0.0.660
+- 
+  category: sci-biology
+  name: embassy-iprscan
+  
+  version: 4.3.1.660
+- 
+  category: sci-biology
+  name: embassy-phylipnew
+  
+  version: 3.69.660
+- 
+  category: sci-biology
+  name: embassy-structure
+  
+  version: 0.1.660
+- 
+  category: sci-biology
+  name: embassy-meme
+  
+  version: 4.7.660
+- 
+  category: sci-biology
+  name: embassy-mse
+  
+  version: 3.0.0.660
+- 
+  category: sci-biology
+  name: embassy-topo
+  
+  version: 2.0.660
+- 
+  category: sci-biology
+  name: embassy-clustalomega
+  
+  version: 1.1.0.660
+- 
+  category: sci-biology
+  name: embassy-domainatrix
+  
+  version: 0.1.660
+- 
+  category: sci-biology
+  name: embassy-domalign
+  
+  version: 0.1.660
+- 
+  category: sci-biology
+  name: embassy-emnu
+  
+  version: 1.05.660
+- 
+  category: sci-biology
+  name: embassy-hmmer
+  
+  version: 2.3.2.660
+- 
+  category: sci-biology
+  name: embassy-domsearch
+  
+  version: 0.1.660
+- 
+  category: sci-biology
+  name: embassy-signature
+  
+  version: 0.1.660
+version: 6.6.0-r1

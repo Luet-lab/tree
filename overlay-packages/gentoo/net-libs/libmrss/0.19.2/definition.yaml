@@ -1,0 +1,19 @@
+category: net-libs
+conflicts: []
+name: libmrss
+requires:
+- 
+  category: net-libs
+  name: libnxml
+  
+  version: 0.18.0
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- static-libs
+version: 0.19.2

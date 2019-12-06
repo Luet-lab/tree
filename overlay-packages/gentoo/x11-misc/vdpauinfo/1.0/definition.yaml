@@ -1,0 +1,15 @@
+category: x11-misc
+conflicts: []
+name: vdpauinfo
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libvdpau
+  
+  version: "1.0"
+version: "1.0"

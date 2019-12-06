@@ -1,0 +1,5 @@
+category: dev-util
+name: osc
+use_flags:
+- ""
+version: "9999"

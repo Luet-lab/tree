@@ -1,0 +1,156 @@
+category: games-misc
+conflicts: []
+name: fortune-mod-all
+requires:
+- 
+  category: games-misc
+  name: fortune-mod-futurama
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-homer
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-cs
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-bofh-excuses
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-pqf
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-thomas-ogrisegg
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-familyguy
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-zx-error
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-at-linux
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-rss
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-debilneho
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-tao
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-kernelcookies
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-osfortune
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-it
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-hitchhiker
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-humorixfortunes
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-slackware
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-sp-fortunes
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-fvl
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-dubya
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-firefly
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-simpsons-chalkboard
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-calvin
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-chucknorris
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-norbert-tretkowski
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-starwars
+  
+  version: ""
+- 
+  category: games-misc
+  name: fortune-mod-strangelove
+  
+  version: ""
+use_flags:
+- l10n_cs
+- l10n_de
+- l10n_it
+- l10n_sk
+- offensive
+version: "2"

@@ -1,0 +1,5 @@
+category: app-crypt
+name: ccrypt
+use_flags:
+- emacs
+version: 1.11-r1

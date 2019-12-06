@@ -1,0 +1,17 @@
+category: kde-misc
+conflicts: []
+name: krusader
+requires:
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 2.7.2

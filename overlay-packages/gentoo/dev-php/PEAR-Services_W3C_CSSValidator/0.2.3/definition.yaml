@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: PEAR-Services_W3C_CSSValidator
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-HTTP_Request2
+  
+  version: ""
+use_flags:
+- examples
+version: 0.2.3

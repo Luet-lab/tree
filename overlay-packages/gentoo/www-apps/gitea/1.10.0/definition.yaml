@@ -1,0 +1,29 @@
+category: www-apps
+conflicts: []
+name: gitea
+requires:
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: acct-group
+  name: git
+  
+  version: ""
+- 
+  category: acct-user
+  name: git
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- +acct
+- pam
+- sqlite
+version: 1.10.0

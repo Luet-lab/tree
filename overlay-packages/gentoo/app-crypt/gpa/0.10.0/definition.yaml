@@ -1,0 +1,32 @@
+category: app-crypt
+conflicts: []
+name: gpa
+requires:
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: "1.4"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.10.0
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: "2"
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: 1.11.1
+- 
+  category: dev-libs
+  name: libassuan
+  
+  version: 1.1.0
+use_flags:
+- nls
+version: 0.10.0

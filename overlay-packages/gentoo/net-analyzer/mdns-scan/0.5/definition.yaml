@@ -1,0 +1,7 @@
+category: net-analyzer
+conflicts: []
+name: mdns-scan
+requires: []
+use_flags:
+- ""
+version: "0.5"

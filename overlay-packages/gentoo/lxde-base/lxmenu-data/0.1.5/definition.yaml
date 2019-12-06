@@ -1,0 +1,7 @@
+category: lxde-base
+conflicts: []
+name: lxmenu-data
+requires: []
+use_flags:
+- ""
+version: 0.1.5

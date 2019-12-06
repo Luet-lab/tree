@@ -1,0 +1,39 @@
+category: app-admin
+conflicts: []
+name: setools
+requires:
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.7"
+- 
+  category: dev-python
+  name: networkx
+  
+  version: "1.8"
+- 
+  category: virtual
+  name: python-enum34
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.7"
+use_flags:
+- X
+- debug
+- test
+version: 4.1.1-r1

@@ -1,0 +1,85 @@
+category: games-emulation
+conflicts: []
+name: mgba
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+- 
+  category: media-video
+  name: libav
+  
+  version: ""
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtmultimedia
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2[X,sound,joystick,video,opengl?]
+  
+  version: ""
+use_flags:
+- debug
+- elf
+- ffmpeg
+- imagemagick
+- libav
+- opengl
+- qt5
+- +sdl
+- sqlite
+version: 0.7.3

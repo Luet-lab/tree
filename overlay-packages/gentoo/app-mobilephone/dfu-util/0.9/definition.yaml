@@ -1,0 +1,10 @@
+category: app-mobilephone
+conflicts: []
+name: dfu-util
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+version: "0.9"

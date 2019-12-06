@@ -1,0 +1,32 @@
+category: sys-kernel
+conflicts: []
+name: kpatch
+requires:
+- 
+  category: app-crypt
+  name: pesign
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+use_flags:
+- +kpatch-build
+- +kpatch
+- kmod
+- doc
+- contrib
+- test
+version: 0.6.3

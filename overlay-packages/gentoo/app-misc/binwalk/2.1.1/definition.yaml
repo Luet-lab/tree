@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: binwalk
+requires:
+- 
+  category: dev-python
+  name: pyqtgraph
+  
+  version: ""
+use_flags:
+- graph
+version: 2.1.1

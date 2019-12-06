@@ -1,0 +1,13 @@
+category: dev-lang
+conflicts: []
+name: yasm
+requires:
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- nls
+- python
+version: "9999"

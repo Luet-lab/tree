@@ -1,0 +1,30 @@
+category: net-analyzer
+conflicts: []
+name: flowgrind
+requires:
+- 
+  category: dev-libs
+  name: xmlrpc-c
+  
+  version: ""
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- gsl
+- pcap
+version: 0.8.0

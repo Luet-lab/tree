@@ -1,0 +1,22 @@
+category: sys-devel
+conflicts:
+- 
+  category: sci-biology
+  name: emboss
+  
+  version: ""
+name: cons
+requires:
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 2.3.0

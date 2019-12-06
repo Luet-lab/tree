@@ -1,0 +1,22 @@
+category: dev-php
+conflicts: []
+name: PEAR-XML_RSS-1.1.0_alpha1
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-XML_Parser
+  
+  version: ""
+use_flags:
+- ""
+version: ""

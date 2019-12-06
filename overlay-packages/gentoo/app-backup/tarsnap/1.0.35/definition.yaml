@@ -1,0 +1,52 @@
+category: app-backup
+conflicts: []
+name: tarsnap
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: e2fsprogs-libs
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+use_flags:
+- acl
+- bzip2
+- libressl
+- lzma
+- cpu_flags_x86_sse2
+- xattr
+version: 1.0.35

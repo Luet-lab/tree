@@ -1,0 +1,29 @@
+category: media-libs
+conflicts: []
+name: libcdr
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+use_flags:
+- doc
+- static-libs
+- test
+version: 0.1.5

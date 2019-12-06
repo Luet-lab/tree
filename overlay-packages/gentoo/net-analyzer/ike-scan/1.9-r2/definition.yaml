@@ -1,0 +1,18 @@
+category: net-analyzer
+conflicts: []
+name: ike-scan
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+- ssl
+version: 1.9-r2

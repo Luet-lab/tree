@@ -1,0 +1,10 @@
+category: x11-themes
+conflicts: []
+name: mate-icon-theme
+requires:
+- 
+  category: x11-themes
+  name: hicolor-icon-theme
+  
+  version: "0.10"
+version: 1.22.1

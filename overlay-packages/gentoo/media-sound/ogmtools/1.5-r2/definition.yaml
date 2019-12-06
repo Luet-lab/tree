@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: ogmtools
+requires:
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+- 
+  category: media-libs
+  name: libdvdread
+  
+  version: ""
+use_flags:
+- dvd
+version: 1.5-r2

@@ -1,0 +1,17 @@
+category: dev-lang
+conflicts: []
+name: ispc
+requires:
+- 
+  category: sys-devel
+  name: clang
+  
+  version: "3.0"
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: "3.0"
+use_flags:
+- examples
+version: 1.9.2

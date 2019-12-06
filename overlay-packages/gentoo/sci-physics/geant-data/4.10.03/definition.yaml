@@ -1,0 +1,12 @@
+category: sci-physics
+conflicts: []
+name: geant-data
+requires:
+- 
+  category: sci-physics
+  name: geant
+  
+  version: 4.10.03
+use_flags:
+- ""
+version: 4.10.03

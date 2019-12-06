@@ -1,0 +1,27 @@
+category: app-backup
+conflicts: []
+name: buttersink
+requires:
+- 
+  category: dev-python
+  name: crcmod
+  
+  version: ""
+- 
+  category: dev-python
+  name: psutil
+  
+  version: ""
+- 
+  category: sys-fs
+  name: btrfs-progs
+  
+  version: ""
+- 
+  category: dev-python
+  name: boto
+  
+  version: ""
+use_flags:
+- test
+version: 0.6.8

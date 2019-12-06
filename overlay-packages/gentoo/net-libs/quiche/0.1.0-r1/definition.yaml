@@ -1,0 +1,7 @@
+category: net-libs
+conflicts: []
+name: quiche
+requires: []
+use_flags:
+- ""
+version: 0.1.0-r1

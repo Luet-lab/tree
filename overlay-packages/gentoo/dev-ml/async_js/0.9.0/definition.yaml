@@ -1,0 +1,42 @@
+category: dev-ml
+conflicts: []
+name: async_js
+requires:
+- 
+  category: dev-ml
+  name: async_kernel
+  
+  version: ""
+- 
+  category: dev-ml
+  name: async_rpc_kernel
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: js_of_ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

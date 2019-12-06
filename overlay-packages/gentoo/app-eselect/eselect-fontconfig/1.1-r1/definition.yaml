@@ -1,0 +1,17 @@
+category: app-eselect
+conflicts: []
+name: eselect-fontconfig
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.3
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: "2.4"
+use_flags:
+- ""
+version: 1.1-r1

@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: libodfgen
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+use_flags:
+- doc
+version: 0.1.7

@@ -1,0 +1,32 @@
+category: net-im
+conflicts: []
+name: gg-transport
+requires:
+- 
+  category: net-im
+  name: jabber-base
+  
+  version: "0.01"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.6.4
+- 
+  category: net-dns
+  name: libidn
+  
+  version: ""
+- 
+  category: net-libs
+  name: libgadu
+  
+  version: 1.9.0_rc3
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2.6

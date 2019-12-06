@@ -1,0 +1,12 @@
+category: dev-ruby
+conflicts: []
+name: ruby-elf
+requires:
+- 
+  category: virtual
+  name: man
+  
+  version: ""
+use_flags:
+- test
+version: 1.0.8

@@ -1,0 +1,5 @@
+category: www-misc
+name: wsmake
+use_flags:
+- examples
+version: 0.6.4

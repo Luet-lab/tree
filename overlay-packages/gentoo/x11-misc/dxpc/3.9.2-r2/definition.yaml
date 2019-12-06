@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: dxpc
+requires:
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: "2"
+use_flags:
+- ""
+version: 3.9.2-r2

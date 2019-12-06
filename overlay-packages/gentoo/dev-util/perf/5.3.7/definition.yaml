@@ -1,0 +1,97 @@
+category: dev-util
+conflicts: []
+name: perf
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: ""
+- 
+  category: sys-libs
+  name: binutils-libs
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-util
+  name: systemtap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libunwind
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-process
+  name: audit
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: ""
+- 
+  category: sys-process
+  name: numactl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: slang
+  
+  version: ""
+- 
+  category: sys-devel
+  name: clang
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+use_flags:
+- audit
+- clang
+- crypt
+- debug
+- +demangle
+- +doc
+- gtk
+- java
+- lzma
+- numa
+- perl
+- python
+- slang
+- systemtap
+- unwind
+- zlib
+version: 5.3.7

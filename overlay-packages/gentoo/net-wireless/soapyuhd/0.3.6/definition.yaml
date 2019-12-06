@@ -1,0 +1,20 @@
+category: net-wireless
+conflicts: []
+name: soapyuhd
+requires:
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: net-wireless
+  name: uhd
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+version: 0.3.6

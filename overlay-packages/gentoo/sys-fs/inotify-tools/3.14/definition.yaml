@@ -1,0 +1,7 @@
+category: sys-fs
+conflicts: []
+name: inotify-tools
+requires: []
+use_flags:
+- doc
+version: "3.14"

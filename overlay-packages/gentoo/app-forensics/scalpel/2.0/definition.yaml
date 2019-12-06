@@ -1,0 +1,12 @@
+category: app-forensics
+conflicts: []
+name: scalpel
+requires:
+- 
+  category: dev-libs
+  name: tre
+  
+  version: ""
+use_flags:
+- ""
+version: "2.0"

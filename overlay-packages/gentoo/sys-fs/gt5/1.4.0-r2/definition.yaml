@@ -1,0 +1,22 @@
+category: sys-fs
+conflicts: []
+name: gt5
+requires:
+- 
+  category: '|| ( www-client'
+  name: links
+  
+  version: ""
+- 
+  category: www-client
+  name: elinks
+  
+  version: ""
+- 
+  category: www-client
+  name: lynx )
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.0-r2

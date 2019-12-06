@@ -1,0 +1,29 @@
+category: dev-libs
+conflicts: []
+name: libstrophe
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- doc
+- expat
+- libressl
+version: 0.9.2

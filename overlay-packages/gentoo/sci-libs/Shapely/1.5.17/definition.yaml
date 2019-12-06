@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts: []
+name: Shapely
+requires:
+- 
+  category: sci-libs
+  name: geos
+  
+  version: "3.1"
+use_flags:
+- test
+version: 1.5.17

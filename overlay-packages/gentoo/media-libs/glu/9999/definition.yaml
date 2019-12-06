@@ -1,0 +1,17 @@
+category: media-libs
+conflicts:
+- 
+  category: <media-libs
+  name: mesa
+  
+  version: "9"
+name: glu
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: 7.0-r1
+use_flags:
+- static-libs
+version: "9999"

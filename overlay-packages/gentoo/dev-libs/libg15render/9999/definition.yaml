@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: libg15render
+requires:
+- 
+  category: dev-libs
+  name: libg15
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+use_flags:
+- truetype
+version: "9999"

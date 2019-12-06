@@ -1,0 +1,35 @@
+category: dev-db
+conflicts: []
+name: sqlite
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- icu
+- +readline
+- secure-delete
+- static-libs
+- tcl
+- test
+- tools
+version: 3.29.0

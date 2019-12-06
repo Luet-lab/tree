@@ -1,0 +1,5 @@
+category: dev-lang
+name: luajit
+use_flags:
+- lua52compat
+version: 2.0.4

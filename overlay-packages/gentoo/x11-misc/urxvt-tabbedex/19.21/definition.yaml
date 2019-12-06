@@ -1,0 +1,10 @@
+category: x11-misc
+conflicts: []
+name: urxvt-tabbedex
+requires:
+- 
+  category: x11-terms
+  name: rxvt-unicode
+  
+  version: "9.21"
+version: "19.21"

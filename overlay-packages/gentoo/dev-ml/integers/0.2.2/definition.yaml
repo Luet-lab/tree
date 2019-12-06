@@ -1,0 +1,12 @@
+category: dev-ml
+conflicts: []
+name: integers
+requires:
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.2

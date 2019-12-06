@@ -1,0 +1,42 @@
+category: app-misc
+conflicts: []
+name: neofetch
+requires:
+- 
+  category: x11-apps
+  name: xwininfo
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: ""
+- 
+  category: www-client
+  name: w3m
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xprop
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xrandr
+  
+  version: ""
+use_flags:
+- X
+version: 6.0.0

@@ -1,0 +1,5 @@
+category: net-misc
+name: bsdwhois
+use_flags:
+- userland_BSD
+version: 1.43.2.1

@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: dvda-author
+requires:
+- 
+  category: media-sound
+  name: sox
+  
+  version: "14.1"
+- 
+  category: media-libs
+  name: flac
+  
+  version: 1.2.1
+use_flags:
+- debug
+version: 10.06-r1

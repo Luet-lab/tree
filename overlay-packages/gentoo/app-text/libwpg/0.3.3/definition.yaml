@@ -1,0 +1,18 @@
+category: app-text
+conflicts: []
+name: libwpg
+requires:
+- 
+  category: app-text
+  name: libwpd
+  
+  version: ""
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+use_flags:
+- doc
+- static-libs
+version: 0.3.3

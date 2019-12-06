@@ -1,0 +1,46 @@
+category: sci-libs
+conflicts: []
+name: libsigrok
+requires:
+- 
+  category: dev-libs
+  name: glib-2.32.0[static-libs(+)]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libserialport-0.1.0[static-libs(+)]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.32.0
+- 
+  category: dev-libs
+  name: libzip
+  
+  version: "0.8"
+- 
+  category: dev-embedded
+  name: libftdi
+  
+  version: "0.16"
+- 
+  category: dev-libs
+  name: libserialport
+  
+  version: 0.1.0
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- ftdi
+- serial
+- static-libs
+- test
+- usb
+version: 0.3.0

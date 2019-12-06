@@ -1,0 +1,22 @@
+category: app-crypt
+conflicts: []
+name: coolkey
+requires:
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: 1.6.4
+- 
+  category: dev-libs
+  name: nss
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+version: 1.1.0-r7

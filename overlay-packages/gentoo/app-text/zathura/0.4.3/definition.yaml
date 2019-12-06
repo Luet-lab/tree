@@ -1,0 +1,57 @@
+category: app-text
+conflicts: []
+name: zathura
+requires:
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: 0.19.8
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libseccomp
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: 3.5.9
+- 
+  category: app-text
+  name: texlive-core
+  
+  version: ""
+- 
+  category: dev-libs
+  name: girara
+  
+  version: 0.3.2
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: x11-libs
+  name: cairo[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+use_flags:
+- doc
+- +magic
+- seccomp
+- sqlite
+- synctex
+- test
+version: 0.4.3

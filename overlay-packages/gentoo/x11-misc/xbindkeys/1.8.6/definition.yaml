@@ -1,0 +1,23 @@
+category: x11-misc
+conflicts: []
+name: xbindkeys
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: 1.8.4
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+use_flags:
+- guile
+- tk
+version: 1.8.6

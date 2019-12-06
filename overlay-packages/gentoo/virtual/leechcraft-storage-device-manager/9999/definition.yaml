@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: leechcraft-storage-device-manager
+requires:
+- 
+  category: app-leechcraft
+  name: lc-vrooby
+  
+  version: ""
+version: "9999"

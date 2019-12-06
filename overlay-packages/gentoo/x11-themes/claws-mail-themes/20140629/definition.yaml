@@ -1,0 +1,10 @@
+category: x11-themes
+conflicts: []
+name: claws-mail-themes
+requires:
+- 
+  category: mail-client
+  name: claws-mail
+  
+  version: ""
+version: "20140629"

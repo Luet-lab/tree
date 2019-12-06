@@ -1,0 +1,5 @@
+category: xfce-extra
+name: xfce4-smartbookmark-plugin
+use_flags:
+- ""
+version: 0.5.1

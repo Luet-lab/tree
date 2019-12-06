@@ -1,0 +1,3 @@
+category: sys-cluster
+name: kube-scheduler
+version: 1.14.8

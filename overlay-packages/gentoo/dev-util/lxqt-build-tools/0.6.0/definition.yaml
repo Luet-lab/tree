@@ -1,0 +1,15 @@
+category: dev-util
+conflicts: []
+name: lxqt-build-tools
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.50.0
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+version: 0.6.0

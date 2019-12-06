@@ -1,0 +1,32 @@
+category: app-text
+conflicts: []
+name: extract_url
+requires:
+- 
+  category: dev-perl
+  name: MIME-tools
+  
+  version: ""
+- 
+  category: dev-perl
+  name: HTML-Parser
+  
+  version: ""
+- 
+  category: dev-perl
+  name: URI-Find
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Curses-UI
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+use_flags:
+- ""
+version: 1.6.2

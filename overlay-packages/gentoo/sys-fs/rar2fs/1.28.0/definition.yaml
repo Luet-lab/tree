@@ -1,0 +1,17 @@
+category: sys-fs
+conflicts: []
+name: rar2fs
+requires:
+- 
+  category: app-arch
+  name: unrar
+  
+  version: "5"
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+use_flags:
+- debug
+version: 1.28.0

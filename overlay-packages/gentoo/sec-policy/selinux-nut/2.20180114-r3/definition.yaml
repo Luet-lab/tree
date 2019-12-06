@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-nut
+requires:
+- 
+  category: sec-policy
+  name: selinux-apache
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180114-r3

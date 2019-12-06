@@ -1,0 +1,27 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-otr
+requires:
+- 
+  category: net-libs
+  name: libotr
+  
+  version: 4.0.0
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+use_flags:
+- ""
+version: 4.0.2

@@ -1,0 +1,37 @@
+category: x11-misc
+conflicts:
+- 
+  category: '!x11-misc'
+  name: mate-menu-editor
+  
+  version: ""
+name: mozo
+requires:
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: "3"
+- 
+  category: mate-base
+  name: mate-menus
+  
+  version: 1.21.0
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.22.1

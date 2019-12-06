@@ -1,0 +1,17 @@
+category: app-eselect
+conflicts: []
+name: eselect-mpost
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.3
+- 
+  category: app-text
+  name: texlive-core
+  
+  version: "2008"
+use_flags:
+- ""
+version: "0.3"

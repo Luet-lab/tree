@@ -1,0 +1,17 @@
+category: net-p2p
+conflicts: []
+name: ctorrent
+requires:
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- libressl
+version: 3.3.2-r4

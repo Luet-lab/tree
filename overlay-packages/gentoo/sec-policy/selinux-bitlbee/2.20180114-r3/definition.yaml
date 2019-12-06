@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-bitlbee
+requires:
+- 
+  category: sec-policy
+  name: selinux-inetd
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180114-r3

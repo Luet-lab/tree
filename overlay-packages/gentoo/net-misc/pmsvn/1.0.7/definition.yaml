@@ -1,0 +1,27 @@
+category: net-misc
+conflicts: []
+name: pmsvn
+requires:
+- 
+  category: net-analyzer
+  name: nrpe
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: 4.0_p37
+- 
+  category: sys-apps
+  name: sed
+  
+  version: "4.2"
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: 1.6.9
+use_flags:
+- ""
+version: 1.0.7

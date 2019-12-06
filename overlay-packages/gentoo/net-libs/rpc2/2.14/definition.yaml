@@ -1,0 +1,12 @@
+category: net-libs
+conflicts: []
+name: rpc2
+requires:
+- 
+  category: sys-libs
+  name: lwp
+  
+  version: "2.5"
+use_flags:
+- static-libs
+version: "2.14"

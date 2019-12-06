@@ -1,0 +1,10 @@
+category: net-analyzer
+conflicts: []
+name: openbsd-netcat
+requires:
+- 
+  category: dev-libs
+  name: libbsd
+  
+  version: ""
+version: "1.105"

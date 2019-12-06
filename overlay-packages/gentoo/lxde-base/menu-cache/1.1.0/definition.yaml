@@ -1,0 +1,17 @@
+category: lxde-base
+conflicts: []
+name: menu-cache
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libfm-extra
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.0

@@ -1,0 +1,10 @@
+category: www-apache
+conflicts: []
+name: modsec-flameeyes
+requires:
+- 
+  category: www-apache
+  name: mod_security
+  
+  version: 2.5.1
+version: "20130216"

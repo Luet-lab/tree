@@ -1,0 +1,27 @@
+category: app-i18n
+conflicts: []
+name: fcitx-cloudpinyin
+requires:
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- ""
+version: "4.9999"

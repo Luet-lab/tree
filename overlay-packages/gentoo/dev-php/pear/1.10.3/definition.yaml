@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: pear
+requires:
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: 1.10.3
+use_flags:
+- ""
+version: 1.10.3

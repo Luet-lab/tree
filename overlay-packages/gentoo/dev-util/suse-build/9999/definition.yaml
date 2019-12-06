@@ -1,0 +1,42 @@
+category: dev-util
+conflicts: []
+name: suse-build
+requires:
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Parser
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TimeDate
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: app-arch
+  name: cpio
+  
+  version: ""
+- 
+  category: app-arch
+  name: rpm
+  
+  version: ""
+use_flags:
+- symlink
+version: "9999"

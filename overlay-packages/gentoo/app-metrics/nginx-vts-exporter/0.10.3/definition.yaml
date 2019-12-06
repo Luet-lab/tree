@@ -1,0 +1,3 @@
+category: app-metrics
+name: nginx-vts-exporter
+version: 0.10.3

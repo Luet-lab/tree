@@ -1,0 +1,25 @@
+category: net-wireless
+conflicts: []
+name: gr-iio
+requires:
+- 
+  category: net-wireless
+  name: gnuradio
+  
+  version: 3.7.0
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: net-libs
+  name: libiio
+  
+  version: ""
+- 
+  category: net-libs
+  name: libad9361-iio
+  
+  version: ""
+version: 0.3-r2

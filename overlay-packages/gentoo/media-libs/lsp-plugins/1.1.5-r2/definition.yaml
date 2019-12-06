@@ -1,0 +1,45 @@
+category: media-libs
+conflicts: []
+name: lsp-plugins
+requires:
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo[X]
+  
+  version: ""
+- 
+  category: media-libs
+  name: ladspa-sdk
+  
+  version: ""
+- 
+  category: media-libs
+  name: lv2
+  
+  version: ""
+use_flags:
+- doc
+- jack
+- ladspa
+- +lv2
+version: 1.1.5-r2

@@ -1,0 +1,18 @@
+category: x11-themes
+conflicts: []
+name: comix-xcursors
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+use_flags:
+- lefthanded
+- opaque
+version: 0.8.2

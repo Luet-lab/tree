@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: SabreAMF
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+use_flags:
+- examples
+version: 1.5.0

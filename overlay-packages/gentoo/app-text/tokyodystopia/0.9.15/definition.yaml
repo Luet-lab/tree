@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: tokyodystopia
+requires:
+- 
+  category: dev-db
+  name: tokyocabinet
+  
+  version: ""
+use_flags:
+- examples
+version: 0.9.15

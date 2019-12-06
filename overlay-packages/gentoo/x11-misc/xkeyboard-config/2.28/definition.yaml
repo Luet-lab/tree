@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts:
+- 
+  category: <x11-apps
+  name: xkbcomp
+  
+  version: 1.2.3
+- 
+  category: <x11-libs
+  name: libX11
+  
+  version: 1.4.3
+name: xkeyboard-config
+requires: []
+use_flags:
+- ""
+version: "2.28"

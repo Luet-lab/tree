@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: libbulletml
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+use_flags:
+- ""
+version: 0.0.6

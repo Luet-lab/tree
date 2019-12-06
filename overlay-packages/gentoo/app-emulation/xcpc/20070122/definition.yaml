@@ -1,0 +1,12 @@
+category: app-emulation
+conflicts: []
+name: xcpc
+requires:
+- 
+  category: app-emulation
+  name: libdsk
+  
+  version: ""
+use_flags:
+- ""
+version: "20070122"

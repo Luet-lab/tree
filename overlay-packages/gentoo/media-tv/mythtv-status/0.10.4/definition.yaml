@@ -1,0 +1,42 @@
+category: media-tv
+conflicts: []
+name: mythtv-status
+requires:
+- 
+  category: dev-perl
+  name: Config-Auto
+  
+  version: ""
+- 
+  category: media-tv
+  name: mythtv
+  
+  version: ""
+- 
+  category: dev-perl
+  name: libwww-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-LibXML
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Date-Manip
+  
+  version: ""
+- 
+  category: dev-perl
+  name: MIME-tools
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Sys-SigAction
+  
+  version: ""
+use_flags:
+- ""
+version: 0.10.4

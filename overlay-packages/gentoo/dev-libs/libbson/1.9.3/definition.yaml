@@ -1,0 +1,7 @@
+category: dev-libs
+name: libbson
+use_flags:
+- debug
+- examples
+- static-libs
+version: 1.9.3

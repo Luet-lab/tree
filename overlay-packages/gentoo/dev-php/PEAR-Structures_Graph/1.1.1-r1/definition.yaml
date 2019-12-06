@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: PEAR-Structures_Graph
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.1-r1

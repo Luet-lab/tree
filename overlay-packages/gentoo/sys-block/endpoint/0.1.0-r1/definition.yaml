@@ -1,0 +1,17 @@
+category: sys-block
+conflicts: []
+name: endpoint
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2"
+- 
+  category: sys-libs
+  name: libraw1394
+  
+  version: "0.9"
+use_flags:
+- ""
+version: 0.1.0-r1

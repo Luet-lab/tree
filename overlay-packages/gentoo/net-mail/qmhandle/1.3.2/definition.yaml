@@ -1,0 +1,22 @@
+category: net-mail
+conflicts: []
+name: qmhandle
+requires:
+- 
+  category: sys-process
+  name: psmisc
+  
+  version: ""
+- 
+  category: virtual
+  name: qmail
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.3.2

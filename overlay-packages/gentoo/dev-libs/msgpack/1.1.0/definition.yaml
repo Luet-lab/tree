@@ -1,0 +1,7 @@
+category: dev-libs
+name: msgpack
+use_flags:
+- +cxx
+- static-libs
+- test
+version: 1.1.0

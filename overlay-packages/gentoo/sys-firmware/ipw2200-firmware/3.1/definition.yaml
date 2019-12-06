@@ -1,0 +1,5 @@
+category: sys-firmware
+name: ipw2200-firmware
+use_flags:
+- ""
+version: "3.1"

@@ -1,0 +1,8 @@
+category: media-gfx
+conflicts: []
+name: quat
+requires: []
+use_flags:
+- X
+- debug
+version: 1.20-r1

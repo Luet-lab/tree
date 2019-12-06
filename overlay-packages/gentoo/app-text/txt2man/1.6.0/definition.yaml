@@ -1,0 +1,17 @@
+category: app-text
+conflicts: []
+name: txt2man
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+use_flags:
+- ""
+version: 1.6.0

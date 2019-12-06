@@ -1,0 +1,32 @@
+category: sys-apps
+conflicts: []
+name: collectl
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.8
+- 
+  category: virtual
+  name: perl-Time-HiRes
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Archive-Zip
+  
+  version: "1.20"
+- 
+  category: sys-apps
+  name: ethtool
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+use_flags:
+- ""
+version: 4.3.0

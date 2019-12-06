@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: xfce4-dev-tools
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.42"
+use_flags:
+- ""
+version: 4.14.0

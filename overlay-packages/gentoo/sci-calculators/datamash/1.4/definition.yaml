@@ -1,0 +1,18 @@
+category: sci-calculators
+conflicts: []
+name: datamash
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- nls
+- openssl
+version: "1.4"

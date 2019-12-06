@@ -1,0 +1,36 @@
+category: gui-apps
+conflicts:
+- 
+  category: <=gui-wm
+  name: sway-1.0_beta1
+  
+  version: ""
+- 
+  category: ~gui-wm
+  name: sway-1.0_beta2
+  
+  version: ""
+name: swayidle
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+- 
+  category: sys-auth
+  name: elogind
+  
+  version: "237"
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "237"
+use_flags:
+- elogind
+- fish-completion
+- +man
+- systemd
+- zsh-completion
+version: "1.3"

@@ -1,0 +1,45 @@
+category: media-sound
+conflicts: []
+name: mplay
+requires:
+- 
+  category: dev-perl
+  name: Video-Info
+  
+  version: ""
+- 
+  category: media-video
+  name: mplayer
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: MP3-Info
+  
+  version: "1.11"
+- 
+  category: dev-perl
+  name: Audio-Mixer
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Ogg-Vorbis-Header-PurePerl
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Time-HiRes
+  
+  version: "1.56"
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: "2.21"
+version: "0.80"

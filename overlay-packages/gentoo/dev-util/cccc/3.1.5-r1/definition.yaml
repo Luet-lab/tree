@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: cccc
+requires: []
+use_flags:
+- apidoc
+- debug
+- doc
+- mfc
+version: 3.1.5-r1

@@ -1,0 +1,28 @@
+category: net-libs
+conflicts: []
+name: libiio
+requires:
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libaio
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+use_flags:
+- +aio
+- +zeroconf
+version: 0.15-r1

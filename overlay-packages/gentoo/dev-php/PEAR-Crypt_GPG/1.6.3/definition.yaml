@@ -1,0 +1,27 @@
+category: dev-php
+conflicts: []
+name: PEAR-Crypt_GPG
+requires:
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Console_CommandLine
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Exception
+  
+  version: ""
+use_flags:
+- test
+version: 1.6.3

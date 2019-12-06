@@ -1,0 +1,27 @@
+category: dev-util
+conflicts: []
+name: rosinstall_generator
+requires:
+- 
+  category: dev-python
+  name: rospkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+- 
+  category: dev-python
+  name: catkin_pkg
+  
+  version: 0.1.28
+- 
+  category: dev-python
+  name: rosdistro
+  
+  version: 0.5.0
+use_flags:
+- ""
+version: 0.1.13

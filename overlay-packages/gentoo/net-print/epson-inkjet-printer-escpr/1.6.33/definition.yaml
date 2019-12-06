@@ -1,0 +1,12 @@
+category: net-print
+conflicts: []
+name: epson-inkjet-printer-escpr
+requires:
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+use_flags:
+- ""
+version: 1.6.33

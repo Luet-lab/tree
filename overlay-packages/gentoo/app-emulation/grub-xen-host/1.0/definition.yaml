@@ -1,0 +1,17 @@
+category: app-emulation
+conflicts: []
+name: grub-xen-host
+requires:
+- 
+  category: app-emulation
+  name: xen-tools
+  
+  version: ""
+- 
+  category: sys-boot
+  name: grub
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

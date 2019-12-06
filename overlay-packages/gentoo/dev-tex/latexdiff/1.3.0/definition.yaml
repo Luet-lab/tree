@@ -1,0 +1,27 @@
+category: dev-tex
+conflicts: []
+name: latexdiff
+requires:
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-plaingeneric
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Algorithm-Diff
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5.8"
+use_flags:
+- test
+version: 1.3.0

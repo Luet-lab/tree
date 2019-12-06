@@ -1,0 +1,12 @@
+category: dev-db
+conflicts: []
+name: lmdb++
+requires:
+- 
+  category: dev-db
+  name: lmdb
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.14.0

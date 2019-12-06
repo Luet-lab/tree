@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: rendercheck
+requires:
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 1.5-r1

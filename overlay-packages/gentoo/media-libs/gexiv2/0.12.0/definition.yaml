@@ -1,0 +1,27 @@
+category: media-libs
+conflicts: []
+name: gexiv2
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.38.0
+- 
+  category: media-gfx
+  name: exiv2
+  
+  version: "0.21"
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: "1.54"
+use_flags:
+- gtk-doc
+- +introspection
+- python
+- static-libs
+- test
+- +vala
+version: 0.12.0

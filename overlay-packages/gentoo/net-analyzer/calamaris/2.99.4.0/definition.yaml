@@ -1,0 +1,15 @@
+category: net-analyzer
+conflicts: []
+name: calamaris
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: GDGraph
+  
+  version: ""
+version: 2.99.4.0

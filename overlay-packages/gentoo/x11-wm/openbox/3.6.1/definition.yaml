@@ -1,0 +1,95 @@
+category: x11-wm
+conflicts: []
+name: openbox
+requires:
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango-1.8[X]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: "2"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: "2.0"
+- 
+  category: x11-libs
+  name: startup-notification
+  
+  version: "0.8"
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyxdg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+use_flags:
+- branding
+- debug
+- imlib
+- nls
+- session
+- startup-notification
+- static-libs
+- svg
+- xdg
+version: 3.6.1

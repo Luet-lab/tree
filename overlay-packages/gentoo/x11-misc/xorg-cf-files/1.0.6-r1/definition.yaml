@@ -1,0 +1,7 @@
+category: x11-misc
+conflicts: []
+name: xorg-cf-files
+requires: []
+use_flags:
+- ""
+version: 1.0.6-r1

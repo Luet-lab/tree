@@ -1,0 +1,12 @@
+category: x11-plugins
+conflicts: []
+name: vicious
+requires:
+- 
+  category: x11-wm
+  name: awesome
+  
+  version: ""
+use_flags:
+- contrib
+version: 2.3.1

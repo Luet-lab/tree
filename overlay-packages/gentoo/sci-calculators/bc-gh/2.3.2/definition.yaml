@@ -1,0 +1,5 @@
+category: sci-calculators
+name: bc-gh
+use_flags:
+- ""
+version: 2.3.2

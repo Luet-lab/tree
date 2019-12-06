@@ -1,0 +1,15 @@
+category: sys-fs
+conflicts: []
+name: extundelete
+requires:
+- 
+  category: sys-libs
+  name: e2fsprogs-libs
+  
+  version: ""
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: ""
+version: 0.2.4

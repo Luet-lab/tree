@@ -1,0 +1,43 @@
+category: mate-extra
+conflicts: []
+name: mate-polkit
+requires:
+- 
+  category: sys-apps
+  name: accountsservice
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.36"
+- 
+  category: sys-auth
+  name: polkit
+  
+  version: "0.102"
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 3.14.0
+- 
+  category: dev-libs
+  name: libappindicator
+  
+  version: ""
+use_flags:
+- accountsservice
+- appindicator
+version: 1.22.0

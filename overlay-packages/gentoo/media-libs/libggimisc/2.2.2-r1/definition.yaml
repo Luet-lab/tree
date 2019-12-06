@@ -1,0 +1,18 @@
+category: media-libs
+conflicts: []
+name: libggimisc
+requires:
+- 
+  category: media-libs
+  name: libggi
+  
+  version: 2.2.2
+- 
+  category: media-libs
+  name: svgalib
+  
+  version: ""
+use_flags:
+- fbcon
+- svga
+version: 2.2.2-r1

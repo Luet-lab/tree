@@ -1,0 +1,22 @@
+category: x11-libs
+conflicts: []
+name: libva-intel-media-driver
+requires:
+- 
+  category: media-libs
+  name: gmmlib
+  
+  version: 18.3.0
+- 
+  category: x11-libs
+  name: libva
+  
+  version: 2.3.0
+- 
+  category: x11-libs
+  name: libpciaccess
+  
+  version: 0.13.1-r1
+use_flags:
+- ""
+version: 18.3.0

@@ -1,0 +1,15 @@
+category: app-crypt
+conflicts: []
+name: quickcrypt
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5.6"
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+version: 0.9.2b-r1

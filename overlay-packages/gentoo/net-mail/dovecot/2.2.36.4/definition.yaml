@@ -1,0 +1,146 @@
+category: net-mail
+conflicts:
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: ""
+name: dovecot
+requires:
+- 
+  category: app-text
+  name: libexttextcat
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-dovecot
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: net-mail
+  name: mailbase
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: clucene
+  
+  version: "2.3"
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: net-mail
+  name: vpopmail
+  
+  version: ""
+use_flags:
+- kerberos
+- ldap
+- mysql
+- pam
+- postgres
+- sqlite
+- vpopmail
+- ""
+- bzip2
+- lzma
+- lz4
+- zlib
+- caps
+- doc
+- ipv6
+- libressl
+- lucene
+- managesieve
+- selinux
+- sieve
+- solr
+- static-libs
+- suid
+- tcpd
+- textcat
+version: 2.2.36.4

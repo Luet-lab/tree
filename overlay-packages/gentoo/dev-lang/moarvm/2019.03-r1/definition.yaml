@@ -1,0 +1,34 @@
+category: dev-lang
+conflicts: []
+name: moarvm
+requires:
+- 
+  category: virtual
+  name: libffi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libatomic_ops
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libuv
+  
+  version: "1.26"
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+use_flags:
+- asan
+- clang
+- debug
+- doc
+- +jit
+- static-libs
+- optimize
+- ubsan
+version: 2019.03-r1

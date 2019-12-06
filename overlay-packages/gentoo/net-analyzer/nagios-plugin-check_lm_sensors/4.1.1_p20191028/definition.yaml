@@ -1,0 +1,3 @@
+category: net-analyzer
+name: nagios-plugin-check_lm_sensors
+version: 4.1.1_p20191028

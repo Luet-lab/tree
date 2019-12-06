@@ -1,0 +1,37 @@
+category: media-sound
+conflicts: []
+name: gnomad
+requires:
+- 
+  category: dev-libs
+  name: libgudev
+  
+  version: ""
+- 
+  category: media-libs
+  name: libid3tag
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmtp
+  
+  version: ""
+- 
+  category: media-libs
+  name: libnjb
+  
+  version: ""
+- 
+  category: media-libs
+  name: taglib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.24"
+use_flags:
+- nls
+version: 2.9.6

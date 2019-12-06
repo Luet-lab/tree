@@ -1,0 +1,12 @@
+category: app-crypt
+conflicts: []
+name: signify
+requires:
+- 
+  category: dev-libs
+  name: libbsd
+  
+  version: "0.7"
+use_flags:
+- ""
+version: "20"

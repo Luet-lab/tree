@@ -1,0 +1,12 @@
+category: app-misc
+conflicts:
+- 
+  category: <dev-libs
+  name: openssl
+  
+  version: 1.0.2d-r1
+name: c_rehash
+requires: []
+use_flags:
+- ""
+version: 1.7-r1

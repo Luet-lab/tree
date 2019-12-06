@@ -1,0 +1,10 @@
+category: dev-libs
+conflicts: []
+name: cudnn
+requires:
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: "10.0"
+version: 7.4.2.24

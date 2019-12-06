@@ -1,0 +1,10 @@
+category: dev-libs
+conflicts: []
+name: uriparser
+requires: []
+use_flags:
+- doc
+- qt5
+- test
+- unicode
+version: 0.9.1

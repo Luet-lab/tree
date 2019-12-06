@@ -1,0 +1,5 @@
+category: games-emulation
+name: emutos
+use_flags:
+- debug
+version: 0.9.12

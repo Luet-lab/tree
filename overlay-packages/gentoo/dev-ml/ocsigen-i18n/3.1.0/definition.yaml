@@ -1,0 +1,12 @@
+category: dev-ml
+conflicts: []
+name: ocsigen-i18n
+requires:
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 3.1.0

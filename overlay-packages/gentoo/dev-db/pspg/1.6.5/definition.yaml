@@ -1,0 +1,10 @@
+category: dev-db
+conflicts: []
+name: pspg
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+version: 1.6.5

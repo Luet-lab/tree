@@ -1,0 +1,25 @@
+category: app-mobilephone
+conflicts: []
+name: gnocky
+requires:
+- 
+  category: app-mobilephone
+  name: gnokii
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libglade
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+version: 0.0.7

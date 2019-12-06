@@ -1,0 +1,48 @@
+category: dev-python
+conflicts: []
+name: graph-tool
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: sci-libs
+  name: scipy
+  
+  version: ""
+- 
+  category: sci-mathematics
+  name: cgal
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: cairomm
+  
+  version: ""
+- 
+  category: dev-python
+  name: pycairo
+  
+  version: ""
+- 
+  category: dev-python
+  name: matplotlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: "1.70"
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+use_flags:
+- +cairo
+- openmp
+version: "2.29"

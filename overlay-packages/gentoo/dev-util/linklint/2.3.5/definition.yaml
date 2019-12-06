@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: linklint
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 2.3.5

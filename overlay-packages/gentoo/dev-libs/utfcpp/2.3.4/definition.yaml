@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: utfcpp
+requires: []
+use_flags:
+- ""
+version: 2.3.4

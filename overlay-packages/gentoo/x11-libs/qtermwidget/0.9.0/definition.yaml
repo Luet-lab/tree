@@ -1,0 +1,20 @@
+category: x11-libs
+conflicts: []
+name: qtermwidget
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+version: 0.9.0

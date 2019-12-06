@@ -1,0 +1,37 @@
+category: app-i18n
+conflicts: []
+name: librime
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: leveldb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: marisa
+  
+  version: ""
+- 
+  category: app-i18n
+  name: opencc
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: glog
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: yaml-cpp
+  
+  version: ""
+use_flags:
+- test
+version: 1.5.3

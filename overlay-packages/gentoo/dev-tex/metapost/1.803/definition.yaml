@@ -1,0 +1,32 @@
+category: dev-tex
+conflicts: []
+name: metapost
+requires:
+- 
+  category: dev-libs
+  name: kpathsea
+  
+  version: 6.1.0_p20120701
+- 
+  category: app-eselect
+  name: eselect-mpost
+  
+  version: "0.3"
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: "1.12"
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: "0.18"
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- ""
+version: "1.803"

@@ -1,0 +1,12 @@
+category: app-cdr
+conflicts: []
+name: cdlabelgen
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 4.3.0

@@ -1,0 +1,22 @@
+category: app-backup
+conflicts: []
+name: dirvish
+requires:
+- 
+  category: dev-perl
+  name: Time-ParseDate
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Time-Period
+  
+  version: ""
+- 
+  category: net-misc
+  name: rsync
+  
+  version: 2.5.7
+use_flags:
+- ""
+version: 1.2.1

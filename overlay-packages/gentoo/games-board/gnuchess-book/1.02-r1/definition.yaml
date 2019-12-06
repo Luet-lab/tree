@@ -1,0 +1,12 @@
+category: games-board
+conflicts: []
+name: gnuchess-book
+requires:
+- 
+  category: games-board
+  name: gnuchess
+  
+  version: 6.2.3
+use_flags:
+- ""
+version: 1.02-r1

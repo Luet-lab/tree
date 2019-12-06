@@ -1,0 +1,30 @@
+category: virtual
+conflicts: []
+name: mailx
+requires:
+- 
+  category: "|| (\tnet-mail"
+  name: mailutils
+  
+  version: ""
+- 
+  category: mail-client
+  name: mailx
+  
+  version: ""
+- 
+  category: mail-client
+  name: s-nail
+  
+  version: ""
+- 
+  category: mail-client
+  name: nail
+  
+  version: ""
+- 
+  category: sys-freebsd
+  name: freebsd-ubin )
+  
+  version: ""
+version: "2"

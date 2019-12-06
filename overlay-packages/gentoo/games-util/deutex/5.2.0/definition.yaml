@@ -1,0 +1,13 @@
+category: games-util
+conflicts: []
+name: deutex
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- man
+- png
+version: 5.2.0

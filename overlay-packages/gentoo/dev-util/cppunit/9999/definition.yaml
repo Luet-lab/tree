@@ -1,0 +1,9 @@
+category: dev-util
+conflicts: []
+name: cppunit
+requires: []
+use_flags:
+- doc
+- examples
+- static-libs
+version: "9999"

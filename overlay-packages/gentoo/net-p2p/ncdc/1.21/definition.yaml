@@ -1,0 +1,42 @@
+category: net-p2p
+conflicts: []
+name: ncdc
+requires:
+- 
+  category: dev-libs
+  name: geoip
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- geoip
+version: "1.21"

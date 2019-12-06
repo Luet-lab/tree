@@ -1,0 +1,220 @@
+category: kde-misc
+conflicts: []
+name: tellico
+requires:
+- 
+  category: kde-frameworks
+  name: kjobwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxslt
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcodecs
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Text-BibTeX
+  
+  version: 0.780.0-r1
+- 
+  category: kde-apps
+  name: libkcddb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libcdio
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kfilemetadata
+  
+  version: ""
+- 
+  category: media-libs
+  name: libv4l
+  
+  version: 0.8.3
+- 
+  category: dev-libs
+  name: yaz
+  
+  version: "2"
+- 
+  category: kde-frameworks
+  name: knewstuff
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kitemmodels
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kparts
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kguiaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ktextwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: karchive
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwallet
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: solid
+  
+  version: ""
+- 
+  category: kde-apps
+  name: libksane
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcrash
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: khtml
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kservice
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: media-libs
+  name: taglib
+  
+  version: "1.5"
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: sonnet
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: media-libs
+  name: exempi
+  
+  version: "2"
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: ""
+use_flags:
+- cddb
+- discid
+- pdf
+- scanner
+- semantic-desktop
+- taglib
+- v4l
+- xmp
+- yaz
+version: 3.2.2

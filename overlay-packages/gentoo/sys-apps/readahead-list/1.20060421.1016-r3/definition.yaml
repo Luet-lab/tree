@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: readahead-list
+requires: []
+use_flags:
+- doc
+version: 1.20060421.1016-r3

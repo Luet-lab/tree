@@ -1,0 +1,44 @@
+category: sci-libs
+conflicts: []
+name: libqalculate
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-misc
+  name: wget
+  
+  version: ""
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: "3.7"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: sci-libs
+  name: cln
+  
+  version: "1.2"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- gnuplot
+- readline
+- static-libs
+version: 0.9.9

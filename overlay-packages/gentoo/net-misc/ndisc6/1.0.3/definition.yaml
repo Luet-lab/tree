@@ -1,0 +1,7 @@
+category: net-misc
+conflicts: []
+name: ndisc6
+requires: []
+use_flags:
+- debug
+version: 1.0.3

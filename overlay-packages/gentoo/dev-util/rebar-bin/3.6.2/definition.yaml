@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: rebar-bin
+requires:
+- 
+  category: dev-lang
+  name: erlang
+  
+  version: ""
+version: 3.6.2

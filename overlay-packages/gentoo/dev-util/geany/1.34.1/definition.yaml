@@ -1,0 +1,28 @@
+category: dev-util
+conflicts: []
+name: geany
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.32"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.24"
+- 
+  category: x11-libs
+  name: vte
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.0"
+use_flags:
+- +gtk3
+- +vte
+version: 1.34.1

@@ -1,0 +1,58 @@
+category: net-im
+conflicts: []
+name: ricochet
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtmultimedia
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: net-vpn
+  name: tor
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtquickcontrols
+  
+  version: ""
+use_flags:
+- debug
+- hardened
+version: 1.1.4

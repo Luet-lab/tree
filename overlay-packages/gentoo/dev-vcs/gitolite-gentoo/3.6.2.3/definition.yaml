@@ -1,0 +1,48 @@
+category: dev-vcs
+conflicts:
+- 
+  category: dev-vcs
+  name: gitolite
+  
+  version: ""
+name: gitolite-gentoo
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: 1.6.6
+- 
+  category: app-vim
+  name: gitolite-syntax
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-SSH-AuthorizedKeysFile
+  
+  version: "0.17"
+- 
+  category: dev-perl
+  name: JSON
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Path
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Temp
+  
+  version: ""
+use_flags:
+- tools
+- vim-syntax
+version: 3.6.2.3

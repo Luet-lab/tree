@@ -1,0 +1,22 @@
+category: sys-libs
+conflicts: []
+name: libservicelog
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: sys-libs
+  name: librtas
+  
+  version: ""
+- 
+  category: virtual
+  name: logger
+  
+  version: ""
+use_flags:
+- static-libs
+version: 1.1.18

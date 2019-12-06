@@ -1,0 +1,17 @@
+category: dev-db
+conflicts: []
+name: oracle-instantclient-jdbc
+requires:
+- 
+  category: dev-db
+  name: oracle-instantclient-basic
+  
+  version: "12"
+- 
+  category: dev-db
+  name: oracle-instantclient
+  
+  version: "12"
+use_flags:
+- ""
+version: "12"

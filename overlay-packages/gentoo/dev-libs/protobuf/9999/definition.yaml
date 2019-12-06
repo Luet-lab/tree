@@ -1,0 +1,21 @@
+category: dev-libs
+conflicts: []
+name: protobuf
+requires:
+- 
+  category: virtual
+  name: emacs
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- emacs
+- examples
+- static-libs
+- test
+- zlib
+version: "9999"

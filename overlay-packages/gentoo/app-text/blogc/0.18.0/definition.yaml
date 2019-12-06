@@ -1,0 +1,25 @@
+category: app-text
+conflicts:
+- 
+  category: dev-vcs
+  name: blogc-git-receiver
+  
+  version: ""
+- 
+  category: www-servers
+  name: blogc-runserver
+  
+  version: ""
+name: blogc
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- git
+- httpd
+- make
+- test
+version: 0.18.0

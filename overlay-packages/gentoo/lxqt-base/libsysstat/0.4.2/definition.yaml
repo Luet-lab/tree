@@ -1,0 +1,10 @@
+category: lxqt-base
+conflicts: []
+name: libsysstat
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+version: 0.4.2

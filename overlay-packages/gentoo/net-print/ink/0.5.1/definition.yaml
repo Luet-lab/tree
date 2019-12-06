@@ -1,0 +1,12 @@
+category: net-print
+conflicts: []
+name: ink
+requires:
+- 
+  category: net-print
+  name: libinklevel
+  
+  version: "0.8"
+use_flags:
+- ""
+version: 0.5.1

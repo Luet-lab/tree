@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: murrine-themes
+requires:
+- 
+  category: x11-themes
+  name: gtk-engines-murrine
+  
+  version: 0.98.0
+use_flags:
+- ""
+version: 0.98.0-r1

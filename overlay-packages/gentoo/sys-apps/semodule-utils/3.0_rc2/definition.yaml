@@ -1,0 +1,17 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: policycoreutils
+  
+  version: 2.7_pre
+name: semodule-utils
+requires:
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "3.0"
+use_flags:
+- ""
+version: 3.0_rc2

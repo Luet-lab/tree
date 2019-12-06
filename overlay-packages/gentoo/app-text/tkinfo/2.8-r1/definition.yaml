@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: tkinfo
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+use_flags:
+- ""
+version: 2.8-r1

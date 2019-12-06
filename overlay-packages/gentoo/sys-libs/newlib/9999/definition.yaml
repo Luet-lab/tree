@@ -1,0 +1,9 @@
+category: sys-libs
+name: newlib
+use_flags:
+- nls
+- threads
+- unicode
+- headers-only
+- nano
+version: "9999"

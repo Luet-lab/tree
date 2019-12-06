@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: pidgin-penguins-smileys
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

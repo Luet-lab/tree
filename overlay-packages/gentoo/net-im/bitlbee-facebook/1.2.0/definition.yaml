@@ -1,0 +1,22 @@
+category: net-im
+conflicts: []
+name: bitlbee-facebook
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: ""
+- 
+  category: net-im
+  name: bitlbee
+  
+  version: "3"
+use_flags:
+- ""
+version: 1.2.0

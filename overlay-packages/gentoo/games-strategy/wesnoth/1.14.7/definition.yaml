@@ -1,0 +1,89 @@
+category: games-strategy
+conflicts: []
+name: wesnoth
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl2-image
+  
+  version: 2.0.0
+- 
+  category: media-libs
+  name: sdl2-mixer
+  
+  version: 2.0.0
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: 1.10.0
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: dev-libs
+  name: fribidi
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: 2.0.4
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: 2.4.1
+- 
+  category: media-libs
+  name: sdl2-ttf
+  
+  version: 2.0.12
+- 
+  category: x11-libs
+  name: pango
+  
+  version: 1.22.0
+- 
+  category: dev-libs
+  name: boost
+  
+  version: "1.50"
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- dbus
+- dedicated
+- doc
+- fribidi
+- libressl
+- nls
+- openmp
+- server
+version: 1.14.7

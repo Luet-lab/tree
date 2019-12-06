@@ -1,0 +1,13 @@
+category: dev-lang
+conflicts: []
+name: esco
+requires:
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+use_flags:
+- gmp
+- l10n_ru
+version: "0.512"

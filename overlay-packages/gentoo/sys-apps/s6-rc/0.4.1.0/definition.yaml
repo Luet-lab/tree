@@ -1,0 +1,23 @@
+category: sys-apps
+conflicts: []
+name: s6-rc
+requires:
+- 
+  category: sys-apps
+  name: s6
+  
+  version: 2.7.2.0
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.7.0.0
+- 
+  category: dev-lang
+  name: execline
+  
+  version: 2.5.0.1
+use_flags:
+- static
+- static-libs
+version: 0.4.1.0

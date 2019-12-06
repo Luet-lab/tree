@@ -1,0 +1,23 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-libnotify
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: 0.3.2
+use_flags:
+- nls
+- debug
+version: 0.14-r1

@@ -1,0 +1,22 @@
+category: mail-filter
+conflicts: []
+name: spampd
+requires:
+- 
+  category: dev-perl
+  name: Net-Server
+  
+  version: ""
+- 
+  category: mail-filter
+  name: spamassassin
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "2.42"

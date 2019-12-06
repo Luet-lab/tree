@@ -1,0 +1,17 @@
+category: sys-fs
+conflicts: []
+name: bees
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: 2.30.2
+- 
+  category: sys-fs
+  name: btrfs-progs
+  
+  version: 4.20.2
+use_flags:
+- tools
+version: 0.6.1-r2

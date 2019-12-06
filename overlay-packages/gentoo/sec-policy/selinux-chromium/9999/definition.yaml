@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-chromium
+requires:
+- 
+  category: sec-policy
+  name: selinux-xserver
+  
+  version: ""
+use_flags:
+- alsa
+version: "9999"

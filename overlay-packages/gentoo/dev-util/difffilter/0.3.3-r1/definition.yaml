@@ -1,0 +1,20 @@
+category: dev-util
+conflicts: []
+name: difffilter
+requires:
+- 
+  category: dev-libs
+  name: libstrl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: tre
+  
+  version: ""
+- 
+  category: dev-libs
+  name: liblist
+  
+  version: 2.3.1
+version: 0.3.3-r1

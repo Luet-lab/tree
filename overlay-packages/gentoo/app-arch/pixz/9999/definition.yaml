@@ -1,0 +1,17 @@
+category: app-arch
+conflicts: []
+name: pixz
+requires:
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: "2.8"
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: "5"
+use_flags:
+- static
+version: "9999"

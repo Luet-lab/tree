@@ -1,0 +1,5 @@
+category: app-i18n
+name: unicode-cldr
+use_flags:
+- ""
+version: 31.0.1

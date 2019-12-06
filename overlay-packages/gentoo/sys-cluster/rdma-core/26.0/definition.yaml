@@ -1,0 +1,106 @@
+category: sys-cluster
+conflicts:
+- 
+  category: sys-fabric
+  name: libibumad
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libcxgb3
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libocrdma
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: infiniband-diags
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: librdmacm
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: ibacm
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libibmad
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libcxgb4
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libmlx5
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: infinipath-psm
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libibverbs
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: srptools
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libmthca
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libmlx4
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libnes
+  
+  version: ""
+name: rdma-core
+requires:
+- 
+  category: dev-util
+  name: valgrind
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+use_flags:
+- neigh
+- python
+- static-libs
+- systemd
+- valgrind
+version: "26.0"

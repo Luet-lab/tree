@@ -1,0 +1,39 @@
+category: app-text
+conflicts: []
+name: gocr
+requires:
+- 
+  category: media-gfx
+  name: xsane
+  
+  version: ""
+- 
+  category: media-libs
+  name: netpbm
+  
+  version: "9.12"
+- 
+  category: media-gfx
+  name: transfig
+  
+  version: "3.2"
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+- 
+  category: media-gfx
+  name: xli
+  
+  version: ""
+use_flags:
+- doc
+- scanner
+- tk
+version: "0.50"

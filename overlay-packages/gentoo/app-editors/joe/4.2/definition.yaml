@@ -1,0 +1,12 @@
+category: app-editors
+conflicts: []
+name: joe
+requires:
+- 
+  category: x11-terms
+  name: xterm
+  
+  version: "239"
+use_flags:
+- xterm
+version: "4.2"

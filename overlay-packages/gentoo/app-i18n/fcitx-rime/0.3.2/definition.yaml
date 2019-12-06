@@ -1,0 +1,27 @@
+category: app-i18n
+conflicts: []
+name: fcitx-rime
+requires:
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+- 
+  category: app-i18n
+  name: librime
+  
+  version: 1.0.0
+- 
+  category: app-i18n
+  name: rime-data
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.3.2

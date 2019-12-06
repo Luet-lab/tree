@@ -1,0 +1,44 @@
+category: sys-libs
+conflicts:
+- 
+  category: <=sys-libs
+  name: ncurses
+  
+  version: 5.9-r4
+- 
+  category: <sys-libs
+  name: slang
+  
+  version: 2.3.2_pre23
+- 
+  category: <x11-terms
+  name: rxvt-unicode
+  
+  version: 9.06-r3
+- 
+  category: <x11-terms
+  name: st
+  
+  version: 0.6-r1
+name: ncurses
+requires:
+- 
+  category: sys-libs
+  name: gpm
+  
+  version: ""
+use_flags:
+- ada
+- +cxx
+- debug
+- doc
+- gpm
+- minimal
+- profile
+- static-libs
+- test
+- threads
+- tinfo
+- trace
+- unicode
+version: 6.1_p20190609

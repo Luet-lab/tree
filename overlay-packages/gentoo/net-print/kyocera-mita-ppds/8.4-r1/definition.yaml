@@ -1,0 +1,17 @@
+category: net-print
+conflicts: []
+name: kyocera-mita-ppds
+requires:
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+use_flags:
+- l10n_de
+- +l10n_en
+- l10n_es
+- l10n_fr
+- l10n_it
+- l10n_pt
+version: 8.4-r1

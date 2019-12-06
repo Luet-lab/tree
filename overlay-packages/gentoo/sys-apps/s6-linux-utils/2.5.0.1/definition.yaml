@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: s6-linux-utils
+requires:
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.8.0.0
+use_flags:
+- static
+version: 2.5.0.1

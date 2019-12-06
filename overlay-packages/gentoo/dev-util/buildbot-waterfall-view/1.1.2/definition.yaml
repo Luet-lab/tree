@@ -1,0 +1,22 @@
+category: dev-util
+conflicts: []
+name: buildbot-waterfall-view
+requires:
+- 
+  category: dev-util
+  name: buildbot
+  
+  version: 1.1.2
+- 
+  category: dev-python
+  name: mock
+  
+  version: ""
+- 
+  category: dev-util
+  name: buildbot-www
+  
+  version: 1.1.2
+use_flags:
+- test
+version: 1.1.2

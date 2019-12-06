@@ -1,0 +1,35 @@
+category: app-backup
+conflicts: []
+name: tsm
+requires:
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.7"
+use_flags:
+- acl
+- java
+- +tsm_cit
+- +tsm_hw
+version: 8.1.6.0

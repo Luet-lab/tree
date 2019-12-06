@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts: []
+name: libsigrokdecode
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.28.0
+use_flags:
+- static-libs
+version: 0.4.1

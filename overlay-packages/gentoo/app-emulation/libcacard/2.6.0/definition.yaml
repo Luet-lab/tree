@@ -1,0 +1,23 @@
+category: app-emulation
+conflicts: []
+name: libcacard
+requires:
+- 
+  category: dev-libs
+  name: nss
+  
+  version: "3.13"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.22"
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: "1.8"
+use_flags:
+- +passthrough
+- static-libs
+version: 2.6.0

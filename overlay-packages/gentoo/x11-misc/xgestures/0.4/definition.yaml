@@ -1,0 +1,30 @@
+category: x11-misc
+conflicts: []
+name: xgestures
+requires:
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+version: "0.4"

@@ -1,0 +1,45 @@
+category: net-p2p
+conflicts:
+- 
+  category: net-p2p
+  name: bisq-bin
+  
+  version: ""
+name: bisq
+requires:
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst[abi_x86_64]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango[abi_x86_64]
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxslt[abi_x86_64]
+  
+  version: ""
+version: 0.6.3

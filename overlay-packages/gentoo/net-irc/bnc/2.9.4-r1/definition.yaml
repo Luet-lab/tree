@@ -1,0 +1,12 @@
+category: net-irc
+conflicts: []
+name: bnc
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- ssl
+version: 2.9.4-r1

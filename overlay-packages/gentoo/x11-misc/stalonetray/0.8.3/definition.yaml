@@ -1,0 +1,29 @@
+category: x11-misc
+conflicts: []
+name: stalonetray
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+use_flags:
+- debug
+- +graceful-exit
+- kde
+version: 0.8.3

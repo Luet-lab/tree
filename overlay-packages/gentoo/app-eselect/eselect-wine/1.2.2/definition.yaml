@@ -1,0 +1,22 @@
+category: app-eselect
+conflicts:
+- 
+  category: '!app-emulation'
+  name: wine
+  
+  version: ""
+name: eselect-wine
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: ""
+- 
+  category: dev-util
+  name: desktop-file-utils
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.2

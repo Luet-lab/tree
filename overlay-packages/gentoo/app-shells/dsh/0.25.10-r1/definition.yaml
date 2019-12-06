@@ -1,0 +1,17 @@
+category: app-shells
+conflicts: []
+name: dsh
+requires:
+- 
+  category: dev-libs
+  name: libdshconfig
+  
+  version: ""
+- 
+  category: virtual
+  name: ssh
+  
+  version: ""
+use_flags:
+- nls
+version: 0.25.10-r1

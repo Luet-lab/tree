@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: xfwm4-themes
+requires:
+- 
+  category: xfce-base
+  name: xfwm4
+  
+  version: "4.10"
+use_flags:
+- ""
+version: 4.10.0-r1

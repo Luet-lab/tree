@@ -1,0 +1,17 @@
+category: net-irc
+conflicts: []
+name: ircmap
+requires:
+- 
+  category: media-gfx
+  name: graphviz
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.99-r1

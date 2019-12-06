@@ -1,0 +1,167 @@
+category: www-client
+conflicts: []
+name: google-chrome
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nspr
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nss
+  
+  version: "3.26"
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: 1.5.0
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: app-misc
+  name: ca-certificates
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXdamage
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-chromium
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcomposite
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: app-accessibility
+  name: at-spi2-atk
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXScrnSaver
+  
+  version: ""
+use_flags:
+- selinux
+version: 78.0.3904.108

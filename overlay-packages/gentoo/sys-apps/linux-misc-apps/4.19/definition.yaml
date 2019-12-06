@@ -1,0 +1,44 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-power
+  name: pmtools
+  
+  version: ""
+- 
+  category: net-misc
+  name: usbip
+  
+  version: ""
+name: linux-misc-apps
+requires:
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: sys-apps
+  name: hwids
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.6"
+- 
+  category: sys-kernel
+  name: linux-headers
+  
+  version: ""
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+use_flags:
+- static-libs
+- tcpd
+- usbip
+version: "4.19"

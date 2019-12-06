@@ -1,0 +1,15 @@
+category: app-misc
+conflicts:
+- 
+  category: app-backup
+  name: cdbkup
+  
+  version: ""
+name: cdcat
+requires:
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+version: 0.3-r1

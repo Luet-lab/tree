@@ -1,0 +1,92 @@
+category: app-emulation
+conflicts:
+- 
+  category: dev-python
+  name: dib-utils
+  
+  version: ""
+- 
+  category: ~dev-python
+  name: Babel
+  
+  version: 2.4.0
+- 
+  category: ~dev-python
+  name: pbr
+  
+  version: 2.1.0
+name: diskimage-builder
+requires:
+- 
+  category: app-emulation
+  name: qemu
+  
+  version: ""
+- 
+  category: sys-fs
+  name: dosfstools
+  
+  version: ""
+- 
+  category: dev-python
+  name: Babel
+  
+  version: 2.3.4
+- 
+  category: dev-python
+  name: networkx
+  
+  version: "1.10"
+- 
+  category: dev-python
+  name: flake8
+  
+  version: 2.5.4
+- 
+  category: dev-python
+  name: networkx
+  
+  version: "2.3"
+- 
+  category: dev-python
+  name: flake8
+  
+  version: 2.6.0
+- 
+  category: sys-fs
+  name: multipath-tools
+  
+  version: ""
+- 
+  category: dev-python
+  name: stevedore
+  
+  version: 1.20.0
+- 
+  category: sys-block
+  name: parted
+  
+  version: ""
+- 
+  category: dev-python
+  name: pbr
+  
+  version: 2.0.0
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: "3.12"
+- 
+  category: dev-python
+  name: six
+  
+  version: 1.10.0
+- 
+  category: sys-apps
+  name: gptfdisk
+  
+  version: ""
+use_flags:
+- ""
+version: 2.29.1

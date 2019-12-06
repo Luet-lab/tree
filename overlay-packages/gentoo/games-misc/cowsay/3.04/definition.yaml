@@ -1,0 +1,10 @@
+category: games-misc
+conflicts: []
+name: cowsay
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5"
+version: "3.04"

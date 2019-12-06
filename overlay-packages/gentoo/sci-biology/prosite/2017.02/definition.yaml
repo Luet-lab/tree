@@ -1,0 +1,13 @@
+category: sci-biology
+conflicts: []
+name: prosite
+requires:
+- 
+  category: sci-biology
+  name: emboss
+  
+  version: ""
+use_flags:
+- emboss
+- minimal
+version: "2017.02"

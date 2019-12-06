@@ -1,0 +1,7 @@
+category: dev-python
+conflicts: []
+name: setuptools
+requires: []
+use_flags:
+- test
+version: 41.5.1

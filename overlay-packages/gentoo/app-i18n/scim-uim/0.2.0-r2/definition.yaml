@@ -1,0 +1,17 @@
+category: app-i18n
+conflicts: []
+name: scim-uim
+requires:
+- 
+  category: app-i18n
+  name: scim
+  
+  version: 1.4.0
+- 
+  category: app-i18n
+  name: uim
+  
+  version: 1.5.0
+use_flags:
+- ""
+version: 0.2.0-r2

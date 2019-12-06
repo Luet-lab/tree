@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: jetring
+requires:
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "0.27"

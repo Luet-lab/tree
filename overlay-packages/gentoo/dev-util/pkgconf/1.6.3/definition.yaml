@@ -1,0 +1,23 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: pkgconfig
+  
+  version: ""
+- 
+  category: dev-util
+  name: pkg-config-lite
+  
+  version: ""
+- 
+  category: dev-util
+  name: pkgconfig-openbsd
+  
+  version: ""
+name: pkgconf
+requires: []
+use_flags:
+- +pkg-config
+- test
+version: 1.6.3

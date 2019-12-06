@@ -1,0 +1,22 @@
+category: dev-util
+conflicts: []
+name: kyua
+requires:
+- 
+  category: dev-libs
+  name: atf
+  
+  version: ""
+- 
+  category: dev-lua
+  name: lutok
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- test
+version: 0.13-r2

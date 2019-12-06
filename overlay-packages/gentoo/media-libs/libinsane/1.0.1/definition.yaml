@@ -1,0 +1,14 @@
+category: media-libs
+conflicts: []
+name: libinsane
+requires:
+- 
+  category: media-gfx
+  name: sane-backends
+  
+  version: ""
+use_flags:
+- doc
+- gtk-doc
+- test
+version: 1.0.1

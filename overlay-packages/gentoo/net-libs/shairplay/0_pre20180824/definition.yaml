@@ -1,0 +1,30 @@
+category: net-libs
+conflicts: []
+name: shairplay
+requires:
+- 
+  category: net-libs
+  name: shairplay
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+- 
+  category: media-sound
+  name: alac_decoder
+  
+  version: ""
+use_flags:
+- alac
+- +playfair
+- static-libs
+- tools
+version: 0_pre20180824

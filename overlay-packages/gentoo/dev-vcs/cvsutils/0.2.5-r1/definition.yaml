@@ -1,0 +1,10 @@
+category: dev-vcs
+conflicts: []
+name: cvsutils
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 0.2.5-r1

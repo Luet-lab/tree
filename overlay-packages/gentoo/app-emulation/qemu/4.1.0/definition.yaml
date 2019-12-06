@@ -1,0 +1,434 @@
+category: app-emulation
+conflicts: []
+name: qemu
+requires:
+- 
+  category: media-libs
+  name: libepoxy
+  
+  version: ""
+- 
+  category: net-libs
+  name: libssh
+  
+  version: 0.8.6
+- 
+  category: sys-fabric
+  name: libibverbs
+  
+  version: ""
+- 
+  category: net-libs
+  name: libiscsi
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libaio
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: media-libs
+  name: virglrenderer
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: 1.0.13
+- 
+  category: sys-apps
+  name: usbredir
+  
+  version: "0.6"
+- 
+  category: net-misc
+  name: vde
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: sgabios
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: libibumad
+  
+  version: ""
+- 
+  category: sys-process
+  name: numactl
+  
+  version: ""
+- 
+  category: sys-fabric
+  name: librdmacm
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: sgabios
+  
+  version: 0.1_pre8
+- 
+  category: dev-util
+  name: systemtap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap-ng
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: 0.28.0
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: edk2-ovmf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: app-emulation
+  name: spice
+  
+  version: 0.12.0
+- 
+  category: app-emulation
+  name: libcacard
+  
+  version: 2.5.0
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.0"
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: capstone
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: seabios
+  
+  version: 1.10.2
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.15.4
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: app-emulation
+  name: xen-tools
+  
+  version: ""
+- 
+  category: app-arch
+  name: snappy
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: 1-r2
+- 
+  category: sys-firmware
+  name: ipxe
+  
+  version: 1.0.0_p20190728
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: "3.0"
+- 
+  category: dev-libs
+  name: jemalloc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libseccomp
+  
+  version: 2.1.0
+- 
+  category: app-emulation
+  name: spice-protocol
+  
+  version: 0.12.3
+- 
+  category: sys-fs
+  name: xfsprogs
+  
+  version: ""
+- 
+  category: app-accessibility
+  name: brltty
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2[X]
+  
+  version: ""
+- 
+  category: sys-cluster
+  name: ceph
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-qemu
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dtc
+  
+  version: 1.5.0
+- 
+  category: sys-cluster
+  name: glusterfs
+  
+  version: 3.4.0
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: edk2-ovmf
+  
+  version: "201905"
+- 
+  category: acct-group
+  name: kvm
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+- 
+  category: x11-libs
+  name: vte
+  
+  version: ""
+- 
+  category: net-fs
+  name: libnfs
+  
+  version: 1.9.3
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: sys-firmware
+  name: seabios
+  
+  version: 1.12.0
+- 
+  category: sys-firmware
+  name: ipxe
+  
+  version: ""
+use_flags:
+- accessibility
+- +aio
+- alsa
+- bzip2
+- capstone
+- +caps
+- +curl
+- debug
+- "doc\n\t+fdt"
+- glusterfs
+- gnutls
+- gtk
+- infiniband
+- iscsi
+- jemalloc
+- +jpeg
+- "kernel_linux\n\tkernel_FreeBSD"
+- lzo
+- ncurses
+- nfs
+- nls
+- numa
+- opengl
+- +oss
+- "+pin-upstream-blobs\n\t+png"
+- pulseaudio
+- python
+- rbd
+- sasl
+- +seccomp
+- sdl
+- selinux
+- smartcard
+- "snappy\n\tspice"
+- ssh
+- static
+- static-user
+- systemtap
+- tci
+- test
+- usb
+- usbredir
+- "vde\n\t+vhost-net"
+- virgl
+- virtfs
+- +vnc
+- vte
+- xattr
+- xen
+- xfs
+- +xkb
+- ""
+- qemu_softmmu_targets_aarch64
+- qemu_softmmu_targets_alpha
+- qemu_softmmu_targets_arm
+- qemu_softmmu_targets_cris
+- qemu_softmmu_targets_hppa
+- qemu_softmmu_targets_i386
+- qemu_softmmu_targets_m68k
+- qemu_softmmu_targets_microblaze
+- qemu_softmmu_targets_microblazeel
+- qemu_softmmu_targets_mips
+- qemu_softmmu_targets_mips64
+- qemu_softmmu_targets_mips64el
+- qemu_softmmu_targets_mipsel
+- qemu_softmmu_targets_nios2
+- qemu_softmmu_targets_or1k
+- qemu_softmmu_targets_ppc
+- qemu_softmmu_targets_ppc64
+- qemu_softmmu_targets_riscv32
+- qemu_softmmu_targets_riscv64
+- qemu_softmmu_targets_s390x
+- qemu_softmmu_targets_sh4
+- qemu_softmmu_targets_sh4eb
+- qemu_softmmu_targets_sparc
+- qemu_softmmu_targets_sparc64
+- qemu_softmmu_targets_x86_64
+- qemu_softmmu_targets_xtensa
+- qemu_softmmu_targets_xtensaeb
+- qemu_softmmu_targets_lm32
+- qemu_softmmu_targets_moxie
+- qemu_softmmu_targets_tricore
+- qemu_softmmu_targets_unicore32
+- qemu_user_targets_aarch64
+- qemu_user_targets_alpha
+- qemu_user_targets_arm
+- qemu_user_targets_cris
+- qemu_user_targets_hppa
+- qemu_user_targets_i386
+- qemu_user_targets_m68k
+- qemu_user_targets_microblaze
+- qemu_user_targets_microblazeel
+- qemu_user_targets_mips
+- qemu_user_targets_mips64
+- qemu_user_targets_mips64el
+- qemu_user_targets_mipsel
+- qemu_user_targets_nios2
+- qemu_user_targets_or1k
+- qemu_user_targets_ppc
+- qemu_user_targets_ppc64
+- qemu_user_targets_riscv32
+- qemu_user_targets_riscv64
+- qemu_user_targets_s390x
+- qemu_user_targets_sh4
+- qemu_user_targets_sh4eb
+- qemu_user_targets_sparc
+- qemu_user_targets_sparc64
+- qemu_user_targets_x86_64
+- qemu_user_targets_xtensa
+- qemu_user_targets_xtensaeb
+- qemu_user_targets_aarch64_be
+- qemu_user_targets_armeb
+- qemu_user_targets_mipsn32
+- qemu_user_targets_mipsn32el
+- qemu_user_targets_ppc64abi32
+- qemu_user_targets_ppc64le
+- qemu_user_targets_sparc32plus
+- qemu_user_targets_tilegx
+version: 4.1.0

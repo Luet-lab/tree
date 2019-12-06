@@ -1,0 +1,38 @@
+category: media-gfx
+conflicts: []
+name: phototonic
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-gfx
+  name: exiv2
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtimageformats
+  
+  version: ""
+use_flags:
+- svg
+- tiff
+version: "2.1"

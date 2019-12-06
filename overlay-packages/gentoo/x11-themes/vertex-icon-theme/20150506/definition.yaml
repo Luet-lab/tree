@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: vertex-icon-theme
+requires:
+- 
+  category: x11-themes
+  name: hicolor-icon-theme
+  
+  version: "0.10"
+use_flags:
+- ""
+version: "20150506"

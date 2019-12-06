@@ -1,0 +1,37 @@
+category: media-video
+conflicts: []
+name: vdrsync
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.0
+- 
+  category: media-fonts
+  name: corefonts
+  
+  version: ""
+- 
+  category: media-libs
+  name: gd
+  
+  version: 2.0.15
+- 
+  category: dev-perl
+  name: GD
+  
+  version: 2.0.7
+- 
+  category: dev-perl
+  name: GDTextUtil
+  
+  version: "0.86"
+- 
+  category: media-video
+  name: dvdauthor
+  
+  version: 0.6.8
+use_flags:
+- dvdr
+version: 0.1.3_pre050322-r1

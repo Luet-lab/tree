@@ -1,0 +1,113 @@
+category: lxqt-base
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: lxqt-config
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: liblxqt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: kde-plasma
+  name: libkscreen
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libqtxdg
+  
+  version: 3.3.1
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: x11-drivers
+  name: xf86-input-libinput
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: x11-apps
+  name: setxkbmap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- +monitor
+- +touchpad
+version: 0.14.1-r1

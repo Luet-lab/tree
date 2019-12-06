@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: fedora-autoloader
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- test
+version: 1.0.0

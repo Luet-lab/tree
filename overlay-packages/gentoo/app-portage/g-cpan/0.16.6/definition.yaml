@@ -1,0 +1,27 @@
+category: app-portage
+conflicts: []
+name: g-cpan
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: YAML
+  
+  version: "0.60"
+- 
+  category: dev-perl
+  name: Shell-EnvImporter
+  
+  version: 1.70.0-r2
+- 
+  category: dev-perl
+  name: Log-Agent
+  
+  version: ""
+use_flags:
+- ""
+version: 0.16.6

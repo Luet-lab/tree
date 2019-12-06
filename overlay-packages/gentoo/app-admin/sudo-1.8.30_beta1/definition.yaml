@@ -1,0 +1,99 @@
+category: app-admin
+conflicts: []
+name: sudo-1.8.30_beta1
+requires:
+- 
+  category: net-nds
+  name: openldap
+  
+  version: ""
+- 
+  category: sys-auth
+  name: skey
+  
+  version: 1.1.5-r1
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: app-misc
+  name: editor-wrapper
+  
+  version: "3"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: 2.1.30-r1
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sys-auth
+  name: pambase
+  
+  version: ""
+- 
+  category: sys-auth
+  name: sssd
+  
+  version: ""
+- 
+  category: virtual
+  name: editor
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-sudo
+  
+  version: ""
+- 
+  category: virtual
+  name: mta
+  
+  version: ""
+use_flags:
+- gcrypt
+- ldap
+- libressl
+- nls
+- offensive
+- pam
+- sasl
+- +secure-path
+- selinux
+- +sendmail
+- skey
+- sssd
+- system-digest
+version: ""

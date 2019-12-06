@@ -1,0 +1,8 @@
+category: dev-libs
+conflicts: []
+name: marisa
+requires: []
+use_flags:
+- python
+- static-libs
+version: 0.2.5

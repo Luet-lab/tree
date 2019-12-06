@@ -1,0 +1,10 @@
+category: sys-auth
+conflicts: []
+name: pam_passwdqc
+requires:
+- 
+  category: sys-auth
+  name: passwdqc
+  
+  version: ""
+version: 1.3.0

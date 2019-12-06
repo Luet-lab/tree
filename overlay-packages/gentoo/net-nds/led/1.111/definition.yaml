@@ -1,0 +1,32 @@
+category: net-nds
+conflicts: []
+name: led
+requires:
+- 
+  category: dev-perl
+  name: Authen-SASL
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.6.1
+- 
+  category: dev-perl
+  name: perl-ldap
+  
+  version: ""
+- 
+  category: dev-perl
+  name: URI
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+use_flags:
+- ""
+version: "1.111"

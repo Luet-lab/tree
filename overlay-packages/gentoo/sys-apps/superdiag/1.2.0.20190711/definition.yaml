@@ -1,0 +1,6 @@
+category: sys-apps
+name: superdiag
+use_flags:
+- iso
+- usb
+version: 1.2.0.20190711

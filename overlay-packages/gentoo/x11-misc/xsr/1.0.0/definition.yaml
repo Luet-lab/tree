@@ -1,0 +1,27 @@
+category: x11-misc
+conflicts: []
+name: xsr
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: media-gfx
+  name: scrot
+  
+  version: ""
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdotool
+  
+  version: ""
+use_flags:
+- cursor
+version: 1.0.0

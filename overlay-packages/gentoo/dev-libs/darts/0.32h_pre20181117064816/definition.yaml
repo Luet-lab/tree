@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: darts
+requires: []
+use_flags:
+- ""
+version: 0.32h_pre20181117064816

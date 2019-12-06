@@ -1,0 +1,18 @@
+category: net-libs
+conflicts: []
+name: libprotoident
+requires:
+- 
+  category: net-libs
+  name: libtrace
+  
+  version: 4.0.1
+- 
+  category: net-libs
+  name: libflowmanager
+  
+  version: 3.0.0
+use_flags:
+- static-libs
+- tools
+version: 2.0.13

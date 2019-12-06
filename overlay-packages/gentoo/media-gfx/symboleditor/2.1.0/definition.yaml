@@ -1,0 +1,7 @@
+category: media-gfx
+conflicts: []
+name: symboleditor
+requires: []
+use_flags:
+- ""
+version: 2.1.0

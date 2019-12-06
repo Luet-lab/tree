@@ -1,0 +1,10 @@
+category: app-editors
+conflicts: []
+name: le
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+version: 1.16.5

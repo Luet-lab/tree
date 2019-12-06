@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: tex-base
+requires:
+- 
+  category: app-text
+  name: texlive-core
+  
+  version: ""
+version: "0"

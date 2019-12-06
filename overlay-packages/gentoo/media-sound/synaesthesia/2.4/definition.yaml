@@ -1,0 +1,28 @@
+category: media-sound
+conflicts: []
+name: synaesthesia
+requires:
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: "1.2"
+- 
+  category: media-libs
+  name: svgalib
+  
+  version: 1.4.3
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- sdl
+- svga
+version: "2.4"

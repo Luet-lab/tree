@@ -1,0 +1,27 @@
+category: dev-libs
+conflicts: []
+name: urdfdom
+requires:
+- 
+  category: dev-libs
+  name: urdfdom_headers
+  
+  version: 1.0.0
+- 
+  category: dev-libs
+  name: console_bridge
+  
+  version: "0.3"
+- 
+  category: dev-libs
+  name: tinyxml
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.3

@@ -1,0 +1,12 @@
+category: dev-lang
+conflicts: []
+name: cll1h
+requires:
+- 
+  category: sys-devel
+  name: gcc
+  
+  version: ""
+use_flags:
+- ""
+version: 0.6-r1

@@ -1,0 +1,18 @@
+category: net-misc
+conflicts: []
+name: pen
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: geoip
+  
+  version: ""
+use_flags:
+- geoip
+- ssl
+version: 0.34.1

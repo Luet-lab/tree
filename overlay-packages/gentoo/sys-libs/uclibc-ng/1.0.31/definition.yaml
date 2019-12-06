@@ -1,0 +1,22 @@
+category: sys-libs
+conflicts:
+- 
+  category: '!sys-libs'
+  name: uclibc
+  
+  version: ""
+name: uclibc-ng
+requires:
+- 
+  category: dev-libs
+  name: libiconv
+  
+  version: ""
+use_flags:
+- debug
+- hardened
+- iconv
+- ipv6
+- symlink-compat
+- headers-only
+version: 1.0.31

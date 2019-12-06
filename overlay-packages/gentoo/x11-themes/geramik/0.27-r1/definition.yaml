@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: geramik
+requires:
+- 
+  category: x11-themes
+  name: gtk-engines-qtpixmap
+  
+  version: ""
+use_flags:
+- ""
+version: 0.27-r1

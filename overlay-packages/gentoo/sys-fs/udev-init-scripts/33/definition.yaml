@@ -1,0 +1,15 @@
+category: sys-fs
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.14"
+name: udev-init-scripts
+requires:
+- 
+  category: virtual
+  name: udev
+  
+  version: "217"
+version: "33"

@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: sdparm
+requires:
+- 
+  category: sys-apps
+  name: sg3_utils
+  
+  version: "1.42"
+use_flags:
+- ""
+version: "1.10"

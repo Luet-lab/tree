@@ -1,0 +1,12 @@
+category: games-engines
+conflicts: []
+name: xzip
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 1.8.2-r3

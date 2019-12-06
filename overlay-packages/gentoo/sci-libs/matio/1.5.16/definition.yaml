@@ -1,0 +1,21 @@
+category: sci-libs
+conflicts: []
+name: matio
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- hdf5
+- sparse
+- static-libs
+version: 1.5.16

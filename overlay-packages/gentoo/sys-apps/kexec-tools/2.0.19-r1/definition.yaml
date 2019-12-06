@@ -1,0 +1,20 @@
+category: sys-apps
+conflicts: []
+name: kexec-tools
+requires:
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- booke
+- lzma
+- xen
+- zlib
+version: 2.0.19-r1

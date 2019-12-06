@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: rotoscope
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libglade
+  
+  version: "2"
+use_flags:
+- ""
+version: "0.2"

@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: xdebug-client
+requires:
+- 
+  category: dev-libs
+  name: libedit
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnsl
+  
+  version: ""
+use_flags:
+- libedit
+version: 2.6.1

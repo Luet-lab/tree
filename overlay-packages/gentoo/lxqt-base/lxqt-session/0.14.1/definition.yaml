@@ -1,0 +1,73 @@
+category: lxqt-base
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: lxqt-session
+requires:
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-user-dirs
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libqtxdg
+  
+  version: 3.3.1
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: liblxqt
+  
+  version: ""
+- 
+  category: x11-themes
+  name: lxqt-themes
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+use_flags:
+- +themes
+- +udev
+version: 0.14.1

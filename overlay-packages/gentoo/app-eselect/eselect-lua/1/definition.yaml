@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-lua
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.4
+use_flags:
+- ""
+version: "1"

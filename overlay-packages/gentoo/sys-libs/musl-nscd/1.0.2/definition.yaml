@@ -1,0 +1,5 @@
+category: sys-libs
+name: musl-nscd
+use_flags:
+- minimal
+version: 1.0.2

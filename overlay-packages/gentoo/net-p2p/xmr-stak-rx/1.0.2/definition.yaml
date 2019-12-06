@@ -1,0 +1,36 @@
+category: net-p2p
+conflicts: []
+name: xmr-stak-rx
+requires:
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: ""
+- 
+  category: sys-apps
+  name: hwloc
+  
+  version: ""
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libmicrohttpd
+  
+  version: ""
+use_flags:
+- cuda
+- hwloc
+- opencl
+- ssl
+- webserver
+version: 1.0.2

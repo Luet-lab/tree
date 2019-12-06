@@ -1,0 +1,17 @@
+category: net-dns
+conflicts: []
+name: dnscrypt-proxy
+requires:
+- 
+  category: acct-group
+  name: dnscrypt-proxy
+  
+  version: ""
+- 
+  category: acct-user
+  name: dnscrypt-proxy
+  
+  version: ""
+use_flags:
+- pie
+version: 2.0.29

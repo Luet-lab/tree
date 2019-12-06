@@ -1,0 +1,27 @@
+category: media-video
+conflicts: []
+name: dv2sub
+requires:
+- 
+  category: media-video
+  name: dvdauthor
+  
+  version: ""
+- 
+  category: virtual
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libdv
+  
+  version: ""
+- 
+  category: media-video
+  name: kino
+  
+  version: ""
+use_flags:
+- kino
+version: "0.3"

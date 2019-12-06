@@ -1,0 +1,13 @@
+category: dev-python
+conflicts: []
+name: tqdm
+requires:
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+use_flags:
+- examples
+- test
+version: 4.33.0

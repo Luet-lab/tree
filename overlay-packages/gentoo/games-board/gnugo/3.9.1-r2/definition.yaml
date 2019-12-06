@@ -1,0 +1,17 @@
+category: games-board
+conflicts: []
+name: gnugo
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.2-r3
+use_flags:
+- readline
+version: 3.9.1-r2

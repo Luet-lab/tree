@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: libcangjie
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- ""
+version: "1.3"

@@ -1,0 +1,37 @@
+category: x11-misc
+conflicts: []
+name: slop
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: media-libs
+  name: glew
+  
+  version: ""
+use_flags:
+- opengl
+version: "7.4"

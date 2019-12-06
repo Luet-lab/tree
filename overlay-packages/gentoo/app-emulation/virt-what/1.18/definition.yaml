@@ -1,0 +1,17 @@
+category: app-emulation
+conflicts: []
+name: virt-what
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dmidecode
+  
+  version: ""
+use_flags:
+- dmi
+version: "1.18"

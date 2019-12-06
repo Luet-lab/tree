@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: tiers
+requires:
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: ""
+- 
+  category: virtual
+  name: awk
+  
+  version: ""
+use_flags:
+- ""
+version: "1.1"

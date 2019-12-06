@@ -1,0 +1,5 @@
+category: sec-policy
+name: selinux-corosync
+use_flags:
+- ""
+version: 2.20180701-r1

@@ -1,0 +1,23 @@
+category: dev-qt
+conflicts: []
+name: qtdatavis3d
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtgui-5.12.5[gles2=]
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdeclarative-5.12.5[gles2=]
+  
+  version: ""
+use_flags:
+- gles2
+- qml
+version: 5.12.5

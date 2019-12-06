@@ -1,0 +1,17 @@
+category: x11-libs
+conflicts: []
+name: scw
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- doc
+version: 0.4.7-r1

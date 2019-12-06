@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: kdiagram
+requires: []
+use_flags:
+- ""
+version: 2.6.1-r1

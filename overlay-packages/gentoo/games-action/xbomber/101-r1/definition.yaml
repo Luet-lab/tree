@@ -1,0 +1,17 @@
+category: games-action
+conflicts:
+- 
+  category: sci-biology
+  name: emboss
+  
+  version: ""
+name: xbomber
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 101-r1

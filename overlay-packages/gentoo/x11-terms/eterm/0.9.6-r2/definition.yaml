@@ -1,0 +1,52 @@
+category: x11-terms
+conflicts: []
+name: eterm
+requires:
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libast
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2[X]
+  
+  version: ""
+- 
+  category: media-fonts
+  name: font-misc-misc
+  
+  version: ""
+- 
+  category: app-misc
+  name: screen
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+use_flags:
+- escreen
+- minimal
+- cpu_flags_x86_mmx
+- cpu_flags_x86_sse2
+- unicode
+- +utempter
+version: 0.9.6-r2

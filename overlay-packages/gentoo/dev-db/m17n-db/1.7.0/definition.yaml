@@ -1,0 +1,12 @@
+category: dev-db
+conflicts: []
+name: m17n-db
+requires:
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.7.0

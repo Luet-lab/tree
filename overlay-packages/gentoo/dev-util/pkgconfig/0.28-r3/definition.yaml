@@ -1,0 +1,30 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: pkgconf
+  
+  version: ""
+- 
+  category: dev-util
+  name: pkg-config-lite
+  
+  version: ""
+- 
+  category: dev-util
+  name: pkgconfig-openbsd
+  
+  version: ""
+name: pkgconfig
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.34.3
+use_flags:
+- elibc_FreeBSD
+- elibc_glibc
+- hardened
+- internal-glib
+version: 0.28-r3

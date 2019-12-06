@@ -1,0 +1,17 @@
+category: media-libs
+conflicts: []
+name: aldumb
+requires:
+- 
+  category: media-libs
+  name: dumb
+  
+  version: 0.9.3
+- 
+  category: media-libs
+  name: allegro
+  
+  version: ""
+use_flags:
+- debug
+version: 0.9.3

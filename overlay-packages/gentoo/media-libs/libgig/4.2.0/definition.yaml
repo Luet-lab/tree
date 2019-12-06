@@ -1,0 +1,17 @@
+category: media-libs
+conflicts: []
+name: libgig
+requires:
+- 
+  category: media-libs
+  name: audiofile
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: ""
+use_flags:
+- doc
+version: 4.2.0

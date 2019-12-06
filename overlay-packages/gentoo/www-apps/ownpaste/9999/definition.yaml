@@ -1,0 +1,52 @@
+category: www-apps
+conflicts: []
+name: ownpaste
+requires:
+- 
+  category: dev-python
+  name: flask
+  
+  version: "0.8"
+- 
+  category: dev-python
+  name: flask-script
+  
+  version: 0.3.3
+- 
+  category: dev-python
+  name: flask-sqlalchemy
+  
+  version: "0.15"
+- 
+  category: dev-python
+  name: jinja
+  
+  version: "2.6"
+- 
+  category: dev-python
+  name: sqlalchemy-migrate
+  
+  version: 0.7.2
+- 
+  category: dev-python
+  name: pytz
+  
+  version: ""
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+- 
+  category: dev-python
+  name: werkzeug
+  
+  version: "0.8"
+- 
+  category: dev-python
+  name: pygments
+  
+  version: ""
+use_flags:
+- doc
+version: "9999"

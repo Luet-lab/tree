@@ -1,0 +1,50 @@
+category: x11-libs
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: libfm-qt
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: lxde-base
+  name: menu-cache
+  
+  version: 1.1.0
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: media-libs
+  name: libexif
+  
+  version: ""
+version: 0.14.1-r2

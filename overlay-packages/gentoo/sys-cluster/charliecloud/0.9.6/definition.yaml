@@ -1,0 +1,10 @@
+category: sys-cluster
+conflicts: []
+name: charliecloud
+requires: []
+use_flags:
+- doc
+- examples
+- +pv
+- test
+version: 0.9.6

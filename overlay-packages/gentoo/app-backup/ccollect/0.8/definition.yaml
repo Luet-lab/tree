@@ -1,0 +1,13 @@
+category: app-backup
+conflicts: []
+name: ccollect
+requires:
+- 
+  category: net-misc
+  name: rsync
+  
+  version: ""
+use_flags:
+- doc
+- examples
+version: "0.8"

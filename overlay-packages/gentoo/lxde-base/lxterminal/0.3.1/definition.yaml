@@ -1,0 +1,22 @@
+category: lxde-base
+conflicts: []
+name: lxterminal
+requires:
+- 
+  category: x11-libs
+  name: vte
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- gtk3
+version: 0.3.1

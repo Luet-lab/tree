@@ -1,0 +1,22 @@
+category: x11-misc
+conflicts: []
+name: ipager
+requires:
+- 
+  category: media-libs
+  name: imlib2[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+use_flags:
+- xinerama
+version: 1.1.0-r1

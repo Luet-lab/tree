@@ -1,0 +1,22 @@
+category: games-server
+conflicts: []
+name: crossfire-server
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- X
+version: 1.71.0-r1

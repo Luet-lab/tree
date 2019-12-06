@@ -1,0 +1,57 @@
+category: media-gfx
+conflicts: []
+name: maim
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcomposite
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: x11-misc
+  name: slop
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+use_flags:
+- unicode
+version: 5.5.3

@@ -1,0 +1,14 @@
+category: app-editors
+conflicts:
+- 
+  category: '!<app-editors'
+  name: gvim
+  
+  version: 8.1.0648
+name: vim-core
+requires: []
+use_flags:
+- nls
+- acl
+- minimal
+version: 8.1.1846

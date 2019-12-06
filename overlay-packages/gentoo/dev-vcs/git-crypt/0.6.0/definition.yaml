@@ -1,0 +1,10 @@
+category: dev-vcs
+conflicts: []
+name: git-crypt
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+version: 0.6.0

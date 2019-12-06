@@ -1,0 +1,5 @@
+category: sys-process
+name: time
+use_flags:
+- ""
+version: "1.9"

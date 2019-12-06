@@ -1,0 +1,20 @@
+category: net-firewall
+conflicts: []
+name: lutelwall
+requires:
+- 
+  category: net-firewall
+  name: iptables
+  
+  version: 1.2.6
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: "3.1"
+- 
+  category: sys-apps
+  name: iproute2
+  
+  version: ""
+version: "0.99"

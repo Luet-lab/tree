@@ -1,0 +1,17 @@
+category: app-eselect
+conflicts:
+- 
+  category: <media-sound
+  name: cdparanoia
+  
+  version: 3.10.2-r5
+name: eselect-cdparanoia
+requires:
+- 
+  category: app-eselect
+  name: eselect-lib-bin-symlink
+  
+  version: 0.1.1
+use_flags:
+- ""
+version: "0.1"

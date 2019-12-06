@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: zukitwo-shell
+requires:
+- 
+  category: x11-themes
+  name: zuki-themes
+  
+  version: ""
+use_flags:
+- ""
+version: 2016.08.08

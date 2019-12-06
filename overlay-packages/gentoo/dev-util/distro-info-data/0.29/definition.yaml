@@ -1,0 +1,5 @@
+category: dev-util
+name: distro-info-data
+use_flags:
+- ""
+version: "0.29"

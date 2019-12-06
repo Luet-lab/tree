@@ -1,0 +1,23 @@
+category: dev-python
+conflicts: []
+name: simplespectral
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: sci-libs
+  name: scipy
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyFFTW
+  
+  version: ""
+use_flags:
+- faster
+- +fastest
+version: 1.0.0

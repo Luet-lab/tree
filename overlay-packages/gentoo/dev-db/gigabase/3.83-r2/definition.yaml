@@ -1,0 +1,8 @@
+category: dev-db
+conflicts: []
+name: gigabase
+requires: []
+use_flags:
+- doc
+- static-libs
+version: 3.83-r2

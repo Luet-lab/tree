@@ -1,0 +1,20 @@
+category: sci-biology
+conflicts: []
+name: HTSeq
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: dev-python
+  name: matplotlib
+  
+  version: ""
+- 
+  category: sci-biology
+  name: pysam
+  
+  version: ""
+version: 0.9.1

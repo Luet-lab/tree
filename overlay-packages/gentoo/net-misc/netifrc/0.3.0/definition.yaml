@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: netifrc
+requires:
+- 
+  category: sys-apps
+  name: gentoo-functions
+  
+  version: ""
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: "0.12"
+use_flags:
+- ""
+version: 0.3.0

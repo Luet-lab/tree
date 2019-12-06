@@ -1,0 +1,5 @@
+category: dev-php
+name: PEAR-HTML_AJAX
+use_flags:
+- ""
+version: 0.5.8

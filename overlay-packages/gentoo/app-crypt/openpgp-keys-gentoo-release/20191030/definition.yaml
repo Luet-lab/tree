@@ -1,0 +1,5 @@
+category: app-crypt
+name: openpgp-keys-gentoo-release
+use_flags:
+- test
+version: "20191030"

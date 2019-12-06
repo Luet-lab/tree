@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: notify-osd-icons
+requires:
+- 
+  category: x11-misc
+  name: notify-osd
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7-r1

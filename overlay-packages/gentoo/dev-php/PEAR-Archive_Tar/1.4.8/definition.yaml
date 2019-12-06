@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: PEAR-Archive_Tar
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.8

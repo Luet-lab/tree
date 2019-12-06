@@ -1,0 +1,15 @@
+category: www-apps
+conflicts: []
+name: icingaweb2-module-graphite
+requires:
+- 
+  category: net-analyzer
+  name: icinga2
+  
+  version: 2.4.0
+- 
+  category: www-apps
+  name: icingaweb2
+  
+  version: 2.5.0
+version: 1.0.1-r1

@@ -1,0 +1,17 @@
+category: net-libs
+conflicts: []
+name: libotr
+requires:
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: ""
+use_flags:
+- ""
+version: 4.1.1

@@ -1,0 +1,18 @@
+category: net-wireless
+conflicts: []
+name: bladerf
+requires:
+- 
+  category: dev-libs
+  name: libusb
+  
+  version: 1.0.16
+- 
+  category: dev-libs
+  name: libtecla
+  
+  version: ""
+use_flags:
+- doc
+- +tecla
+version: "2019.07"

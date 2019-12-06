@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: mythes
+requires:
+- 
+  category: app-text
+  name: hunspell
+  
+  version: ""
+use_flags:
+- static-libs
+version: 1.2.4

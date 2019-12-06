@@ -1,0 +1,5 @@
+category: sci-biology
+name: clustalw
+use_flags:
+- ""
+version: 2.1-r1

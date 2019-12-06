@@ -1,0 +1,57 @@
+category: games-sports
+conflicts: []
+name: gracer
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: media-libs
+  name: plib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- joystick
+version: 0.1.5-r1

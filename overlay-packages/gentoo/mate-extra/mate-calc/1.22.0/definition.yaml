@@ -1,0 +1,32 @@
+category: mate-extra
+conflicts: []
+name: mate-calc
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+use_flags:
+- ""
+version: 1.22.0

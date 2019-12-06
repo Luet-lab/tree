@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: secilc
+requires:
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.9"
+use_flags:
+- ""
+version: "2.9"

@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: theseer-tokenizer
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: "7.0"
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+use_flags:
+- test
+version: 1.1.0

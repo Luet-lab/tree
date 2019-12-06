@@ -1,0 +1,10 @@
+category: sys-apps
+conflicts: []
+name: apply-default-acl
+requires:
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+version: 0.4.2

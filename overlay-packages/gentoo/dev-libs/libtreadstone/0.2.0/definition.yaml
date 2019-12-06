@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: libtreadstone
+requires:
+- 
+  category: dev-libs
+  name: libpo6
+  
+  version: 0.7.0
+- 
+  category: dev-libs
+  name: libe
+  
+  version: 0.10.0
+use_flags:
+- ""
+version: 0.2.0

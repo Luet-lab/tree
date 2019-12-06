@@ -1,0 +1,77 @@
+category: media-sound
+conflicts:
+- 
+  category: media-sound
+  name: jack-audio-connection-kit
+  
+  version: ""
+name: jack2
+requires:
+- 
+  category: media-libs
+  name: libsamplerate
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: opus
+  
+  version: ""
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: media-libs
+  name: libffado
+  
+  version: ""
+- 
+  category: sys-libs
+  name: db
+  
+  version: ""
+- 
+  category: sys-auth
+  name: realtime-base
+  
+  version: ""
+use_flags:
+- alsa
+- +classic
+- dbus
+- doc
+- ieee1394
+- libsamplerate
+- metadata
+- opus
+- pam
+- readline
+- sndfile
+version: 1.9.13-r1

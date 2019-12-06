@@ -1,0 +1,10 @@
+category: net-mail
+conflicts: []
+name: randomsig
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.10.0

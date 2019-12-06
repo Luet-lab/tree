@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: conf2struct
+requires:
+- 
+  category: dev-libs
+  name: libconfig
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Conf-Libconfig
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

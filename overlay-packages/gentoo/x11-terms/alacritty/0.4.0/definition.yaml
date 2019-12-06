@@ -1,0 +1,52 @@
+category: x11-terms
+conflicts: []
+name: alacritty
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4.0

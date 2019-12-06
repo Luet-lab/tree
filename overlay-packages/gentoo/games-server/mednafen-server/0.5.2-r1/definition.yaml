@@ -1,0 +1,7 @@
+category: games-server
+conflicts: []
+name: mednafen-server
+requires: []
+use_flags:
+- ""
+version: 0.5.2-r1

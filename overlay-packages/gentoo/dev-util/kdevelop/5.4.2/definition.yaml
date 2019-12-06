@@ -1,0 +1,78 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: kdevelop-clang-tidy
+  
+  version: ""
+- 
+  category: dev-util
+  name: kdevplatform
+  
+  version: ""
+name: kdevelop
+requires:
+- 
+  category: sys-devel
+  name: clang
+  
+  version: 3.8.0
+- 
+  category: dev-util
+  name: kdevelop-pg-qt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: grantlee
+  
+  version: ""
+- 
+  category: app-editors
+  name: okteta
+  
+  version: ""
+- 
+  category: dev-libs
+  name: apr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: apr-util
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwebkit
+  
+  version: 5.212.0_pre20180120
+- 
+  category: dev-util
+  name: ninja
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gdb
+  
+  version: "7.0"
+- 
+  category: dev-util
+  name: astyle
+  
+  version: "3.1"
+use_flags:
+- +gdbui
+- hex
+- +plasma
+- +qmake
+- reviewboard
+- subversion
+- webkit
+version: 5.4.2

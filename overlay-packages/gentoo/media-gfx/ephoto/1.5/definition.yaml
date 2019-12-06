@@ -1,0 +1,12 @@
+category: media-gfx
+conflicts: []
+name: ephoto
+requires:
+- 
+  category: dev-libs
+  name: efl[eet,X]
+  
+  version: ""
+use_flags:
+- nls
+version: "1.5"

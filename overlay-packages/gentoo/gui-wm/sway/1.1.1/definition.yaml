@@ -1,0 +1,105 @@
+category: gui-wm
+conflicts: []
+name: sway
+requires:
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: ""
+- 
+  category: sys-auth
+  name: elogind
+  
+  version: "239"
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: gui-apps
+  name: swaybg
+  
+  version: ""
+- 
+  category: gui-libs
+  name: wlroots-0.6.0[elogind=,systemd=,X=]
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xkeyboard-config
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libinput
+  
+  version: 1.6.0
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-c
+  
+  version: "0.13"
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "239"
+- 
+  category: gui-apps
+  name: swayidle
+  
+  version: ""
+- 
+  category: gui-apps
+  name: swaylock
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+use_flags:
+- elogind
+- fish-completion
+- +man
+- +swaybar
+- +swaybg
+- +swayidle
+- +swaylock
+- +swaymsg
+- +swaynag
+- systemd
+- tray
+- wallpapers
+- X
+- zsh-completion
+version: 1.1.1

@@ -1,0 +1,17 @@
+category: x11-plugins
+conflicts: []
+name: wmpasman
+requires:
+- 
+  category: app-crypt
+  name: libsecret
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 3.8.0
+use_flags:
+- ""
+version: "2.2"

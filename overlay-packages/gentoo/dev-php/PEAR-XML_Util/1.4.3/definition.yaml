@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: PEAR-XML_Util
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- examples
+version: 1.4.3

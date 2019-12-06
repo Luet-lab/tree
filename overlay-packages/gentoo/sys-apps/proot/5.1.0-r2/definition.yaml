@@ -1,0 +1,19 @@
+category: sys-apps
+conflicts: []
+name: proot
+requires:
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: sys-libs
+  name: talloc
+  
+  version: ""
+use_flags:
+- care
+- static
+- test
+version: 5.1.0-r2

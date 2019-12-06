@@ -1,0 +1,17 @@
+category: lxde-base
+conflicts: []
+name: lxappearance
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: ""
+use_flags:
+- dbus
+version: 0.6.3

@@ -1,0 +1,13 @@
+category: sys-libs
+conflicts: []
+name: readline
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.9-r3
+use_flags:
+- static-libs
+- utils
+version: 6.3_p8-r3

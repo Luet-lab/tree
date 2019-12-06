@@ -1,0 +1,58 @@
+category: sys-kernel
+conflicts: []
+name: genkernel
+requires:
+- 
+  category: sys-devel
+  name: automake
+  
+  version: ""
+- 
+  category: sys-devel
+  name: libtool
+  
+  version: ""
+- 
+  category: virtual
+  name: pkgconfig
+  
+  version: ""
+- 
+  category: sys-kernel
+  name: linux-firmware
+  
+  version: ""
+- 
+  category: app-misc
+  name: pax-utils
+  
+  version: 1.2.2
+- 
+  category: app-portage
+  name: elt-patches
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sandbox
+  
+  version: ""
+- 
+  category: app-arch
+  name: cpio
+  
+  version: ""
+- 
+  category: sys-devel
+  name: autoconf
+  
+  version: ""
+- 
+  category: sys-devel
+  name: autoconf-archive
+  
+  version: ""
+use_flags:
+- ibm
+- +firmware
+version: "9999"

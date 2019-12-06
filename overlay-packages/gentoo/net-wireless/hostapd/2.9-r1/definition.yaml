@@ -1,0 +1,49 @@
+category: net-wireless
+conflicts: []
+name: hostapd
+requires:
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: ""
+- 
+  category: net-wireless
+  name: crda
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnfnetlink
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: "3"
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libtommath
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- internal-tls
+- ipv6
+- libressl
+- logwatch
+- netlink
+- sqlite
+- +wps
+- +crda
+version: 2.9-r1

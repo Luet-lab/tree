@@ -1,0 +1,42 @@
+category: sys-block
+conflicts: []
+name: parted
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.7-r7
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libiconv
+  
+  version: ""
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: "1.27"
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: 2.02.45
+- 
+  category: sys-libs
+  name: readline
+  
+  version: "5.2"
+use_flags:
+- +debug
+- device-mapper
+- nls
+- readline
+- selinux
+- static-libs
+version: "3.3"

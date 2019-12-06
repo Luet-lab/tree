@@ -1,0 +1,15 @@
+category: net-wireless
+conflicts: []
+name: soapybladerf
+requires:
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: net-wireless
+  name: bladerf
+  
+  version: "2018.08"
+version: 0.4.1

@@ -1,0 +1,45 @@
+category: app-admin
+conflicts: []
+name: logstalgia
+requires:
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: glew
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl2-image
+  
+  version: ""
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+version: 1.1.2

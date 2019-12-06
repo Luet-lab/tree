@@ -1,0 +1,10 @@
+category: media-sound
+conflicts: []
+name: icecream
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: "1.3"

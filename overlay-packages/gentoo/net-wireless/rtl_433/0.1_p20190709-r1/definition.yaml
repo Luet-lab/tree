@@ -1,0 +1,18 @@
+category: net-wireless
+conflicts: []
+name: rtl_433
+requires:
+- 
+  category: net-wireless
+  name: rtl-sdr
+  
+  version: ""
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+use_flags:
+- +rtlsdr
+- soapy
+version: 0.1_p20190709-r1

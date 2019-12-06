@@ -1,0 +1,64 @@
+category: media-gfx
+conflicts: []
+name: xfig
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-fonts
+  name: urw-fonts
+  
+  version: ""
+- 
+  category: media-gfx
+  name: transfig
+  
+  version: 3.2.5-r1
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw3d
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: media-fonts
+  name: font-misc-misc
+  
+  version: ""
+- 
+  category: media-libs
+  name: netpbm
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+use_flags:
+- jpeg
+- nls
+- postscript
+version: 3.2.6a-r1

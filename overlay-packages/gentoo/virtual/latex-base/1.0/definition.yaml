@@ -1,0 +1,20 @@
+category: virtual
+conflicts: []
+name: latex-base
+requires:
+- 
+  category: dev-texlive
+  name: texlive-latexrecommended
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-fontutils
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-fontsrecommended
+  
+  version: ""
+version: "1.0"

@@ -1,0 +1,17 @@
+category: app-cdr
+conflicts: []
+name: multicd
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.6
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+use_flags:
+- ""
+version: 1.7.5-r1

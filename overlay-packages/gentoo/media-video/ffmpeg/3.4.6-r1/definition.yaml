@@ -1,0 +1,500 @@
+category: media-video
+conflicts:
+- 
+  category: media-libs
+  name: libpostproc
+  
+  version: ""
+- 
+  category: media-video
+  name: qt-faststart
+  
+  version: ""
+name: ffmpeg
+requires:
+- 
+  category: media-libs
+  name: opus
+  
+  version: 1.0.2-r2
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: 0.3.0
+- 
+  category: app-accessibility
+  name: flite
+  
+  version: 1.4-r4
+- 
+  category: dev-libs
+  name: fribidi
+  
+  version: 0.19.6
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: media-libs
+  name: libcaca-0.99_beta18-r1
+  
+  version: ""
+- 
+  category: app-arch
+  name: snappy
+  
+  version: 1.1.2-r1
+- 
+  category: media-sound
+  name: wavpack
+  
+  version: 4.60.1-r1
+- 
+  category: media-libs
+  name: freetype
+  
+  version: 2.5.0.1
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: "1.4"
+- 
+  category: media-libs
+  name: zvbi
+  
+  version: 0.2.35
+- 
+  category: media-libs
+  name: xvid
+  
+  version: 1.3.2-r1
+- 
+  category: media-libs
+  name: libiec61883
+  
+  version: 1.2.0-r1
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: 5.0.5-r1
+- 
+  category: dev-libs
+  name: libcdio-paranoia
+  
+  version: 0.90_p1-r1
+- 
+  category: media-libs
+  name: x265
+  
+  version: "1.6"
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: "6"
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libvdpau
+  
+  version: "0.7"
+- 
+  category: media-libs
+  name: libbluray
+  
+  version: 0.3.0-r1
+- 
+  category: media-libs
+  name: chromaprint
+  
+  version: 1.2-r1
+- 
+  category: media-libs
+  name: openal
+  
+  version: 1.15.1
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: 1.3.2
+- 
+  category: x11-libs
+  name: libdrm
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmodplug
+  
+  version: 0.8.8.4-r1
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.0.1h-r2
+- 
+  category: x11-libs
+  name: libva
+  
+  version: 1.2.1-r1
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: 1.6.2
+- 
+  category: media-libs
+  name: libbs2b
+  
+  version: 3.1.0-r1
+- 
+  category: media-libs
+  name: openjpeg
+  
+  version: "2"
+- 
+  category: x11-libs
+  name: libXv
+  
+  version: 1.0.10
+- 
+  category: media-video
+  name: rtmpdump
+  
+  version: 2.4_p20131018
+- 
+  category: media-libs
+  name: vo-amrwbenc
+  
+  version: 0.1.2-r1
+- 
+  category: media-libs
+  name: libtheora
+  
+  version: 1.1.1
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 2.12.23-r6
+- 
+  category: media-libs
+  name: libv4l
+  
+  version: 0.9.5
+- 
+  category: virtual
+  name: opengl
+  
+  version: 7.0-r1
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: 1.3.3-r1
+- 
+  category: media-libs
+  name: kvazaar
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: 2.10.92
+- 
+  category: media-plugins
+  name: frei0r-plugins
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libraw1394
+  
+  version: 2.1.0-r1
+- 
+  category: net-fs
+  name: samba
+  
+  version: 3.6.23-r1
+- 
+  category: media-libs
+  name: zimg
+  
+  version: "2.4"
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: 1.0.6-r4
+- 
+  category: media-sound
+  name: lame
+  
+  version: 3.99.5-r1
+- 
+  category: media-video
+  name: nvidia_video_sdk
+  
+  version: ""
+- 
+  category: media-libs
+  name: fdk-aac
+  
+  version: 0.1.3
+- 
+  category: media-libs
+  name: libvpx
+  
+  version: 1.4.0
+- 
+  category: media-libs
+  name: opencore-amr
+  
+  version: 0.1.3-r1
+- 
+  category: media-sound
+  name: gsm
+  
+  version: 1.0.13-r1
+- 
+  category: virtual
+  name: libiconv
+  
+  version: 0-r1
+- 
+  category: media-libs
+  name: soxr
+  
+  version: 0.1.0
+- 
+  category: media-libs
+  name: speex
+  
+  version: 1.2_rc1-r1
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: 2.1-r1
+- 
+  category: net-libs
+  name: zeromq
+  
+  version: 4.1.6
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.8-r1
+- 
+  category: media-libs
+  name: openh264
+  
+  version: 1.4.0-r1
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: "1.6"
+- 
+  category: media-libs
+  name: game-music-emu
+  
+  version: 0.6.0
+- 
+  category: media-libs
+  name: libass
+  
+  version: 0.10.2
+- 
+  category: media-libs
+  name: libilbc
+  
+  version: "2"
+- 
+  category: media-libs
+  name: x264
+  
+  version: 0.0.20130506
+- 
+  category: media-libs
+  name: libdc1394
+  
+  version: 2.2.1
+- 
+  category: media-libs
+  name: rubberband
+  
+  version: 1.8.1-r1
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: net-libs
+  name: libssh
+  
+  version: 0.5.5
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: 1.0.27.2
+- 
+  category: media-libs
+  name: libogg
+  
+  version: 1.3.0
+- 
+  category: media-sound
+  name: twolame
+  
+  version: 0.3.13-r1
+- 
+  category: sys-libs
+  name: libavc1394
+  
+  version: 0.5.4-r1
+- 
+  category: media-libs
+  name: raspberrypi-userland
+  
+  version: ""
+use_flags:
+- alsa
+- chromium
+- doc
+- +encode
+- jack
+- oss
+- pic
+- static-libs
+- test
+- "v4l\n\t+bzip2"
+- cpudetection
+- debug
+- gcrypt
+- gnutls
+- gmp
+- +gpl
+- +hardcoded-tables
+- +iconv
+- lzma
+- +network
+- opencl
+- openssl
+- +postproc
+- samba
+- sdl
+- vaapi
+- vdpau
+- X
+- xcb
+- +zlib
+- cdio
+- iec61883
+- ieee1394
+- libcaca
+- openal
+- opengl
+- libv4l
+- pulseaudio
+- libdrm
+- amr
+- fdk
+- jpeg2k
+- bluray
+- gme
+- gsm
+- mmal
+- modplug
+- opus
+- libilbc
+- librtmp
+- ssh
+- speex
+- svg
+- vorbis
+- vpx
+- zvbi
+- appkit
+- bs2b
+- chromaprint
+- flite
+- frei0r
+- fribidi
+- fontconfig
+- ladspa
+- libass
+- truetype
+- rubberband
+- zeromq
+- zimg
+- libsoxr
+- "+threads\n\tamrenc"
+- mp3
+- kvazaar
+- nvenc
+- openh264
+- snappy
+- theora
+- twolame
+- wavpack
+- webp
+- x264
+- x265
+- "xvid\n\n\tcpu_flags_arm_thumb:armv5te"
+- cpu_flags_arm_v6:armv6
+- cpu_flags_arm_thumb2:armv6t2
+- cpu_flags_arm_neon:neon
+- cpu_flags_arm_vfp:vfp
+- cpu_flags_arm_vfpv3:vfpv3
+- cpu_flags_arm_v8
+- mipsdspr1
+- altivec
+- 3dnow:amd3dnow
+- 3dnowext:amd3dnowext
+- aes:aesni
+- avx:avx
+- avx2:avx2
+- fma3:fma3
+- fma4:fma4
+- mmx:mmx
+- mmxext:mmxext
+- sse:sse
+- sse2:sse2
+- sse3:sse3
+- ssse3:ssse3
+- sse4_1:sse4
+- sse4_2:sse42
+- xop
+- aviocat
+- cws2fws
+- ffescape
+- ffeval
+- ffhash
+- fourcc2pixfmt
+- graph2dot
+- ismindex
+- pktdumper
+- qt-faststart
+- sidxindex
+- trasher
+version: 3.4.6-r1

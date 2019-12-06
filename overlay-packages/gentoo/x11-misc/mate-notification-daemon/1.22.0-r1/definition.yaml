@@ -1,0 +1,77 @@
+category: x11-misc
+conflicts:
+- 
+  category: x11-misc
+  name: notification-daemon
+  
+  version: ""
+- 
+  category: x11-misc
+  name: notify-osd
+  
+  version: ""
+- 
+  category: x11-misc
+  name: qtnotifydaemon
+  
+  version: ""
+name: mate-notification-daemon
+requires:
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: "1"
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: "0.7"
+- 
+  category: x11-libs
+  name: libwnck
+  
+  version: "3"
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: media-libs
+  name: libcanberra
+  
+  version: "0.4"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: "2.22"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 1.22.0-r1

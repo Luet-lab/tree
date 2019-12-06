@@ -1,0 +1,74 @@
+category: app-editors
+conflicts: []
+name: neovim
+requires:
+- 
+  category: dev-lua
+  name: mpack[luajit=]
+  
+  version: ""
+- 
+  category: dev-lang
+  name: luajit
+  
+  version: ""
+- 
+  category: dev-lua
+  name: LuaBitOp
+  
+  version: ""
+- 
+  category: dev-libs
+  name: unibilium
+  
+  version: 2.0.0
+- 
+  category: app-eselect
+  name: eselect-vi
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnsl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libtermkey
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libuv
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libvterm
+  
+  version: 0.1.2
+- 
+  category: dev-libs
+  name: msgpack
+  
+  version: ""
+- 
+  category: dev-lua
+  name: lpeg[luajit=]
+  
+  version: ""
+- 
+  category: dev-lua
+  name: luv[luajit=]
+  
+  version: ""
+use_flags:
+- +luajit
+- +nvimpager
+- +tui
+version: 0.4.3

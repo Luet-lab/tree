@@ -1,0 +1,75 @@
+category: media-sound
+conflicts: []
+name: exaile
+requires:
+- 
+  category: dev-python
+  name: gst-python
+  
+  version: ""
+- 
+  category: dev-python
+  name: pycairo
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: 3.13.2
+- 
+  category: media-libs
+  name: gst-plugins-good
+  
+  version: "1.4"
+- 
+  category: media-libs
+  name: mutagen
+  
+  version: "1.10"
+- 
+  category: media-plugins
+  name: gst-plugins-meta
+  
+  version: ""
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+- 
+  category: media-libs
+  name: gst-plugins-base
+  
+  version: "1.6"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.10"
+- 
+  category: dev-python
+  name: cddb-py
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: "0.7"
+- 
+  category: dev-python
+  name: pylast
+  
+  version: ""
+- 
+  category: dev-python
+  name: bsddb3
+  
+  version: ""
+use_flags:
+- cddb
+- libnotify
+- nls
+- scrobbler
+version: 4.0.0

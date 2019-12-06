@@ -1,0 +1,37 @@
+category: app-portage
+conflicts: []
+name: demerge
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: PortageXS
+  
+  version: 0.02.10-r3
+- 
+  category: virtual
+  name: perl-Term-ANSIColor
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Shell-EnvImporter
+  
+  version: ""
+- 
+  category: sys-apps
+  name: portage
+  
+  version: ""
+use_flags:
+- ""
+version: 0.047-r3

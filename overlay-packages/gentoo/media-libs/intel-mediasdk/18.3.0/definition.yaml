@@ -1,0 +1,12 @@
+category: media-libs
+conflicts: []
+name: intel-mediasdk
+requires:
+- 
+  category: x11-libs
+  name: libva-intel-media-driver
+  
+  version: 18.3.0
+use_flags:
+- ""
+version: 18.3.0

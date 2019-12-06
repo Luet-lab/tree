@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: doctrine
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: 5.3.2
+use_flags:
+- ""
+version: 2.4.6

@@ -1,0 +1,22 @@
+category: xfce-extra
+conflicts: []
+name: thunar-shares-plugin
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.18"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: xfce-base
+  name: thunar
+  
+  version: "1.7"
+use_flags:
+- ""
+version: 0.3.0

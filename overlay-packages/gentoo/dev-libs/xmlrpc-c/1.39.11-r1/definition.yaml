@@ -1,0 +1,34 @@
+category: dev-libs
+conflicts: []
+name: xmlrpc-c
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- abyss
+- +cgi
+- +curl
+- +cxx
+- +libxml2
+- threads
+- test
+- tools
+version: 1.39.11-r1

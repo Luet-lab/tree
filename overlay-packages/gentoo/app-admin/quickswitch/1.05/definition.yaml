@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: quickswitch
+requires:
+- 
+  category: dev-perl
+  name: CursesWidgets
+  
+  version: ""
+use_flags:
+- ncurses
+version: "1.05"

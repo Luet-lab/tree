@@ -1,0 +1,48 @@
+category: dev-util
+conflicts: []
+name: patchbin
+requires:
+- 
+  category: sys-apps
+  name: grep
+  
+  version: ""
+- 
+  category: sys-freebsd
+  name: freebsd-bin
+  
+  version: ""
+- 
+  category: sys-freebsd
+  name: freebsd-ubin
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-devel
+  name: patch
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+use_flags:
+- userland_BSD
+- userland_GNU
+version: "20160208"

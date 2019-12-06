@@ -1,0 +1,100 @@
+category: app-doc
+conflicts: []
+name: doxygen
+requires:
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-fontutils
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: media-gfx
+  name: graphviz
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-bibtexextra
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-latexextra
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: sys-devel
+  name: clang
+  
+  version: 4.0.0
+- 
+  category: dev-libs
+  name: xapian
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-fontsextra
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-latex
+  
+  version: ""
+use_flags:
+- clang
+- debug
+- doc
+- dot
+- doxysearch
+- latex
+- qt5
+- sqlite
+- userland_GNU
+version: 1.8.16

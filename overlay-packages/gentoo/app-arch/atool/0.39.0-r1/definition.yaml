@@ -1,0 +1,15 @@
+category: app-arch
+conflicts:
+- 
+  category: app-text
+  name: adiff
+  
+  version: ""
+name: atool
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 0.39.0-r1

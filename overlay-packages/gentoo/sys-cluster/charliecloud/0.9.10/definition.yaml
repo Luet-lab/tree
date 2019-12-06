@@ -1,0 +1,14 @@
+category: sys-cluster
+conflicts: []
+name: charliecloud
+requires:
+- 
+  category: sys-apps
+  name: pv
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- +pv
+version: 0.9.10

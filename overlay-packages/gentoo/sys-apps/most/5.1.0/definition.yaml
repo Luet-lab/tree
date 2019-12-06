@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: most
+requires:
+- 
+  category: sys-libs
+  name: slang
+  
+  version: 2.1.3
+use_flags:
+- ""
+version: 5.1.0

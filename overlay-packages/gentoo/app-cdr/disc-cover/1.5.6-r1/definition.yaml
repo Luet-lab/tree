@@ -1,0 +1,22 @@
+category: app-cdr
+conflicts: []
+name: disc-cover
+requires:
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Audio-CD-disc-cover
+  
+  version: ""
+use_flags:
+- ""
+version: 1.5.6-r1

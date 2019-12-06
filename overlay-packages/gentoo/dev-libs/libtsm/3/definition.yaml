@@ -1,0 +1,5 @@
+category: dev-libs
+name: libtsm
+use_flags:
+- ""
+version: "3"

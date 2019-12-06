@@ -1,0 +1,7 @@
+category: net-misc
+conflicts: []
+name: portspoof
+requires: []
+use_flags:
+- ""
+version: "1.3"

@@ -1,0 +1,5 @@
+category: media-sound
+name: dcaenc
+use_flags:
+- alsa
+version: "2"

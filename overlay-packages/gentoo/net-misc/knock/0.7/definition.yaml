@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: knock
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- +server
+version: "0.7"

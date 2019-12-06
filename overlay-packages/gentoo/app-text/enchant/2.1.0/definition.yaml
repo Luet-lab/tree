@@ -1,0 +1,25 @@
+category: app-text
+conflicts: []
+name: enchant
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.6"
+- 
+  category: app-text
+  name: aspell
+  
+  version: ""
+- 
+  category: app-text
+  name: hunspell
+  
+  version: 1.2.1
+use_flags:
+- aspell
+- +hunspell
+- static-libs
+- test
+version: 2.1.0

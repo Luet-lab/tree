@@ -1,0 +1,12 @@
+category: net-libs
+conflicts:
+- 
+  category: app-crypt
+  name: libgssapi
+  
+  version: ""
+name: libgssglue
+requires: []
+use_flags:
+- ""
+version: 0.4-r1

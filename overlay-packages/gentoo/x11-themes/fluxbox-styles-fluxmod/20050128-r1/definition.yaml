@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: fluxbox-styles-fluxmod
+requires: []
+use_flags:
+- ""
+version: 20050128-r1

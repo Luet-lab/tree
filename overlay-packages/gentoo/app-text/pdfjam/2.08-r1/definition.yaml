@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: pdfjam
+requires:
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+use_flags:
+- ""
+version: 2.08-r1

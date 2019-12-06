@@ -1,0 +1,22 @@
+category: app-dicts
+conflicts: []
+name: ydpdict
+requires:
+- 
+  category: app-dicts
+  name: libydpdict
+  
+  version: 1.0.2
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: media-libs
+  name: libao
+  
+  version: ""
+use_flags:
+- ao
+version: 1.0.2

@@ -1,0 +1,17 @@
+category: sci-libs
+conflicts: []
+name: h5part
+requires:
+- 
+  category: virtual
+  name: mpi
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+use_flags:
+- ""
+version: 1.6.6

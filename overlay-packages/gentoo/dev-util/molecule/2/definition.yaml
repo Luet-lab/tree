@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: molecule
+requires:
+- 
+  category: dev-util
+  name: molecule-core
+  
+  version: 1.0.2
+- 
+  category: dev-util
+  name: molecule-plugins
+  
+  version: 1.0.2
+use_flags:
+- +plugins
+version: "2"

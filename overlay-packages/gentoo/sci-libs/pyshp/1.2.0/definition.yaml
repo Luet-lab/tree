@@ -1,0 +1,7 @@
+category: sci-libs
+conflicts: []
+name: pyshp
+requires: []
+use_flags:
+- ""
+version: 1.2.0

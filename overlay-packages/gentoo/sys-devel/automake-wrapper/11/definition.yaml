@@ -1,0 +1,5 @@
+category: sys-devel
+name: automake-wrapper
+use_flags:
+- ""
+version: "11"

@@ -1,0 +1,42 @@
+category: sci-physics
+conflicts: []
+name: espresso
+requires:
+- 
+  category: dev-python
+  name: cython
+  
+  version: 0.26.1
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: 4.2.9-r1
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+use_flags:
+- cuda
+- doc
+- examples
+- +fftw
+- +hdf5
+- test
+version: 4.0.0-r1

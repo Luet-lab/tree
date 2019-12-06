@@ -1,0 +1,12 @@
+category: app-emulation
+conflicts: []
+name: virtualbox-extpack-oracle
+requires:
+- 
+  category: app-emulation
+  name: virtualbox
+  
+  version: ""
+use_flags:
+- ""
+version: 5.2.34.133893

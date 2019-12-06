@@ -1,0 +1,12 @@
+category: net-libs
+conflicts: []
+name: rpcsvc-proto
+requires:
+- 
+  category: sys-libs
+  name: glibc[rpc(-)]
+  
+  version: ""
+use_flags:
+- ""
+version: "0"

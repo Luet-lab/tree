@@ -1,0 +1,7 @@
+category: sci-chemistry
+conflicts: []
+name: bodr
+requires: []
+use_flags:
+- ""
+version: "10"

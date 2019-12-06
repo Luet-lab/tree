@@ -1,0 +1,13 @@
+category: app-i18n
+conflicts: []
+name: libchewing
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- static-libs
+- test
+version: "9999"

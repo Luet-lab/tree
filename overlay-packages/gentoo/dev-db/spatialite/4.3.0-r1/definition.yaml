@@ -1,0 +1,42 @@
+category: dev-db
+conflicts: []
+name: spatialite
+requires:
+- 
+  category: dev-libs
+  name: freexl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: 3.7.5
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: geos
+  
+  version: "3.4"
+- 
+  category: sci-libs
+  name: proj
+  
+  version: ""
+use_flags:
+- +geos
+- iconv
+- +proj
+- test
+- +xls
+- +xml
+version: 4.3.0-r1

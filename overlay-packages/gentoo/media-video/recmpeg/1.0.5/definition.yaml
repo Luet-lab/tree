@@ -1,0 +1,13 @@
+category: media-video
+conflicts: []
+name: recmpeg
+requires:
+- 
+  category: media-libs
+  name: libfame
+  
+  version: 0.9.0
+use_flags:
+- cpu_flags_x86_mmx
+- cpu_flags_x86_sse
+version: 1.0.5

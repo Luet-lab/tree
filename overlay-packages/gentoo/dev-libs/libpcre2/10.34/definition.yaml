@@ -1,0 +1,36 @@
+category: dev-libs
+conflicts: []
+name: libpcre2
+requires:
+- 
+  category: dev-libs
+  name: libedit
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+use_flags:
+- bzip2
+- +jit
+- libedit
+- pcre16
+- pcre32
+- +readline
+- +recursion-limit
+- static-libs
+- unicode
+- zlib
+version: "10.34"

@@ -1,0 +1,37 @@
+category: sys-apps
+conflicts:
+- 
+  category: dev-python
+  name: sepolgen
+  
+  version: ""
+name: selinux-python
+requires:
+- 
+  category: dev-python
+  name: ipy
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.9"
+- 
+  category: sys-libs
+  name: libsemanage
+  
+  version: "2.9"
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.9"
+- 
+  category: app-admin
+  name: setools
+  
+  version: 4.2.0
+use_flags:
+- ""
+version: "2.9"

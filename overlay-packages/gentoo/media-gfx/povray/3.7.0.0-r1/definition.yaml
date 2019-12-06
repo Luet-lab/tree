@@ -1,0 +1,52 @@
+category: media-gfx
+conflicts: []
+name: povray
+requires:
+- 
+  category: media-libs
+  name: ilmbase
+  
+  version: ""
+- 
+  category: media-libs
+  name: openexr
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: 1.50.0
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+use_flags:
+- debug
+- +io-restrictions
+- openexr
+- static-libs
+- tiff
+- X
+version: 3.7.0.0-r1

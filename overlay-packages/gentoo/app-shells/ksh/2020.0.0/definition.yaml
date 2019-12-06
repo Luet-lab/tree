@@ -1,0 +1,10 @@
+category: app-shells
+conflicts:
+- 
+  category: app-shells
+  name: pdksh
+  
+  version: ""
+name: ksh
+requires: []
+version: 2020.0.0

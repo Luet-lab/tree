@@ -1,0 +1,10 @@
+category: media-sound
+conflicts: []
+name: mp3unicode
+requires:
+- 
+  category: media-libs
+  name: taglib
+  
+  version: "1.4"
+version: 1.2.1

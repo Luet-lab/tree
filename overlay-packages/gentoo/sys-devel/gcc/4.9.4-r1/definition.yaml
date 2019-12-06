@@ -1,0 +1,5 @@
+category: sys-devel
+conflicts: []
+name: gcc
+requires: []
+version: 4.9.4-r1

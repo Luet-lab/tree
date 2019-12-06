@@ -1,0 +1,7 @@
+category: net-irc
+conflicts: []
+name: dccserver
+requires: []
+use_flags:
+- ""
+version: 0.5-r1

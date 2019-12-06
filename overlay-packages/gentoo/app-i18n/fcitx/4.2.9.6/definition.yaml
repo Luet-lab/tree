@@ -1,0 +1,142 @@
+category: app-i18n
+conflicts: []
+name: fcitx
+requires:
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: ""
+- 
+  category: app-text
+  name: iso-codes
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbfile
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+- 
+  category: app-i18n
+  name: opencc
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: app-text
+  name: enchant
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xkeyboard-config
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- +X
+- +autostart
+- +cairo
+- debug
+- +enchant
+- gtk2
+- +gtk3
+- +introspection
+- lua
+- nls
+- opencc
+- +pango
+- static-libs
+- +table
+- test
+- +xml
+version: 4.2.9.6

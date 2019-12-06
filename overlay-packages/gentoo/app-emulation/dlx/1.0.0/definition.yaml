@@ -1,0 +1,5 @@
+category: app-emulation
+name: dlx
+use_flags:
+- ""
+version: 1.0.0

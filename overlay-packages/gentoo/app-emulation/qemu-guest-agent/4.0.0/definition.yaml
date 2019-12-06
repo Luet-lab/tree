@@ -1,0 +1,3 @@
+category: app-emulation
+name: qemu-guest-agent
+version: 4.0.0

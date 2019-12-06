@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: appdata-tools
+requires:
+- 
+  category: dev-libs
+  name: appstream-glib
+  
+  version: 0.3.2
+use_flags:
+- ""
+version: 0.1.8-r1

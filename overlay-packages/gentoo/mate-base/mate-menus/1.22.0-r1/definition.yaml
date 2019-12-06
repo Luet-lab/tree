@@ -1,0 +1,23 @@
+category: mate-base
+conflicts: []
+name: mate-menus
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: 0.6.7
+use_flags:
+- debug
+- +introspection
+version: 1.22.0-r1

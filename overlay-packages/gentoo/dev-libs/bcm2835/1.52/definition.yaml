@@ -1,0 +1,8 @@
+category: dev-libs
+conflicts: []
+name: bcm2835
+requires: []
+use_flags:
+- doc
+- examples
+version: "1.52"

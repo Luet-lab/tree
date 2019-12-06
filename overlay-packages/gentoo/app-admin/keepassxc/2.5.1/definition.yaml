@@ -1,0 +1,108 @@
+category: app-admin
+conflicts: []
+name: keepassxc
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: ""
+- 
+  category: media-gfx
+  name: qrencode
+  
+  version: ""
+- 
+  category: sys-auth
+  name: ykpers
+  
+  version: ""
+- 
+  category: app-crypt
+  name: argon2
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libsodium
+  
+  version: 1.0.12
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: dev-libs
+  name: quazip
+  
+  version: ""
+use_flags:
+- autotype
+- browser
+- debug
+- keeshare
+- +network
+- test
+- yubikey
+version: 2.5.1

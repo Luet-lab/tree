@@ -1,0 +1,18 @@
+category: media-libs
+conflicts:
+- 
+  category: media-libs
+  name: raspberrypi-userland-bin
+  
+  version: ""
+name: raspberrypi-userland
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+use_flags:
+- examples
+- wayland
+version: 0_pre20160424

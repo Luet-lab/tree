@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: sound-theme-freedesktop
+requires: []
+use_flags:
+- ""
+version: "0.8"

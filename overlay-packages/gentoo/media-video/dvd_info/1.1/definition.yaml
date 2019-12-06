@@ -1,0 +1,12 @@
+category: media-video
+conflicts: []
+name: dvd_info
+requires:
+- 
+  category: media-libs
+  name: libdvdread
+  
+  version: ""
+use_flags:
+- ""
+version: "1.1"

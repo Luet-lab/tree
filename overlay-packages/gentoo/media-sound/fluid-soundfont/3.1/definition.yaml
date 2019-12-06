@@ -1,0 +1,12 @@
+category: media-sound
+conflicts: []
+name: fluid-soundfont
+requires:
+- 
+  category: app-eselect
+  name: eselect-timidity
+  
+  version: ""
+use_flags:
+- timidity
+version: "3.1"

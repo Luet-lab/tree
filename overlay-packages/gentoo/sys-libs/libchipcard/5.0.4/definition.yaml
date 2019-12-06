@@ -1,0 +1,28 @@
+category: sys-libs
+conflicts: []
+name: libchipcard
+requires:
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: 1.6.2
+- 
+  category: sys-libs
+  name: gwenhywfar
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- doc
+- examples
+version: 5.0.4

@@ -1,0 +1,12 @@
+category: sys-process
+conflicts: []
+name: supervise-scripts
+requires:
+- 
+  category: virtual
+  name: daemontools
+  
+  version: ""
+use_flags:
+- doc
+version: 4.0-r1

@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-bnes
+requires:
+- 
+  category: games-emulation
+  name: libretro-bnes
+  
+  version: ""
+- 
+  category: media-plugins
+  name: kodi-game-libretro
+  
+  version: ""
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+use_flags:
+- ""
+version: 0.83.0.6

@@ -1,0 +1,37 @@
+category: x11-plugins
+conflicts: []
+name: wmweather
+requires:
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xmessage
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 2.4.7

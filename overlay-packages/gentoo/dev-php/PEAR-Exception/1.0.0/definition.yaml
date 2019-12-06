@@ -1,0 +1,17 @@
+category: dev-php
+conflicts:
+- 
+  category: <=dev-php
+  name: PEAR-PEAR
+  
+  version: 1.10.3-r1
+name: PEAR-Exception
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- test
+version: 1.0.0

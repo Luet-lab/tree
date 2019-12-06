@@ -1,0 +1,38 @@
+category: media-plugins
+conflicts: []
+name: hexter
+requires:
+- 
+  category: media-libs
+  name: dssi
+  
+  version: "0.4"
+- 
+  category: media-libs
+  name: liblo
+  
+  version: "0.12"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+use_flags:
+- gtk2
+- readline
+version: 1.1.0

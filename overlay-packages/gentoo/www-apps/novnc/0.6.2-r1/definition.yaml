@@ -1,0 +1,17 @@
+category: www-apps
+conflicts: []
+name: novnc
+requires:
+- 
+  category: dev-python
+  name: websockify
+  
+  version: ""
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+use_flags:
+- ""
+version: 0.6.2-r1

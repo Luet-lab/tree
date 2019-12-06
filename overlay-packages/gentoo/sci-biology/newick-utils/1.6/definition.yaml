@@ -1,0 +1,12 @@
+category: sci-biology
+conflicts:
+- 
+  category: dev-games
+  name: libnw
+  
+  version: ""
+name: newick-utils
+requires: []
+use_flags:
+- ""
+version: "1.6"

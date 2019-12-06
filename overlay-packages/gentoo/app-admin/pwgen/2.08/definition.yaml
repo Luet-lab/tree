@@ -1,0 +1,5 @@
+category: app-admin
+name: pwgen
+use_flags:
+- livecd
+version: "2.08"

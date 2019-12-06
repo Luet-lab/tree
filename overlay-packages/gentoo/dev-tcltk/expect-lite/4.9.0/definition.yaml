@@ -1,0 +1,18 @@
+category: dev-tcltk
+conflicts: []
+name: expect-lite
+requires:
+- 
+  category: dev-tcltk
+  name: expect
+  
+  version: ""
+- 
+  category: dev-tcltk
+  name: tclx
+  
+  version: ""
+use_flags:
+- debug
+- examples
+version: 4.9.0

@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: iconbox
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Gtk2
+  
+  version: ""
+use_flags:
+- ""
+version: "0.2"

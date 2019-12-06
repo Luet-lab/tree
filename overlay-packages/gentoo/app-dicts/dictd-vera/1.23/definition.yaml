@@ -1,0 +1,10 @@
+category: app-dicts
+conflicts: []
+name: dictd-vera
+requires:
+- 
+  category: app-text
+  name: dictd
+  
+  version: 1.5.5
+version: "1.23"

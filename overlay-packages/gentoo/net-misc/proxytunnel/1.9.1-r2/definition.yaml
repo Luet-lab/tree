@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: proxytunnel
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- static
+version: 1.9.1-r2

@@ -1,0 +1,3 @@
+category: sys-libs
+name: compiler-rt-sanitizers
+version: 9.0.0

@@ -1,0 +1,5 @@
+category: dev-util
+name: cppi
+use_flags:
+- nls
+version: "1.18"

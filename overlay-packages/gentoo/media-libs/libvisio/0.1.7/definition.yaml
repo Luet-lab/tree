@@ -1,0 +1,25 @@
+category: media-libs
+conflicts: []
+name: libvisio
+requires:
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- doc
+- static-libs
+- test
+- tools
+version: 0.1.7

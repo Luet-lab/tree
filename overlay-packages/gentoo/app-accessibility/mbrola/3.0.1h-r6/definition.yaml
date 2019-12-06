@@ -1,0 +1,12 @@
+category: app-accessibility
+name: mbrola
+use_flags:
+- l10n_de
+- l10n_es
+- l10n_fr
+- l10n_it
+- l10n_la
+- l10n_pl
+- l10n_ro
+- l10n_sv
+version: 3.0.1h-r6

@@ -1,0 +1,12 @@
+category: net-dialup
+conflicts: []
+name: dial
+requires:
+- 
+  category: net-dialup
+  name: dwun
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2-r2

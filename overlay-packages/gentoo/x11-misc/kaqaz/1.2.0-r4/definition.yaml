@@ -1,0 +1,72 @@
+category: x11-misc
+conflicts: []
+name: kaqaz
+requires:
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtmultimedia
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtpositioning
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsingleapplication[qt5(+),X]
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsensors
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtquickcontrols
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgraphicaleffects
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.0-r4

@@ -1,0 +1,28 @@
+category: media-sound
+conflicts: []
+name: jack-smf-utils
+requires:
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: media-sound
+  name: lash
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- lash
+- readline
+version: 1.0-r1

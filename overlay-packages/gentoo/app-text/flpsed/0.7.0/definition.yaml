@@ -1,0 +1,32 @@
+category: app-text
+conflicts: []
+name: flpsed
+requires:
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: 1.3.0
+- 
+  category: app-text
+  name: ghostscript-gpl[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7.0

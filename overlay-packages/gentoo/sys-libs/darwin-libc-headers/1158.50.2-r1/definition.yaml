@@ -1,0 +1,5 @@
+category: sys-libs
+name: darwin-libc-headers
+use_flags:
+- +man
+version: 1158.50.2-r1

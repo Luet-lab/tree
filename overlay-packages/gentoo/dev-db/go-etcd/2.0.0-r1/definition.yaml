@@ -1,0 +1,7 @@
+category: dev-db
+conflicts: []
+name: go-etcd
+requires: []
+use_flags:
+- ""
+version: 2.0.0-r1

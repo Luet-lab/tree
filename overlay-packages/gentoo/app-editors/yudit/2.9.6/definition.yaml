@@ -1,0 +1,10 @@
+category: app-editors
+conflicts: []
+name: yudit
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+version: 2.9.6

@@ -1,0 +1,37 @@
+category: dev-libs
+conflicts: []
+name: replicant
+requires:
+- 
+  category: dev-libs
+  name: libpo6
+  
+  version: "0.8"
+- 
+  category: dev-libs
+  name: libe
+  
+  version: "0.11"
+- 
+  category: dev-libs
+  name: busybee
+  
+  version: "0.7"
+- 
+  category: dev-libs
+  name: hyperleveldb
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: glog
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: sparsehash
+  
+  version: ""
+use_flags:
+- ""
+version: 0.8.1

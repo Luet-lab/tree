@@ -1,0 +1,15 @@
+category: net-analyzer
+conflicts: []
+name: mrtg-ping-probe
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: mrtg
+  
+  version: ""
+version: 2.2.0

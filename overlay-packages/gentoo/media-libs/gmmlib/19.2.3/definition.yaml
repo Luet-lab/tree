@@ -1,0 +1,7 @@
+category: media-libs
+conflicts: []
+name: gmmlib
+requires: []
+use_flags:
+- ""
+version: 19.2.3

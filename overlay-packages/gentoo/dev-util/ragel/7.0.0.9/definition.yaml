@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: ragel
+requires:
+- 
+  category: dev-util
+  name: colm
+  
+  version: 0.13.0.4
+use_flags:
+- vim-syntax
+version: 7.0.0.9

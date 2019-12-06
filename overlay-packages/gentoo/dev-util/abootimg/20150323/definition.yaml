@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: abootimg
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+use_flags:
+- ""
+version: "20150323"

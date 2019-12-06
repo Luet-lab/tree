@@ -1,0 +1,27 @@
+category: net-analyzer
+conflicts: []
+name: nagtrap
+requires:
+- 
+  category: net-analyzer
+  name: nagios-core
+  
+  version: ""
+- 
+  category: virtual
+  name: httpd-php
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: snmptt
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.3-r1

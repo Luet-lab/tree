@@ -1,0 +1,5 @@
+category: app-portage
+name: cpuid2cpuflags
+use_flags:
+- ""
+version: "6"

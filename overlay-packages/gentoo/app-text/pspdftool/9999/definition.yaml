@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: pspdftool
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- zlib
+version: "9999"

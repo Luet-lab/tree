@@ -1,0 +1,77 @@
+category: games-strategy
+conflicts:
+- 
+  category: dev-games
+  name: gigi
+  
+  version: ""
+name: freeorion
+requires:
+- 
+  category: sci-physics
+  name: bullet
+  
+  version: ""
+- 
+  category: media-libs
+  name: freealut
+  
+  version: ""
+- 
+  category: media-libs
+  name: libogg
+  
+  version: 1.1.3
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: 1.1.2
+- 
+  category: dev-libs
+  name: boost
+  
+  version: "1.56"
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2[X,opengl,video]
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: glew
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4.7.1-r4

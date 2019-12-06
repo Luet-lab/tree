@@ -1,0 +1,24 @@
+category: sci-biology
+conflicts:
+- 
+  category: '!sci-biology'
+  name: seqan
+  
+  version: ""
+name: seqan
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_sse4_1
+- doc
+- tools
+version: 2.4.0

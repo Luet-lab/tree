@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: linuxtv-dvb-headers
+requires:
+- 
+  category: sys-kernel
+  name: linux-headers
+  
+  version: "3.7"
+version: "5.8"

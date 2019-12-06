@@ -1,0 +1,12 @@
+category: net-libs
+conflicts: []
+name: libhackrf
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- +udev
+version: 2018.01.1

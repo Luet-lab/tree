@@ -1,0 +1,17 @@
+category: sys-fs
+conflicts: []
+name: zfs-auto-snapshot
+requires:
+- 
+  category: sys-fs
+  name: zfs
+  
+  version: ""
+- 
+  category: virtual
+  name: cron
+  
+  version: ""
+use_flags:
+- +default-exclude
+version: 1.2.4

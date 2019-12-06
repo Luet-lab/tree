@@ -1,0 +1,47 @@
+category: dev-ml
+conflicts: []
+name: core_bench
+requires:
+- 
+  category: dev-ml
+  name: core
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core_extended
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: textutils
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-re
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

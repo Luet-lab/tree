@@ -1,0 +1,49 @@
+category: net-mail
+conflicts: []
+name: mpop
+requires:
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-dns
+  name: libidn2
+  
+  version: ""
+- 
+  category: app-crypt
+  name: libsecret
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: virtual
+  name: gsasl
+  
+  version: ""
+use_flags:
+- gnutls
+- idn
+- libressl
+- gnome-keyring
+- nls
+- sasl
+- ssl
+- vim-syntax
+version: 1.4.4

@@ -1,0 +1,18 @@
+category: x11-plugins
+conflicts: []
+name: guifications
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- debug
+- nls
+version: "2.16"

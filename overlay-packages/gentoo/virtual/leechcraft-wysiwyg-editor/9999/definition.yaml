@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: leechcraft-wysiwyg-editor
+requires:
+- 
+  category: app-leechcraft
+  name: lc-lhtr
+  
+  version: "9999"
+version: "9999"

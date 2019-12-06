@@ -1,0 +1,12 @@
+category: sys-devel
+conflicts:
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: ""
+name: llvmgold
+requires: []
+use_flags:
+- ""
+version: "8"

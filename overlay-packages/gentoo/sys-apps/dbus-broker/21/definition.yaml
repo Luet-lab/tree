@@ -1,0 +1,40 @@
+category: sys-apps
+conflicts: []
+name: dbus-broker
+requires:
+- 
+  category: sys-process
+  name: audit
+  
+  version: "2.7"
+- 
+  category: sys-libs
+  name: libcap-ng
+  
+  version: "0.6"
+- 
+  category: dev-libs
+  name: expat
+  
+  version: "2.2"
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "230"
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+use_flags:
+- audit
+- doc
+- +launcher
+- selinux
+version: "21"

@@ -1,0 +1,10 @@
+category: net-analyzer
+conflicts: []
+name: chaosreader
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.0
+version: "0.96"

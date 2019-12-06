@@ -1,0 +1,15 @@
+category: app-eselect
+conflicts: []
+name: eselect-emacs
+requires:
+- 
+  category: app-eselect
+  name: eselect-ctags
+  
+  version: "1.18"
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.6
+version: "1.18"

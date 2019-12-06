@@ -1,0 +1,98 @@
+category: dev-util
+conflicts: []
+name: ostree
+requires:
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libassuan
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: net-libs
+  name: libsoup
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-boot
+  name: grub
+  
+  version: ""
+use_flags:
+- archive
+- curl
+- doc
+- gnutls
+- grub
+- introspection
+- libmount
+- selinux
+- ssl
+- soup
+- systemd
+- zeroconf
+version: "2018.9"

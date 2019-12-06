@@ -1,0 +1,12 @@
+category: media-radio
+conflicts: []
+name: adifmerg
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- examples
+version: 31-r1

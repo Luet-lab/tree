@@ -1,0 +1,38 @@
+category: sys-libs
+conflicts: []
+name: libselinux
+requires:
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: ""
+- 
+  category: sys-libs
+  name: fts-standalone
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "3.0"
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: 8.33-r1
+- 
+  category: dev-libs
+  name: libpcre2
+  
+  version: ""
+use_flags:
+- pcre2
+- python
+- ruby
+- static-libs
+- ruby_targets_ruby24
+- ruby_targets_ruby25
+- ruby_targets_ruby26
+version: 3.0_rc2

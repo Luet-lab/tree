@@ -1,0 +1,13 @@
+category: media-libs
+conflicts:
+- 
+  category: media-libs
+  name: raspberrypi-userland
+  
+  version: ""
+name: raspberrypi-userland-bin
+requires: []
+use_flags:
+- +hardfp
+- examples
+version: "1.20190709"

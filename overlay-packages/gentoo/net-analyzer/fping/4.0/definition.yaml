@@ -1,0 +1,6 @@
+category: net-analyzer
+name: fping
+use_flags:
+- ipv6
+- suid
+version: "4.0"

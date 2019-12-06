@@ -1,0 +1,12 @@
+category: app-crypt
+conflicts: []
+name: dieharder
+requires:
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: ""
+use_flags:
+- doc
+version: 3.31.1-r3

@@ -1,0 +1,32 @@
+category: media-libs
+conflicts: []
+name: opusfile
+requires:
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: opus
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- doc
+- fixed-point
+- +float
+- +http
+- libressl
+- static-libs
+version: "0.11"

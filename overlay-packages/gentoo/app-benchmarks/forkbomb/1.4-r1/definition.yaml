@@ -1,0 +1,5 @@
+category: app-benchmarks
+name: forkbomb
+use_flags:
+- ""
+version: 1.4-r1

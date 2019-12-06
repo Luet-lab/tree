@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: go-updater
+requires:
+- 
+  category: dev-go
+  name: goversion
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.0

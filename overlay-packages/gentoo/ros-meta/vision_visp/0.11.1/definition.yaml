@@ -1,0 +1,32 @@
+category: ros-meta
+conflicts: []
+name: vision_visp
+requires:
+- 
+  category: dev-ros
+  name: visp_auto_tracker
+  
+  version: ""
+- 
+  category: dev-ros
+  name: visp_bridge
+  
+  version: ""
+- 
+  category: dev-ros
+  name: visp_camera_calibration
+  
+  version: ""
+- 
+  category: dev-ros
+  name: visp_hand2eye_calibration
+  
+  version: ""
+- 
+  category: dev-ros
+  name: visp_tracker
+  
+  version: ""
+use_flags:
+- ""
+version: 0.11.1

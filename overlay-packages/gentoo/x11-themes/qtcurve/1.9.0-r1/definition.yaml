@@ -1,0 +1,27 @@
+category: x11-themes
+conflicts: []
+name: qtcurve
+requires:
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- +X
+- gtk
+- nls
+- plasma
+- +qt5
+- test
+version: 1.9.0-r1

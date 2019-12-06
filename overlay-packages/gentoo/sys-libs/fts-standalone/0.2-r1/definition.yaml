@@ -1,0 +1,5 @@
+category: sys-libs
+name: fts-standalone
+use_flags:
+- ""
+version: 0.2-r1

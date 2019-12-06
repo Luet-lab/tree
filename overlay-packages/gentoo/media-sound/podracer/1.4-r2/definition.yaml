@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: podracer
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4-r2

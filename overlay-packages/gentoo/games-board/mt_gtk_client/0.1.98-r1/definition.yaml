@@ -1,0 +1,42 @@
+category: games-board
+conflicts: []
+name: mt_gtk_client
+requires:
+- 
+  category: dev-games
+  name: libmaitretarot
+  
+  version: ""
+- 
+  category: dev-games
+  name: libmt_client
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libgnomeui
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-games
+  name: cardpics
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- gnome
+version: 0.1.98-r1

@@ -1,0 +1,22 @@
+category: media-gfx
+conflicts: []
+name: icon-slicer
+requires:
+- 
+  category: x11-apps
+  name: xcursorgen
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: popt
+  
+  version: ""
+use_flags:
+- ""
+version: "0.3"

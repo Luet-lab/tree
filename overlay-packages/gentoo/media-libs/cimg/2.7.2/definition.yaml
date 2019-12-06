@@ -1,0 +1,6 @@
+category: media-libs
+name: cimg
+use_flags:
+- doc
+- examples
+version: 2.7.2

@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-accountsd
+requires:
+- 
+  category: sec-policy
+  name: selinux-dbus
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20190201-r1

@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: hyphen
+requires:
+- 
+  category: app-text
+  name: hunspell
+  
+  version: ""
+use_flags:
+- static-libs
+version: 2.8.8-r1

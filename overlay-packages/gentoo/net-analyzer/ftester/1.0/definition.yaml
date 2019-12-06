@@ -1,0 +1,30 @@
+category: net-analyzer
+conflicts: []
+name: ftester
+requires:
+- 
+  category: dev-perl
+  name: List-MoreUtils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-Pcap
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-PcapUtils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-RawIP
+  
+  version: ""
+- 
+  category: dev-perl
+  name: NetPacket
+  
+  version: ""
+version: "1.0"

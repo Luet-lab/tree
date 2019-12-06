@@ -1,0 +1,8 @@
+category: app-doc
+conflicts: []
+name: linuxfromscratch
+requires: []
+use_flags:
+- htmlsingle
+- pdf
+version: "8.2"

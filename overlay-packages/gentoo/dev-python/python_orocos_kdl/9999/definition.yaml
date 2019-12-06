@@ -1,0 +1,17 @@
+category: dev-python
+conflicts: []
+name: python_orocos_kdl
+requires:
+- 
+  category: dev-python
+  name: sip
+  
+  version: ""
+- 
+  category: sci-libs
+  name: orocos_kdl
+  
+  version: 1.4.0
+use_flags:
+- ""
+version: "9999"

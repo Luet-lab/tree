@@ -1,0 +1,317 @@
+category: app-leechcraft
+conflicts: []
+name: leechcraft-meta
+requires:
+- 
+  category: app-leechcraft
+  name: lc-eleeminator
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-core
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-pogooglue
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-seekthru
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-historyholder
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-devmon
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-sysnotify
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-monocle
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-musiczombie
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-anhero
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-knowhow
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-liznoo
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-otlozhu
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-summary
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-auscrie
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-lemon
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-netstoremanager
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-scroblibre
+  
+  version: "9999"
+- 
+  category: virtual
+  name: leechcraft-trayarea
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-lastfmscrobble
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-bittorrent
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-htthare
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-intermutko
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-mellonetray
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-hotstreams
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-dbusmanager
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-glance
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-pintab
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-dolozhee
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-fenet
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-blogique
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-popishu
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-cstp
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-lackman
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-deadlyrics
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-lmp
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-touchstreams
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-azoth
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-gacts
+  
+  version: "9999"
+- 
+  category: virtual
+  name: leechcraft-notifier
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-qrosp
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-vrooby
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-poshuku
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-secman
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-sb2
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-tpi
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-nacheku
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-advancednotifications
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-newlife
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-tabslist
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-imgaste
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-launchy
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-ooronee
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-krigstask
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-networkmonitor
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-tabsessmanager
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-aggregator
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-gmailnotifier
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-xtazy
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-hotsensors
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-kbswitch
+  
+  version: "9999"
+- 
+  category: app-leechcraft
+  name: lc-laughty
+  
+  version: "9999"
+use_flags:
+- de
+version: "9999"

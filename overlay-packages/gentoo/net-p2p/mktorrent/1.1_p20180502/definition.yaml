@@ -1,0 +1,14 @@
+category: net-p2p
+conflicts: []
+name: mktorrent
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- threads
+- +ssl
+- debug
+version: 1.1_p20180502

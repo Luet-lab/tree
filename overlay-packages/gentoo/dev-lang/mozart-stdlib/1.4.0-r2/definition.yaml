@@ -1,0 +1,10 @@
+category: dev-lang
+conflicts: []
+name: mozart-stdlib
+requires:
+- 
+  category: dev-lang
+  name: mozart
+  
+  version: ""
+version: 1.4.0-r2

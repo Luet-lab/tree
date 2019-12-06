@@ -1,0 +1,17 @@
+category: dev-vcs
+conflicts: []
+name: easygit
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: 1.7.5.2
+use_flags:
+- ""
+version: 1.7.5.2

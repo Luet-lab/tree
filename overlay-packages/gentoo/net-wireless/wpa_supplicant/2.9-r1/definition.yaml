@@ -1,0 +1,99 @@
+category: net-wireless
+conflicts: []
+name: wpa_supplicant
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-wireless
+  name: crda
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.0.2k
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-networkmanager
+  
+  version: ""
+use_flags:
+- ap
+- bindist
+- dbus
+- eap-sim
+- eapol_test
+- fasteap
+- +fils
+- +hs2-0
+- libressl
+- macsec
+- p2p
+- privsep
+- ps3
+- qt5
+- readline
+- selinux
+- smartcard
+- tdls
+- uncommon-eap-types
+- wimax
+- wps
+- kernel_linux
+- kernel_FreeBSD
+version: 2.9-r1

@@ -1,0 +1,35 @@
+category: net-mail
+conflicts: []
+name: isync
+requires:
+- 
+  category: sys-libs
+  name: db
+  
+  version: "4.2"
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 0.9.6
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- libressl
+- sasl
+- ssl
+- zlib
+version: 1.3.1

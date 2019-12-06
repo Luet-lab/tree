@@ -1,0 +1,113 @@
+category: media-gfx
+conflicts: []
+name: gmic
+requires:
+- 
+  category: media-libs
+  name: ilmbase
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: opencv
+  
+  version: 2.3.1a-r1
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: media-gfx
+  name: gimp
+  
+  version: 2.8.0
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.2.0
+- 
+  category: media-gfx
+  name: graphicsmagick
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.2.0
+- 
+  category: media-libs
+  name: openexr
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.2.0
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.2.0
+use_flags:
+- +cli
+- curl
+- ffmpeg
+- fftw
+- gimp
+- graphicsmagick
+- jpeg
+- krita
+- opencv
+- openexr
+- openmp
+- png
+- qt5
+- static-libs
+- tiff
+- X
+- zlib
+version: 2.7.1

@@ -1,0 +1,7 @@
+category: app-i18n
+conflicts: []
+name: unicode-data
+requires: []
+use_flags:
+- ""
+version: 12.1.0

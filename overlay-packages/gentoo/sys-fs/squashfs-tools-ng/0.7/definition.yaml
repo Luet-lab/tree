@@ -1,0 +1,42 @@
+category: sys-fs
+conflicts: []
+name: squashfs-tools-ng
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: app-arch
+  name: zstd
+  
+  version: ""
+use_flags:
+- lz4
+- lzo
+- selinux
+- +tools
+- +xz
+- zstd
+version: "0.7"

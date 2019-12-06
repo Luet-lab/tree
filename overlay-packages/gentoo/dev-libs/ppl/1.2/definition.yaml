@@ -1,0 +1,22 @@
+category: dev-libs
+conflicts: []
+name: ppl
+requires:
+- 
+  category: sci-mathematics
+  name: glpk
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: "6"
+use_flags:
+- +cxx
+- doc
+- lpsol
+- pch
+- static-libs
+- test
+version: "1.2"

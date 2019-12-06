@@ -1,0 +1,19 @@
+category: dev-libs
+conflicts: []
+name: kreport
+requires:
+- 
+  category: dev-qt
+  name: qtwebkit
+  
+  version: 5.212.0_pre20180120
+- 
+  category: dev-libs
+  name: kproperty
+  
+  version: 3.1.0
+use_flags:
+- marble
+- +scripting
+- webkit
+version: 3.2.0

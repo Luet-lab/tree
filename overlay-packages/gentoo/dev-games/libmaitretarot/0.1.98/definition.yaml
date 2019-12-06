@@ -1,0 +1,17 @@
+category: dev-games
+conflicts: []
+name: libmaitretarot
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.98

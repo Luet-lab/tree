@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: ibus-table-latin
+requires:
+- 
+  category: app-i18n
+  name: ibus-table
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.0.20100305

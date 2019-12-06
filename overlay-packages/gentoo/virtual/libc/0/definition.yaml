@@ -1,0 +1,20 @@
+category: virtual
+conflicts: []
+name: libc
+requires:
+- 
+  category: sys-libs
+  name: musl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: uclibc-ng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+version: "0"

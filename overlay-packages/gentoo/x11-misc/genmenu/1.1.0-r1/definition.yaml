@@ -1,0 +1,12 @@
+category: x11-misc
+conflicts: []
+name: genmenu
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.0-r1

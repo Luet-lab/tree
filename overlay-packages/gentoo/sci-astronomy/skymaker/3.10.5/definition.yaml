@@ -1,0 +1,12 @@
+category: sci-astronomy
+conflicts: []
+name: skymaker
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+use_flags:
+- threads
+version: 3.10.5

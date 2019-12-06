@@ -1,0 +1,41 @@
+category: net-libs
+conflicts: []
+name: aqbanking
+requires:
+- 
+  category: app-misc
+  name: ktoblzcheck
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: sys-libs
+  name: gwenhywfar
+  
+  version: 4.99.22_rc6
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: xmlsec
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libofx
+  
+  version: 0.9.5
+use_flags:
+- debug
+- doc
+- ebics
+- examples
+- ofx
+version: 5.99.44_beta

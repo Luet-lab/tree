@@ -1,0 +1,5 @@
+category: net-misc
+name: babeld
+use_flags:
+- ""
+version: 1.8.2

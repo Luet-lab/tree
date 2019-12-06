@@ -1,0 +1,7 @@
+category: app-crypt
+conflicts: []
+name: princeprocessor
+requires: []
+use_flags:
+- ""
+version: "0.22"

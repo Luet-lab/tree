@@ -1,0 +1,13 @@
+category: media-libs
+conflicts: []
+name: libdvdread
+requires:
+- 
+  category: media-libs
+  name: libdvdcss
+  
+  version: 1.3.0
+use_flags:
+- +css
+- static-libs
+version: 6.0.2

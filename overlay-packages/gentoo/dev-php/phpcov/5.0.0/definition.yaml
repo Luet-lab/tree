@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: phpcov
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: xdebug
+  
+  version: ""
+use_flags:
+- ""
+version: 5.0.0

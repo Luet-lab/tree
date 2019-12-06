@@ -1,0 +1,30 @@
+category: app-editors
+conflicts: []
+name: vis
+requires:
+- 
+  category: dev-libs
+  name: libtermkey
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: dev-libs
+  name: tre
+  
+  version: ""
+- 
+  category: app-eselect
+  name: eselect-vi
+  
+  version: ""
+use_flags:
+- +ncurses
+- selinux
+- test
+- tre
+version: "0.5"

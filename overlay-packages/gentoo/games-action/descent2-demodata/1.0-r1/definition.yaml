@@ -1,0 +1,15 @@
+category: games-action
+conflicts:
+- 
+  category: <games-action
+  name: d2x
+  
+  version: 0.2.5-r3
+- 
+  category: games-action
+  name: descent2-data
+  
+  version: ""
+name: descent2-demodata
+requires: []
+version: 1.0-r1

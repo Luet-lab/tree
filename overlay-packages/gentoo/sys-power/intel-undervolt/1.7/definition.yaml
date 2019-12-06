@@ -1,0 +1,12 @@
+category: sys-power
+conflicts: []
+name: intel-undervolt
+requires:
+- 
+  category: sys-auth
+  name: elogind
+  
+  version: ""
+use_flags:
+- elogind
+version: "1.7"

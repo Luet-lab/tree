@@ -1,0 +1,10 @@
+category: app-doc
+conflicts:
+- 
+  category: app-doc
+  name: edox-data
+  
+  version: ""
+name: e16-docs
+requires: []
+version: 0.16.8.0.2

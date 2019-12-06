@@ -1,0 +1,47 @@
+category: app-backup
+conflicts: []
+name: hdup
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: app-arch
+  name: gzip
+  
+  version: ""
+- 
+  category: app-arch
+  name: tar
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.0"
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: findutils
+  
+  version: ""
+- 
+  category: app-crypt
+  name: mcrypt
+  
+  version: ""
+use_flags:
+- crypt
+version: 2.0.14

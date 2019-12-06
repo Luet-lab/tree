@@ -1,0 +1,12 @@
+category: sys-fs
+conflicts: []
+name: unionfs-fuse
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

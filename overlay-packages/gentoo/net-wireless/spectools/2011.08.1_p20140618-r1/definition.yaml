@@ -1,0 +1,24 @@
+category: net-wireless
+conflicts: []
+name: spectools
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- debug
+- +ncurses
+- +gtk
+version: 2011.08.1_p20140618-r1

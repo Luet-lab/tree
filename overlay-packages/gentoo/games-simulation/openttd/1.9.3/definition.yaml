@@ -1,0 +1,68 @@
+category: games-simulation
+conflicts: []
+name: openttd
+requires:
+- 
+  category: media-libs
+  name: libsdl[sound,X,video]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: "58.1"
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu-layoutex
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu-le-hb
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- aplaymidi
+- debug
+- dedicated
+- iconv
+- icu
+- lzo
+- +openmedia
+- +png
+- cpu_flags_x86_sse
+- +timidity
+- +truetype
+- zlib
+version: 1.9.3

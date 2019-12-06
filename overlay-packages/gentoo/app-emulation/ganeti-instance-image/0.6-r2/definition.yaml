@@ -1,0 +1,37 @@
+category: app-emulation
+conflicts: []
+name: ganeti-instance-image
+requires:
+- 
+  category: app-arch
+  name: dump
+  
+  version: ""
+- 
+  category: app-emulation
+  name: ganeti
+  
+  version: 2.15.2-r7
+- 
+  category: app-emulation
+  name: qemu
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-fs
+  name: multipath-tools
+  
+  version: ""
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: ""
+use_flags:
+- ""
+version: 0.6-r2

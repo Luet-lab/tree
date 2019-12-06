@@ -1,0 +1,22 @@
+category: media-sound
+conflicts: []
+name: aseqview
+requires:
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: 0.9.0
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.8

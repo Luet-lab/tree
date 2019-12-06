@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: sebastian-recursion-context
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.6"
+use_flags:
+- ""
+version: 2.0.0

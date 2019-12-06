@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: doctrine-instantiator
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.6"
+use_flags:
+- ""
+version: 1.0.5

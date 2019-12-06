@@ -1,0 +1,17 @@
+category: sys-boot
+conflicts: []
+name: plymouth-openrc-plugin
+requires:
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: ""
+- 
+  category: sys-boot
+  name: plymouth
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.2-r1

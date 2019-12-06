@@ -1,0 +1,12 @@
+category: media-video
+conflicts:
+- 
+  category: sci-biology
+  name: ncbi-tools++
+  
+  version: ""
+name: subcheck
+requires: []
+use_flags:
+- ""
+version: 0.78.2-r1

@@ -1,0 +1,29 @@
+category: app-text
+conflicts: []
+name: pdfgrep
+requires:
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: app-text
+  name: unac
+  
+  version: ""
+use_flags:
+- +pcre
+- test
+- unac
+version: 2.1.2

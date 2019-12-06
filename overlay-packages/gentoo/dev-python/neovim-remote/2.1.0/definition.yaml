@@ -1,0 +1,22 @@
+category: dev-python
+conflicts: []
+name: neovim-remote
+requires:
+- 
+  category: dev-python
+  name: neovim-python-client
+  
+  version: ""
+- 
+  category: dev-python
+  name: psutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+use_flags:
+- test
+version: 2.1.0

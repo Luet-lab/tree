@@ -1,0 +1,13 @@
+category: net-dns
+conflicts: []
+name: s6-dns
+requires:
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.7.0.0
+use_flags:
+- static
+- static-libs
+version: 2.3.0.1

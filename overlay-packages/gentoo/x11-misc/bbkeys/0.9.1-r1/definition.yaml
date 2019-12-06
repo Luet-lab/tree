@@ -1,0 +1,12 @@
+category: x11-misc
+conflicts: []
+name: bbkeys
+requires:
+- 
+  category: x11-wm
+  name: blackbox
+  
+  version: 0.70.0
+use_flags:
+- ""
+version: 0.9.1-r1

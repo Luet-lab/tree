@@ -1,0 +1,5 @@
+category: app-shells
+name: posh
+use_flags:
+- ""
+version: 0.13.2

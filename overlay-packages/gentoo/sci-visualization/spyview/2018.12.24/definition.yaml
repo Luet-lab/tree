@@ -1,0 +1,37 @@
+category: sci-visualization
+conflicts: []
+name: spyview
+requires:
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: 1.62.0
+- 
+  category: media-libs
+  name: netpbm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+use_flags:
+- ""
+version: 2018.12.24

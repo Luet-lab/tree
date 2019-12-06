@@ -1,0 +1,22 @@
+category: x11-drivers
+conflicts: []
+name: xf86-video-nouveau
+requires:
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libdrm-2.4.60[video_cards_nouveau]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libpciaccess
+  
+  version: "0.10"
+use_flags:
+- ""
+version: 1.0.16

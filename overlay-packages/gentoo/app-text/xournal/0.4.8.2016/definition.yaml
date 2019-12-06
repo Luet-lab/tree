@@ -1,0 +1,68 @@
+category: app-text
+conflicts: []
+name: xournal
+requires:
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libgnomecanvas
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+use_flags:
+- +pdf
+- vanilla
+version: 0.4.8.2016

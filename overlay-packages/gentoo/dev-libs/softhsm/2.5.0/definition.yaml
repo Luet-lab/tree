@@ -1,0 +1,31 @@
+category: dev-libs
+conflicts:
+- 
+  category: ~dev-libs
+  name: softhsm
+  
+  version: 2.0.0
+name: softhsm
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- bindist
+- gost
+- libressl
+- migration-tool
+- test
+version: 2.5.0

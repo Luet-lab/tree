@@ -1,0 +1,74 @@
+category: dev-libs
+conflicts: []
+name: tvision
+requires:
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libbsd
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: gpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXdmcp
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- +X
+- debug
+- gpm
+version: 2.2.1.4

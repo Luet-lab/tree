@@ -1,0 +1,13 @@
+category: net-misc
+conflicts: []
+name: pedro
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- doc
+- examples
+version: "1.6"

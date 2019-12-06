@@ -1,0 +1,6 @@
+category: sci-libs
+name: libh2o
+use_flags:
+- debug
+- static-libs
+version: 0.2.1-r1

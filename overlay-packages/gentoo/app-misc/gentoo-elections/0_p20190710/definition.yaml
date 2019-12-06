@@ -1,0 +1,37 @@
+category: app-misc
+conflicts: []
+name: gentoo-elections
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Carp-Always
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Data-Dumper
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Spec
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Scalar-List-Utils
+  
+  version: ""
+use_flags:
+- ""
+version: 0_p20190710

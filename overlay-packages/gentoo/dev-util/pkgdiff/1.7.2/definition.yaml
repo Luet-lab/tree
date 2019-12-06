@@ -1,0 +1,30 @@
+category: dev-util
+conflicts: []
+name: pkgdiff
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5"
+- 
+  category: sys-apps
+  name: diffutils
+  
+  version: ""
+- 
+  category: app-text
+  name: wdiff
+  
+  version: ""
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+- 
+  category: sys-devel
+  name: binutils
+  
+  version: ""
+version: 1.7.2

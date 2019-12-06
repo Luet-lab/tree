@@ -1,0 +1,43 @@
+category: dev-libs
+conflicts: []
+name: libgit2
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-libs
+  name: http-parser
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: net-libs
+  name: libssh2
+  
+  version: ""
+use_flags:
+- examples
+- gssapi
+- libressl
+- +ssh
+- test
+- +threads
+- trace
+version: 0.28.3

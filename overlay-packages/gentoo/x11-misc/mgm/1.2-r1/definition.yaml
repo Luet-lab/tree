@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: mgm
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.6.1
+- 
+  category: dev-perl
+  name: Tk
+  
+  version: "800.024"
+use_flags:
+- ""
+version: 1.2-r1

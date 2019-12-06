@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.23"
+name: opentmpfiles
+requires: []
+use_flags:
+- ""
+version: 0.1.1

@@ -1,0 +1,22 @@
+category: dev-ml
+conflicts: []
+name: ojquery
+requires:
+- 
+  category: dev-ml
+  name: react
+  
+  version: ""
+- 
+  category: dev-ml
+  name: js_of_ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: lwt
+  
+  version: ""
+use_flags:
+- ""
+version: "0.1"

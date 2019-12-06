@@ -1,0 +1,12 @@
+category: dev-python
+conflicts: []
+name: pychroot
+requires:
+- 
+  category: dev-python
+  name: snakeoil
+  
+  version: "9999"
+use_flags:
+- test
+version: "9999"

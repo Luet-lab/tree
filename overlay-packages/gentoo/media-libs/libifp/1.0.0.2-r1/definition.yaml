@@ -1,0 +1,14 @@
+category: media-libs
+conflicts: []
+name: libifp
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- static-libs
+version: 1.0.0.2-r1

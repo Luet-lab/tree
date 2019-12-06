@@ -1,0 +1,5 @@
+category: net-mail
+name: email
+use_flags:
+- ""
+version: 3.1.3

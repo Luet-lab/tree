@@ -1,0 +1,68 @@
+category: media-plugins
+conflicts: []
+name: calf
+requires:
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: media-sound
+  name: lash
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: media-sound
+  name: fluidsynth
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: media-libs
+  name: lv2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_sse
+- experimental
+- gtk
+- jack
+- lash
+- lv2
+- static-libs
+version: 0.90.1

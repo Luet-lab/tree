@@ -1,0 +1,14 @@
+category: media-libs
+conflicts: []
+name: libxtract
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+use_flags:
+- doc
+- fftw
+- static-libs
+version: 0.6.6

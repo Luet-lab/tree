@@ -1,0 +1,14 @@
+category: x11-libs
+conflicts: []
+name: libtinynotify
+requires:
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- static-libs
+version: 0.2.1

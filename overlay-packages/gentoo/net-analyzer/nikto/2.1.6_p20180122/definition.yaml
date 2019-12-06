@@ -1,0 +1,32 @@
+category: net-analyzer
+conflicts: []
+name: nikto
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-JSON-PP
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: nmap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-SSLeay
+  
+  version: ""
+use_flags:
+- ssl
+version: 2.1.6_p20180122

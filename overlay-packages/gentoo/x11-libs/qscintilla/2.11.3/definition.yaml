@@ -1,0 +1,33 @@
+category: x11-libs
+conflicts: []
+name: qscintilla
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: designer
+  
+  version: ""
+use_flags:
+- designer
+- doc
+version: 2.11.3

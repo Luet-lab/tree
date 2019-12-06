@@ -1,0 +1,7 @@
+category: sys-firmware
+conflicts: []
+name: b43-firmware
+requires: []
+use_flags:
+- ""
+version: 5.100.138

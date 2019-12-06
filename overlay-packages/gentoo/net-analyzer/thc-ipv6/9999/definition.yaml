@@ -1,0 +1,22 @@
+category: net-analyzer
+conflicts: []
+name: thc-ipv6
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnetfilter_queue
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- ssl
+version: "9999"

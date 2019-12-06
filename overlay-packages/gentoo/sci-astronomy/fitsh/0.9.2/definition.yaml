@@ -1,0 +1,7 @@
+category: sci-astronomy
+conflicts: []
+name: fitsh
+requires: []
+use_flags:
+- ""
+version: 0.9.2

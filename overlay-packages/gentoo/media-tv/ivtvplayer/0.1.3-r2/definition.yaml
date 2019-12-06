@@ -1,0 +1,47 @@
+category: media-tv
+conflicts: []
+name: ivtvplayer
+requires:
+- 
+  category: '|| ( media-video'
+  name: mplayer
+  
+  version: ""
+- 
+  category: media-video
+  name: mplayer[dvb] )
+  
+  version: ""
+- 
+  category: media-sound
+  name: alsa-utils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Simple
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Gtk2
+  
+  version: ""
+- 
+  category: dev-perl
+  name: X-Osd
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Lirc-Client
+  
+  version: "1.50"
+- 
+  category: media-tv
+  name: v4l-utils
+  
+  version: ""
+use_flags:
+- gtk
+version: 0.1.3-r2

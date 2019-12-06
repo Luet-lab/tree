@@ -1,0 +1,12 @@
+category: sys-fs
+conflicts: []
+name: bindfs
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: "2.9"
+use_flags:
+- debug
+version: 1.14.1

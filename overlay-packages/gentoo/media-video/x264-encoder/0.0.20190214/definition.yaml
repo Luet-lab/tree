@@ -1,0 +1,39 @@
+category: media-video
+conflicts: []
+name: x264-encoder
+requires:
+- 
+  category: media-libs
+  name: x264-0.0.20190214[interlaced=,threads=]
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: media-video
+  name: libav
+  
+  version: ""
+- 
+  category: media-libs
+  name: ffmpegsource
+  
+  version: ""
+- 
+  category: media-video
+  name: gpac
+  
+  version: 0.5.2
+use_flags:
+- avs
+- custom-cflags
+- ffmpeg
+- ffmpegsource
+- +interlaced
+- libav
+- mp4
+- +threads
+version: 0.0.20190214

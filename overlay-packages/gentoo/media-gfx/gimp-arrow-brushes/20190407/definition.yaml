@@ -1,0 +1,7 @@
+category: media-gfx
+conflicts: []
+name: gimp-arrow-brushes
+requires: []
+use_flags:
+- ""
+version: "20190407"

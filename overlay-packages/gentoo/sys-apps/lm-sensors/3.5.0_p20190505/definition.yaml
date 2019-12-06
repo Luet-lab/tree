@@ -1,0 +1,29 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.36"
+name: lm-sensors
+requires:
+- 
+  category: net-analyzer
+  name: rrdtool
+  
+  version: ""
+- 
+  category: virtual
+  name: logger
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- contrib
+- sensord
+- static-libs
+version: 3.5.0_p20190505

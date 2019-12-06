@@ -1,0 +1,17 @@
+category: app-vim
+conflicts: []
+name: autoalign
+requires:
+- 
+  category: app-vim
+  name: align
+  
+  version: "30"
+- 
+  category: app-vim
+  name: cecutil
+  
+  version: "4"
+use_flags:
+- ""
+version: "14"

@@ -1,0 +1,27 @@
+category: media-sound
+conflicts: []
+name: sndfile-tools
+requires:
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: 1.0.19
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: 1.4.0
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: media-sound
+  name: jack-audio-connection-kit
+  
+  version: ""
+use_flags:
+- ""
+version: 1.03-r1

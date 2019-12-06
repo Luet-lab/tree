@@ -1,0 +1,44 @@
+category: app-mobilephone
+conflicts: []
+name: anyremote
+requires:
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: ""
+use_flags:
+- bluetooth
+- dbus
+- zeroconf
+version: "6.5"

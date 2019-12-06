@@ -1,0 +1,12 @@
+category: games-arcade
+conflicts: []
+name: lbreakout
+requires:
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: 1.1.5
+use_flags:
+- ""
+version: 010315-r1

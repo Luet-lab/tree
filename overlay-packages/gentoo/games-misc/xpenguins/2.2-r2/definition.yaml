@@ -1,0 +1,12 @@
+category: games-misc
+conflicts: []
+name: xpenguins
+requires:
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2-r2

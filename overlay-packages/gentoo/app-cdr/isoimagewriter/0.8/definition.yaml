@@ -1,0 +1,42 @@
+category: app-cdr
+conflicts: []
+name: isoimagewriter
+requires:
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kauth
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+use_flags:
+- ""
+version: "0.8"

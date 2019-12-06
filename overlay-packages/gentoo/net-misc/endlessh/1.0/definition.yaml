@@ -1,0 +1,7 @@
+category: net-misc
+conflicts: []
+name: endlessh
+requires: []
+use_flags:
+- ""
+version: "1.0"

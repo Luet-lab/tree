@@ -1,0 +1,17 @@
+category: dev-ada
+conflicts: []
+name: gnat-suite-bin
+requires:
+- 
+  category: sys-devel
+  name: binutils
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gdb
+  
+  version: ""
+use_flags:
+- ""
+version: "2014"

@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: joy2key
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xwininfo
+  
+  version: ""
+use_flags:
+- X
+version: 1.6.3-r1

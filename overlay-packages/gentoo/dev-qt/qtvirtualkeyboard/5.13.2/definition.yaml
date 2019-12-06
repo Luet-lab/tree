@@ -1,0 +1,39 @@
+category: dev-qt
+conflicts: []
+name: qtvirtualkeyboard
+requires:
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: 5.13.2
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.13.2
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: 5.13.2
+- 
+  category: app-text
+  name: hunspell
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.13.2
+use_flags:
+- handwriting
+- +spell
+- +xcb
+version: 5.13.2

@@ -1,0 +1,10 @@
+category: net-wireless
+conflicts: []
+name: bladerf-fpga
+requires: []
+use_flags:
+- +xA4
+- +xA9
+- +x40
+- +x115
+version: 0.7.3

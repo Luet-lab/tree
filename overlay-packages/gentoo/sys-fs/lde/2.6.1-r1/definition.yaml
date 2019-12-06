@@ -1,0 +1,10 @@
+category: sys-fs
+conflicts: []
+name: lde
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+version: 2.6.1-r1

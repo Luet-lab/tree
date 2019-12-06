@@ -1,0 +1,20 @@
+category: dev-libs
+conflicts: []
+name: rocm-comgr
+requires:
+- 
+  category: sys-devel
+  name: llvm-roc
+  
+  version: 2.7.0
+- 
+  category: dev-libs
+  name: rocm-device-libs
+  
+  version: 2.7.0
+- 
+  category: dev-cpp
+  name: yaml-cpp
+  
+  version: ""
+version: 2.7.0

@@ -1,0 +1,22 @@
+category: sys-devel
+conflicts: []
+name: binutils
+requires:
+- 
+  category: sys-devel
+  name: binutils-config
+  
+  version: "3"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- +cxx
+- doc
+- multitarget
+- +nls
+- static-libs
+- test
+version: 2.30-r4

@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.33"
+name: init-system-helpers
+requires: []
+use_flags:
+- ""
+version: 1.49-r1

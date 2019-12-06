@@ -1,0 +1,17 @@
+category: kde-apps
+conflicts: []
+name: kde-meta
+requires:
+- 
+  category: kde-apps
+  name: kde-apps-meta
+  
+  version: 19.08.3
+- 
+  category: kde-plasma
+  name: plasma-meta
+  
+  version: ""
+use_flags:
+- ""
+version: 19.08.3

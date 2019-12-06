@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-telnet
+requires:
+- 
+  category: sec-policy
+  name: selinux-remotelogin
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

@@ -1,0 +1,47 @@
+category: app-i18n
+conflicts: []
+name: fcitx-rime
+requires:
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: app-i18n
+  name: fcitx-qt5
+  
+  version: "1.1"
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+- 
+  category: app-i18n
+  name: librime
+  
+  version: 1.0.0
+- 
+  category: app-i18n
+  name: rime-data
+  
+  version: ""
+use_flags:
+- +configuration_tool
+version: "4.9999"

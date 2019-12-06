@@ -1,0 +1,12 @@
+category: dev-ml
+conflicts: []
+name: ocaml-magic-mime
+requires:
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.0

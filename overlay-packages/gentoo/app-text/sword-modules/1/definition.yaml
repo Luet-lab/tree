@@ -1,0 +1,757 @@
+category: app-text
+conflicts: []
+name: sword-modules
+requires:
+- 
+  category: app-dicts
+  name: sword-abs_essay_goodsam_swb
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-afr1953
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hebrewgreek
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-romcor
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rwebster
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-sme
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-strongshebrew
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-bbe
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-esperanto
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-frelsg
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-jps
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-personal
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-ukrainian
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-alb
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-drc
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tcr
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-weymouth
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tsk
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-asv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-bulcarigradnt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-gerelb1905
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hunuj
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-klven_iklingon
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-korean
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tr
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-vulgate
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-wycliffe
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-amtract
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-montgomery
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-ukjv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-uma
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-webstersdict
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-abbott
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hitchcock
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-icelandic
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-pnt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tdavid
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-acv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-br_en
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-byz
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-kekchi
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-pilgrim
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-sparvg2004
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-chincvt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-dutkant
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-finpr
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-itadio
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-torrey
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-czekms
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-josephus
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-kjvd
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-litv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-arasvd
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-czebkr
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-mhc
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-bwe
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-kjv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-strongsgreek
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-whnu
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-wulfila
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-barnes
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-czenkb
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-finney
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-mak
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-nave
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-robinson
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tyndale
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rkjnt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-ab
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-dan
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-gerlut1545
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-heretics
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-isbe
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-klv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-klviklingon_en
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-vulgate_hebps
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-chiuns
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-lightfoot
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-ylt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hnv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-spasev
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-common
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-greekhebrew
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hunkar
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-isv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-luther
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-mhcc
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-peshitta
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-swahili
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-chincvs
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-cro
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-dtn
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-geneva1599
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-jfb
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-packard
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rst
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-smith
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-umgreek
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-chiun
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-gersch
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-latvian
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rotherham
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-scotsgaelic
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tfg
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-akjv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-practice
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-wesley
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-manxgaelic
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-mkjv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-spurious
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-darby
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-diaglott
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-est
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rusmakarij
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-xhosa
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-clarke
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-easton
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-finbiblia
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-norsk
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-orthodoxy
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rwp
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-sparv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-cbc
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-aleppo
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-czecep
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-spavnt
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tisch
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-web
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-daily
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-dutsvv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-jst
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-murdock
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-scofield
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-frecrl
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-hebmodern
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-institutes
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-la_en
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-maori
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-itarive
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-jubilee2000
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-saoa
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-chamorro
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-farsiopv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-gerelb1871
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-tagalog
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-webster
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-bulveren
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-rnkjv
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-twenty
+  
+  version: ""
+- 
+  category: app-dicts
+  name: sword-wlc
+  
+  version: ""
+use_flags:
+- ""
+version: "1"

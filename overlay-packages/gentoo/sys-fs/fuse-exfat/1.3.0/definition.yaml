@@ -1,0 +1,12 @@
+category: sys-fs
+conflicts: []
+name: fuse-exfat
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+use_flags:
+- suid
+version: 1.3.0

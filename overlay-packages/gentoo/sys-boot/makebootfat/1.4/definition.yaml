@@ -1,0 +1,12 @@
+category: sys-boot
+conflicts: []
+name: makebootfat
+requires:
+- 
+  category: sys-boot
+  name: syslinux
+  
+  version: ""
+use_flags:
+- ""
+version: "1.4"

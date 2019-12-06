@@ -1,0 +1,45 @@
+category: app-admin
+conflicts: []
+name: profile-cleaner
+requires:
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: sys-process
+  name: parallel
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-devel
+  name: bc
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: findutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: grep
+  
+  version: ""
+version: "2.36"

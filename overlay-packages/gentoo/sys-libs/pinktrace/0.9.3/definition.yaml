@@ -1,0 +1,5 @@
+category: sys-libs
+name: pinktrace
+use_flags:
+- ipv6
+version: 0.9.3

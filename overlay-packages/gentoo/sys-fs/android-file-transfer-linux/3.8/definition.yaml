@@ -1,0 +1,38 @@
+category: sys-fs
+conflicts: []
+name: android-file-transfer-linux
+requires:
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+use_flags:
+- fuse
+- qt5
+version: "3.8"

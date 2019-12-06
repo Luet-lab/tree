@@ -1,0 +1,5 @@
+category: sys-libs
+name: db
+use_flags:
+- doc
+version: 3.2.9_p2-r1

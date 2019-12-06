@@ -1,0 +1,14 @@
+category: net-libs
+conflicts: []
+name: libbtbb
+requires:
+- 
+  category: net-analyzer
+  name: wireshark
+  
+  version: 1.8.3-r1
+use_flags:
+- extras
+- static-libs
+- wireshark-plugins
+version: 2018.12.1

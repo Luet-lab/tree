@@ -1,0 +1,5 @@
+category: x11-misc
+name: bblaunch
+use_flags:
+- ""
+version: 0.0.3

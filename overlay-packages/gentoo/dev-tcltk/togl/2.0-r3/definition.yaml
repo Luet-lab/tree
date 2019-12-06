@@ -1,0 +1,23 @@
+category: dev-tcltk
+conflicts: []
+name: togl
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+use_flags:
+- debug
+- +threads
+version: 2.0-r3

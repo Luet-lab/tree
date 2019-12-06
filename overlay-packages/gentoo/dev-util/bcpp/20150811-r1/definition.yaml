@@ -1,0 +1,5 @@
+category: dev-util
+name: bcpp
+use_flags:
+- ""
+version: 20150811-r1

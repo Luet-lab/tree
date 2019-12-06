@@ -1,0 +1,12 @@
+category: dev-vcs
+conflicts: []
+name: gti
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

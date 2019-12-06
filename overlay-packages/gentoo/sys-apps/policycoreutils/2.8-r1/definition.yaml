@@ -1,0 +1,84 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.14"
+- 
+  category: <sec-policy
+  name: selinux-base-policy
+  
+  version: 2.20151208-r6
+name: policycoreutils
+requires:
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.8"
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: 1.10-r10
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.8"
+- 
+  category: dev-python
+  name: ipy
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libsemanage
+  
+  version: "2.8"
+- 
+  category: sys-libs
+  name: libcap-ng
+  
+  version: ""
+- 
+  category: app-admin
+  name: setools
+  
+  version: 4.2.0
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: sys-process
+  name: audit
+  
+  version: 1.5.1
+- 
+  category: app-misc
+  name: pax-utils
+  
+  version: ""
+use_flags:
+- audit
+- pam
+- dbus
+version: 2.8-r1

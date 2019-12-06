@@ -1,0 +1,5 @@
+category: sys-libs
+name: musl
+use_flags:
+- headers-only
+version: "9999"

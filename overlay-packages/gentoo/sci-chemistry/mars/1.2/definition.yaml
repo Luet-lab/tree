@@ -1,0 +1,12 @@
+category: sci-chemistry
+conflicts: []
+name: mars
+requires:
+- 
+  category: sci-biology
+  name: psipred
+  
+  version: ""
+use_flags:
+- examples
+version: "1.2"

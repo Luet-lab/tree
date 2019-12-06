@@ -1,0 +1,95 @@
+category: app-i18n
+conflicts: []
+name: mozc
+requires:
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: virtual
+  name: emacs
+  
+  version: ""
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: app-i18n
+  name: tegaki-zinnia-japanese
+  
+  version: ""
+- 
+  category: app-i18n
+  name: zinnia-tomoe
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf
+  
+  version: 3.0.0
+- 
+  category: app-i18n
+  name: zinnia
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: app-i18n
+  name: ibus
+  
+  version: 1.4.1
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+use_flags:
+- debug
+- emacs
+- fcitx4
+- +gui
+- +handwriting-tegaki
+- handwriting-tomoe
+- ibus
+- renderer
+- test
+version: "9999"

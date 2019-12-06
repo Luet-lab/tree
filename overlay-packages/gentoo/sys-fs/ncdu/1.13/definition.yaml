@@ -1,0 +1,10 @@
+category: sys-fs
+conflicts: []
+name: ncdu
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+version: "1.13"

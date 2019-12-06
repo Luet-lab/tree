@@ -1,0 +1,22 @@
+category: media-libs
+conflicts: []
+name: partio
+requires:
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+use_flags:
+- doc
+version: 1.5.4

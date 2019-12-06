@@ -1,0 +1,12 @@
+category: media-libs
+conflicts:
+- 
+  category: =media-libs
+  name: libquvi-scripts-0.4*
+  
+  version: ""
+name: libquvi-scripts
+requires: []
+use_flags:
+- offensive
+version: 0.4.21-r1

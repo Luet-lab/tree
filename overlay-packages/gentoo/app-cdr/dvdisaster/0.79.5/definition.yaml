@@ -1,0 +1,34 @@
+category: app-cdr
+conflicts: []
+name: dvdisaster
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.32"
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.6"
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+use_flags:
+- debug
+- nls
+- l10n_cs
+- l10n_de
+- l10n_it
+- l10n_pt-BR
+- l10n_ru
+- l10n_sv
+version: 0.79.5

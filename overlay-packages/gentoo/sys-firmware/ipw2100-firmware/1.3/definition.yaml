@@ -1,0 +1,5 @@
+category: sys-firmware
+name: ipw2100-firmware
+use_flags:
+- ""
+version: "1.3"

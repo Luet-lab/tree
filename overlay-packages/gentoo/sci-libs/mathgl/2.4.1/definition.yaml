@@ -1,0 +1,127 @@
+category: sci-libs
+conflicts: []
+name: mathgl
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5-1.8[mpi=]
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: "5.1"
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: sys-cluster
+  name: openmpi
+  
+  version: ""
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf
+  
+  version: ""
+- 
+  category: media-libs
+  name: libharu
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: ""
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: "2"
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: x11-libs
+  name: wxGTK
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: sci-mathematics
+  name: octave
+  
+  version: 3.4.0
+use_flags:
+- doc
+- fltk
+- gif
+- glut
+- gsl
+- hdf
+- hdf5
+- jpeg
+- lua
+- mpi
+- octave
+- opengl
+- openmp
+- "pdf\n\tpng"
+- python
+- qt5
+- static-libs
+- threads
+- wxwidgets
+- zlib
+- l10n_ru
+version: 2.4.1

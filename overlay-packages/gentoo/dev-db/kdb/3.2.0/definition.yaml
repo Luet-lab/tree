@@ -1,0 +1,30 @@
+category: dev-db
+conflicts: []
+name: kdb
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: ""
+use_flags:
+- debug
+- mysql
+- postgres
+- sqlite
+version: 3.2.0

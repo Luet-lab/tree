@@ -1,0 +1,10 @@
+category: app-admin
+conflicts: []
+name: petrovich
+requires:
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+version: 1.0.0-r1

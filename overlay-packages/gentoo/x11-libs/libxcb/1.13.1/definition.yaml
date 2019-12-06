@@ -1,0 +1,25 @@
+category: x11-libs
+conflicts: []
+name: libxcb
+requires:
+- 
+  category: x11-libs
+  name: libXdmcp
+  
+  version: 1.1.1-r1
+- 
+  category: dev-libs
+  name: libpthread-stubs
+  
+  version: 0.3-r1
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: 1.0.7-r1
+use_flags:
+- doc
+- selinux
+- test
+- xkb
+version: 1.13.1

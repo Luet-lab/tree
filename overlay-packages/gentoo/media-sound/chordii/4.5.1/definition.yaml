@@ -1,0 +1,6 @@
+category: media-sound
+name: chordii
+use_flags:
+- doc
+- examples
+version: 4.5.1

@@ -1,0 +1,22 @@
+category: app-text
+conflicts: []
+name: dbacl
+requires:
+- 
+  category: sys-libs
+  name: slang
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- interactive
+version: 1.14.1

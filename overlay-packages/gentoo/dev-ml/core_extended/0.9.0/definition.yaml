@@ -1,0 +1,72 @@
+category: dev-ml
+conflicts: []
+name: core_extended
+requires:
+- 
+  category: dev-ml
+  name: re2
+  
+  version: ""
+- 
+  category: dev-ml
+  name: sexplib
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: "100"
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core_kernel
+  
+  version: ""
+- 
+  category: dev-ml
+  name: fieldslib
+  
+  version: ""
+- 
+  category: dev-ml
+  name: textutils
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: "100"
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: bin-prot
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

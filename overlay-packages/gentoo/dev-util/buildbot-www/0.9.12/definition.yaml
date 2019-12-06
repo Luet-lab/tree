@@ -1,0 +1,7 @@
+category: dev-util
+conflicts: []
+name: buildbot-www
+requires: []
+use_flags:
+- test
+version: 0.9.12

@@ -1,0 +1,20 @@
+category: net-misc
+conflicts: []
+name: sgopherd
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: sys-apps
+  name: xinetd
+  
+  version: ""
+version: "18.08"

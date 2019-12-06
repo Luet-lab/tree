@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-uucp
+requires:
+- 
+  category: sec-policy
+  name: selinux-inetd
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180701-r2

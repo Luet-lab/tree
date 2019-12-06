@@ -1,0 +1,7 @@
+category: app-misc
+conflicts: []
+name: binwalk
+requires: []
+use_flags:
+- test
+version: 2.2.0

@@ -1,0 +1,30 @@
+category: media-gfx
+conflicts: []
+name: album
+requires:
+- 
+  category: media-gfx
+  name: jhead
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: virtual
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- doc
+- ffmpeg
+- plugins
+- themes
+version: 4.13-r1

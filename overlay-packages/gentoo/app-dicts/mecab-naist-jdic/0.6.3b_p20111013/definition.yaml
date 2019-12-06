@@ -1,0 +1,5 @@
+category: app-dicts
+name: mecab-naist-jdic
+use_flags:
+- unicode
+version: 0.6.3b_p20111013

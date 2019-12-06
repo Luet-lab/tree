@@ -1,0 +1,48 @@
+category: dev-vcs
+conflicts:
+- 
+  category: app-vim
+  name: gitolite-syntax
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: gitolite-gentoo
+  
+  version: ""
+name: gitolite
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Path
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Temp
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: 1.6.6
+- 
+  category: sec-policy
+  name: selinux-gitosis
+  
+  version: ""
+- 
+  category: dev-perl
+  name: JSON
+  
+  version: ""
+use_flags:
+- selinux
+- tools
+version: 3.6.11

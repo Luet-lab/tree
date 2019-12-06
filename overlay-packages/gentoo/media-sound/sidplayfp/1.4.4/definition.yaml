@@ -1,0 +1,24 @@
+category: media-sound
+conflicts: []
+name: sidplayfp
+requires:
+- 
+  category: media-libs
+  name: libsidplayfp
+  
+  version: 1.8.0
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+use_flags:
+- +alsa
+- oss
+- pulseaudio
+version: 1.4.4

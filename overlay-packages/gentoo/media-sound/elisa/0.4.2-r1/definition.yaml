@@ -1,0 +1,14 @@
+category: media-sound
+conflicts: []
+name: elisa
+requires:
+- 
+  category: media-video
+  name: vlc
+  
+  version: ""
+use_flags:
+- mpris
+- semantic-desktop
+- vlc
+version: 0.4.2-r1

@@ -1,0 +1,27 @@
+category: www-apps
+conflicts: []
+name: blohg-tumblelog
+requires:
+- 
+  category: www-apps
+  name: blohg
+  
+  version: "0.12"
+- 
+  category: dev-python
+  name: pygments
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyoembed
+  
+  version: ""
+- 
+  category: dev-python
+  name: beautifulsoup
+  
+  version: ""
+use_flags:
+- ""
+version: "0.2"

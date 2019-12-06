@@ -1,0 +1,14 @@
+category: media-libs
+conflicts: []
+name: jbig2dec
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- png
+- static-libs
+- test
+version: "0.14"

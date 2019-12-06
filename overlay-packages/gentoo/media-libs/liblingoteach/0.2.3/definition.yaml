@@ -1,0 +1,18 @@
+category: media-libs
+conflicts: []
+name: liblingoteach
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- debug
+- zlib
+version: 0.2.3

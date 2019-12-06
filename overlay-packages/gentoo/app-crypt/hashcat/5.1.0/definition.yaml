@@ -1,0 +1,28 @@
+category: app-crypt
+conflicts: []
+name: hashcat
+requires:
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: app-arch
+  name: lzma
+  
+  version: ""
+- 
+  category: dev-libs
+  name: xxhash
+  
+  version: ""
+- 
+  category: x11-drivers
+  name: nvidia-drivers
+  
+  version: "367.0"
+use_flags:
+- brain
+- video_cards_nvidia
+version: 5.1.0

@@ -1,0 +1,10 @@
+category: media-gfx
+conflicts: []
+name: tuxpaint-stamps
+requires:
+- 
+  category: media-gfx
+  name: tuxpaint
+  
+  version: ""
+version: 20090628-r1

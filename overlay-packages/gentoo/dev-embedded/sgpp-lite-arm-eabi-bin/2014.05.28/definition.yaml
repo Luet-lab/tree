@@ -1,0 +1,12 @@
+category: dev-embedded
+conflicts: []
+name: sgpp-lite-arm-eabi-bin
+requires:
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+use_flags:
+- doc
+version: 2014.05.28

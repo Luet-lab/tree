@@ -1,0 +1,41 @@
+category: gui-apps
+conflicts:
+- 
+  category: <=gui-wm
+  name: sway-1.0_beta2
+  
+  version: ""
+name: swaylock
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+use_flags:
+- fish-completion
+- +gdk-pixbuf
+- +man
+- +pam
+- zsh-completion
+version: "1.4"

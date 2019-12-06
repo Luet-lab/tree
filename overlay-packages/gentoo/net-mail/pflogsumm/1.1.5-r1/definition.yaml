@@ -1,0 +1,15 @@
+category: net-mail
+conflicts: []
+name: pflogsumm
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Date-Calc
+  
+  version: ""
+version: 1.1.5-r1

@@ -1,0 +1,22 @@
+category: www-misc
+conflicts: []
+name: profile-sync-daemon
+requires:
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: net-misc
+  name: rsync
+  
+  version: ""
+use_flags:
+- systemd
+version: "5.75"

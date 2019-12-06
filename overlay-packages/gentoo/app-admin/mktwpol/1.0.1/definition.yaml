@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: mktwpol
+requires:
+- 
+  category: app-admin
+  name: tripwire
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.1

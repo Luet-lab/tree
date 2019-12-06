@@ -1,0 +1,27 @@
+category: media-plugins
+conflicts: []
+name: xsynth-dssi
+requires:
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: dssi
+  
+  version: "0.9"
+- 
+  category: media-libs
+  name: liblo
+  
+  version: "0.12"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.2

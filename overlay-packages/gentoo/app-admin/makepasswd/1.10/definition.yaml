@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: makepasswd
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "1.10"

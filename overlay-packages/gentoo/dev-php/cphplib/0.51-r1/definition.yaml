@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: cphplib
+requires:
+- 
+  category: dev-php
+  name: PEAR-DB
+  
+  version: 1.7.6-r1
+use_flags:
+- doc
+version: 0.51-r1

@@ -1,0 +1,32 @@
+category: sys-apps
+conflicts: []
+name: gpet
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gconf
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+use_flags:
+- ""
+version: "0.4"

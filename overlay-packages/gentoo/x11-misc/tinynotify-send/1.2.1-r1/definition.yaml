@@ -1,0 +1,22 @@
+category: x11-misc
+conflicts: []
+name: tinynotify-send
+requires:
+- 
+  category: app-eselect
+  name: eselect-notify-send
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libtinynotify
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libtinynotify-cli
+  
+  version: 1.2.1
+use_flags:
+- ""
+version: 1.2.1-r1

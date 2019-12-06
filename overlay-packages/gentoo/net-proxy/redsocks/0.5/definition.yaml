@@ -1,0 +1,17 @@
+category: net-proxy
+conflicts: []
+name: redsocks
+requires:
+- 
+  category: net-firewall
+  name: iptables
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: ""
+use_flags:
+- doc
+version: "0.5"

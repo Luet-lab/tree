@@ -1,0 +1,37 @@
+category: dev-php
+conflicts: []
+name: PEAR-Net_DNSBL
+requires:
+- 
+  category: dev-php
+  name: PEAR-Console_Getopt
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Cache_Lite
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-HTTP_Request2
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Net_DNS
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: ""
+use_flags:
+- examples
+version: 1.3.7-r1

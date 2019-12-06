@@ -1,0 +1,7 @@
+category: sys-cluster
+conflicts: []
+name: native-mpi
+requires: []
+use_flags:
+- ""
+version: "0"

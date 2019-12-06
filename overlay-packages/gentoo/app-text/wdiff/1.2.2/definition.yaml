@@ -1,0 +1,23 @@
+category: app-text
+conflicts: []
+name: wdiff
+requires:
+- 
+  category: sys-apps
+  name: diffutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: less
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- experimental
+- test
+version: 1.2.2

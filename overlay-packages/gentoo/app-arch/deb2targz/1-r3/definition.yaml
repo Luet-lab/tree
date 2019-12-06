@@ -1,0 +1,10 @@
+category: app-arch
+conflicts: []
+name: deb2targz
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1-r3

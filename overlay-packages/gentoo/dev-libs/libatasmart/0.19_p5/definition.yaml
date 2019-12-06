@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: libatasmart
+requires:
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+use_flags:
+- static-libs
+version: 0.19_p5

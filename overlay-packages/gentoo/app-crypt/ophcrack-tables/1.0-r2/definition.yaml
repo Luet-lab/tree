@@ -1,0 +1,9 @@
+category: app-crypt
+conflicts: []
+name: ophcrack-tables
+requires: []
+use_flags:
+- +xpfast
+- xpsmall
+- +vistafree
+version: 1.0-r2

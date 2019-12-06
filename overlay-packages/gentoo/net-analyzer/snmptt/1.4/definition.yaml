@@ -1,0 +1,33 @@
+category: net-analyzer
+conflicts: []
+name: snmptt
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Config-IniFiles
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: net-snmp
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-mysql
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-Pg
+  
+  version: ""
+use_flags:
+- mysql
+- postgres
+version: "1.4"

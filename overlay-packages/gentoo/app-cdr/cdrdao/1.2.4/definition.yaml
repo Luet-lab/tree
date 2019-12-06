@@ -1,0 +1,44 @@
+category: app-cdr
+conflicts:
+- 
+  category: app-cdr
+  name: cue2toc
+  
+  version: ""
+- 
+  category: dev-util
+  name: pccts
+  
+  version: ""
+name: cdrdao
+requires:
+- 
+  category: media-sound
+  name: lame
+  
+  version: "3.99"
+- 
+  category: media-libs
+  name: libmad
+  
+  version: ""
+- 
+  category: media-libs
+  name: libao
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+use_flags:
+- encode
+- mad
+- vorbis
+version: 1.2.4

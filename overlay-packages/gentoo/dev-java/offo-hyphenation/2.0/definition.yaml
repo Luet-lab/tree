@@ -1,0 +1,7 @@
+category: dev-java
+conflicts: []
+name: offo-hyphenation
+requires: []
+use_flags:
+- doc
+version: "2.0"

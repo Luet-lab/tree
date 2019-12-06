@@ -1,0 +1,27 @@
+category: app-backup
+conflicts:
+- 
+  category: app-misc
+  name: cdcat
+  
+  version: ""
+name: cdbkup
+requires:
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+- 
+  category: virtual
+  name: eject
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0-r2

@@ -1,0 +1,5 @@
+category: sys-apps
+name: syscriptor
+use_flags:
+- ""
+version: 1.5.15

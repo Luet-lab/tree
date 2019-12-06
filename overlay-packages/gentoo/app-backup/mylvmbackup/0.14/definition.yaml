@@ -1,0 +1,32 @@
+category: app-backup
+conflicts: []
+name: mylvmbackup
+requires:
+- 
+  category: dev-perl
+  name: DBD-mysql
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TimeDate
+  
+  version: ""
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: 2.02.06
+- 
+  category: virtual
+  name: mysql
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Config-IniFiles
+  
+  version: ""
+use_flags:
+- ""
+version: "0.14"

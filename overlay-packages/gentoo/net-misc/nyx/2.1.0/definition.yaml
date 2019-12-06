@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: nyx
+requires:
+- 
+  category: net-libs
+  name: stem
+  
+  version: ""
+- 
+  category: net-vpn
+  name: tor
+  
+  version: ""
+use_flags:
+- test
+version: 2.1.0

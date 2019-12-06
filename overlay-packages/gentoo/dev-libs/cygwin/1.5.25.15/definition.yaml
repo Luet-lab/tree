@@ -1,0 +1,5 @@
+category: dev-libs
+name: cygwin
+use_flags:
+- headers-only
+version: 1.5.25.15

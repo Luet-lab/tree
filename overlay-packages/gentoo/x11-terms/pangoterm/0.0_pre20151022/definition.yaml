@@ -1,0 +1,37 @@
+category: x11-terms
+conflicts: []
+name: pangoterm
+requires:
+- 
+  category: dev-libs
+  name: libvterm
+  
+  version: 0.0_pre20151022
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+use_flags:
+- ""
+version: 0.0_pre20151022

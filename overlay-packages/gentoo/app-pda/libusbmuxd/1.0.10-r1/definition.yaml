@@ -1,0 +1,23 @@
+category: app-pda
+conflicts:
+- 
+  category: <app-pda
+  name: usbmuxd
+  
+  version: 1.0.8_p1
+name: libusbmuxd
+requires:
+- 
+  category: app-pda
+  name: libplist
+  
+  version: "1.11"
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- kernel_linux
+- static-libs
+version: 1.0.10-r1

@@ -1,0 +1,45 @@
+category: dev-qt
+conflicts:
+- 
+  category: <dev-qt
+  name: qtquickcontrols
+  
+  version: "5.7"
+name: qtdeclarative
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtgui-5.12.5[gles2=]
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qttest
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtwidgets-5.12.5[gles2=]
+  
+  version: ""
+use_flags:
+- gles2
+- +jit
+- localstorage
+- +widgets
+version: 5.12.5

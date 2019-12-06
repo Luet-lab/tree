@@ -1,0 +1,5 @@
+category: dev-lisp
+name: hyperspec
+use_flags:
+- ""
+version: 7.0-r1

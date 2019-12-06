@@ -1,0 +1,89 @@
+category: x11-terms
+conflicts: []
+name: kitty
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: harfbuzz
+  
+  version: 1.5.0
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland-protocols
+  
+  version: "1.17"
+- 
+  category: media-libs
+  name: libcanberra
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+use_flags:
+- debug
+- imagemagick
+- wayland
+version: "9999"

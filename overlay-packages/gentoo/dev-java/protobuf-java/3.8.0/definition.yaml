@@ -1,0 +1,17 @@
+category: dev-java
+conflicts:
+- 
+  category: <dev-libs
+  name: protobuf-3[java(-)]
+  
+  version: ""
+name: protobuf-java
+requires:
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.7"
+use_flags:
+- ""
+version: 3.8.0

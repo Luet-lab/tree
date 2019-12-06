@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: sshrc
+requires:
+- 
+  category: virtual
+  name: ssh
+  
+  version: ""
+- 
+  category: net-misc
+  name: mosh
+  
+  version: ""
+use_flags:
+- mosh
+version: 0.6.2

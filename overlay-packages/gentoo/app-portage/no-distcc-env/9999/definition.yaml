@@ -1,0 +1,5 @@
+category: app-portage
+name: no-distcc-env
+use_flags:
+- ""
+version: "9999"

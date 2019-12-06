@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: astrolog-ephemeris
+requires:
+- 
+  category: app-misc
+  name: astrolog
+  
+  version: ""
+use_flags:
+- ""
+version: "5.40"

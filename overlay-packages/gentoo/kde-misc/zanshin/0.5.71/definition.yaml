@@ -1,0 +1,147 @@
+category: kde-misc
+conflicts:
+- 
+  category: kde-misc
+  name: zanshin
+  
+  version: ""
+name: zanshin
+requires:
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.12.3
+- 
+  category: kde-apps
+  name: kmime
+  
+  version: 19.08.3
+- 
+  category: kde-frameworks
+  name: kitemmodels
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kjobwidgets
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: kde-apps
+  name: akonadi-calendar
+  
+  version: 19.08.3
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcontacts
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: 5.60.0
+- 
+  category: kde-apps
+  name: kontactinterface
+  
+  version: 19.08.3
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kparts
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: krunner
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kcodecs
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kitemviews
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcalendarcore
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: 5.60.0
+- 
+  category: kde-apps
+  name: kdepim-runtime
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: akonadi
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: akonadi-contacts
+  
+  version: 19.08.3
+use_flags:
+- ""
+version: 0.5.71

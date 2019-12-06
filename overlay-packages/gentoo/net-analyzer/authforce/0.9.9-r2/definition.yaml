@@ -1,0 +1,18 @@
+category: net-analyzer
+conflicts: []
+name: authforce
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- curl
+- nls
+version: 0.9.9-r2

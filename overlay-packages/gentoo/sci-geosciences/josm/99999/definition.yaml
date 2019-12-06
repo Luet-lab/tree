@@ -1,0 +1,12 @@
+category: sci-geosciences
+conflicts: []
+name: josm
+requires:
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.8"
+use_flags:
+- ""
+version: "99999"

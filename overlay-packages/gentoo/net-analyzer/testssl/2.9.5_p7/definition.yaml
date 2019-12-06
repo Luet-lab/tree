@@ -1,0 +1,48 @@
+category: net-analyzer
+conflicts: []
+name: testssl
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-process
+  name: procps
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: net-dns
+  name: bind-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+use_flags:
+- bundled-openssl
+- kerberos
+version: 2.9.5_p7

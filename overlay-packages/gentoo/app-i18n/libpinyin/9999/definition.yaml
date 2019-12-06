@@ -1,0 +1,17 @@
+category: app-i18n
+conflicts: []
+name: libpinyin
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-libs
+  name: db
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

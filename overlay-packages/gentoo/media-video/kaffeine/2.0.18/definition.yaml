@@ -1,0 +1,22 @@
+category: media-video
+conflicts: []
+name: kaffeine
+requires:
+- 
+  category: media-libs
+  name: libv4l
+  
+  version: ""
+- 
+  category: media-video
+  name: vlc[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXScrnSaver
+  
+  version: ""
+use_flags:
+- dvb
+version: 2.0.18

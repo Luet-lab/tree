@@ -1,0 +1,7 @@
+category: media-video
+conflicts: []
+name: subsync
+requires: []
+use_flags:
+- ""
+version: 0.0.1

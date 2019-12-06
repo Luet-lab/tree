@@ -1,0 +1,12 @@
+category: media-video
+conflicts: []
+name: tsmuxer
+requires:
+- 
+  category: media-libs
+  name: freetype
+  
+  version: 2.5.0.1
+use_flags:
+- ""
+version: 2.6.11-r1

@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: xystray
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

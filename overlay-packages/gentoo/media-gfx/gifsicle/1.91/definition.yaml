@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: gifsicle
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+use_flags:
+- X
+version: "1.91"

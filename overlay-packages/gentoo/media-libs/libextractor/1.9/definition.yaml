@@ -1,0 +1,159 @@
+category: media-libs
+conflicts:
+- 
+  category: sci-biology
+  name: glimmer
+  
+  version: ""
+name: libextractor
+requires:
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-libs
+  name: gstreamer
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmp4v2
+  
+  version: ""
+- 
+  category: sys-devel
+  name: libtool
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmpeg2
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: app-text
+  name: iso-codes
+  
+  version: ""
+- 
+  category: virtual
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-gfx
+  name: exiv2
+  
+  version: ""
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsmf
+  
+  version: ""
+- 
+  category: media-libs
+  name: gst-plugins-base
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: gnome-extra
+  name: libgsf
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: app-text
+  name: tidy-html5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libapparmor
+  
+  version: ""
+use_flags:
+- apparmor
+- +archive
+- +bzip2
+- ffmpeg
+- flac
+- gif
+- gsf
+- gstreamer
+- gtk
+- jpeg
+- +magic
+- midi
+- mp4
+- mpeg
+- tidy
+- tiff
+- vorbis
+- +zlib
+version: "1.9"

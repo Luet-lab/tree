@@ -1,0 +1,17 @@
+category: dev-tcltk
+conflicts: []
+name: mysqltcl
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+use_flags:
+- ""
+version: 3.052-r1

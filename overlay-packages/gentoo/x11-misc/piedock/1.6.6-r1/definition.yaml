@@ -1,0 +1,52 @@
+category: x11-misc
+conflicts: []
+name: piedock
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+use_flags:
+- gtk
+version: 1.6.6-r1

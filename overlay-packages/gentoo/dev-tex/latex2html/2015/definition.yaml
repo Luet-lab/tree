@@ -1,0 +1,38 @@
+category: dev-tex
+conflicts: []
+name: latex2html
+requires:
+- 
+  category: media-libs
+  name: netpbm
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+use_flags:
+- gif
+- png
+version: "2015"

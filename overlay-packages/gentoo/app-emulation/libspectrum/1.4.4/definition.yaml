@@ -1,0 +1,35 @@
+category: app-emulation
+conflicts: []
+name: libspectrum
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: audiofile
+  
+  version: 0.3.6
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: "1.0"
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+use_flags:
+- audiofile
+- bzip2
+- gcrypt
+- zlib
+version: 1.4.4

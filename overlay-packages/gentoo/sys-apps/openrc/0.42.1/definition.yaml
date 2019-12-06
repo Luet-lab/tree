@@ -1,0 +1,107 @@
+category: sys-apps
+conflicts:
+- 
+  category: <app-shells
+  name: gentoo-zsh-completions
+  
+  version: "20180228"
+- 
+  category: <sys-apps
+  name: baselayout
+  
+  version: 2.1-r1
+- 
+  category: sys-apps
+  name: sysvinit
+  
+  version: ""
+- 
+  category: <app-shells
+  name: gentoo-bashcomp
+  
+  version: "20180302"
+- 
+  category: <sys-process
+  name: procps
+  
+  version: 3.3.9-r2
+- 
+  category: <sys-fs
+  name: udev-init-scripts
+  
+  version: "27"
+name: openrc
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sysvinit-2.86-r6[selinux?]
+  
+  version: ""
+- 
+  category: sys-auth
+  name: pambase
+  
+  version: ""
+- 
+  category: sys-process
+  name: audit
+  
+  version: ""
+- 
+  category: sys-process
+  name: psmisc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.6"
+- 
+  category: sec-policy
+  name: selinux-base-policy
+  
+  version: 2.20170204-r4
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sys-apps
+  name: policycoreutils
+  
+  version: ""
+- 
+  category: virtual
+  name: tmpfiles
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-openrc
+  
+  version: 2.20170204-r4
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- audit
+- bash
+- debug
+- ncurses
+- pam
+- newnet
+- prefix
+- +netifrc
+- selinux
+- "static-libs\n\tsysv-utils"
+- unicode
+version: 0.42.1

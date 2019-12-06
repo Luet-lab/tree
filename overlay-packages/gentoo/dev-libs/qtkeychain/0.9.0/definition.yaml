@@ -1,0 +1,22 @@
+category: dev-libs
+conflicts: []
+name: qtkeychain
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- gnome-keyring
+version: 0.9.0

@@ -1,0 +1,17 @@
+category: x11-themes
+conflicts: []
+name: mate-icon-theme-faenza
+requires:
+- 
+  category: x11-themes
+  name: hicolor-icon-theme
+  
+  version: ""
+- 
+  category: x11-themes
+  name: mate-icon-theme
+  
+  version: ""
+use_flags:
+- minimal
+version: 1.18.1

@@ -1,0 +1,9 @@
+category: sci-biology
+conflicts: []
+name: hmmer
+requires: []
+use_flags:
+- altivec
+- test
+- threads
+version: 2.3.2-r4

@@ -1,0 +1,17 @@
+category: sys-apps
+conflicts: []
+name: help2man
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Locale-gettext
+  
+  version: ""
+use_flags:
+- nls
+version: 1.47.10

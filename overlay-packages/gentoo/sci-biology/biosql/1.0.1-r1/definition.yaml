@@ -1,0 +1,23 @@
+category: sci-biology
+conflicts: []
+name: biosql
+requires:
+- 
+  category: dev-perl
+  name: DBD-mysql
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-Pg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- mysql
+- postgres
+version: 1.0.1-r1

@@ -1,0 +1,5 @@
+category: app-portage
+name: euses
+use_flags:
+- ""
+version: 2.5.9

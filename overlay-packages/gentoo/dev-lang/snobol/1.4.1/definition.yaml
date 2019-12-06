@@ -1,0 +1,5 @@
+category: dev-lang
+name: snobol
+use_flags:
+- doc
+version: 1.4.1

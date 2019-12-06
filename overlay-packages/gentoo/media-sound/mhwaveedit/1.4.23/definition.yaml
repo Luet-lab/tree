@@ -1,0 +1,66 @@
+category: media-sound
+conflicts: []
+name: mhwaveedit
+requires:
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-sound
+  name: jack-audio-connection-kit
+  
+  version: "0.98"
+- 
+  category: media-libs
+  name: libsamplerate
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: 1.0.10
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: 1.2.3
+- 
+  category: media-libs
+  name: ladspa-sdk
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: 0.9.10
+- 
+  category: media-sound
+  name: sox
+  
+  version: ""
+use_flags:
+- alsa
+- jack
+- ladspa
+- libsamplerate
+- nls
+- oss
+- pulseaudio
+- sdl
+- sndfile
+- sox
+version: 1.4.23

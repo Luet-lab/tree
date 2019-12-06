@@ -1,0 +1,13 @@
+category: app-doc
+name: php-docs
+use_flags:
+- +l10n_en
+- l10n_de
+- l10n_es
+- l10n_fr
+- l10n_ja
+- l10n_pl
+- l10n_pt-BR
+- l10n_ro
+- l10n_tr
+version: "20190203"

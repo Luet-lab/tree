@@ -1,0 +1,12 @@
+category: dev-embedded
+conflicts: []
+name: sgpp-lite-arm-linux-bin
+requires:
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+use_flags:
+- doc
+version: 2010.09.50

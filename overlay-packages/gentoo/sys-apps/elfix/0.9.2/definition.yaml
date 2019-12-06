@@ -1,0 +1,23 @@
+category: sys-apps
+conflicts: []
+name: elfix
+requires:
+- 
+  category: dev-python
+  name: pypax-0.9.2[ptpax=,xtpax=]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+use_flags:
+- +ptpax
+- +xtpax
+version: 0.9.2

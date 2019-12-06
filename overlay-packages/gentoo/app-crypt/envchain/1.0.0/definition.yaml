@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: envchain
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: app-crypt
+  name: libsecret
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.0

@@ -1,0 +1,19 @@
+category: sys-apps
+conflicts: []
+name: sydbox
+requires:
+- 
+  category: sys-libs
+  name: pinktrace
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libunwind
+  
+  version: ""
+use_flags:
+- debug
+- seccomp
+- test
+version: 1.0.7

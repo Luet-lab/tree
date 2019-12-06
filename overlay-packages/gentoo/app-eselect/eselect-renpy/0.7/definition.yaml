@@ -1,0 +1,15 @@
+category: app-eselect
+conflicts:
+- 
+  category: <games-engines
+  name: renpy
+  
+  version: 6.99.12-r2
+name: eselect-renpy
+requires:
+- 
+  category: app-eselect
+  name: eselect-lib-bin-symlink
+  
+  version: ""
+version: "0.7"

@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: icewm-extra-themes
+requires:
+- 
+  category: x11-wm
+  name: icewm
+  
+  version: ""
+use_flags:
+- ""
+version: "1.1"

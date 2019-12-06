@@ -1,0 +1,7 @@
+category: sys-firmware
+conflicts: []
+name: b43legacy-firmware
+requires: []
+use_flags:
+- ""
+version: 3.130.20.0

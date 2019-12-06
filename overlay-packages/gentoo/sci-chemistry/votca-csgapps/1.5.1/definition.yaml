@@ -1,0 +1,17 @@
+category: sci-chemistry
+conflicts: []
+name: votca-csgapps
+requires:
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: "3.3"
+- 
+  category: sci-chemistry
+  name: votca-csg
+  
+  version: 1.5.1
+use_flags:
+- ""
+version: 1.5.1

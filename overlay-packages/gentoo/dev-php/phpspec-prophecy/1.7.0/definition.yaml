@@ -1,0 +1,37 @@
+category: dev-php
+conflicts: []
+name: phpspec-prophecy
+requires:
+- 
+  category: dev-php
+  name: sebastian-recursion-context
+  
+  version: "4"
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.6"
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-php
+  name: doctrine-instantiator
+  
+  version: "2"
+- 
+  category: dev-php
+  name: phpdocumentor-reflection-docblock
+  
+  version: "4"
+- 
+  category: dev-php
+  name: sebastian-comparator
+  
+  version: "3"
+use_flags:
+- ""
+version: 1.7.0

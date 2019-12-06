@@ -1,0 +1,7 @@
+category: dev-lang
+conflicts: []
+name: duktape
+requires: []
+use_flags:
+- ""
+version: 2.4.0

@@ -1,0 +1,50 @@
+category: app-admin
+conflicts: []
+name: needrestart
+requires:
+- 
+  category: dev-perl
+  name: Sort-Naturally
+  
+  version: ""
+- 
+  category: sys-apps
+  name: init-system-helpers
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: libintl-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Proc-ProcessTable
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: 4.2.2
+- 
+  category: dev-perl
+  name: Module-Find
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Module-ScanDeps
+  
+  version: ""
+version: "3.2"

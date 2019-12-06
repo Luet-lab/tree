@@ -1,0 +1,34 @@
+category: sys-fs
+conflicts: []
+name: ext4magic
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: sys-apps
+  name: file
+  
+  version: "5.04"
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: 1.41.9
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+- +expert-mode
+- file-attr
+version: 0.3.2-r1

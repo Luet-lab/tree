@@ -1,0 +1,47 @@
+category: x11-drivers
+conflicts: []
+name: xf86-input-wacom
+requires:
+- 
+  category: dev-libs
+  name: libwacom
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: "1.7"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+use_flags:
+- debug
+version: 0.36.0-r2

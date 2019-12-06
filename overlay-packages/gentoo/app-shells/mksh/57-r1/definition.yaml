@@ -1,0 +1,13 @@
+category: app-shells
+conflicts: []
+name: mksh
+requires:
+- 
+  category: dev-libs
+  name: klibc
+  
+  version: ""
+use_flags:
+- static
+- test
+version: 57-r1

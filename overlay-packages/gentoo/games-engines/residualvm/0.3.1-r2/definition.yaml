@@ -1,0 +1,76 @@
+category: games-engines
+conflicts: []
+name: residualvm
+requires:
+- 
+  category: media-libs
+  name: glew
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmad
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2[X,sound,alsa,joystick,opengl,video]
+  
+  version: ""
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmpeg2
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+use_flags:
+- alsa
+- debug
+- jpeg
+- mpeg2
+- mp3
+- opengl
+- png
+- truetype
+- vorbis
+- zlib
+version: 0.3.1-r2

@@ -1,0 +1,12 @@
+category: net-dns
+conflicts: []
+name: dnsimple-dyndns
+requires:
+- 
+  category: dev-python
+  name: requests
+  
+  version: 2.0.0
+use_flags:
+- ""
+version: "0.1"

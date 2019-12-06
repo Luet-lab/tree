@@ -1,0 +1,15 @@
+category: x11-misc
+conflicts: []
+name: urxvt-perls
+requires:
+- 
+  category: x11-misc
+  name: xsel
+  
+  version: ""
+- 
+  category: x11-terms
+  name: rxvt-unicode
+  
+  version: ""
+version: "2.3"

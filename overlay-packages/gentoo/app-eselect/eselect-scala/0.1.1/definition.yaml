@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-scala
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.0.2
+use_flags:
+- ""
+version: 0.1.1

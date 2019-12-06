@@ -1,0 +1,3 @@
+category: app-metrics
+name: elasticsearch_exporter
+version: 1.0.4_rc1

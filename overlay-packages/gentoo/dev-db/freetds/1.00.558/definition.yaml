@@ -1,0 +1,76 @@
+category: dev-db
+conflicts: []
+name: freetds
+requires:
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: dev-db
+  name: libiodbc
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-dns
+  name: bind-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: sys-apps
+  name: grep
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: dev-db
+  name: unixODBC
+  
+  version: ""
+- 
+  category: sys-devel
+  name: binutils
+  
+  version: ""
+- 
+  category: virtual
+  name: awk
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+use_flags:
+- debug
+- gnutls
+- iconv
+- kerberos
+- libressl
+- mssql
+- iodbc
+- odbc
+- ssl
+- static-libs
+version: 1.00.558

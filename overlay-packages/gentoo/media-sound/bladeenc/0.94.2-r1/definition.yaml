@@ -1,0 +1,5 @@
+category: media-sound
+name: bladeenc
+use_flags:
+- ""
+version: 0.94.2-r1

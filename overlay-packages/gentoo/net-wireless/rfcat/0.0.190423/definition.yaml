@@ -1,0 +1,5 @@
+category: net-wireless
+name: rfcat
+use_flags:
+- ""
+version: 0.0.190423

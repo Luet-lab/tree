@@ -1,0 +1,17 @@
+category: xfce-extra
+conflicts: []
+name: transd
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: xfce-base
+  name: libxfce4util
+  
+  version: "4.8"
+use_flags:
+- ""
+version: 0_p20120503-r1

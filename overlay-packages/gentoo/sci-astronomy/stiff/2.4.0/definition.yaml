@@ -1,0 +1,23 @@
+category: sci-astronomy
+conflicts: []
+name: stiff
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+use_flags:
+- doc
+- threads
+version: 2.4.0

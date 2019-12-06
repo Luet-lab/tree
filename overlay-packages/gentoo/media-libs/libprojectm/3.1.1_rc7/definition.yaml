@@ -1,0 +1,59 @@
+category: media-libs
+conflicts: []
+name: libprojectm
+requires:
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: media-libs
+  name: glm
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa[X(+)]
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: 2.0.5
+use_flags:
+- gles2
+- qt5
+- sdl
+version: 3.1.1_rc7

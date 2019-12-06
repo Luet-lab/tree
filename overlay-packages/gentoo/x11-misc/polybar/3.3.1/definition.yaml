@@ -1,0 +1,73 @@
+category: x11-misc
+conflicts: []
+name: polybar
+requires:
+- 
+  category: x11-libs
+  name: xcb-util-image
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-xrm
+  
+  version: ""
+- 
+  category: net-wireless
+  name: wireless-tools
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: x11-base
+  name: xcb-proto
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: jsoncpp
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmpdclient
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-wm
+  
+  version: ""
+use_flags:
+- alsa
+- curl
+- i3wm
+- ipc
+- mpd
+- network
+- pulseaudio
+version: 3.3.1

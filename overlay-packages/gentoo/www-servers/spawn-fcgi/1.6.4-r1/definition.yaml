@@ -1,0 +1,17 @@
+category: www-servers
+conflicts:
+- 
+  category: <=www-servers
+  name: lighttpd
+  
+  version: 1.4.20
+- 
+  category: <=www-servers
+  name: cherokee
+  
+  version: 0.98.1
+name: spawn-fcgi
+requires: []
+use_flags:
+- ipv6
+version: 1.6.4-r1

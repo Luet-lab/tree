@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: smarty
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- doc
+version: 3.1.33

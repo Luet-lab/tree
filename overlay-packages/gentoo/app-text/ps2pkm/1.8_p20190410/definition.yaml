@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: ps2pkm
+requires:
+- 
+  category: dev-libs
+  name: kpathsea
+  
+  version: 6.2.1
+use_flags:
+- ""
+version: 1.8_p20190410

@@ -1,0 +1,28 @@
+category: media-gfx
+conflicts: []
+name: sane-frontends
+requires:
+- 
+  category: media-gfx
+  name: sane-backends
+  
+  version: ""
+- 
+  category: media-gfx
+  name: gimp
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- gimp
+- gtk
+version: 1.0.14-r4

@@ -1,0 +1,17 @@
+category: sci-chemistry
+conflicts: []
+name: votca-xtp
+requires:
+- 
+  category: sci-libs
+  name: votca-tools
+  
+  version: 1.4.1
+- 
+  category: sci-chemistry
+  name: votca-csg
+  
+  version: 1.4.1
+use_flags:
+- doc
+version: 1.4.1

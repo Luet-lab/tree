@@ -1,0 +1,34 @@
+category: media-gfx
+conflicts: []
+name: kphotoalbum
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: kde-apps
+  name: kipi-plugins
+  
+  version: ""
+- 
+  category: media-gfx
+  name: exiv2
+  
+  version: ""
+- 
+  category: media-libs
+  name: phonon[qt5(+)]
+  
+  version: ""
+use_flags:
+- +kipi
+- map
+- +raw
+version: "5.5"

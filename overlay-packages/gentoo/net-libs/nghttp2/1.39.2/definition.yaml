@@ -1,0 +1,61 @@
+category: net-libs
+conflicts: []
+name: nghttp2
+requires:
+- 
+  category: dev-libs
+  name: jemalloc
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libev
+  
+  version: "4.15"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: 2.7.7
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.0.2
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: jansson
+  
+  version: "2.5"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.3
+- 
+  category: net-dns
+  name: c-ares
+  
+  version: ""
+use_flags:
+- cxx
+- debug
+- hpack-tools
+- jemalloc
+- libressl
+- static-libs
+- test
+- +threads
+- utils
+- xml
+version: 1.39.2

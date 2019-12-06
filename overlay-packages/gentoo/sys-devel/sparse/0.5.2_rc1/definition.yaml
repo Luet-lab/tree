@@ -1,0 +1,25 @@
+category: sys-devel
+conflicts: []
+name: sparse
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: "3.0"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- gtk
+- llvm
+- test
+- xml
+version: 0.5.2_rc1

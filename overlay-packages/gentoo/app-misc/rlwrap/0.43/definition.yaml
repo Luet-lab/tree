@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: rlwrap
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+use_flags:
+- debug
+version: "0.43"

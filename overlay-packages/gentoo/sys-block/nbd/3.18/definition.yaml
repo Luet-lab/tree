@@ -1,0 +1,30 @@
+category: sys-block
+conflicts: []
+name: nbd
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.26.0
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 2.12.0
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: "3.1"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+- gnutls
+- netlink
+- zlib
+version: "3.18"

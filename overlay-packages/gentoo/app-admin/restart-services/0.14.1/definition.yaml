@@ -1,0 +1,17 @@
+category: app-admin
+conflicts: []
+name: restart-services
+requires:
+- 
+  category: app-admin
+  name: lib_users
+  
+  version: ""
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: ""
+use_flags:
+- ""
+version: 0.14.1

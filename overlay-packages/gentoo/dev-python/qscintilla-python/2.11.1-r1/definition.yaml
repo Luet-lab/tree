@@ -1,0 +1,42 @@
+category: dev-python
+conflicts: []
+name: qscintilla-python
+requires:
+- 
+  category: dev-python
+  name: PyQt5-sip
+  
+  version: 4.19.14
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: x11-libs
+  name: qscintilla
+  
+  version: 2.11.1
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: "5.12"
+use_flags:
+- debug
+version: 2.11.1-r1

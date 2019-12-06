@@ -1,0 +1,10 @@
+category: app-emulation
+conflicts:
+- 
+  category: app-emulation
+  name: qemu[qemu_user_targets_riscv64]
+  
+  version: ""
+name: qemu-riscv64-bin
+requires: []
+version: 3.1.0-r4

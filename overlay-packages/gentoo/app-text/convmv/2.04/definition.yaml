@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: convmv
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "2.04"

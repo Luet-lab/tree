@@ -1,0 +1,23 @@
+category: media-libs
+conflicts: []
+name: libbdplus
+requires:
+- 
+  category: media-libs
+  name: libaacs
+  
+  version: 0.7.0
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: ""
+use_flags:
+- aacs
+- static-libs
+version: 0.1.2

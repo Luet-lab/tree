@@ -1,0 +1,12 @@
+category: dev-lang
+conflicts: []
+name: opendylan-bin
+requires:
+- 
+  category: dev-libs
+  name: boehm-gc
+  
+  version: ""
+use_flags:
+- ""
+version: "2014.1"

@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: cciss_vol_status
+requires: []
+use_flags:
+- ""
+version: "1.12"

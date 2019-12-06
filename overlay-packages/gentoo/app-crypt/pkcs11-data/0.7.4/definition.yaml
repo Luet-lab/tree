@@ -1,0 +1,10 @@
+category: app-crypt
+conflicts: []
+name: pkcs11-data
+requires:
+- 
+  category: dev-libs
+  name: pkcs11-helper
+  
+  version: "1.02"
+version: 0.7.4

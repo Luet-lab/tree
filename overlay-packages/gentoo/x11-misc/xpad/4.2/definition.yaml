@@ -1,0 +1,32 @@
+category: x11-misc
+conflicts: []
+name: xpad
+requires:
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.12"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.38"
+use_flags:
+- ""
+version: "4.2"

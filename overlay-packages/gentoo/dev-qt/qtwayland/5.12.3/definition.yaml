@@ -1,0 +1,48 @@
+category: dev-qt
+conflicts: []
+name: qtwayland
+requires:
+- 
+  category: dev-qt
+  name: qtgui-5.12.3[egl,libinput=]
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: 0.2.0
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcomposite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: 1.6.0
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: 5.12.3
+use_flags:
+- +libinput
+- xcomposite
+version: 5.12.3

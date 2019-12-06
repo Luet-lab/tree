@@ -1,0 +1,17 @@
+category: sys-block
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.13"
+name: zram-init
+requires:
+- 
+  category: app-shells
+  name: push
+  
+  version: "2.0"
+use_flags:
+- ""
+version: "8.1"

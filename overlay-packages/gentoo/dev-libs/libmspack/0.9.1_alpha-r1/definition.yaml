@@ -1,0 +1,9 @@
+category: dev-libs
+conflicts: []
+name: libmspack
+requires: []
+use_flags:
+- debug
+- doc
+- static-libs
+version: 0.9.1_alpha-r1

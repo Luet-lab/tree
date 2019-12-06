@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: cfiles
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+use_flags:
+- ""
+version: "1.8"

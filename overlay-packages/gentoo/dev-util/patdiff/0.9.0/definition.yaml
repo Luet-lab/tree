@@ -1,0 +1,57 @@
+category: dev-util
+conflicts: []
+name: patdiff
+requires:
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core_extended
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: sexplib
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: patience_diff
+  
+  version: ""
+- 
+  category: dev-ml
+  name: re2
+  
+  version: ""
+- 
+  category: dev-ml
+  name: pcre-ocaml
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

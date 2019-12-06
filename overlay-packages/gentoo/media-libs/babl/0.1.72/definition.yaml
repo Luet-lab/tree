@@ -1,0 +1,20 @@
+category: media-libs
+conflicts: []
+name: babl
+requires:
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_avx2
+- cpu_flags_x86_sse
+- cpu_flags_x86_sse2
+- cpu_flags_x86_sse3
+- cpu_flags_x86_sse4_1
+- cpu_flags_x86_mmx
+- cpu_flags_x86_f16c
+- introspection
+- lcms
+version: 0.1.72

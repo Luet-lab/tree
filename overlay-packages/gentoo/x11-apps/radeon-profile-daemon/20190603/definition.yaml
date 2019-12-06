@@ -1,0 +1,17 @@
+category: x11-apps
+conflicts: []
+name: radeon-profile-daemon
+requires:
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+use_flags:
+- ""
+version: "20190603"

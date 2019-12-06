@@ -1,0 +1,10 @@
+category: app-shells
+conflicts: []
+name: gentoo-zsh-completions
+requires:
+- 
+  category: app-shells
+  name: zsh
+  
+  version: 4.3.5
+version: "20180228"

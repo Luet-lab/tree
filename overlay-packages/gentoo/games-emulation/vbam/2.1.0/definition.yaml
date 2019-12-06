@@ -1,0 +1,68 @@
+category: games-emulation
+conflicts: []
+name: vbam
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: "1.4"
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg-3*
+  
+  version: ""
+- 
+  category: app-misc
+  name: lirc
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsfml
+  
+  version: "2.0"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: wxGTK
+  
+  version: ""
+use_flags:
+- ffmpeg
+- link
+- lirc
+- nls
+- openal
+- +sdl
+- wxwidgets
+version: 2.1.0

@@ -1,0 +1,22 @@
+category: app-portage
+conflicts: []
+name: repoman
+requires:
+- 
+  category: sys-apps
+  name: portage
+  
+  version: 2.3.43
+- 
+  category: dev-python
+  name: lxml
+  
+  version: 3.6.0
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+use_flags:
+- ""
+version: 2.3.17

@@ -1,0 +1,40 @@
+category: lxqt-base
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: lxqt-admin
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: liblxqt
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+version: 0.14.1

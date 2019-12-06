@@ -1,0 +1,5 @@
+category: media-sound
+name: cdstatus
+use_flags:
+- ""
+version: 0.97.03

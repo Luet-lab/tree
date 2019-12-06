@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: dtc
+requires: []
+use_flags:
+- static-libs
+version: 1.4.1-r1

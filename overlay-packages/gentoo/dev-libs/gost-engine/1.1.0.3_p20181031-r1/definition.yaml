@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: gost-engine
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.1.1
+use_flags:
+- test
+version: 1.1.0.3_p20181031-r1

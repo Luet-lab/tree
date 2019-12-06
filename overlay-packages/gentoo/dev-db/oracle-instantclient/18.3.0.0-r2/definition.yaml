@@ -1,0 +1,37 @@
+category: dev-db
+conflicts:
+- 
+  category: <dev-db
+  name: oracle-instantclient-basic
+  
+  version: "12"
+- 
+  category: <dev-db
+  name: oracle-instantclient-odbc
+  
+  version: "12"
+- 
+  category: <dev-db
+  name: oracle-instantclient-jdbc
+  
+  version: "12"
+- 
+  category: <dev-db
+  name: oracle-instantclient-sqlplus
+  
+  version: "12"
+name: oracle-instantclient
+requires:
+- 
+  category: dev-libs
+  name: libaio
+  
+  version: 0.3.109-r5
+use_flags:
+- jdbc
+- odbc
+- precomp
+- +sdk
+- +sqlplus
+- tools
+version: 18.3.0.0-r2

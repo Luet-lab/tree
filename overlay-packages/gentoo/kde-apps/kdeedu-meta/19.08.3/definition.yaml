@@ -1,0 +1,133 @@
+category: kde-apps
+conflicts: []
+name: kdeedu-meta
+requires:
+- 
+  category: kde-apps
+  name: marble
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: rocs
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: analitza
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kgeography
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: khangman
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kig
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kmplot
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kwordquiz
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: blinken
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kbruch
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kdeedu-data
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kiten
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kqtquickcharts
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: step
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kalgebra
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: parley
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: artikulate
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: cantor
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kalzium
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: ktouch
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: libkeduvocdocument
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: minuet
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kanagram
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: klettres
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kturtle
+  
+  version: 19.08.3
+use_flags:
+- +webengine
+- +webkit
+version: 19.08.3

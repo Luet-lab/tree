@@ -1,0 +1,35 @@
+category: net-nds
+conflicts: []
+name: gssproxy
+requires:
+- 
+  category: dev-libs
+  name: ding-libs
+  
+  version: 0.6.1
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-gssproxy
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libverto
+  
+  version: 0.2.2
+use_flags:
+- debug
+- selinux
+- systemd
+- hardened
+version: 0.8.2

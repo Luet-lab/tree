@@ -1,0 +1,22 @@
+category: gnome-extra
+conflicts: []
+name: gnome-shell-extension-applications-overview-tooltip
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: app-eselect
+  name: eselect-gnome-shell-extensions
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gnome-shell
+  
+  version: "3.20"
+use_flags:
+- ""
+version: "6"

@@ -1,0 +1,10 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: shellcheck
+  
+  version: ""
+name: shellcheck-bin
+requires: []
+version: 0.7.0

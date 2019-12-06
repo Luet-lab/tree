@@ -1,0 +1,12 @@
+category: games-simulation
+conflicts:
+- 
+  category: <games-simulation
+  name: flightgear
+  
+  version: 2.10.0
+name: flightgear-data
+requires: []
+use_flags:
+- ""
+version: 2018.3.1

@@ -1,0 +1,5 @@
+category: net-misc
+name: netsed
+use_flags:
+- ""
+version: 0.01b-r1

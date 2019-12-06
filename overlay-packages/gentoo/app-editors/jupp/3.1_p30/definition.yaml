@@ -1,0 +1,17 @@
+category: app-editors
+conflicts:
+- 
+  category: app-editors
+  name: joe
+  
+  version: ""
+name: jupp
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- ncurses
+version: 3.1_p30

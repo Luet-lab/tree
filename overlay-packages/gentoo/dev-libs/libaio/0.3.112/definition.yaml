@@ -1,0 +1,6 @@
+category: dev-libs
+name: libaio
+use_flags:
+- static-libs
+- test
+version: 0.3.112

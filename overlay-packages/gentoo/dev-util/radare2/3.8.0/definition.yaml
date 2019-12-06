@@ -1,0 +1,23 @@
+category: dev-util
+conflicts: []
+name: radare2
+requires:
+- 
+  category: dev-libs
+  name: capstone
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- ssl
+- libressl
+version: 3.8.0

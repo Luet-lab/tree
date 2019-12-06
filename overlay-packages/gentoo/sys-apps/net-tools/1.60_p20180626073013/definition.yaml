@@ -1,0 +1,30 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: 0.9.9.3
+name: net-tools
+requires:
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+use_flags:
+- +arp
+- +hostname
+- ipv6
+- nis
+- nls
+- plipconfig
+- selinux
+- slattach
+- static
+version: 1.60_p20180626073013

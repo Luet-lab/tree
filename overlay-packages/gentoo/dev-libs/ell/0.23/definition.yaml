@@ -1,0 +1,13 @@
+category: dev-libs
+conflicts: []
+name: ell
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- glib
+- pie
+version: "0.23"

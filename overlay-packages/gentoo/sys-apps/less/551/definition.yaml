@@ -1,0 +1,23 @@
+category: sys-apps
+conflicts: []
+name: less
+requires:
+- 
+  category: app-misc
+  name: editor-wrapper
+  
+  version: "3"
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "5.2"
+- 
+  category: dev-libs
+  name: libpcre2
+  
+  version: ""
+use_flags:
+- pcre
+- unicode
+version: "551"

@@ -1,0 +1,17 @@
+category: sci-geosciences
+conflicts: []
+name: gdal-grass
+requires:
+- 
+  category: sci-libs
+  name: gdal
+  
+  version: 2.0.0
+- 
+  category: sci-geosciences
+  name: grass
+  
+  version: ""
+use_flags:
+- postgres
+version: 2.1.3

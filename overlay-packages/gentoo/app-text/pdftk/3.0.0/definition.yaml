@@ -1,0 +1,20 @@
+category: app-text
+conflicts: []
+name: pdftk
+requires:
+- 
+  category: dev-java
+  name: bcprov
+  
+  version: ""
+- 
+  category: dev-java
+  name: commons-lang
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.7"
+version: 3.0.0

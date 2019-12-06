@@ -1,0 +1,5 @@
+category: sci-libs
+name: proj
+use_flags:
+- static-libs
+version: 5.2.0

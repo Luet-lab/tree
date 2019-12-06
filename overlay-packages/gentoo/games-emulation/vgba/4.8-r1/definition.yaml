@@ -1,0 +1,17 @@
+category: games-emulation
+conflicts: []
+name: vgba
+requires:
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 4.8-r1

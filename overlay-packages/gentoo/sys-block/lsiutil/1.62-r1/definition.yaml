@@ -1,0 +1,7 @@
+category: sys-block
+conflicts: []
+name: lsiutil
+requires: []
+use_flags:
+- ""
+version: 1.62-r1

@@ -1,0 +1,9 @@
+category: dev-libs
+conflicts: []
+name: skalibs
+requires: []
+use_flags:
+- doc
+- ipv6
+- static-libs
+version: 2.7.0.0

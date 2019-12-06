@@ -1,0 +1,32 @@
+category: app-i18n
+conflicts:
+- 
+  category: app-i18n
+  name: ibus-table-code
+  
+  version: ""
+- 
+  category: app-i18n
+  name: ibus-table-cyrillic
+  
+  version: ""
+- 
+  category: app-i18n
+  name: ibus-table-latin
+  
+  version: ""
+- 
+  category: app-i18n
+  name: ibus-table-tv
+  
+  version: ""
+name: ibus-table-others
+requires:
+- 
+  category: app-i18n
+  name: ibus-table
+  
+  version: ""
+use_flags:
+- ""
+version: 1.3.9

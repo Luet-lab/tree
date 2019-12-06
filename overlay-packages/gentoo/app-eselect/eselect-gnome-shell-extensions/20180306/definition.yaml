@@ -1,0 +1,35 @@
+category: app-eselect
+conflicts: []
+name: eselect-gnome-shell-extensions
+requires:
+- 
+  category: gnome-base
+  name: gnome-shell
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: JSON
+  
+  version: ""
+- 
+  category: app-admin
+  name: eselect
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.26"
+- 
+  category: gnome-base
+  name: gsettings-desktop-schemas
+  
+  version: ""
+version: "20180306"

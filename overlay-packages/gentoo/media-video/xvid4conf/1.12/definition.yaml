@@ -1,0 +1,12 @@
+category: media-video
+conflicts: []
+name: xvid4conf
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.2.4
+use_flags:
+- ""
+version: "1.12"

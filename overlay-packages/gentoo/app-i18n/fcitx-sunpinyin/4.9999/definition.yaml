@@ -1,0 +1,22 @@
+category: app-i18n
+conflicts: []
+name: fcitx-sunpinyin
+requires:
+- 
+  category: app-i18n
+  name: fcitx
+  
+  version: 4.2.9
+- 
+  category: app-i18n
+  name: sunpinyin
+  
+  version: 2.0.4_alpha
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- ""
+version: "4.9999"

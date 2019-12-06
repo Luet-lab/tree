@@ -1,0 +1,10 @@
+category: media-libs
+conflicts: []
+name: libggigcp
+requires:
+- 
+  category: media-libs
+  name: libggi
+  
+  version: 2.2.2
+version: 1.0.2-r1

@@ -1,0 +1,7 @@
+category: app-i18n
+conflicts: []
+name: tegaki-zinnia-japanese
+requires: []
+use_flags:
+- ""
+version: "0.3"

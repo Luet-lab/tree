@@ -1,0 +1,12 @@
+category: games-misc
+conflicts: []
+name: fortune-mod-dune
+requires:
+- 
+  category: games-misc
+  name: fortune-mod
+  
+  version: ""
+use_flags:
+- ""
+version: 2.0.1

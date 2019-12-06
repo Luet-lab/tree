@@ -1,0 +1,7 @@
+category: dev-embedded
+conflicts: []
+name: freaklabs-boards
+requires: []
+use_flags:
+- ""
+version: 1.0.0

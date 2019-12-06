@@ -1,0 +1,33 @@
+category: app-i18n
+conflicts: []
+name: libkkc
+requires:
+- 
+  category: dev-libs
+  name: libgee
+  
+  version: ""
+- 
+  category: dev-libs
+  name: marisa
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: ""
+use_flags:
+- nls
+- static-libs
+version: 0.3.6_pre20190809104047

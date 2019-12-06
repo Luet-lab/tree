@@ -1,0 +1,33 @@
+category: dev-embedded
+conflicts:
+- 
+  category: <dev-embedded
+  name: ftdi_eeprom
+  
+  version: "1.0"
+name: libftdi
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: confuse
+  
+  version: ""
+use_flags:
+- cxx
+- doc
+- examples
+- python
+- static-libs
+- test
+- tools
+version: "1.4"

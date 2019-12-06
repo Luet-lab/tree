@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: xdebug-client
+requires:
+- 
+  category: dev-libs
+  name: libedit
+  
+  version: ""
+use_flags:
+- libedit
+version: 2.5.3

@@ -1,0 +1,32 @@
+category: net-dns
+conflicts: []
+name: dnscap
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: YAML
+  
+  version: ""
+- 
+  category: net-libs
+  name: ldns
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 1.10.3

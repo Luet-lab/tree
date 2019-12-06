@@ -1,0 +1,25 @@
+category: sci-libs
+conflicts: []
+name: htslib
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+use_flags:
+- +bzip2
+- curl
+- +lzma
+- static-libs
+version: "1.5"

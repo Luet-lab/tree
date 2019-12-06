@@ -1,0 +1,40 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-telegram
+requires:
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: ""
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- gcrypt
+- libressl
+- +nls
+- +webp
+version: 1.4.2

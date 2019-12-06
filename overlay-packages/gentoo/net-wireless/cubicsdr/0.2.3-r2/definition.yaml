@@ -1,0 +1,38 @@
+category: net-wireless
+conflicts: []
+name: cubicsdr
+requires:
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: net-libs
+  name: liquid-dsp
+  
+  version: ""
+- 
+  category: x11-libs
+  name: wxGTK
+  
+  version: ""
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+use_flags:
+- alsa
+- pulseaudio
+version: 0.2.3-r2

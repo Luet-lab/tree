@@ -1,0 +1,13 @@
+category: net-libs
+conflicts: []
+name: libosmo-dsp
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+use_flags:
+- doc
+- static-libs
+version: "0.3"

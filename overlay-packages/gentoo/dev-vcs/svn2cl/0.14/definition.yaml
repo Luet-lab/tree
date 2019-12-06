@@ -1,0 +1,15 @@
+category: dev-vcs
+conflicts: []
+name: svn2cl
+requires:
+- 
+  category: dev-libs
+  name: libxslt
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+version: "0.14"

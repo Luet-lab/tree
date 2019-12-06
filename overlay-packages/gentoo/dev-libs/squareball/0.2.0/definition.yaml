@@ -1,0 +1,9 @@
+category: dev-libs
+conflicts: []
+name: squareball
+requires: []
+use_flags:
+- doc
+- test
+- static-libs
+version: 0.2.0

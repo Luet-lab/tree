@@ -1,0 +1,47 @@
+category: dev-lang
+conflicts: []
+name: ats
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boehm-gc
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.9

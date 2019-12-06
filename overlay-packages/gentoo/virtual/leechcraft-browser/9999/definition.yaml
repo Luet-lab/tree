@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: leechcraft-browser
+requires:
+- 
+  category: app-leechcraft
+  name: lc-poshuku
+  
+  version: ""
+version: "9999"

@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: secpanel
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+- 
+  category: virtual
+  name: ssh
+  
+  version: ""
+use_flags:
+- gif
+version: 0.6.1-r1

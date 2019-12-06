@@ -1,0 +1,10 @@
+category: media-sound
+conflicts: []
+name: wmsound-data
+requires:
+- 
+  category: x11-wm
+  name: windowmaker
+  
+  version: 0.80.2-r2
+version: 1.0.0

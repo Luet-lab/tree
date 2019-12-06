@@ -1,0 +1,12 @@
+category: sci-mathematics
+conflicts: []
+name: lpsolve
+requires:
+- 
+  category: sci-libs
+  name: colamd
+  
+  version: ""
+use_flags:
+- static-libs
+version: 5.5.2.0

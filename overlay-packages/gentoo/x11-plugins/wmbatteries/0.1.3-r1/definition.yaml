@@ -1,0 +1,25 @@
+category: x11-plugins
+conflicts: []
+name: wmbatteries
+requires:
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+version: 0.1.3-r1

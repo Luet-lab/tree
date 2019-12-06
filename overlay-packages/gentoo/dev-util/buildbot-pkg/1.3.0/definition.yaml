@@ -1,0 +1,15 @@
+category: dev-util
+conflicts: []
+name: buildbot-pkg
+requires:
+- 
+  category: dev-util
+  name: buildbot
+  
+  version: 1.3.0
+- 
+  category: dev-python
+  name: mock
+  
+  version: ""
+version: 1.3.0

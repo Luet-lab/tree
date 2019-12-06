@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: kstart
+requires:
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: net-fs
+  name: openafs
+  
+  version: ""
+use_flags:
+- afs
+version: "4.2"

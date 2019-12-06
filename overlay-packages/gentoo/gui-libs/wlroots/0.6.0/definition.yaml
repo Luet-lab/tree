@@ -1,0 +1,87 @@
+category: gui-libs
+conflicts: []
+name: wlroots
+requires:
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-wm
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: 1.17.0
+- 
+  category: x11-libs
+  name: libdrm
+  
+  version: ""
+- 
+  category: sys-auth
+  name: elogind
+  
+  version: "237"
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "237"
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-image
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libinput
+  
+  version: 1.9.0
+- 
+  category: net-misc
+  name: freerdp
+  
+  version: ""
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: ""
+use_flags:
+- elogind
+- icccm
+- rdp
+- systemd
+- x11-backend
+- X
+version: 0.6.0

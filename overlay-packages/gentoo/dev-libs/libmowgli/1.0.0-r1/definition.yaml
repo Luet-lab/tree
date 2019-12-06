@@ -1,0 +1,5 @@
+category: dev-libs
+name: libmowgli
+use_flags:
+- ""
+version: 1.0.0-r1

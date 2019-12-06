@@ -1,0 +1,5 @@
+category: dev-python
+name: ReParser
+use_flags:
+- ""
+version: 1.4.3

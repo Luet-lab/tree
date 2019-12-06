@@ -1,0 +1,5 @@
+category: app-cdr
+name: cue2toc
+use_flags:
+- ""
+version: "0.4"

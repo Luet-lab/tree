@@ -1,0 +1,20 @@
+category: dev-db
+conflicts: []
+name: mysqltuner
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  name: mysql
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+version: 1.7.17

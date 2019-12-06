@@ -1,0 +1,12 @@
+category: dev-vcs
+conflicts: []
+name: git-sh
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- ""
+version: 1.3-r1

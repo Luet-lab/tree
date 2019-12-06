@@ -1,0 +1,7 @@
+category: media-sound
+conflicts: []
+name: vbrfixc
+requires: []
+use_flags:
+- ""
+version: "0.24"

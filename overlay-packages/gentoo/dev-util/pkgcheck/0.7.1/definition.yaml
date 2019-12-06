@@ -1,0 +1,45 @@
+category: dev-util
+conflicts: []
+name: pkgcheck
+requires:
+- 
+  category: dev-perl
+  name: Gentoo-PerlMod-Version
+  
+  version: ""
+- 
+  category: dev-python
+  name: snakeoil
+  
+  version: 0.8.4
+- 
+  category: sys-apps
+  name: pkgcore
+  
+  version: 0.10.8
+- 
+  category: dev-python
+  name: chardet
+  
+  version: ""
+- 
+  category: dev-python
+  name: lxml
+  
+  version: ""
+- 
+  category: dev-python
+  name: pathspec
+  
+  version: ""
+- 
+  category: dev-python
+  name: requests
+  
+  version: ""
+use_flags:
+- doc
+- network
+- perl
+- test
+version: 0.7.1

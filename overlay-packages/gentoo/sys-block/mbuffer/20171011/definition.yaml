@@ -1,0 +1,14 @@
+category: sys-block
+conflicts: []
+name: mbuffer
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- debug
+- ssl
+- test
+version: "20171011"

@@ -1,0 +1,17 @@
+category: dev-python
+conflicts: []
+name: pyoembed
+requires:
+- 
+  category: dev-python
+  name: requests
+  
+  version: ""
+- 
+  category: dev-python
+  name: beautifulsoup
+  
+  version: ""
+use_flags:
+- test
+version: 0.1.1

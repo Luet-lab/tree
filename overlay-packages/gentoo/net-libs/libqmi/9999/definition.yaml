@@ -1,0 +1,24 @@
+category: net-libs
+conflicts: []
+name: libqmi
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.36"
+- 
+  category: dev-libs
+  name: libgudev
+  
+  version: ""
+- 
+  category: net-libs
+  name: libmbim
+  
+  version: 1.14.0
+use_flags:
+- doc
+- +mbim
+- static-libs
+version: "9999"

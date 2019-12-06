@@ -1,0 +1,5 @@
+category: media-sound
+name: mp3_check
+use_flags:
+- ""
+version: 1.98-r1

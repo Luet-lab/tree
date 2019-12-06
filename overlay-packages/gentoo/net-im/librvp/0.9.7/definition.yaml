@@ -1,0 +1,12 @@
+category: net-im
+conflicts: []
+name: librvp
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.7

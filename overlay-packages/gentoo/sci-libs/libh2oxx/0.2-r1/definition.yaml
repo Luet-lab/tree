@@ -1,0 +1,13 @@
+category: sci-libs
+conflicts: []
+name: libh2oxx
+requires:
+- 
+  category: sci-libs
+  name: libh2o
+  
+  version: "0.2"
+use_flags:
+- debug
+- static-libs
+version: 0.2-r1

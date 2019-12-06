@@ -1,0 +1,38 @@
+category: www-misc
+conflicts: []
+name: awstats
+requires:
+- 
+  category: dev-perl
+  name: Net-DNS
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.6.1
+- 
+  category: virtual
+  name: perl-Time-Local
+  
+  version: ""
+- 
+  category: dev-perl
+  name: URI
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Geo-IP
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-IP
+  
+  version: ""
+use_flags:
+- geoip
+- ipv6
+version: "7.5"

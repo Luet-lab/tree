@@ -1,0 +1,59 @@
+category: net-wireless
+conflicts: []
+name: gqrx
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: portaudio
+  
+  version: ""
+- 
+  category: net-wireless
+  name: gr-osmosdr
+  
+  version: 0.1.0
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: net-wireless
+  name: gnuradio
+  
+  version: 3.7_rc
+use_flags:
+- gr-audio
+- portaudio
+- pulseaudio
+version: 2.11.5-r1

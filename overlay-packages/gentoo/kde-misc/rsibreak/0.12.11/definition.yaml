@@ -1,0 +1,97 @@
+category: kde-misc
+conflicts: []
+name: rsibreak
+requires:
+- 
+  category: kde-frameworks
+  name: kidletime
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: knotifyconfig
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcrash
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ktextwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: frameworkintegration
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kdbusaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: knotifications
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+use_flags:
+- ""
+version: 0.12.11

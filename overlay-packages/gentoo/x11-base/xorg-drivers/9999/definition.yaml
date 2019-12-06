@@ -1,0 +1,6 @@
+category: x11-base
+name: xorg-drivers
+use_flags:
+- "video_cards_amdgpu\n\tvideo_cards_ast\n\tvideo_cards_dummy\n\tvideo_cards_fbdev\n\tvideo_cards_freedreno\n\tvideo_cards_geode\n\tvideo_cards_glint\n\tvideo_cards_i915\n\tvideo_cards_i965\n\tvideo_cards_intel\n\tvideo_cards_mga\n\tvideo_cards_nouveau\n\tvideo_cards_nv\n\tvideo_cards_omap\n\tvideo_cards_qxl\n\tvideo_cards_r128\n\tvideo_cards_radeon\n\tvideo_cards_radeonsi\n\tvideo_cards_siliconmotion\n\tvideo_cards_tegra\n\tvideo_cards_vc4\n\tvideo_cards_vesa\n\tvideo_cards_via\n\tvideo_cards_virtualbox\n\tvideo_cards_vmware\n\tvideo_cards_nvidia\n"
+- "\n\tinput_devices_elographics\n\tinput_devices_evdev\n\tinput_devices_joystick\n\tinput_devices_keyboard\n\tinput_devices_libinput\n\tinput_devices_mouse\n\tinput_devices_vmmouse\n\tinput_devices_void\n\tinput_devices_synaptics\n\tinput_devices_wacom"
+version: "9999"

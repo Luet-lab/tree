@@ -1,0 +1,27 @@
+category: sys-fs
+conflicts:
+- 
+  category: sys-fs
+  name: mtd
+  
+  version: ""
+name: mtd-utils
+requires:
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: "2.16"
+use_flags:
+- xattr
+version: 1.5.2

@@ -1,0 +1,5 @@
+category: media-libs
+name: libcdaudio
+use_flags:
+- ""
+version: 0.99.12-r2

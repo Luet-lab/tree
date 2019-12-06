@@ -1,0 +1,7 @@
+category: dev-qt
+conflicts: []
+name: qttranslations
+requires: []
+use_flags:
+- ""
+version: 5.13.2

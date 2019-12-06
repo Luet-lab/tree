@@ -1,0 +1,37 @@
+category: dev-ml
+conflicts: []
+name: configurator
+requires:
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: base
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_base
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: stdio
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.1

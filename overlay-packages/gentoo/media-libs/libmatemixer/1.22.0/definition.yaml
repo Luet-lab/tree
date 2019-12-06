@@ -1,0 +1,29 @@
+category: media-libs
+conflicts: []
+name: libmatemixer
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: 1.0.5
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: 5.0.0
+use_flags:
+- +alsa
+- oss
+- pulseaudio
+version: 1.22.0

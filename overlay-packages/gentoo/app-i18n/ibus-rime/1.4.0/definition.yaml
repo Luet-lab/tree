@@ -1,0 +1,27 @@
+category: app-i18n
+conflicts: []
+name: ibus-rime
+requires:
+- 
+  category: app-i18n
+  name: ibus
+  
+  version: ""
+- 
+  category: app-i18n
+  name: librime
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+- 
+  category: app-i18n
+  name: rime-data
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.0

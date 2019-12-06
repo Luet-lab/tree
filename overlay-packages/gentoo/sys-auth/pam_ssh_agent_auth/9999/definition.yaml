@@ -1,0 +1,3 @@
+category: sys-auth
+name: pam_ssh_agent_auth
+version: "9999"

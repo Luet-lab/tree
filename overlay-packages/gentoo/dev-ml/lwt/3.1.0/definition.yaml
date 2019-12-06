@@ -1,0 +1,43 @@
+category: dev-ml
+conflicts:
+- 
+  category: <www-servers
+  name: ocsigen
+  
+  version: "1.1"
+name: lwt
+requires:
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: "4.02"
+- 
+  category: dev-ml
+  name: result
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_tools_versioned
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libev
+  
+  version: ""
+- 
+  category: dev-ml
+  name: camlp4
+  
+  version: ""
+use_flags:
+- +camlp4
+- +libev
+version: 3.1.0

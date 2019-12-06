@@ -1,0 +1,22 @@
+category: net-print
+conflicts: []
+name: sshlpr
+requires:
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+- 
+  category: sys-apps
+  name: shadow
+  
+  version: ""
+use_flags:
+- ""
+version: "1"

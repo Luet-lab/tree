@@ -1,0 +1,22 @@
+category: dev-python
+conflicts: []
+name: pyFFTW
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: dev-python
+  name: cython
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: "3.3"
+use_flags:
+- ""
+version: 0.10.4

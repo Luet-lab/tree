@@ -1,0 +1,5 @@
+category: app-eselect
+name: eselect-awk
+use_flags:
+- ""
+version: "0.2"

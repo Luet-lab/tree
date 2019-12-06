@@ -1,0 +1,34 @@
+category: media-libs
+conflicts: []
+name: libheif
+requires:
+- 
+  category: media-libs
+  name: libde265
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: x265
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+use_flags:
+- static-libs
+- test
+- +threads
+version: 1.5.1

@@ -1,0 +1,25 @@
+category: sys-devel
+conflicts: []
+name: binutils-hppa64
+requires:
+- 
+  category: sys-devel
+  name: binutils-config
+  
+  version: "3"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- +cxx
+- default-gold
+- doc
+- +gold
+- multitarget
+- +nls
+- +plugins
+- static-libs
+- test
+version: 2.32-r1

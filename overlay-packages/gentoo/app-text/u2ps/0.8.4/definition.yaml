@@ -1,0 +1,22 @@
+category: app-text
+conflicts: []
+name: u2ps
+requires:
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5.6"
+- 
+  category: dev-perl
+  name: Text-CharWidth
+  
+  version: ""
+use_flags:
+- ""
+version: 0.8.4

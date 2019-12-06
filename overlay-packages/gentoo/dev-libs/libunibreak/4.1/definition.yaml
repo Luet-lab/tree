@@ -1,0 +1,14 @@
+category: dev-libs
+conflicts:
+- 
+  category: dev-libs
+  name: liblinebreak
+  
+  version: ""
+name: libunibreak
+requires: []
+use_flags:
+- doc
+- +man
+- static-libs
+version: "4.1"

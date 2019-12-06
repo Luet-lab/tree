@@ -1,0 +1,33 @@
+category: media-sound
+conflicts: []
+name: jack-keyboard
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.12"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.2"
+- 
+  category: media-sound
+  name: lash
+  
+  version: ""
+use_flags:
+- lash
+- X
+version: "2.5"

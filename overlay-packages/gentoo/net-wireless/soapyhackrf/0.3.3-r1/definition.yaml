@@ -1,0 +1,15 @@
+category: net-wireless
+conflicts: []
+name: soapyhackrf
+requires:
+- 
+  category: net-libs
+  name: libhackrf
+  
+  version: ""
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+version: 0.3.3-r1

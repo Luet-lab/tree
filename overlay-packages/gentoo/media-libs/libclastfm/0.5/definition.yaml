@@ -1,0 +1,12 @@
+category: media-libs
+conflicts: []
+name: libclastfm
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- static-libs
+version: "0.5"

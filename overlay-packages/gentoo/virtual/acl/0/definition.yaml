@@ -1,0 +1,15 @@
+category: virtual
+conflicts: []
+name: acl
+requires:
+- 
+  category: sys-freebsd
+  name: freebsd-lib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+version: "0"

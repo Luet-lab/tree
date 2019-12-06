@@ -1,0 +1,5 @@
+category: app-crypt
+name: ubuntu-keyring
+use_flags:
+- ""
+version: 2018.09.18.1

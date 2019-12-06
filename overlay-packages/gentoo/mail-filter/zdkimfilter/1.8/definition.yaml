@@ -1,0 +1,37 @@
+category: mail-filter
+conflicts: []
+name: zdkimfilter
+requires:
+- 
+  category: dev-libs
+  name: libunistring
+  
+  version: ""
+- 
+  category: mail-filter
+  name: opendkim
+  
+  version: ""
+- 
+  category: mail-mta
+  name: courier
+  
+  version: ""
+- 
+  category: dev-db
+  name: opendbx
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: ""
+- 
+  category: net-dns
+  name: libidn2
+  
+  version: ""
+use_flags:
+- debug
+version: "1.8"

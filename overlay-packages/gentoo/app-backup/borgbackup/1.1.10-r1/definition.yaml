@@ -1,0 +1,47 @@
+category: app-backup
+conflicts:
+- 
+  category: '!app-office'
+  name: borg
+  
+  version: ""
+name: borgbackup
+requires:
+- 
+  category: dev-python
+  name: llfuse
+  
+  version: ""
+- 
+  category: dev-python
+  name: msgpack
+  
+  version: 0.5.6
+- 
+  category: dev-python
+  name: pyzmq
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: virtual
+  name: acl
+  
+  version: ""
+use_flags:
+- libressl
+version: 1.1.10-r1

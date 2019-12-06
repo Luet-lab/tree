@@ -1,0 +1,32 @@
+category: media-video
+conflicts: []
+name: movit
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa[X(+)]
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: 3.2.0
+- 
+  category: media-libs
+  name: libepoxy
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.0

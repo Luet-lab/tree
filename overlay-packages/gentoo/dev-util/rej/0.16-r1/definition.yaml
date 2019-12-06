@@ -1,0 +1,25 @@
+category: dev-util
+conflicts:
+- 
+  category: <app-editors
+  name: mp
+  
+  version: "5"
+- 
+  category: dev-lang
+  name: qu-prolog
+  
+  version: ""
+- 
+  category: dev-util
+  name: mpatch
+  
+  version: ""
+name: rej
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 0.16-r1

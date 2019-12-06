@@ -1,0 +1,6 @@
+category: dev-util
+name: treecc
+use_flags:
+- doc
+- examples
+version: 0.3.10-r1

@@ -1,0 +1,12 @@
+category: dev-lua
+conflicts: []
+name: ldoc
+requires:
+- 
+  category: dev-lua
+  name: penlight
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.6

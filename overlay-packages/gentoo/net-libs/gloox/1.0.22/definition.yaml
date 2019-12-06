@@ -1,0 +1,39 @@
+category: net-libs
+conflicts: []
+name: gloox
+requires:
+- 
+  category: net-dns
+  name: libidn
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+- gnutls
+- idn
+- libressl
+- ssl
+- static-libs
+- test
+- zlib
+version: 1.0.22

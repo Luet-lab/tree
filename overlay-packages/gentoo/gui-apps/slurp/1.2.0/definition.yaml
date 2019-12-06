@@ -1,0 +1,22 @@
+category: gui-apps
+conflicts: []
+name: slurp
+requires:
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: dev-libs
+  name: wayland-protocols
+  
+  version: "1.14"
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+use_flags:
+- +man
+version: 1.2.0

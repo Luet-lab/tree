@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: utfcpp
+requires: []
+use_flags:
+- test
+version: "9999"

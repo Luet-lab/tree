@@ -1,0 +1,15 @@
+category: www-apps
+conflicts: []
+name: icingaweb2-module-pnp4nagios
+requires:
+- 
+  category: www-apps
+  name: icingaweb2
+  
+  version: 2.0.0
+- 
+  category: net-analyzer
+  name: icinga2
+  
+  version: 2.1.1
+version: 1.0.1

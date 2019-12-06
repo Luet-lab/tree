@@ -1,0 +1,12 @@
+category: net-print
+conflicts: []
+name: cups-windows
+requires:
+- 
+  category: net-print
+  name: cups
+  
+  version: "1.2"
+use_flags:
+- ""
+version: 6.0-r1

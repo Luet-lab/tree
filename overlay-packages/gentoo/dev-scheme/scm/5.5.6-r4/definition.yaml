@@ -1,0 +1,42 @@
+category: dev-scheme
+conflicts: []
+name: scm
+requires:
+- 
+  category: dev-scheme
+  name: slib
+  
+  version: 3.1.5
+- 
+  category: dev-util
+  name: cproto
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libtermcap-compat
+  
+  version: ""
+use_flags:
+- arrays
+- bignums
+- cautious
+- dynamic-linking
+- engineering-notation
+- gsubr
+- inexact
+- ioext
+- libscm
+- macro
+- ncurses
+- posix
+- readline
+- regex
+- sockets
+- unix
+version: 5.5.6-r4

@@ -1,0 +1,17 @@
+category: sys-apps
+conflicts:
+- 
+  category: dev-util
+  name: cmdtest
+  
+  version: ""
+name: yarn
+requires:
+- 
+  category: net-libs
+  name: nodejs
+  
+  version: ""
+use_flags:
+- ""
+version: 1.19.2

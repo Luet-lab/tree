@@ -1,0 +1,22 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-fs
+  name: eudev
+  
+  version: ""
+- 
+  category: sys-fs
+  name: udev
+  
+  version: ""
+name: gentoo-systemd-integration
+requires:
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "207"
+use_flags:
+- ""
+version: "7"

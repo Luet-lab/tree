@@ -1,0 +1,6 @@
+category: media-libs
+name: fdk-aac
+use_flags:
+- static-libs
+- examples
+version: 2.0.1

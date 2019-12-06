@@ -1,0 +1,39 @@
+category: dev-util
+conflicts: []
+name: quilt
+requires:
+- 
+  category: media-gfx
+  name: graphviz
+  
+  version: ""
+- 
+  category: dev-util
+  name: diffstat
+  
+  version: ""
+- 
+  category: mail-mta
+  name: sendmail
+  
+  version: ""
+- 
+  category: sys-apps
+  name: ed
+  
+  version: ""
+- 
+  category: app-misc
+  name: getopt
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: "8.5"
+use_flags:
+- graphviz
+- elibc_Darwin
+- elibc_SunOS
+version: "9999"

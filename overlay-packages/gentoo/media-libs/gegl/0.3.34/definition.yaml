@@ -1,0 +1,129 @@
+category: media-libs
+conflicts: []
+name: gegl
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: lcms
+  
+  version: "2.8"
+- 
+  category: sci-libs
+  name: umfpack
+  
+  version: ""
+- 
+  category: media-libs
+  name: libv4l
+  
+  version: 1.0.1
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: 1.12.2
+- 
+  category: media-libs
+  name: libraw
+  
+  version: 0.15.4
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: 1.2.0
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: "1.32"
+- 
+  category: media-libs
+  name: libpng
+  
+  version: 1.6.0
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: 2.40.6
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: 0.5.0
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.44"
+- 
+  category: media-libs
+  name: babl
+  
+  version: 0.1.46
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: "2.32"
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: "2.8"
+- 
+  category: media-libs
+  name: lensfun
+  
+  version: 0.2.5
+- 
+  category: media-libs
+  name: openexr
+  
+  version: 1.6.1
+- 
+  category: media-libs
+  name: tiff
+  
+  version: "4"
+use_flags:
+- cairo
+- cpu_flags_x86_mmx
+- cpu_flags_x86_sse
+- debug
+- ffmpeg
+- +introspection
+- lcms
+- lensfun
+- openexr
+- raw
+- sdl
+- svg
+- test
+- tiff
+- umfpack
+- vala
+- v4l
+- webp
+version: 0.3.34

@@ -1,0 +1,17 @@
+category: sys-fs
+conflicts: []
+name: libfat
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+use_flags:
+- ""
+version: 0.3a-r1

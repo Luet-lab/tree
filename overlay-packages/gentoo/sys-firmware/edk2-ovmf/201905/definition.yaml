@@ -1,0 +1,7 @@
+category: sys-firmware
+conflicts: []
+name: edk2-ovmf
+requires: []
+use_flags:
+- +binary
+version: "201905"

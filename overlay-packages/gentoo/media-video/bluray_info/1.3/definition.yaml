@@ -1,0 +1,12 @@
+category: media-video
+conflicts: []
+name: bluray_info
+requires:
+- 
+  category: media-libs
+  name: libbluray
+  
+  version: 1.0.0
+use_flags:
+- ""
+version: "1.3"

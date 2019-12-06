@@ -1,0 +1,57 @@
+category: x11-misc
+conflicts: []
+name: yabar
+requires:
+- 
+  category: dev-libs
+  name: libconfig
+  
+  version: ""
+- 
+  category: net-wireless
+  name: wireless-tools
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-wm
+  
+  version: ""
+- 
+  category: app-text
+  name: asciidoc
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon[X]
+  
+  version: ""
+- 
+  category: media-sound
+  name: playerctl
+  
+  version: ""
+use_flags:
+- playerctl
+version: 0.4.0_p20190316

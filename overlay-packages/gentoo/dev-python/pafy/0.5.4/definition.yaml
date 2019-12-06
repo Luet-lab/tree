@@ -1,0 +1,10 @@
+category: dev-python
+conflicts: []
+name: pafy
+requires:
+- 
+  category: net-misc
+  name: youtube-dl
+  
+  version: ""
+version: 0.5.4

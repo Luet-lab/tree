@@ -1,0 +1,20 @@
+category: app-text
+conflicts: []
+name: libqxp
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- test
+- tools
+version: 0.0.2

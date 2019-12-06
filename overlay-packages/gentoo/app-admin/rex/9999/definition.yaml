@@ -1,0 +1,177 @@
+category: app-admin
+conflicts: []
+name: rex
+requires:
+- 
+  category: dev-perl
+  name: Expect
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Carp
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Exporter
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-MIME-Base64
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Time-HiRes
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBI
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Text-Glob
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Scalar-List-Utils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Data-Validate-IP
+  
+  version: ""
+- 
+  category: dev-perl
+  name: URI
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Simple
+  
+  version: ""
+- 
+  category: dev-perl
+  name: YAML
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-LibXML
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IPC-Shareable
+  
+  version: ""
+- 
+  category: dev-perl
+  name: JSON-XS
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Test-Deep
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Spec
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Storable
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Hash-Merge
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-SFTP-Foreign
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Parallel-ForkManager
+  
+  version: ""
+- 
+  category: dev-perl
+  name: String-Escape
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Digest-HMAC
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-Tty
+  
+  version: ""
+- 
+  category: dev-perl
+  name: List-MoreUtils
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-OpenSSH
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Data-Dumper
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-String
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Digest-SHA1
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Sort-Naturally
+  
+  version: ""
+- 
+  category: dev-perl
+  name: libwww-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Devel-Caller
+  
+  version: ""
+use_flags:
+- test
+version: "9999"

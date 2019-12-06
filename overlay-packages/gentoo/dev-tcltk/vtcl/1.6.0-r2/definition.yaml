@@ -1,0 +1,12 @@
+category: dev-tcltk
+conflicts: []
+name: vtcl
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+use_flags:
+- doc
+version: 1.6.0-r2

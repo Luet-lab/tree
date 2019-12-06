@@ -1,0 +1,37 @@
+category: www-client
+conflicts: []
+name: seamonkey
+requires:
+- 
+  category: dev-libs
+  name: nss
+  
+  version: 3.28.3
+- 
+  category: dev-libs
+  name: nspr
+  
+  version: 4.13.1
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: x11-plugins
+  name: enigmail
+  
+  version: 2.1.0
+use_flags:
+- +calendar
+- +chatzilla
+- +crypt
+- +gmp-autoupdate
+- +ipc
+- jack
+- minimal
+- pulseaudio
+- +roaming
+- selinux
+- test
+version: 2.49.9.1_p0

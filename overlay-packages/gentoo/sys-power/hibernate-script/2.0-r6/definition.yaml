@@ -1,0 +1,12 @@
+category: sys-power
+conflicts:
+- 
+  category: <media-gfx
+  name: splashutils
+  
+  version: 1.5.2
+name: hibernate-script
+requires: []
+use_flags:
+- vim-syntax
+version: 2.0-r6

@@ -1,0 +1,32 @@
+category: media-radio
+conflicts: []
+name: gpredict
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: goocanvas
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2.1

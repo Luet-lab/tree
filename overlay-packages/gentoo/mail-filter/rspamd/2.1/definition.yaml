@@ -1,0 +1,92 @@
+category: mail-filter
+conflicts: []
+name: rspamd
+requires:
+- 
+  category: sci-libs
+  name: openblas
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre2[jit=]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: dev-libs
+  name: hyperscan
+  
+  version: ""
+- 
+  category: dev-lang
+  name: luajit
+  
+  version: ""
+- 
+  category: dev-util
+  name: ragel
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libsodium
+  
+  version: ""
+- 
+  category: dev-libs
+  name: jemalloc
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnsl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre[jit=]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libev
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- blas
+- cpu_flags_x86_ssse3
+- jemalloc
+- +jit
+- libressl
+- pcre2
+version: "2.1"

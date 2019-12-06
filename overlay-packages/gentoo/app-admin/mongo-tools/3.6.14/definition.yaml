@@ -1,0 +1,6 @@
+category: app-admin
+name: mongo-tools
+use_flags:
+- sasl
+- ssl
+version: 3.6.14

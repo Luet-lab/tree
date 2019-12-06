@@ -1,0 +1,37 @@
+category: app-crypt
+conflicts: []
+name: simple-tpm-pk11
+requires:
+- 
+  category: net-misc
+  name: openssh[-X509]
+  
+  version: ""
+- 
+  category: app-crypt
+  name: tpm-tools
+  
+  version: ""
+- 
+  category: dev-libs
+  name: opencryptoki
+  
+  version: ""
+- 
+  category: app-crypt
+  name: trousers
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: "0.06"

@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-thunderbird
+requires:
+- 
+  category: sec-policy
+  name: selinux-xserver
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180701-r1

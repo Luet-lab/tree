@@ -1,0 +1,10 @@
+category: app-forensics
+conflicts: []
+name: examiner
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 0.5-r3

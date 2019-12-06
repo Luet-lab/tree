@@ -1,0 +1,14 @@
+category: sci-libs
+conflicts: []
+name: proj
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- europe
+- static-libs
+- test
+version: 6.2.0

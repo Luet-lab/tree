@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: libg15
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: "0"
+use_flags:
+- ""
+version: "9999"

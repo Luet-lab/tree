@@ -1,0 +1,27 @@
+category: media-sound
+conflicts: []
+name: mpdscribble
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libsoup
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmpdclient
+  
+  version: ""
+use_flags:
+- +curl
+version: "0.22"

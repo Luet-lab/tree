@@ -1,0 +1,5 @@
+category: app-dicts
+name: mecab-unidic
+use_flags:
+- ""
+version: 2.1.2

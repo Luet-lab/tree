@@ -1,0 +1,22 @@
+category: media-sound
+conflicts: []
+name: ogg2mp3
+requires:
+- 
+  category: media-sound
+  name: lame
+  
+  version: ""
+- 
+  category: dev-perl
+  name: String-ShellQuote
+  
+  version: ""
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+use_flags:
+- ""
+version: 0.6.1

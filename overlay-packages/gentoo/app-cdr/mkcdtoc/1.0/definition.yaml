@@ -1,0 +1,12 @@
+category: app-cdr
+conflicts: []
+name: mkcdtoc
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.0
+use_flags:
+- ""
+version: "1.0"

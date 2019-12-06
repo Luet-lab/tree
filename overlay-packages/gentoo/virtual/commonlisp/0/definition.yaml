@@ -1,0 +1,40 @@
+category: virtual
+conflicts: []
+name: commonlisp
+requires:
+- 
+  category: '|| ( dev-lisp'
+  name: sbcl
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: clisp
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: clozurecl
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: cmucl
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: ecls
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: gcl
+  
+  version: ""
+- 
+  category: dev-lisp
+  name: abcl )
+  
+  version: ""
+version: "0"

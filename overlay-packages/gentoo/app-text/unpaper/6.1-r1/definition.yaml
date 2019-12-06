@@ -1,0 +1,18 @@
+category: app-text
+conflicts: []
+name: unpaper
+requires:
+- 
+  category: media-video
+  name: libav
+  
+  version: "10"
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: "2"
+use_flags:
+- libav
+- test
+version: 6.1-r1

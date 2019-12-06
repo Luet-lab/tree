@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: scrollkeeper-dtd
+requires:
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: 2.4.19
+use_flags:
+- ""
+version: 1.0-r1

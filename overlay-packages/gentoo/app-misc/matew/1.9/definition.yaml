@@ -1,0 +1,22 @@
+category: app-misc
+conflicts: []
+name: matew
+requires:
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+use_flags:
+- ""
+version: "1.9"

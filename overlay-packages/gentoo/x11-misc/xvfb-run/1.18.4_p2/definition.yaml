@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: xvfb-run
+requires:
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xauth
+  
+  version: ""
+use_flags:
+- ""
+version: 1.18.4_p2

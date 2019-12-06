@@ -1,0 +1,20 @@
+category: sys-cluster
+conflicts: []
+name: charliecloud
+requires:
+- 
+  category: sys-apps
+  name: pv
+  
+  version: ""
+- 
+  category: sys-fs
+  name: squashfuse
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- +pv
+- squashfuse
+version: "0.10"

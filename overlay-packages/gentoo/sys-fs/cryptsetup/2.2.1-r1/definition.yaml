@@ -1,0 +1,115 @@
+category: sys-fs
+conflicts: []
+name: cryptsetup
+requires:
+- 
+  category: dev-libs
+  name: nettle-2.4[static-libs(+)]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpwquality[static-libs(+)]
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: 2.31-r1
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-c
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-fs
+  name: lvm2[static-libs(+)]
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev[static-libs(-)]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: ""
+- 
+  category: dev-libs
+  name: popt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: "2.4"
+- 
+  category: sys-apps
+  name: util-linux-2.31-r1[static-libs(+)]
+  
+  version: ""
+- 
+  category: app-crypt
+  name: argon2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpwquality
+  
+  version: ""
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error[static-libs(+)]
+  
+  version: ""
+- 
+  category: dev-libs
+  name: popt[static-libs(+)]
+  
+  version: ""
+use_flags:
+- gcrypt
+- kernel
+- nettle
+- +openssl
+- +argon2
+- libressl
+- +luks1_default
+- nls
+- pwquality
+- reencrypt
+- static
+- static-libs
+- +udev
+- urandom
+version: 2.2.1-r1

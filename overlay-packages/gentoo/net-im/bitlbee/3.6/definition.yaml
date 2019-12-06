@@ -1,0 +1,66 @@
+category: net-im
+conflicts: []
+name: bitlbee
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: ""
+- 
+  category: net-libs
+  name: libotr
+  
+  version: "4"
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nss
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.16"
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: xinetd
+  
+  version: ""
+use_flags:
+- debug
+- +gnutls
+- ipv6
+- libevent
+- libressl
+- nss
+- otr
+- +plugins
+- selinux
+- test
+- "xinetd\n\tmsn"
+- oscar
+- purple
+- twitter
+- +xmpp
+version: "3.6"

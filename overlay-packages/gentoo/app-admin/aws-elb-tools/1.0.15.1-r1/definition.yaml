@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: aws-elb-tools
+requires:
+- 
+  category: virtual
+  name: jre
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.15.1-r1

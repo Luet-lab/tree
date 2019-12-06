@@ -1,0 +1,10 @@
+category: net-mail
+conflicts: []
+name: postfix-logwatch
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.40.03-r3

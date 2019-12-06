@@ -1,0 +1,27 @@
+category: ros-meta
+conflicts: []
+name: mavros
+requires:
+- 
+  category: dev-ros
+  name: mavros_extras
+  
+  version: ""
+- 
+  category: dev-ros
+  name: mavros_msgs
+  
+  version: ""
+- 
+  category: dev-ros
+  name: libmavconn
+  
+  version: ""
+- 
+  category: dev-ros
+  name: mavros
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

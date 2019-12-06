@@ -1,0 +1,12 @@
+category: dev-lua
+conflicts: []
+name: luaposix
+requires:
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+use_flags:
+- ""
+version: 33.4.0

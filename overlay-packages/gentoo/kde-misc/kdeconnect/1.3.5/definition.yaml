@@ -1,0 +1,40 @@
+category: kde-misc
+conflicts:
+- 
+  category: kde-misc
+  name: kdeconnect
+  
+  version: ""
+name: kdeconnect
+requires:
+- 
+  category: net-fs
+  name: sshfs
+  
+  version: ""
+- 
+  category: app-crypt
+  name: qca
+  
+  version: 2.1.0
+- 
+  category: x11-libs
+  name: libfakekey
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+use_flags:
+- app
+- bluetooth
+- mousepad
+- wayland
+version: 1.3.5

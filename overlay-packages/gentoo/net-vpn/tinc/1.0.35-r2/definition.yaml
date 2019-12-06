@@ -1,0 +1,36 @@
+category: net-vpn
+conflicts: []
+name: tinc
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-misc
+  name: vde
+  
+  version: ""
+use_flags:
+- libressl
+- +lzo
+- uml
+- vde
+- +zlib
+version: 1.0.35-r2

@@ -1,0 +1,22 @@
+category: dev-util
+conflicts: []
+name: intltool
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Parser
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+use_flags:
+- ""
+version: 0.51.0-r2

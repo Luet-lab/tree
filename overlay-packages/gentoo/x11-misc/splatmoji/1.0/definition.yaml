@@ -1,0 +1,25 @@
+category: x11-misc
+conflicts: []
+name: splatmoji
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: x11-misc
+  name: rofi
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdotool
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xsel
+  
+  version: ""
+version: "1.0"

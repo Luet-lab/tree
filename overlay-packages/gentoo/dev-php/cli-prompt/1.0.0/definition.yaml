@@ -1,0 +1,15 @@
+category: dev-php
+conflicts: []
+name: cli-prompt
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+version: 1.0.0

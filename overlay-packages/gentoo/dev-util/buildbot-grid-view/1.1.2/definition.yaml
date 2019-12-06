@@ -1,0 +1,7 @@
+category: dev-util
+conflicts: []
+name: buildbot-grid-view
+requires: []
+use_flags:
+- test
+version: 1.1.2

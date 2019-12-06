@@ -1,0 +1,5 @@
+category: dev-libs
+name: rremove
+use_flags:
+- static-libs
+version: 1.0.5

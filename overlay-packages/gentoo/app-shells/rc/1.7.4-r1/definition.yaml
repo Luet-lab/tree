@@ -1,0 +1,18 @@
+category: app-shells
+conflicts: []
+name: rc
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libedit
+  
+  version: ""
+use_flags:
+- libedit
+- readline
+version: 1.7.4-r1

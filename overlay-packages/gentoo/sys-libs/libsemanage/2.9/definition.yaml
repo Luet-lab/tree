@@ -1,0 +1,27 @@
+category: sys-libs
+conflicts: []
+name: libsemanage
+requires:
+- 
+  category: dev-libs
+  name: ustr
+  
+  version: 1.0.4-r2
+- 
+  category: sys-libs
+  name: libsepol
+  
+  version: "2.9"
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: "2.9"
+- 
+  category: sys-process
+  name: audit
+  
+  version: 2.2.2
+use_flags:
+- python
+version: "2.9"

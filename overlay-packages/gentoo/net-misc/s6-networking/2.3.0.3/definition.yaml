@@ -1,0 +1,34 @@
+category: net-misc
+conflicts: []
+name: s6-networking
+requires:
+- 
+  category: dev-lang
+  name: execline
+  
+  version: 2.5.0.1
+- 
+  category: sys-apps
+  name: s6
+  
+  version: 2.7.2.0
+- 
+  category: net-dns
+  name: s6-dns
+  
+  version: 2.3.0.1
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.7.0.0
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: 2.6.5
+use_flags:
+- ssl
+- static
+- static-libs
+version: 2.3.0.3

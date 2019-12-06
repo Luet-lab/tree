@@ -1,0 +1,22 @@
+category: app-shells
+conflicts: []
+name: mpibash
+requires:
+- 
+  category: virtual
+  name: mpi
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: "4.2"
+- 
+  category: sys-cluster
+  name: libcircle
+  
+  version: ""
+use_flags:
+- examples
+version: "1.3"

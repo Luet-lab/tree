@@ -1,0 +1,7 @@
+category: media-gfx
+conflicts: []
+name: psftools
+requires: []
+use_flags:
+- static-libs
+version: 1.0.10

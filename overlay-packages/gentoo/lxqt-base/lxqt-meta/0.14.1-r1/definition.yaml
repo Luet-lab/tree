@@ -1,0 +1,160 @@
+category: lxqt-base
+conflicts: []
+name: lxqt-meta
+requires:
+- 
+  category: kde-frameworks
+  name: oxygen-icons
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-panel
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-session
+  
+  version: ""
+- 
+  category: virtual
+  name: ttf-fonts
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-powermanagement
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-openssh-askpass
+  
+  version: ""
+- 
+  category: x11-misc
+  name: sddm
+  
+  version: 0.11.0
+- 
+  category: x11-terms
+  name: qterminal
+  
+  version: ""
+- 
+  category: x11-wm
+  name: openbox
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-policykit
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gvfs
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-config
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-globalkeys
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-notificationd
+  
+  version: ""
+- 
+  category: x11-misc
+  name: qps
+  
+  version: ""
+- 
+  category: x11-themes
+  name: lxqt-themes
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-admin
+  
+  version: ""
+- 
+  category: x11-misc
+  name: lightdm
+  
+  version: ""
+- 
+  category: media-gfx
+  name: lximage-qt
+  
+  version: ""
+- 
+  category: x11-misc
+  name: obconf-qt
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qttranslations
+  
+  version: ""
+- 
+  category: lxde-base
+  name: lxmenu-data
+  
+  version: 0.1.5
+- 
+  category: lxqt-base
+  name: lxqt-about
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-sudo
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-runner
+  
+  version: ""
+- 
+  category: x11-misc
+  name: pcmanfm-qt
+  
+  version: ""
+- 
+  category: x11-misc
+  name: screengrab
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-qtplugin
+  
+  version: ""
+use_flags:
+- +about
+- admin
+- +filemanager
+- lightdm
+- lximage
+- minimal
+- "nls\n\t+policykit"
+- powermanagement
+- processviewer
+- screenshot
+- "sddm\n\tssh-askpass"
+- sudo
+- terminal
+- +trash
+version: 0.14.1-r1

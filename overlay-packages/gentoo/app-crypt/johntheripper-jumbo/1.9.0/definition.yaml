@@ -1,0 +1,57 @@
+category: app-crypt
+conflicts:
+- 
+  category: app-crypt
+  name: johntheripper
+  
+  version: ""
+name: johntheripper-jumbo
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.0.1
+- 
+  category: virtual
+  name: mpi
+  
+  version: ""
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+use_flags:
+- custom-cflags
+- kerberos
+- mpi
+- opencl
+- openmp
+- pcap
+version: 1.9.0

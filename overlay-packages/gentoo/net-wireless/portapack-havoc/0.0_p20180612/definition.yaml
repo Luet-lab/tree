@@ -1,0 +1,5 @@
+category: net-wireless
+name: portapack-havoc
+use_flags:
+- ""
+version: 0.0_p20180612

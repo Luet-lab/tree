@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: s6-portable-utils
+requires:
+- 
+  category: dev-libs
+  name: skalibs
+  
+  version: 2.6.0.0
+use_flags:
+- static
+version: 2.2.1.1

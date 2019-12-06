@@ -1,0 +1,42 @@
+category: media-sound
+conflicts: []
+name: shntool
+requires:
+- 
+  category: media-sound
+  name: sox
+  
+  version: ""
+- 
+  category: media-sound
+  name: alac_decoder
+  
+  version: ""
+- 
+  category: media-sound
+  name: shorten
+  
+  version: ""
+- 
+  category: media-sound
+  name: wavpack
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-sound
+  name: mac
+  
+  version: ""
+use_flags:
+- alac
+- flac
+- mac
+- shorten
+- sox
+- wavpack
+version: 3.0.10-r1

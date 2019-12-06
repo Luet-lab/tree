@@ -1,0 +1,17 @@
+category: x11-themes
+conflicts: []
+name: zukini
+requires:
+- 
+  category: x11-themes
+  name: gtk-engines-murrine
+  
+  version: 0.98.2
+- 
+  category: x11-themes
+  name: gtk-engines-unico
+  
+  version: 1.0.2
+use_flags:
+- ""
+version: "20120817"

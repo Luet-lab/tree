@@ -1,0 +1,17 @@
+category: app-eselect
+conflicts: []
+name: eselect-python
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.3
+- 
+  category: dev-lang
+  name: python-exec
+  
+  version: 2.4.2
+use_flags:
+- ""
+version: "20160516"

@@ -1,0 +1,22 @@
+category: dev-python
+conflicts: []
+name: ipdbplugin
+requires:
+- 
+  category: dev-python
+  name: ipdb
+  
+  version: ""
+- 
+  category: dev-python
+  name: nose
+  
+  version: ""
+- 
+  category: dev-python
+  name: ipython
+  
+  version: ""
+use_flags:
+- ""
+version: "1.4"

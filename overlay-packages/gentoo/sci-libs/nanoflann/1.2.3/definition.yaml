@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts: []
+name: nanoflann
+requires:
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.3

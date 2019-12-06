@@ -1,0 +1,13 @@
+category: sci-biology
+conflicts: []
+name: transfac
+requires:
+- 
+  category: sci-biology
+  name: emboss
+  
+  version: ""
+use_flags:
+- emboss
+- minimal
+version: 3.2-r1

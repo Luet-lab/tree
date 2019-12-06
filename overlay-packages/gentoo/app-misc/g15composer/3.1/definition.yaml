@@ -1,0 +1,6 @@
+category: app-misc
+name: g15composer
+use_flags:
+- truetype
+- examples
+version: "3.1"

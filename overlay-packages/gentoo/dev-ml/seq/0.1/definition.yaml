@@ -1,0 +1,17 @@
+category: dev-ml
+conflicts: []
+name: seq
+requires:
+- 
+  category: dev-ml
+  name: findlib
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocamlbuild
+  
+  version: ""
+use_flags:
+- ""
+version: "0.1"

@@ -1,0 +1,17 @@
+category: sys-devel
+conflicts:
+- 
+  category: =gnome-base
+  name: gnome-common
+  
+  version: 3.14.0
+- 
+  category: '>=gnome-base'
+  name: gnome-common-3.14.0-r1[-autoconf-archive(+)]
+  
+  version: ""
+name: autoconf-archive
+requires: []
+use_flags:
+- ""
+version: 2019.01.06

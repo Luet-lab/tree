@@ -1,0 +1,17 @@
+category: app-doc
+conflicts: []
+name: xmltoman
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: XML-Parser
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4-r1

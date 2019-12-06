@@ -1,0 +1,5 @@
+category: dev-util
+name: crash
+use_flags:
+- ""
+version: 7.2.7

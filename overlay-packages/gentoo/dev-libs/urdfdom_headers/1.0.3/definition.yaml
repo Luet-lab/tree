@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: urdfdom_headers
+requires: []
+use_flags:
+- ""
+version: 1.0.3

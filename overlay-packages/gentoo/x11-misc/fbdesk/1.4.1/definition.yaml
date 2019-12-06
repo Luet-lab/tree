@@ -1,0 +1,43 @@
+category: x11-misc
+conflicts: []
+name: fbdesk
+requires:
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2[X]
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+use_flags:
+- debug
+- png
+version: 1.4.1

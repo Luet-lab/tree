@@ -1,0 +1,47 @@
+category: dev-ml
+conflicts: []
+name: core_profiler
+requires:
+- 
+  category: dev-ml
+  name: core_extended
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: re2
+  
+  version: ""
+- 
+  category: dev-ml
+  name: textutils
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

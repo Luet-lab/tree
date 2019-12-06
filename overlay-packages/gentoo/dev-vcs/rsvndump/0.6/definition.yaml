@@ -1,0 +1,28 @@
+category: dev-vcs
+conflicts: []
+name: rsvndump
+requires:
+- 
+  category: dev-libs
+  name: apr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: apr-util
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+use_flags:
+- debug
+- doc
+version: "0.6"

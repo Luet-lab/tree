@@ -1,0 +1,5 @@
+category: sys-boot
+name: bootcreator
+use_flags:
+- ""
+version: "1.1"

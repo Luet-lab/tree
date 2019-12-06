@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: ucarp
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- nls
+version: 1.5.2-r5

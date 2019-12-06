@@ -1,0 +1,7 @@
+category: dev-python
+conflicts: []
+name: sip
+requires: []
+use_flags:
+- doc
+version: 4.19.17

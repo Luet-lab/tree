@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: cgvg
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.6.3

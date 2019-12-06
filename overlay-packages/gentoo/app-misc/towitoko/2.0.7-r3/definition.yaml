@@ -1,0 +1,5 @@
+category: app-misc
+name: towitoko
+use_flags:
+- moneyplex
+version: 2.0.7-r3

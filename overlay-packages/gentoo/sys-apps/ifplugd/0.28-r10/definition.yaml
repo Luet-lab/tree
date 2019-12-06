@@ -1,0 +1,23 @@
+category: sys-apps
+conflicts: []
+name: ifplugd
+requires:
+- 
+  category: sys-apps
+  name: baselayout
+  
+  version: "1.12"
+- 
+  category: sec-policy
+  name: selinux-ifplugd
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libdaemon
+  
+  version: "0.5"
+use_flags:
+- doc
+- selinux
+version: 0.28-r10

@@ -1,0 +1,30 @@
+category: mail-filter
+conflicts: []
+name: spamprobe
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: db
+  
+  version: "3.2"
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+use_flags:
+- berkdb
+- gif
+- jpeg
+- png
+version: 1.4d-r1

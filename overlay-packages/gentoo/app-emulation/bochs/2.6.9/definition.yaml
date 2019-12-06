@@ -1,0 +1,59 @@
+category: app-emulation
+conflicts: []
+name: bochs
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: media-libs
+  name: svgalib
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+use_flags:
+- 3dnow
+- avx
+- debugger
+- doc
+- gdb
+- ncurses
+- readline
+- svga
+- sdl
+- +smp
+- vnc
+- X
+- +x86-64
+version: 2.6.9

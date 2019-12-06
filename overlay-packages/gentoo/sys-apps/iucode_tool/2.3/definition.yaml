@@ -1,0 +1,5 @@
+category: sys-apps
+name: iucode_tool
+use_flags:
+- ""
+version: "2.3"

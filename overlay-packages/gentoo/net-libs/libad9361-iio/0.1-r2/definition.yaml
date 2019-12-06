@@ -1,0 +1,10 @@
+category: net-libs
+conflicts: []
+name: libad9361-iio
+requires:
+- 
+  category: net-libs
+  name: libiio
+  
+  version: ""
+version: 0.1-r2

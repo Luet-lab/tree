@@ -1,0 +1,7 @@
+category: sci-libs
+name: libcerf
+use_flags:
+- doc
+- static-libs
+- test
+version: "1.5"

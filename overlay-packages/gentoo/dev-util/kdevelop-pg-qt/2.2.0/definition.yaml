@@ -1,0 +1,5 @@
+category: dev-util
+name: kdevelop-pg-qt
+use_flags:
+- ""
+version: 2.2.0

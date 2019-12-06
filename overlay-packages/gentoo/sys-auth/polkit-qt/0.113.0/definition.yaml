@@ -1,0 +1,37 @@
+category: sys-auth
+conflicts: []
+name: polkit-qt
+requires:
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: sys-auth
+  name: polkit
+  
+  version: "0.103"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+use_flags:
+- debug
+version: 0.113.0

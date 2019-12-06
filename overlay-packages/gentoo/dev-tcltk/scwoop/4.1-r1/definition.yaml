@@ -1,0 +1,12 @@
+category: dev-tcltk
+conflicts: []
+name: scwoop
+requires:
+- 
+  category: dev-tcltk
+  name: tcllib
+  
+  version: ""
+use_flags:
+- ""
+version: 4.1-r1

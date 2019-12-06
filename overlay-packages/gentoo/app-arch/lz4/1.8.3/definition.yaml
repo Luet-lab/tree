@@ -1,0 +1,5 @@
+category: app-arch
+name: lz4
+use_flags:
+- static-libs
+version: 1.8.3

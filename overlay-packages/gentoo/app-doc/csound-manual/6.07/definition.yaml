@@ -1,0 +1,6 @@
+category: app-doc
+name: csound-manual
+use_flags:
+- html
+- l10n_fr
+version: "6.07"

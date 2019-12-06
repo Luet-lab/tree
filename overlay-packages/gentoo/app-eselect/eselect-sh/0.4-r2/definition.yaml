@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-sh
+requires:
+- 
+  category: app-eselect
+  name: eselect-lib-bin-symlink
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4-r2

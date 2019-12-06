@@ -1,0 +1,24 @@
+category: app-shells
+conflicts: []
+name: fish
+requires:
+- 
+  category: dev-libs
+  name: libpcre2
+  
+  version: "10.21"
+- 
+  category: sys-devel
+  name: bc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- doc
+- nls
+- test
+version: 3.0.2

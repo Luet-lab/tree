@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: xml2
+requires:
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- ""
+version: "0.5"

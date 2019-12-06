@@ -1,0 +1,192 @@
+category: media-sound
+conflicts: []
+name: ardour
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: sord
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: gtkmm
+  
+  version: "2.16"
+- 
+  category: gnome-base
+  name: libgnomecanvas
+  
+  version: "2"
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: media-libs
+  name: liblrdf
+  
+  version: 0.4.0-r20
+- 
+  category: media-libs
+  name: libsamplerate
+  
+  version: "0.1"
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: 1.0.18
+- 
+  category: media-libs
+  name: raptor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: libgnomecanvasmm
+  
+  version: "2.26"
+- 
+  category: dev-libs
+  name: libsigc++
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsoundtouch
+  
+  version: 1.6.0
+- 
+  category: media-libs
+  name: taglib
+  
+  version: "1.7"
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: glibmm
+  
+  version: 2.32.0
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: "2.6"
+- 
+  category: media-libs
+  name: libart_lgpl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: media-libs
+  name: suil
+  
+  version: 0.6.10
+- 
+  category: dev-libs
+  name: libxslt
+  
+  version: ""
+- 
+  category: media-libs
+  name: liblo
+  
+  version: ""
+- 
+  category: media-libs
+  name: vamp-plugin-sdk
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: media-libs
+  name: lilv
+  
+  version: ""
+- 
+  category: media-libs
+  name: sratom
+  
+  version: ""
+- 
+  category: media-libs
+  name: lv2
+  
+  version: 1.4.0
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.10.1
+- 
+  category: media-libs
+  name: rubberband
+  
+  version: 1.6.0
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.8.1
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: aubio
+  
+  version: ""
+use_flags:
+- altivec
+- doc
+- jack
+- cpu_flags_x86_sse
+- cpu_flags_x86_mmx
+- cpu_flags_x86_3dnow
+version: "5.12"

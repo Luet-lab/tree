@@ -1,0 +1,25 @@
+category: virtual
+conflicts:
+- 
+  category: '>perl-core'
+  name: Module-CoreList
+  
+  version: 5.201.709.230-r999
+- 
+  category: <perl-core
+  name: Module-CoreList
+  
+  version: 5.201.709.230
+name: perl-Module-CoreList
+requires:
+- 
+  category: perl-core
+  name: Module-CoreList
+  
+  version: 5.201.709.230
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 5.201.709.230

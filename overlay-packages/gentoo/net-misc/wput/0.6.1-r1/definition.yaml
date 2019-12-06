@@ -1,0 +1,14 @@
+category: net-misc
+conflicts: []
+name: wput
+requires:
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+use_flags:
+- debug
+- nls
+- ssl
+version: 0.6.1-r1

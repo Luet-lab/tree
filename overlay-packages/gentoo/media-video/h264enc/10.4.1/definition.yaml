@@ -1,0 +1,84 @@
+category: media-video
+conflicts: []
+name: h264enc
+requires:
+- 
+  category: sys-process
+  name: time
+  
+  version: ""
+- 
+  category: media-sound
+  name: lame
+  
+  version: ""
+- 
+  category: media-video
+  name: mkvtoolnix
+  
+  version: ""
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pv
+  
+  version: ""
+- 
+  category: media-libs
+  name: faac
+  
+  version: ""
+- 
+  category: media-video
+  name: mplayer
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-video
+  name: gpac
+  
+  version: 0.4.5
+- 
+  category: media-sound
+  name: ogmtools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: sys-devel
+  name: bc
+  
+  version: ""
+- 
+  category: media-sound
+  name: aacplusenc
+  
+  version: ""
+- 
+  category: media-video
+  name: lsdvd
+  
+  version: ""
+use_flags:
+- aac
+- dvd
+- flac
+- lame
+- matroska
+- mp4
+- ogm
+- vorbis
+version: 10.4.1

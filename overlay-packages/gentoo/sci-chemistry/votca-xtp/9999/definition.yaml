@@ -1,0 +1,32 @@
+category: sci-chemistry
+conflicts: []
+name: votca-xtp
+requires:
+- 
+  category: sci-libs
+  name: votca-tools
+  
+  version: "9999"
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: "3.3"
+- 
+  category: sci-chemistry
+  name: votca-csg
+  
+  version: "9999"
+- 
+  category: sci-libs
+  name: ceres-solver
+  
+  version: ""
+- 
+  category: sci-libs
+  name: libxc
+  
+  version: ""
+use_flags:
+- doc
+version: "9999"

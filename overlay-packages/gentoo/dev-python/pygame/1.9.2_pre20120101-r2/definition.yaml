@@ -1,0 +1,44 @@
+category: dev-python
+conflicts: []
+name: pygame
+requires:
+- 
+  category: media-libs
+  name: sdl-ttf
+  
+  version: 2.0.6
+- 
+  category: media-libs
+  name: smpeg
+  
+  version: 0.4.4-r1
+- 
+  category: media-libs
+  name: libsdl-1.2.5[X,video]
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: 1.2.5
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl-image
+  
+  version: 1.2.2
+- 
+  category: media-libs
+  name: sdl-mixer
+  
+  version: 1.2.4
+use_flags:
+- doc
+- examples
+- X
+version: 1.9.2_pre20120101-r2

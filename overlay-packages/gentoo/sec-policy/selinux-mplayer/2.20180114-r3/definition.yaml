@@ -1,0 +1,5 @@
+category: sec-policy
+name: selinux-mplayer
+use_flags:
+- alsa
+version: 2.20180114-r3

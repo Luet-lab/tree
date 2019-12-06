@@ -1,0 +1,7 @@
+category: games-misc
+conflicts: []
+name: opengfx
+requires: []
+use_flags:
+- ""
+version: 0.5.5

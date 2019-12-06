@@ -1,0 +1,7 @@
+category: app-doc
+conflicts: []
+name: single-unix-specification
+requires: []
+use_flags:
+- ""
+version: 4_p2

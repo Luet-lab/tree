@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: lssbus
+requires: []
+use_flags:
+- ""
+version: "0.1"

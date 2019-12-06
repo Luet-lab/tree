@@ -1,0 +1,79 @@
+category: net-misc
+conflicts:
+- 
+  category: net-misc
+  name: openntpd
+  
+  version: ""
+- 
+  category: net-misc
+  name: ntp
+  
+  version: ""
+name: ntpsec
+requires:
+- 
+  category: dev-python
+  name: psutil
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: media-fonts
+  name: liberation-fonts
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libbsd
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libseccomp
+  
+  version: ""
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: ""
+use_flags:
+- oncore
+- trimble
+- truetime
+- gpsd
+- jjy
+- generic
+- spectracom
+- shm
+- pps
+- hpgps
+- zyfer
+- arbiter
+- nmea
+- neoclock
+- modem
+- local
+- debug
+- doc
+- early
+- gdb
+- heat
+- libbsd
+- nist
+- ntpviz
+- samba
+- seccomp
+- smear
+- tests
+version: 1.1.4

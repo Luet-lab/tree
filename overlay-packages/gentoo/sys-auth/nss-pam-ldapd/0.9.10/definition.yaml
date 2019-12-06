@@ -1,0 +1,3 @@
+category: sys-auth
+name: nss-pam-ldapd
+version: 0.9.10

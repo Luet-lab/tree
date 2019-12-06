@@ -1,0 +1,32 @@
+category: net-mail
+conflicts: []
+name: muchsync
+requires:
+- 
+  category: net-mail
+  name: notmuch
+  
+  version: ""
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: xapian
+  
+  version: ""
+use_flags:
+- ""
+version: "5"

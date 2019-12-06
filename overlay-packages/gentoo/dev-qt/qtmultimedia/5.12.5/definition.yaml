@@ -1,0 +1,83 @@
+category: dev-qt
+conflicts: []
+name: qtmultimedia
+requires:
+- 
+  category: dev-qt
+  name: qtgui-5.12.5[gles2=]
+  
+  version: ""
+- 
+  category: media-libs
+  name: gst-plugins-bad
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.5
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets-5.12.5[gles2=]
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.12.5
+- 
+  category: media-libs
+  name: gstreamer
+  
+  version: ""
+- 
+  category: media-libs
+  name: gst-plugins-base
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: 5.12.5
+use_flags:
+- alsa
+- gles2
+- gstreamer
+- openal
+- pulseaudio
+- qml
+- widgets
+version: 5.12.5

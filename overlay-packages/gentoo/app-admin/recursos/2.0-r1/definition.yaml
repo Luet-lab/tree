@@ -1,0 +1,22 @@
+category: app-admin
+conflicts: []
+name: recursos
+requires:
+- 
+  category: net-analyzer
+  name: rrdtool
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+use_flags:
+- ""
+version: 2.0-r1

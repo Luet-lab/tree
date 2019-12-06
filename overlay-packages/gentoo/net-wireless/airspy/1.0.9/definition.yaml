@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: airspy
+requires:
+- 
+  category: virtual
+  name: udev
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- +udev
+version: 1.0.9

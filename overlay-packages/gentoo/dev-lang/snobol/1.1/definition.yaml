@@ -1,0 +1,7 @@
+category: dev-lang
+conflicts: []
+name: snobol
+requires: []
+use_flags:
+- ""
+version: "1.1"

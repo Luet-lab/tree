@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: jsonlint
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- test
+version: 1.7.2

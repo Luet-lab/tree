@@ -1,0 +1,5 @@
+category: dev-python
+name: snakeoil
+use_flags:
+- test
+version: "9999"

@@ -1,0 +1,27 @@
+category: dev-libs
+conflicts: []
+name: libisofs
+requires:
+- 
+  category: virtual
+  name: acl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- acl
+- debug
+- static-libs
+- verbose-debug
+- xattr
+- zlib
+version: 1.5.0

@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: rocminfo
+requires:
+- 
+  category: dev-libs
+  name: rocr-runtime
+  
+  version: ""
+version: 2.9.0

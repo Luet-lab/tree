@@ -1,0 +1,15 @@
+category: mate-extra
+conflicts: []
+name: mate-user-guide
+requires:
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: gnome-extra
+  name: yelp
+  
+  version: ""
+version: 1.22.2

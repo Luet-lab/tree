@@ -1,0 +1,12 @@
+category: media-radio
+conflicts: []
+name: fsync-mdc1200-decode
+requires:
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

@@ -1,0 +1,13 @@
+category: media-libs
+conflicts: []
+name: libmpd
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.16"
+use_flags:
+- doc
+- static-libs
+version: 11.8.17-r1

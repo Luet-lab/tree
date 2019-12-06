@@ -1,0 +1,12 @@
+category: app-crypt
+conflicts: []
+name: minisign
+requires:
+- 
+  category: dev-libs
+  name: libsodium
+  
+  version: 1.0.16
+use_flags:
+- ""
+version: "0.8"

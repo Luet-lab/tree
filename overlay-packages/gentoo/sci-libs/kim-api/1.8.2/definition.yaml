@@ -1,0 +1,7 @@
+category: sci-libs
+conflicts: []
+name: kim-api
+requires: []
+use_flags:
+- ""
+version: 1.8.2

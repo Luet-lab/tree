@@ -1,0 +1,30 @@
+category: dev-libs
+conflicts: []
+name: rocm-opencl-runtime
+requires:
+- 
+  category: dev-libs
+  name: rocr-runtime
+  
+  version: 2.10.0
+- 
+  category: dev-libs
+  name: rocm-comgr
+  
+  version: 2.10.0
+- 
+  category: dev-libs
+  name: rocm-device-libs
+  
+  version: 2.10.0
+- 
+  category: dev-libs
+  name: rocm-opencl-driver
+  
+  version: 2.10.0
+- 
+  category: dev-libs
+  name: ocl-icd
+  
+  version: ""
+version: 2.10.0

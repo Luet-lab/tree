@@ -1,0 +1,20 @@
+category: dev-python
+conflicts: []
+name: SaltTesting
+requires:
+- 
+  category: dev-python
+  name: psutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: requests
+  
+  version: 2.4.2
+- 
+  category: dev-python
+  name: six
+  
+  version: ""
+version: 2017.6.1

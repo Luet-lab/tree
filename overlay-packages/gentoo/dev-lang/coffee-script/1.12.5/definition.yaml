@@ -1,0 +1,13 @@
+category: dev-lang
+conflicts: []
+name: coffee-script
+requires:
+- 
+  category: net-libs
+  name: nodejs
+  
+  version: ""
+use_flags:
+- doc
+- examples
+version: 1.12.5

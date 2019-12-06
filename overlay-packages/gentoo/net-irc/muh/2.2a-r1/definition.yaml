@@ -1,0 +1,7 @@
+category: net-irc
+conflicts: []
+name: muh
+requires: []
+use_flags:
+- ipv6
+version: 2.2a-r1

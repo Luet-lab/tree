@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: man-pages-zh_CN
+requires:
+- 
+  category: virtual
+  name: man
+  
+  version: ""
+use_flags:
+- ""
+version: 1.6.3.2

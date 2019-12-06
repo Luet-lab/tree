@@ -1,0 +1,12 @@
+category: app-portage
+conflicts: []
+name: elt-patches
+requires:
+- 
+  category: sys-apps
+  name: gentoo-functions
+  
+  version: ""
+use_flags:
+- ""
+version: "20170815"

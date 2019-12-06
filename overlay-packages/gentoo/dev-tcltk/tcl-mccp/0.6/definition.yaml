@@ -1,0 +1,12 @@
+category: dev-tcltk
+conflicts: []
+name: tcl-mccp
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+use_flags:
+- static-libs
+version: "0.6"

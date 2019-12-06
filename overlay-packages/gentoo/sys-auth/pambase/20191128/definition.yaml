@@ -1,0 +1,71 @@
+category: sys-auth
+conflicts: []
+name: pambase
+requires:
+- 
+  category: sys-libs
+  name: pam
+  
+  version: 1.1.3
+- 
+  category: sys-auth
+  name: pam_ssh
+  
+  version: ""
+- 
+  category: sys-auth
+  name: pam_passwdqc
+  
+  version: ""
+- 
+  category: sys-auth
+  name: pam_krb5
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: sys-auth
+  name: consolekit
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sys-auth
+  name: elogind
+  
+  version: ""
+- 
+  category: sys-auth
+  name: pam_mktemp
+  
+  version: ""
+use_flags:
+- caps
+- consolekit
+- +cracklib
+- debug
+- elogind
+- minimal
+- mktemp
+- +nullok
+- pam_krb5
+- pam_ssh
+- passwdqc
+- securetty
+- selinux
+- +sha512
+- systemd
+version: "20191128"

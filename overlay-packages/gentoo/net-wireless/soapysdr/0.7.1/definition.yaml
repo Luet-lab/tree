@@ -1,0 +1,12 @@
+category: net-wireless
+conflicts: []
+name: soapysdr
+requires: []
+use_flags:
+- bladerf
+- hackrf
+- python
+- rtlsdr
+- plutosdr
+- uhd
+version: 0.7.1

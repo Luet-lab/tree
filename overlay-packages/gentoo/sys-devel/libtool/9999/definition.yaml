@@ -1,0 +1,32 @@
+category: sys-devel
+conflicts:
+- 
+  category: <sys-apps
+  name: sandbox
+  
+  version: 2.10-r4
+name: libtool
+requires:
+- 
+  category: sys-devel
+  name: gnuconfig
+  
+  version: ""
+- 
+  category: sys-devel
+  name: autoconf
+  
+  version: "2.69"
+- 
+  category: sys-devel
+  name: automake
+  
+  version: "1.13"
+- 
+  category: dev-libs
+  name: libltdl
+  
+  version: ""
+use_flags:
+- vanilla
+version: "9999"

@@ -1,0 +1,52 @@
+category: net-analyzer
+conflicts: []
+name: sguil-client
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: "8.3"
+- 
+  category: dev-tcltk
+  name: tclx
+  
+  version: "8.3"
+- 
+  category: dev-tcltk
+  name: tcllib
+  
+  version: ""
+- 
+  category: dev-tcltk
+  name: tls
+  
+  version: 1.4.1
+- 
+  category: dev-lang
+  name: tk
+  
+  version: "8.3"
+- 
+  category: dev-tcltk
+  name: itcl
+  
+  version: "3.2"
+- 
+  category: dev-tcltk
+  name: itk
+  
+  version: ""
+- 
+  category: dev-tcltk
+  name: iwidgets
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: wireshark
+  
+  version: ""
+use_flags:
+- ssl
+version: 1.0.0

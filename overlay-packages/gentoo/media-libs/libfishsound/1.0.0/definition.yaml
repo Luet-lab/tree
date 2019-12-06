@@ -1,0 +1,28 @@
+category: media-libs
+conflicts: []
+name: libfishsound
+requires:
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  name: speex
+  
+  version: ""
+use_flags:
+- flac
+- speex
+version: 1.0.0

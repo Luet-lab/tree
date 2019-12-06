@@ -1,0 +1,27 @@
+category: app-forensics
+conflicts: []
+name: air
+requires:
+- 
+  category: sys-apps
+  name: coreutils
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: netcat
+  
+  version: ""
+- 
+  category: app-arch
+  name: mt-st
+  
+  version: ""
+- 
+  category: net-analyzer
+  name: cryptcat
+  
+  version: ""
+use_flags:
+- crypt
+version: 2.0.0-r2

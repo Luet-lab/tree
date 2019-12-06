@@ -1,0 +1,12 @@
+category: app-shells
+conflicts: []
+name: bashish
+requires:
+- 
+  category: dev-util
+  name: dialog
+  
+  version: "1.0"
+use_flags:
+- ""
+version: 2.2.4

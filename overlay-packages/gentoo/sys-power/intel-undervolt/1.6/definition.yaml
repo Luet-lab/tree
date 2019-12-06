@@ -1,0 +1,7 @@
+category: sys-power
+conflicts: []
+name: intel-undervolt
+requires: []
+use_flags:
+- ""
+version: "1.6"

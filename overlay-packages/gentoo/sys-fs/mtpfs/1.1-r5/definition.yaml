@@ -1,0 +1,33 @@
+category: sys-fs
+conflicts: []
+name: mtpfs
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmtp
+  
+  version: 1.1.2
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: "3"
+- 
+  category: media-libs
+  name: libid3tag
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmad
+  
+  version: ""
+use_flags:
+- debug
+- mad
+version: 1.1-r5

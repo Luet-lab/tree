@@ -1,0 +1,7 @@
+category: dev-lang
+conflicts: []
+name: nwcc
+requires: []
+use_flags:
+- ""
+version: 0.8.3

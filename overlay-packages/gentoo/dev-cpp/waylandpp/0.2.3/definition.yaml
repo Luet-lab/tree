@@ -1,0 +1,17 @@
+category: dev-cpp
+conflicts: []
+name: waylandpp
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: 1.11.0
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+use_flags:
+- doc
+version: 0.2.3

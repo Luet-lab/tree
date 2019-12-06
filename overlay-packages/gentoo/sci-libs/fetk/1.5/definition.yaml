@@ -1,0 +1,32 @@
+category: sci-libs
+conflicts: []
+name: fetk
+requires:
+- 
+  category: sci-libs
+  name: punc
+  
+  version: "1.5"
+- 
+  category: dev-libs
+  name: maloc
+  
+  version: "1.5"
+- 
+  category: media-libs
+  name: sg
+  
+  version: "1.5"
+- 
+  category: sci-libs
+  name: gamer
+  
+  version: "1.5"
+- 
+  category: sci-libs
+  name: mc
+  
+  version: "1.5"
+use_flags:
+- ""
+version: "1.5"

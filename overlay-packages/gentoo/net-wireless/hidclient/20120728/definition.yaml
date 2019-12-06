@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: hidclient
+requires:
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xinput
+  
+  version: ""
+use_flags:
+- ""
+version: "20120728"

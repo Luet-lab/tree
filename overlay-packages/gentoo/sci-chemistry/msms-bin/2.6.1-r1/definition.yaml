@@ -1,0 +1,5 @@
+category: sci-chemistry
+name: msms-bin
+use_flags:
+- ""
+version: 2.6.1-r1

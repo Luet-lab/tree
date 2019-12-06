@@ -1,0 +1,13 @@
+category: app-i18n
+conflicts: []
+name: freewnn-1.1.1_alpha23
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- ipv6
+- uum
+version: ""

@@ -1,0 +1,10 @@
+category: app-i18n
+conflicts: []
+name: man-pages-fr
+requires:
+- 
+  category: virtual
+  name: man
+  
+  version: ""
+version: 3.70-r1

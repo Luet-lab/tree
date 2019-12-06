@@ -1,0 +1,32 @@
+category: x11-misc
+conflicts: []
+name: efax-gtk
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.10"
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: c++-gtk-utils
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- nls
+version: 3.2.13

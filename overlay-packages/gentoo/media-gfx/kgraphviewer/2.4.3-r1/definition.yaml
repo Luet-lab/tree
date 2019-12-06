@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts:
+- 
+  category: media-gfx
+  name: kgraphviewer
+  
+  version: ""
+name: kgraphviewer
+requires:
+- 
+  category: media-gfx
+  name: graphviz
+  
+  version: "2.30"
+use_flags:
+- ""
+version: 2.4.3-r1

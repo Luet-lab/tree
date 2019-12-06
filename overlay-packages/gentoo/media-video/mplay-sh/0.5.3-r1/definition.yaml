@@ -1,0 +1,17 @@
+category: media-video
+conflicts: []
+name: mplay-sh
+requires:
+- 
+  category: media-tv
+  name: gentoo-vdr-scripts
+  
+  version: ""
+- 
+  category: media-video
+  name: mplayer
+  
+  version: 0.90_rc4
+use_flags:
+- ""
+version: 0.5.3-r1

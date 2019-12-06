@@ -1,0 +1,23 @@
+category: app-emulation
+conflicts: []
+name: faudio
+requires:
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: 2.0.9
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+use_flags:
+- +abi_x86_32
+- +abi_x86_64
+- debug
+- ffmpeg
+- xnasong
+- test
+- utils
+version: "19.09"

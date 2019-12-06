@@ -1,0 +1,32 @@
+category: dev-php
+conflicts: []
+name: phpdocumentor-reflection-docblock
+requires:
+- 
+  category: dev-php
+  name: webmozart-assert
+  
+  version: "2"
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.6"
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-php
+  name: phpdocumentor-reflection-common
+  
+  version: "2"
+- 
+  category: dev-php
+  name: phpdocumentor-type-resolver
+  
+  version: "1"
+use_flags:
+- ""
+version: 3.1.1

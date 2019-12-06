@@ -1,0 +1,71 @@
+category: net-voip
+conflicts: []
+name: yate
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: media-libs
+  name: spandsp
+  
+  version: 0.0.3
+- 
+  category: media-libs
+  name: speex
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: ilbc-rfc3951
+  
+  version: ""
+- 
+  category: net-misc
+  name: dahdi
+  
+  version: ""
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: ""
+- 
+  category: virtual
+  name: mysql
+  
+  version: ""
+- 
+  category: media-sound
+  name: gsm
+  
+  version: ""
+use_flags:
+- doc
+- cpu_flags_x86_sse2
+- sctp
+- dahdi
+- zaptel
+- wpcard
+- tdmcard
+- wanpipe
+- +ilbc
+- +ilbc-webrtc
+- +isac-float
+- isac-fixed
+- postgres
+- mysql
+- +gsm
+- +speex
+- spandsp
+- +ssl
+- +zlib
+- amrnb
+version: 6.1.0

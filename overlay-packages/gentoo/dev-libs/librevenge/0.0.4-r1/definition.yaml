@@ -1,0 +1,13 @@
+category: dev-libs
+conflicts: []
+name: librevenge
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- doc
+- test
+version: 0.0.4-r1

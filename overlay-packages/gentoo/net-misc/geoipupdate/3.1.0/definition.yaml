@@ -1,0 +1,20 @@
+category: net-misc
+conflicts:
+- 
+  category: <dev-libs
+  name: geoip
+  
+  version: 1.6.0
+name: geoipupdate
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+version: 3.1.0

@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-electron
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: ""
+use_flags:
+- ""
+version: "2.1"

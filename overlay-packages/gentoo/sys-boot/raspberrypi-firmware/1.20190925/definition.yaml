@@ -1,0 +1,10 @@
+category: sys-boot
+conflicts:
+- 
+  category: <=sys-kernel
+  name: raspberrypi-image
+  
+  version: 4.19.57_p20190709
+name: raspberrypi-firmware
+requires: []
+version: "1.20190925"

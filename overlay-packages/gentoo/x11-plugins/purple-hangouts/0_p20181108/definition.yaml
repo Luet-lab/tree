@@ -1,0 +1,30 @@
+category: x11-plugins
+conflicts: []
+name: purple-hangouts
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf-c
+  
+  version: ""
+version: 0_p20181108

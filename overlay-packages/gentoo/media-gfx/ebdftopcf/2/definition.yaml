@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: ebdftopcf
+requires:
+- 
+  category: x11-apps
+  name: bdftopcf
+  
+  version: ""
+- 
+  category: app-arch
+  name: gzip
+  
+  version: ""
+use_flags:
+- ""
+version: "2"

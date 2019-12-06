@@ -1,0 +1,13 @@
+category: dev-php
+conflicts: []
+name: PEAR-Net_SmartIRC
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- doc
+- examples
+version: 1.1.10-r1

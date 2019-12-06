@@ -1,0 +1,42 @@
+category: gnome-extra
+conflicts: []
+name: gnome-shell-frippery
+requires:
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: app-eselect
+  name: eselect-gnome-shell-extensions
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gjs
+  
+  version: "1.29"
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gnome-menus
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gnome-shell
+  
+  version: "3.32"
+- 
+  category: media-libs
+  name: clutter
+  
+  version: ""
+use_flags:
+- ""
+version: 3.32.1

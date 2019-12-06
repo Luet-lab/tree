@@ -1,0 +1,30 @@
+category: media-libs
+conflicts: []
+name: libzmf
+requires:
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- test
+- tools
+version: "9999"

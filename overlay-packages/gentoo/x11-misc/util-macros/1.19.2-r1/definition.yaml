@@ -1,0 +1,5 @@
+category: x11-misc
+name: util-macros
+use_flags:
+- ""
+version: 1.19.2-r1

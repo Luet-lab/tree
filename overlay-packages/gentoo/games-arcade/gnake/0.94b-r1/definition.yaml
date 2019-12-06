@@ -1,0 +1,12 @@
+category: games-arcade
+conflicts: []
+name: gnake
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- ""
+version: 0.94b-r1

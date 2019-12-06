@@ -1,0 +1,50 @@
+category: net-mail
+conflicts: []
+name: imapsync
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Digest-HMAC
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-Socket-SSL
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-MIME-Base64
+  
+  version: ""
+- 
+  category: dev-perl
+  name: File-Copy-Recursive
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-Tee
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Mail-IMAPClient
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+version: 1.592-r1

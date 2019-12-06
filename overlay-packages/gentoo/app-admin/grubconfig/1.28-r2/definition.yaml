@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: grubconfig
+requires:
+- 
+  category: dev-util
+  name: dialog
+  
+  version: "0.7"
+use_flags:
+- ""
+version: 1.28-r2

@@ -1,0 +1,36 @@
+category: net-libs
+conflicts: []
+name: loudmouth
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.16"
+- 
+  category: net-dns
+  name: libidn
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 1.4.0
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libasyncns
+  
+  version: "0.3"
+use_flags:
+- asyncns
+- ssl
+- openssl
+- static-libs
+- test
+version: 1.5.3-r3

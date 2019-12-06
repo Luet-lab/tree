@@ -1,0 +1,47 @@
+category: app-editors
+conflicts: []
+name: xvile
+requires:
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: 1.0.0
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: 1.0.1
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: 3.5.4.2
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: app-editors
+  name: vile
+  
+  version: 9.8t
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: 1.0.0
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: 1.0.0
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: 1.0.0
+use_flags:
+- perl
+version: 9.8t

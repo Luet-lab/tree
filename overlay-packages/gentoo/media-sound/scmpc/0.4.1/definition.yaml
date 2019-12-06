@@ -1,0 +1,27 @@
+category: media-sound
+conflicts: []
+name: scmpc
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: confuse
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmpdclient
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.4.1

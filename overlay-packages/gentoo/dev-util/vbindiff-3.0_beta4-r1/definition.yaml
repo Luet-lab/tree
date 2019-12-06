@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: vbindiff-3.0_beta4-r1
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- debug
+version: ""

@@ -1,0 +1,102 @@
+category: dev-ml
+conflicts: []
+name: core_kernel
+requires:
+- 
+  category: dev-ml
+  name: variantslib
+  
+  version: ""
+- 
+  category: dev-ml
+  name: base
+  
+  version: ""
+- 
+  category: dev-ml
+  name: fieldslib
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_assert
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_inline_test
+  
+  version: ""
+- 
+  category: dev-ml
+  name: stdio
+  
+  version: ""
+- 
+  category: dev-ml
+  name: typerep
+  
+  version: ""
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: bin-prot
+  
+  version: ""
+- 
+  category: dev-ml
+  name: configurator
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_base
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_hash
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_sexp_conv
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_sexp_message
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: jane-street-headers
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: sexplib
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.1

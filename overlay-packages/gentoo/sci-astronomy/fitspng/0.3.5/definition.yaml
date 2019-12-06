@@ -1,0 +1,17 @@
+category: sci-astronomy
+conflicts: []
+name: fitspng
+requires:
+- 
+  category: sci-libs
+  name: cfitsio
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- doc
+version: 0.3.5

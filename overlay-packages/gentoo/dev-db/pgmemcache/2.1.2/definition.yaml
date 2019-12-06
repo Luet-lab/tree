@@ -1,0 +1,22 @@
+category: dev-db
+conflicts: []
+name: pgmemcache
+requires:
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: ""
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libmemcached
+  
+  version: 1.0.18
+use_flags:
+- ""
+version: 2.1.2

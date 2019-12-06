@@ -1,0 +1,18 @@
+category: net-analyzer
+conflicts: []
+name: multimon-ng
+requires:
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- pulseaudio
+- X
+version: 1.1.4

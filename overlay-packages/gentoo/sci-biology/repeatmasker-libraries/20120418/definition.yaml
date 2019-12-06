@@ -1,0 +1,7 @@
+category: sci-biology
+conflicts: []
+name: repeatmasker-libraries
+requires: []
+use_flags:
+- ""
+version: "20120418"

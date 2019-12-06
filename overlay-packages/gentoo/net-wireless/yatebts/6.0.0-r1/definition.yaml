@@ -1,0 +1,32 @@
+category: net-wireless
+conflicts: []
+name: yatebts
+requires:
+- 
+  category: net-voip
+  name: yate
+  
+  version: 6.0.0
+- 
+  category: net-wireless
+  name: bladerf
+  
+  version: ""
+- 
+  category: net-wireless
+  name: uhd
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- rad1
+- usrp1
+- uhd
+- +bladerf
+- cpu_flags_x86_sse3
+- cpu_flags_x86_sse4_1
+version: 6.0.0-r1

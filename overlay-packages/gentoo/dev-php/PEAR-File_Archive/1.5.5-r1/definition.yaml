@@ -1,0 +1,37 @@
+category: dev-php
+conflicts: []
+name: PEAR-File_Archive
+requires:
+- 
+  category: dev-php
+  name: PEAR-Mail
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Cache_Lite
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-MIME_Type
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-PEAR
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Mail_Mime
+  
+  version: ""
+use_flags:
+- minimal
+version: 1.5.5-r1

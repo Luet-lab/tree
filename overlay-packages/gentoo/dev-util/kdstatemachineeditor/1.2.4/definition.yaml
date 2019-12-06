@@ -1,0 +1,33 @@
+category: dev-util
+conflicts: []
+name: kdstatemachineeditor
+requires:
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+use_flags:
+- doc
+- test
+version: 1.2.4

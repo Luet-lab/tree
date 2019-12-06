@@ -1,0 +1,10 @@
+category: app-vim
+conflicts: []
+name: vimagit
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+version: 1.7.1

@@ -1,0 +1,35 @@
+category: media-sound
+conflicts: []
+name: adplay
+requires:
+- 
+  category: media-libs
+  name: adplug
+  
+  version: 2.2.1
+- 
+  category: dev-cpp
+  name: libbinio
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libao
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+use_flags:
+- alsa
+- ao
+- oss
+- sdl
+version: "1.8"

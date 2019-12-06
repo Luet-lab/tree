@@ -1,0 +1,12 @@
+category: net-dns
+conflicts: []
+name: valtz
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7-r3

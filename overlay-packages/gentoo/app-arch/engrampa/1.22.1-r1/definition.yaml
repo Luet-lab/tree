@@ -1,0 +1,59 @@
+category: app-arch
+conflicts:
+- 
+  category: '!app-arch'
+  name: mate-file-archiver
+  
+  version: ""
+name: engrampa
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: "0.14"
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: mate-base
+  name: caja
+  
+  version: 1.17.1
+- 
+  category: sys-apps
+  name: file
+  
+  version: ""
+- 
+  category: app-admin
+  name: packagekit-base
+  
+  version: ""
+use_flags:
+- caja
+- magic
+- packagekit
+version: 1.22.1-r1

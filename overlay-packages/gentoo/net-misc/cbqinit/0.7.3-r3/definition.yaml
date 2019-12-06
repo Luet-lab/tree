@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: cbqinit
+requires:
+- 
+  category: sys-apps
+  name: iproute2
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7.3-r3

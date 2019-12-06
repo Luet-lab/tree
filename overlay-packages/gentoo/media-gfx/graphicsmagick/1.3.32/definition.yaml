@@ -1,0 +1,129 @@
+category: media-gfx
+conflicts:
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+name: graphicsmagick
+requires:
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: lcms
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: media-fonts
+  name: urw-fonts
+  
+  version: ""
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libltdl
+  
+  version: ""
+- 
+  category: media-libs
+  name: jbigkit
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libwmf
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: "2"
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: media-libs
+  name: libfpx
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+use_flags:
+- bzip2
+- cxx
+- debug
+- fpx
+- imagemagick
+- jbig
+- jpeg
+- lcms
+- lzma
+- modules
+- "openmp\n\tperl"
+- png
+- postscript
+- q16
+- q32
+- static-libs
+- svg
+- threads
+- tiff
+- "truetype\n\twebp"
+- wmf
+- X
+- zlib
+version: 1.3.32

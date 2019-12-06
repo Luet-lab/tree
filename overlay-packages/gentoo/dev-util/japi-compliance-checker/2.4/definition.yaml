@@ -1,0 +1,15 @@
+category: dev-util
+conflicts: []
+name: japi-compliance-checker
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5"
+- 
+  category: virtual
+  name: jdk
+  
+  version: "1.8"
+version: "2.4"

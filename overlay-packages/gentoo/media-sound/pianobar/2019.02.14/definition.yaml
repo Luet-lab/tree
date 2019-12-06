@@ -1,0 +1,38 @@
+category: media-sound
+conflicts: []
+name: pianobar
+requires:
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: "3.1"
+- 
+  category: media-libs
+  name: libao
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-c
+  
+  version: ""
+- 
+  category: media-video
+  name: libav
+  
+  version: "12"
+use_flags:
+- libav
+- static-libs
+version: 2019.02.14

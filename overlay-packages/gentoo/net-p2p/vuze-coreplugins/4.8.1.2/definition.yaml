@@ -1,0 +1,12 @@
+category: net-p2p
+conflicts: []
+name: vuze-coreplugins
+requires:
+- 
+  category: net-p2p
+  name: vuze
+  
+  version: 4.8.1.2
+use_flags:
+- ""
+version: 4.8.1.2

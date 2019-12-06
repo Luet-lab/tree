@@ -1,0 +1,12 @@
+category: app-eselect
+conflicts: []
+name: eselect-rails
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.0
+use_flags:
+- ""
+version: "0.24"

@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: libdivecomputer
+requires:
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- bluetooth
+version: 0.6.0

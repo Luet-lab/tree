@@ -1,0 +1,83 @@
+category: sci-chemistry
+conflicts: []
+name: gromacs
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: virtual
+  name: lapack
+  
+  version: ""
+- 
+  category: virtual
+  name: blas
+  
+  version: ""
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: 4.2.9-r1
+- 
+  category: sys-apps
+  name: hwloc
+  
+  version: "2"
+- 
+  category: sci-libs
+  name: mkl
+  
+  version: ""
+- 
+  category: virtual
+  name: mpi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+use_flags:
+- X
+- blas
+- cuda
+- +doc
+- -double-precision
+- +fftw
+- +hwloc
+- lapack
+- mkl
+- mpi
+- +offensive
+- opencl
+- openmp
+- +single-precision
+- test
+- +threads
+- +tng
+- cpu_flags_x86_sse2
+- cpu_flags_x86_sse4_1
+- cpu_flags_x86_fma4
+- cpu_flags_x86_avx
+- cpu_flags_x86_avx2
+version: "2018.7"

@@ -1,0 +1,27 @@
+category: net-misc
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.12"
+- 
+  category: <sys-fs
+  name: udev-init-scripts
+  
+  version: 26-r1
+- 
+  category: <sys-fs
+  name: udev
+  
+  version: "172"
+name: netifrc
+requires:
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: "0.12"
+use_flags:
+- ""
+version: 0.2.4

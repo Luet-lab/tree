@@ -1,0 +1,7 @@
+category: app-doc
+conflicts: []
+name: abs-guide
+requires: []
+use_flags:
+- pdf
+version: "10"

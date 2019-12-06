@@ -1,0 +1,3 @@
+category: app-metrics
+name: blackbox_exporter
+version: 0.16.0

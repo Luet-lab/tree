@@ -1,0 +1,25 @@
+category: www-servers
+conflicts: []
+name: sniproxy
+requires:
+- 
+  category: dev-libs
+  name: libev
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: "3"
+- 
+  category: net-libs
+  name: udns
+  
+  version: ""
+use_flags:
+- +dns
+- +largefile
+- rfc3339
+- test
+version: 0.6.0

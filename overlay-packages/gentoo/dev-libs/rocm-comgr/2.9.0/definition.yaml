@@ -1,0 +1,15 @@
+category: dev-libs
+conflicts: []
+name: rocm-comgr
+requires:
+- 
+  category: dev-libs
+  name: rocm-device-libs
+  
+  version: 2.9.0
+- 
+  category: sys-devel
+  name: llvm-roc
+  
+  version: 2.9.0
+version: 2.9.0

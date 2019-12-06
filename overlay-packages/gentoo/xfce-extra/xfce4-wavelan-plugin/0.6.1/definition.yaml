@@ -1,0 +1,22 @@
+category: xfce-extra
+conflicts: []
+name: xfce4-wavelan-plugin
+requires:
+- 
+  category: xfce-base
+  name: libxfce4ui
+  
+  version: "4.12"
+- 
+  category: xfce-base
+  name: xfce4-panel
+  
+  version: "4.12"
+- 
+  category: sys-apps
+  name: net-tools
+  
+  version: ""
+use_flags:
+- kernel_linux
+version: 0.6.1

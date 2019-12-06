@@ -1,0 +1,22 @@
+category: net-misc
+conflicts:
+- 
+  category: net-mail
+  name: qlogtools
+  
+  version: ""
+name: spiped
+requires:
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- libressl
+version: 1.6.0-r1

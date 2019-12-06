@@ -1,0 +1,12 @@
+category: net-print
+conflicts: []
+name: cups-bjnp
+requires:
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.1

@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: gkrellm-themes
+requires:
+- 
+  category: app-admin
+  name: gkrellm
+  
+  version: "2.1"
+use_flags:
+- ""
+version: "0.1"

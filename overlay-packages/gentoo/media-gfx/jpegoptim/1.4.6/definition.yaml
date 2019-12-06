@@ -1,0 +1,10 @@
+category: media-gfx
+conflicts: []
+name: jpegoptim
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+version: 1.4.6

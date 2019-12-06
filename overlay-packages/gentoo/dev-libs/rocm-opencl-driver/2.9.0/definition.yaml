@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: rocm-opencl-driver
+requires:
+- 
+  category: sys-devel
+  name: llvm-roc
+  
+  version: 2.9.0
+- 
+  category: dev-libs
+  name: rocr-runtime
+  
+  version: 2.9.0
+use_flags:
+- test
+version: 2.9.0

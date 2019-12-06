@@ -1,0 +1,12 @@
+category: app-editors
+conflicts: []
+name: shed
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- ""
+version: "1.13"

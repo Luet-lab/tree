@@ -1,0 +1,72 @@
+category: media-fonts
+conflicts: []
+name: lohit-fonts
+requires:
+- 
+  category: media-fonts
+  name: lohit-odia
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-telugu
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-gujarati
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-kannada
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-nepali
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-gurmukhi
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-malayalam
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-marathi
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-tamil
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-tamil-classical
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-assamese
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-bengali
+  
+  version: "2"
+- 
+  category: media-fonts
+  name: lohit-devanagari
+  
+  version: "2"
+use_flags:
+- ""
+version: "2.20150220"

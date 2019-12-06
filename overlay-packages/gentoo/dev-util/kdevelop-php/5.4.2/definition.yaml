@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: kdevelop-php
+requires:
+- 
+  category: dev-util
+  name: kdevelop-pg-qt
+  
+  version: ""
+- 
+  category: dev-util
+  name: kdevelop
+  
+  version: ""
+use_flags:
+- ""
+version: 5.4.2

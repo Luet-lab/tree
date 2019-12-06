@@ -1,0 +1,12 @@
+category: sys-auth
+conflicts:
+- 
+  category: '>=sys-apps'
+  name: systemd
+  
+  version: "197"
+name: nss-myhostname
+requires: []
+use_flags:
+- ""
+version: "0.3"

@@ -1,0 +1,19 @@
+category: app-text
+conflicts: []
+name: libmwaw
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- doc
+- static-libs
+- tools
+version: 0.3.15

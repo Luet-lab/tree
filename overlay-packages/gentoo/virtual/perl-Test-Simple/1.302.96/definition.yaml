@@ -1,0 +1,25 @@
+category: virtual
+conflicts:
+- 
+  category: <dev-perl
+  name: Test-Tester
+  
+  version: 0.114.0
+- 
+  category: <dev-perl
+  name: Test-use-ok
+  
+  version: 0.160.0
+name: perl-Test-Simple
+requires:
+- 
+  category: perl-core
+  name: Test-Simple
+  
+  version: 1.302.96
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.302.96

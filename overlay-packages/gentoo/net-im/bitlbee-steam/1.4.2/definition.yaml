@@ -1,0 +1,20 @@
+category: net-im
+conflicts: []
+name: bitlbee-steam
+requires:
+- 
+  category: net-im
+  name: bitlbee
+  
+  version: "3.4"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+version: 1.4.2

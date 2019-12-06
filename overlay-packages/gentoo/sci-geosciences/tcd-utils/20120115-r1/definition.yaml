@@ -1,0 +1,12 @@
+category: sci-geosciences
+conflicts: []
+name: tcd-utils
+requires:
+- 
+  category: sci-geosciences
+  name: libtcd
+  
+  version: 2.2.4
+use_flags:
+- ""
+version: 20120115-r1

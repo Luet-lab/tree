@@ -1,0 +1,8 @@
+category: dev-libs
+conflicts: []
+name: libburn
+requires: []
+use_flags:
+- debug
+- static-libs
+version: 1.5.0

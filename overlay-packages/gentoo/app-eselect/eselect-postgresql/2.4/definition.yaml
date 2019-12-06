@@ -1,0 +1,10 @@
+category: app-eselect
+conflicts: []
+name: eselect-postgresql
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: ""
+version: "2.4"

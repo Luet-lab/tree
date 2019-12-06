@@ -1,0 +1,5 @@
+category: sys-process
+name: numad
+use_flags:
+- ""
+version: "0.5"

@@ -1,0 +1,17 @@
+category: games-util
+conflicts: []
+name: linux-wbfs-manager
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libglade
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: wayland-protocols
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+use_flags:
+- ""
+version: "1.18"

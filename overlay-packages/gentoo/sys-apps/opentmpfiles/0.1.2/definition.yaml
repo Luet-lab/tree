@@ -1,0 +1,17 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: "0.23"
+name: opentmpfiles
+requires:
+- 
+  category: sec-policy
+  name: selinux-base-policy
+  
+  version: ""
+use_flags:
+- selinux
+version: 0.1.2

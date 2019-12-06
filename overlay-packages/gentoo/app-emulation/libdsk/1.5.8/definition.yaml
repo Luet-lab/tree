@@ -1,0 +1,5 @@
+category: app-emulation
+name: libdsk
+use_flags:
+- doc
+version: 1.5.8

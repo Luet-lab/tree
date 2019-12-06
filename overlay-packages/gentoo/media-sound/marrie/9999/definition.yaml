@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: marrie
+requires:
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+- 
+  category: dev-python
+  name: feedparser
+  
+  version: 5.1.3
+use_flags:
+- doc
+version: "9999"

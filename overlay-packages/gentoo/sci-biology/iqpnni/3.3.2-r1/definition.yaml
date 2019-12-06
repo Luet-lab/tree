@@ -1,0 +1,7 @@
+category: sci-biology
+conflicts: []
+name: iqpnni
+requires: []
+use_flags:
+- doc
+version: 3.3.2-r1

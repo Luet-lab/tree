@@ -1,0 +1,30 @@
+category: app-portage
+conflicts: []
+name: mgorny-dev-scripts
+requires:
+- 
+  category: app-portage
+  name: gentoolkit
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+- 
+  category: net-misc
+  name: wget
+  
+  version: ""
+- 
+  category: sys-apps
+  name: portage
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+version: "2"

@@ -1,0 +1,40 @@
+category: dev-util
+conflicts: []
+name: cloc
+requires:
+- 
+  category: virtual
+  name: perl-Digest-MD5
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Spec
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Temp
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Algorithm-Diff
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Regexp-Common
+  
+  version: ""
+version: "1.72"

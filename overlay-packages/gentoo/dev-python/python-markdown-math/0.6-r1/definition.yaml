@@ -1,0 +1,17 @@
+category: dev-python
+conflicts: []
+name: python-markdown-math
+requires:
+- 
+  category: dev-python
+  name: markdown
+  
+  version: 3.0.1
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+use_flags:
+- test
+version: 0.6-r1

@@ -1,0 +1,27 @@
+category: app-backup
+conflicts: []
+name: attic
+requires:
+- 
+  category: dev-python
+  name: llfuse
+  
+  version: ""
+- 
+  category: dev-python
+  name: msgpack
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 0.16-r1

@@ -1,0 +1,18 @@
+category: dev-tex
+conflicts: []
+name: bibtexu
+requires:
+- 
+  category: dev-libs
+  name: kpathsea
+  
+  version: 6.2.1
+- 
+  category: dev-libs
+  name: icu
+  
+  version: "4.4"
+use_flags:
+- doc
+- source
+version: 3.71_p20190410

@@ -1,0 +1,10 @@
+category: app-misc
+conflicts: []
+name: dvtm
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "6.1"
+version: 0.15-r3

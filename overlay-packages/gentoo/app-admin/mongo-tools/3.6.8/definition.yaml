@@ -1,0 +1,13 @@
+category: app-admin
+conflicts:
+- 
+  category: <dev-db
+  name: mongodb
+  
+  version: 3.0.0
+name: mongo-tools
+requires: []
+use_flags:
+- sasl
+- ssl
+version: 3.6.8

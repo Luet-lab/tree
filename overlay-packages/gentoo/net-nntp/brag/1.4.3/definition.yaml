@@ -1,0 +1,17 @@
+category: net-nntp
+conflicts: []
+name: brag
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: ""
+- 
+  category: app-text
+  name: uudeview
+  
+  version: ""
+use_flags:
+- ""
+version: 1.4.3

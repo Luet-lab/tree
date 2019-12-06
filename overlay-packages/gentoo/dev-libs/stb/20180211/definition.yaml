@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: stb
+requires: []
+use_flags:
+- ""
+version: "20180211"

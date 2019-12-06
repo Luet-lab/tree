@@ -1,0 +1,24 @@
+category: net-misc
+conflicts: []
+name: whois
+requires:
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: net-dns
+  name: libidn2
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- iconv
+- idn
+- nls
+version: 5.5.2

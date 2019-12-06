@@ -1,0 +1,82 @@
+category: app-misc
+conflicts: []
+name: mc
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXdmcp
+  
+  version: ""
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: ""
+- 
+  category: net-libs
+  name: libssh2
+  
+  version: ""
+- 
+  category: sys-libs
+  name: slang
+  
+  version: "2"
+- 
+  category: app-text
+  name: aspell
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.26.0
+- 
+  category: sys-libs
+  name: gpm
+  
+  version: ""
+- 
+  category: net-fs
+  name: samba
+  
+  version: ""
+use_flags:
+- +edit
+- gpm
+- nls
+- samba
+- sftp
+- +slang
+- spell
+- test
+- unicode
+- X
+- +xdg
+version: "9999"

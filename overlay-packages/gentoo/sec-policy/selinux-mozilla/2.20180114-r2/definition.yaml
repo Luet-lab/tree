@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-mozilla
+requires:
+- 
+  category: sec-policy
+  name: selinux-xserver
+  
+  version: ""
+use_flags:
+- alsa
+version: 2.20180114-r2

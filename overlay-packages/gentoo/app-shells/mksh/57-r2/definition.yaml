@@ -1,0 +1,7 @@
+category: app-shells
+name: mksh
+use_flags:
+- lksh
+- static
+- test
+version: 57-r2

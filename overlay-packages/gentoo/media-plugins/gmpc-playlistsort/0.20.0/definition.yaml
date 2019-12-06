@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: gmpc-playlistsort
+requires:
+- 
+  category: media-sound
+  name: gmpc
+  
+  version: 0.20.0
+- 
+  category: gnome-base
+  name: libglade
+  
+  version: "2"
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- ""
+version: 0.20.0

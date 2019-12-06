@@ -1,0 +1,3 @@
+category: mail-filter
+name: dovecot_deleted_to_trash
+version: "0.6"

@@ -1,0 +1,14 @@
+category: app-office
+conflicts: []
+name: libreoffice-bin-debug
+requires:
+- 
+  category: app-office
+  name: libreoffice-bin-6.2.8.2[gnome=,java=,kde=]
+  
+  version: ""
+use_flags:
+- gnome
+- java
+- kde
+version: 6.2.8.2

@@ -1,0 +1,20 @@
+category: app-text
+conflicts: []
+name: libstaroffice
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- tools
+- +zlib
+version: "9999"

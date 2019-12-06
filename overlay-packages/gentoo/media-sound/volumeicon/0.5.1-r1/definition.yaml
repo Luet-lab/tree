@@ -1,0 +1,32 @@
+category: media-sound
+conflicts: []
+name: volumeicon
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: "0.7"
+use_flags:
+- libnotify
+version: 0.5.1-r1

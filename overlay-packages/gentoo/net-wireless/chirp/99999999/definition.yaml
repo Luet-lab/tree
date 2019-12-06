@@ -1,0 +1,27 @@
+category: net-wireless
+conflicts: []
+name: chirp
+requires:
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygtk
+  
+  version: ""
+- 
+  category: dev-python
+  name: suds
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyserial
+  
+  version: ""
+use_flags:
+- radioreference
+version: "99999999"

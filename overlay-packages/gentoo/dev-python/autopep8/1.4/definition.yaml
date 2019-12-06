@@ -1,0 +1,17 @@
+category: dev-python
+conflicts: []
+name: autopep8
+requires:
+- 
+  category: dev-python
+  name: pep8
+  
+  version: 1.5.7
+- 
+  category: dev-python
+  name: pycodestyle
+  
+  version: "2.3"
+use_flags:
+- test
+version: "1.4"

@@ -1,0 +1,10 @@
+category: x11-misc
+conflicts: []
+name: sct
+requires:
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+version: "0.4"

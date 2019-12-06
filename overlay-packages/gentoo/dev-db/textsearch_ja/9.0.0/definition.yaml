@@ -1,0 +1,17 @@
+category: dev-db
+conflicts: []
+name: textsearch_ja
+requires:
+- 
+  category: app-text
+  name: mecab
+  
+  version: ""
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: "7.4"
+use_flags:
+- ""
+version: 9.0.0

@@ -1,0 +1,31 @@
+category: app-text
+conflicts: []
+name: qpdf
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5.8"
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- perl
+- static-libs
+- test
+version: 9.1.0

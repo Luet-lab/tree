@@ -1,0 +1,22 @@
+category: media-libs
+conflicts: []
+name: kodi-platform
+requires:
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+- 
+  category: dev-libs
+  name: libplatform
+  
+  version: "2"
+- 
+  category: dev-libs
+  name: tinyxml
+  
+  version: ""
+use_flags:
+- ""
+version: 18.0_pre20190429

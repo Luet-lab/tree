@@ -1,0 +1,5 @@
+category: app-misc
+name: ps3pf_utils
+use_flags:
+- ""
+version: "2.3"

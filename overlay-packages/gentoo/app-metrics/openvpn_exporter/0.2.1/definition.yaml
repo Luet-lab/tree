@@ -1,0 +1,3 @@
+category: app-metrics
+name: openvpn_exporter
+version: 0.2.1

@@ -1,0 +1,77 @@
+category: dev-util
+conflicts: []
+name: kdevelop-php
+requires:
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ktexteditor
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: 5.60.0
+- 
+  category: dev-util
+  name: kdevelop-pg-qt
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcmutils
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: threadweaver
+  
+  version: 5.60.0
+- 
+  category: dev-util
+  name: kdevelop
+  
+  version: ""
+use_flags:
+- ""
+version: 5.4.5

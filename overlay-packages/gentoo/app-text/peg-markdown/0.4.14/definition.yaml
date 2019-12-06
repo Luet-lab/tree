@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: peg-markdown
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- test
+version: 0.4.14

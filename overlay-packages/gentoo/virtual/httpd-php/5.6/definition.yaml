@@ -1,0 +1,15 @@
+category: virtual
+conflicts: []
+name: httpd-php
+requires:
+- 
+  category: '|| ( dev-lang'
+  name: php
+  
+  version: ""
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+version: "5.6"

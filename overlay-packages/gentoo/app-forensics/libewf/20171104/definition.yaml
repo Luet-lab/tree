@@ -1,0 +1,46 @@
+category: app-forensics
+conflicts: []
+name: libewf
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+use_flags:
+- bfio
+- bzip2
+- debug
+- +fuse
+- nls
+- +ssl
+- static-libs
+- +uuid
+- unicode
+- zlib
+version: "20171104"

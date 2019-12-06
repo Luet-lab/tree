@@ -1,0 +1,35 @@
+category: virtual
+conflicts:
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: musl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: uclibc-ng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: uclibc
+  
+  version: ""
+- 
+  category: sys-freebsd
+  name: freebsd-lib
+  
+  version: ""
+name: libc
+requires:
+- 
+  category: sys-libs
+  name: cygwin-crypt
+  
+  version: ""
+version: "1"

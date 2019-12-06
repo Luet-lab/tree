@@ -1,0 +1,39 @@
+category: net-print
+conflicts: []
+name: mtink
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: motif
+  
+  version: "2.3"
+- 
+  category: net-print
+  name: cups
+  
+  version: ""
+use_flags:
+- cups
+- doc
+- X
+version: 1.0.16-r2

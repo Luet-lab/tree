@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+name: gentoo-perl-helpers
+requires:
+- 
+  category: app-portage
+  name: portage-utils
+  
+  version: 0.80_pre20190620
+use_flags:
+- ""
+version: 0.4.0

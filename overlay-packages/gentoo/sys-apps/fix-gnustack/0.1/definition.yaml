@@ -1,0 +1,10 @@
+category: sys-apps
+conflicts: []
+name: fix-gnustack
+requires:
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+version: "0.1"

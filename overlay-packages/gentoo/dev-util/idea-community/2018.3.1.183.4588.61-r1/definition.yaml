@@ -1,0 +1,17 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: idea-community
+  
+  version: ""
+name: idea-community
+requires:
+- 
+  category: virtual
+  name: jdk
+  
+  version: "1.7"
+use_flags:
+- -custom-jdk
+version: 2018.3.1.183.4588.61-r1

@@ -1,0 +1,7 @@
+category: x11-misc
+conflicts: []
+name: xbitmaps
+requires: []
+use_flags:
+- ""
+version: 1.1.2-r1

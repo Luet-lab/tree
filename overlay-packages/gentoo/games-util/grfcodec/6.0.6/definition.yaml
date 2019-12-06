@@ -1,0 +1,12 @@
+category: games-util
+conflicts: []
+name: grfcodec
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- ""
+version: 6.0.6

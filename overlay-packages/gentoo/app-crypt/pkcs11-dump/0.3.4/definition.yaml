@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: pkcs11-dump
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 0.3.4

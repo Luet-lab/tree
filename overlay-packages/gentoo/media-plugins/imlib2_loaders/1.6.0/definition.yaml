@@ -1,0 +1,18 @@
+category: media-plugins
+conflicts: []
+name: imlib2_loaders
+requires:
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: 1.6.0
+- 
+  category: dev-libs
+  name: efl
+  
+  version: ""
+use_flags:
+- eet
+- xcf
+version: 1.6.0

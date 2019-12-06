@@ -1,0 +1,13 @@
+category: app-text
+conflicts: []
+name: libwpd
+requires:
+- 
+  category: dev-libs
+  name: librevenge
+  
+  version: ""
+use_flags:
+- doc
+- +tools
+version: 0.10.3

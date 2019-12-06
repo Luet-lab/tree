@@ -1,0 +1,10 @@
+category: dev-util
+conflicts: []
+name: complexity
+requires:
+- 
+  category: sys-devel
+  name: autogen
+  
+  version: 5.11.7
+version: "1.10"

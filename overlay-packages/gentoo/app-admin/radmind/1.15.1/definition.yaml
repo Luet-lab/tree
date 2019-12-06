@@ -1,0 +1,22 @@
+category: app-admin
+conflicts:
+- 
+  category: dev-util
+  name: repo
+  
+  version: ""
+name: radmind
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 1.15.1

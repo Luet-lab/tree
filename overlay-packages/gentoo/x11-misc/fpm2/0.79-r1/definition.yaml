@@ -1,0 +1,27 @@
+category: x11-misc
+conflicts: []
+name: fpm2
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.10.14
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.16"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: 0.79-r1

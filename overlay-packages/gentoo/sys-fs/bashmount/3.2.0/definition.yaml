@@ -1,0 +1,32 @@
+category: sys-fs
+conflicts: []
+name: bashmount
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-fs
+  name: udisks
+  
+  version: ""
+- 
+  category: virtual
+  name: eject
+  
+  version: ""
+use_flags:
+- ""
+version: 3.2.0

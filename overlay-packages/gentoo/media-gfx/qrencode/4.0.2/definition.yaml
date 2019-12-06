@@ -1,0 +1,12 @@
+category: media-gfx
+conflicts: []
+name: qrencode
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- test
+version: 4.0.2

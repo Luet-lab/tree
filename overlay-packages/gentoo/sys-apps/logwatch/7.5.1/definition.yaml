@@ -1,0 +1,52 @@
+category: sys-apps
+conflicts: []
+name: logwatch
+requires:
+- 
+  category: virtual
+  name: mta
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Date-Manip
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Sys-CPU
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Sys-MemInfo
+  
+  version: ""
+- 
+  category: virtual
+  name: cron
+  
+  version: ""
+- 
+  category: virtual
+  name: mailx
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Date-Calc
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Tie-IxHash
+  
+  version: ""
+use_flags:
+- ""
+version: 7.5.1

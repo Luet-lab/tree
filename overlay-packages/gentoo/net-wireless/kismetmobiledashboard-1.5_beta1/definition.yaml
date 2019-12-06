@@ -1,0 +1,12 @@
+category: net-wireless
+conflicts: []
+name: kismetmobiledashboard-1.5_beta1
+requires:
+- 
+  category: net-wireless
+  name: kismet
+  
+  version: ""
+use_flags:
+- ""
+version: ""

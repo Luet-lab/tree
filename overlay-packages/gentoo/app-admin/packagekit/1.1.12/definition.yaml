@@ -1,0 +1,18 @@
+category: app-admin
+conflicts: []
+name: packagekit
+requires:
+- 
+  category: app-admin
+  name: packagekit-gtk
+  
+  version: 1.1.12
+- 
+  category: app-admin
+  name: packagekit-qt
+  
+  version: 0.9.6
+use_flags:
+- gtk
+- qt5
+version: 1.1.12

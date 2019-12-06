@@ -1,0 +1,27 @@
+category: sys-devel
+conflicts:
+- 
+  category: ~sys-devel
+  name: autoconf
+  
+  version: "9999"
+name: autoconf
+requires:
+- 
+  category: sys-devel
+  name: m4
+  
+  version: 1.4.16
+- 
+  category: dev-lang
+  name: perl
+  
+  version: "5.6"
+- 
+  category: sys-devel
+  name: autoconf-wrapper
+  
+  version: "13"
+use_flags:
+- emacs
+version: "9999"

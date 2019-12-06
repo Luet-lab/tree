@@ -1,0 +1,36 @@
+category: dev-libs
+conflicts: []
+name: librdkafka
+requires:
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: app-arch
+  name: zstd
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- lz4
+- sasl
+- ssl
+- static-libs
+- zstd
+version: 1.2.1

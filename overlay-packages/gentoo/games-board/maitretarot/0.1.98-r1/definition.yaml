@@ -1,0 +1,22 @@
+category: games-board
+conflicts: []
+name: maitretarot
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-games
+  name: libmaitretarot
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.98-r1

@@ -1,0 +1,5 @@
+category: sys-libs
+name: mtdev
+use_flags:
+- static-libs
+version: 1.1.5

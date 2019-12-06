@@ -1,0 +1,42 @@
+category: sys-libs
+conflicts: []
+name: slang
+requires:
+- 
+  category: dev-libs
+  name: oniguruma
+  
+  version: 5.9.5
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: 8.33-r1
+- 
+  category: media-libs
+  name: libpng
+  
+  version: 1.6.10
+- 
+  category: sys-libs
+  name: readline
+  
+  version: 6.2_p5-r1
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.8-r1
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- cjk
+- pcre
+- png
+- readline
+- static-libs
+- zlib
+version: 2.3.2

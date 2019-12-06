@@ -1,0 +1,10 @@
+category: media-video
+conflicts: []
+name: emovix
+requires:
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+version: 0.9.0

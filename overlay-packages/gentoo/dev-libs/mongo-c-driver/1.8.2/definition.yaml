@@ -1,0 +1,43 @@
+category: dev-libs
+conflicts: []
+name: mongo-c-driver
+requires:
+- 
+  category: app-arch
+  name: snappy
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libbson
+  
+  version: 1.8.2
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- debug
+- examples
+- libressl
+- sasl
+- ssl
+- static-libs
+- test
+version: 1.8.2

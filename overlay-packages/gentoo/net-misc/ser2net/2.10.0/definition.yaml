@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: ser2net
+requires:
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+use_flags:
+- tcpd
+version: 2.10.0

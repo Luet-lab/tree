@@ -1,0 +1,42 @@
+category: app-misc
+conflicts: []
+name: livecd-tools
+requires:
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: 0.8.2-r1
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: gawk
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: dev-util
+  name: dialog
+  
+  version: ""
+- 
+  category: net-dialup
+  name: mingetty
+  
+  version: ""
+- 
+  category: sys-apps
+  name: baselayout
+  
+  version: "2"
+use_flags:
+- ""
+version: "2.6"

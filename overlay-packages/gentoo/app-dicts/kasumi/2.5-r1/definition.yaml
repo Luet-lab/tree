@@ -1,0 +1,27 @@
+category: app-dicts
+conflicts: []
+name: kasumi
+requires:
+- 
+  category: app-i18n
+  name: anthy
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- nls
+version: 2.5-r1

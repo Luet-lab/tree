@@ -1,0 +1,6 @@
+category: app-emulation
+name: wine-gecko
+use_flags:
+- abi_x86_32
+- abi_x86_64
+version: 2.47-r1

@@ -1,0 +1,22 @@
+category: gnustep-base
+conflicts: []
+name: gnustep-updater
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: app-misc
+  name: pax-utils
+  
+  version: ""
+- 
+  category: gnustep-base
+  name: gnustep-make
+  
+  version: 2.6.0
+use_flags:
+- ""
+version: "0.3"

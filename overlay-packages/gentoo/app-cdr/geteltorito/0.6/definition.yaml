@@ -1,0 +1,10 @@
+category: app-cdr
+conflicts: []
+name: geteltorito
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: "0.6"

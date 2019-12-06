@@ -1,0 +1,34 @@
+category: app-editors
+conflicts: []
+name: jed
+requires:
+- 
+  category: sys-libs
+  name: gpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: "2"
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: sys-libs
+  name: slang
+  
+  version: "2"
+use_flags:
+- X
+- gpm
+- xft
+version: 0.99.19-r1

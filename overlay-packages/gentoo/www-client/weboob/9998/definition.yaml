@@ -1,0 +1,100 @@
+category: www-client
+conflicts: []
+name: weboob
+requires:
+- 
+  category: dev-python
+  name: requests
+  
+  version: ""
+- 
+  category: dev-python
+  name: google-api-python-client
+  
+  version: ""
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+- 
+  category: dev-python
+  name: cssselect
+  
+  version: ""
+- 
+  category: dev-python
+  name: lxml
+  
+  version: ""
+- 
+  category: dev-python
+  name: unidecode
+  
+  version: ""
+- 
+  category: dev-python
+  name: simplejson
+  
+  version: ""
+- 
+  category: virtual
+  name: python-futures
+  
+  version: ""
+- 
+  category: dev-python
+  name: mechanize
+  
+  version: ""
+- 
+  category: dev-python
+  name: feedparser
+  
+  version: ""
+- 
+  category: dev-python
+  name: pillow
+  
+  version: ""
+- 
+  category: dev-python
+  name: prettytable
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-dateutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+- 
+  category: dev-python
+  name: termcolor
+  
+  version: ""
+- 
+  category: dev-python
+  name: html2text
+  
+  version: ""
+- 
+  category: dev-python
+  name: six
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+use_flags:
+- +deprecated
+- fast-libs
+- +secure-updates
+- X
+version: "9998"

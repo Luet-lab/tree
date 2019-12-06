@@ -1,0 +1,17 @@
+category: media-video
+conflicts: []
+name: dvdbackup
+requires:
+- 
+  category: media-libs
+  name: libdvdread
+  
+  version: 4.2.0_pre
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- nls
+version: 0.4.2

@@ -1,0 +1,22 @@
+category: net-libs
+conflicts: []
+name: balde-markdown
+requires:
+- 
+  category: net-libs
+  name: balde
+  
+  version: "0.1"
+- 
+  category: app-text
+  name: discount
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.34"
+use_flags:
+- test
+version: "0.1"

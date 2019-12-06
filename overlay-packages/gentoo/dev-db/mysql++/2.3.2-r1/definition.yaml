@@ -1,0 +1,12 @@
+category: dev-db
+conflicts: []
+name: mysql++
+requires:
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+use_flags:
+- ""
+version: 2.3.2-r1

@@ -1,0 +1,15 @@
+category: app-text
+conflicts: []
+name: docx2txt
+requires:
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: "1.4"

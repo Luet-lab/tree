@@ -1,0 +1,54 @@
+category: net-mail
+conflicts: []
+name: lbdb
+requires:
+- 
+  category: dev-libs
+  name: libvformat
+  
+  version: ""
+- 
+  category: mail-client
+  name: evolution
+  
+  version: ""
+- 
+  category: net-misc
+  name: netkit-fingerd
+  
+  version: ""
+- 
+  category: app-misc
+  name: abook
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+- 
+  category: app-emacs
+  name: bbdb
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Palm
+  
+  version: ""
+- 
+  category: dev-perl
+  name: perl-ldap
+  
+  version: ""
+use_flags:
+- abook
+- bbdb
+- crypt
+- evo
+- finger
+- ldap
+- pda
+- test
+version: "0.47"

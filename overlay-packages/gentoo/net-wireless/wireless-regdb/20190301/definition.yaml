@@ -1,0 +1,5 @@
+category: net-wireless
+name: wireless-regdb
+use_flags:
+- ""
+version: "20190301"

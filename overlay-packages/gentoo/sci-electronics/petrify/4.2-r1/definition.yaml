@@ -1,0 +1,12 @@
+category: sci-electronics
+conflicts: []
+name: petrify
+requires:
+- 
+  category: media-gfx
+  name: graphviz
+  
+  version: ""
+use_flags:
+- ""
+version: 4.2-r1

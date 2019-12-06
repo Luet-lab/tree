@@ -1,0 +1,15 @@
+category: virtual
+conflicts: []
+name: perl-File-Temp
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: perl-core
+  name: File-Temp
+  
+  version: 0.230.900
+version: 0.230.900

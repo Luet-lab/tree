@@ -1,0 +1,7 @@
+category: sys-devel
+conflicts: []
+name: m4
+requires: []
+use_flags:
+- examples
+version: 1.4.18-r1

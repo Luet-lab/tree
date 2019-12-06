@@ -1,0 +1,126 @@
+category: media-gfx
+conflicts: []
+name: freewrl
+requires:
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: liblo
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-fonts
+  name: dejavu
+  
+  version: ""
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+- 
+  category: media-sound
+  name: sox
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXdmcp
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: motif
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: "2"
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: spidermonkey
+  
+  version: ""
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.4"
+use_flags:
+- curl
+- debug
+- java
+- libeai
+- motif
+- +nsplugin
+- opencl
+- osc
+- +sox
+- static-libs
+version: 2.3.3-r2

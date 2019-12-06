@@ -1,0 +1,10 @@
+category: net-analyzer
+conflicts: []
+name: lft
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+version: "3.77"

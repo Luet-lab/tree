@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: autoupnp
+requires:
+- 
+  category: x11-libs
+  name: libtinynotify
+  
+  version: ""
+- 
+  category: net-libs
+  name: miniupnpc
+  
+  version: ""
+use_flags:
+- libnotify
+version: 0.4.7

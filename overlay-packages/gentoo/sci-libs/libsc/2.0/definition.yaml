@@ -1,0 +1,38 @@
+category: sci-libs
+conflicts: []
+name: libsc
+requires:
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: virtual
+  name: blas
+  
+  version: ""
+- 
+  category: virtual
+  name: lapack
+  
+  version: ""
+- 
+  category: virtual
+  name: mpi[romio?]
+  
+  version: ""
+use_flags:
+- debug
+- examples
+- mpi
+- openmp
+- romio
+- static-libs
+- threads
+version: "2.0"

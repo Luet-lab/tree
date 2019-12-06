@@ -1,0 +1,10 @@
+category: net-misc
+conflicts: []
+name: autossh
+requires:
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+version: 1.4g

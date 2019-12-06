@@ -1,0 +1,10 @@
+category: sys-block
+conflicts: []
+name: viaideinfo
+requires:
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: 2.2.0
+version: 0.5-r1

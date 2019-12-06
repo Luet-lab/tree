@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: appinventor
+requires:
+- 
+  category: virtual
+  name: jre
+  
+  version: 1.6.0
+use_flags:
+- ""
+version: "1.1"

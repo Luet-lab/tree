@@ -1,0 +1,35 @@
+category: net-misc
+conflicts: []
+name: shigofumi
+requires:
+- 
+  category: dev-libs
+  name: confuse
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-libs
+  name: libisds
+  
+  version: "0.7"
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+use_flags:
+- debug
+- doc
+- nls
+- xattr
+version: 0.3-r1

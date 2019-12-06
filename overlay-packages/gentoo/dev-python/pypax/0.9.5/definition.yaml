@@ -1,0 +1,18 @@
+category: dev-python
+conflicts: []
+name: pypax
+requires:
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+use_flags:
+- +ptpax
+- +xtpax
+version: 0.9.5

@@ -1,0 +1,30 @@
+category: app-text
+conflicts: []
+name: zathura-ps
+requires:
+- 
+  category: app-text
+  name: libspectre
+  
+  version: ""
+- 
+  category: app-text
+  name: zathura
+  
+  version: 0.3.9
+- 
+  category: dev-libs
+  name: girara
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+version: 0.2.6

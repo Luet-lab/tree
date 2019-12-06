@@ -1,0 +1,12 @@
+category: media-gfx
+conflicts: []
+name: ditaa
+requires:
+- 
+  category: virtual
+  name: jdk
+  
+  version: "1.8"
+use_flags:
+- ""
+version: 0.11.0

@@ -1,0 +1,35 @@
+category: dev-libs
+conflicts: []
+name: log4cxx
+requires:
+- 
+  category: dev-libs
+  name: apr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: apr-util
+  
+  version: ""
+- 
+  category: dev-db
+  name: libiodbc
+  
+  version: 3.52.4
+- 
+  category: dev-db
+  name: unixODBC
+  
+  version: ""
+- 
+  category: net-libs
+  name: libesmtp
+  
+  version: ""
+use_flags:
+- iodbc
+- unicode
+- odbc
+- smtp
+version: 0.10.0-r1

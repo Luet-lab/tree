@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: soapysdrplay
+requires:
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: net-wireless
+  name: sdrplay
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.0

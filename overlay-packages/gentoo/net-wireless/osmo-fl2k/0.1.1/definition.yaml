@@ -1,0 +1,12 @@
+category: net-wireless
+conflicts: []
+name: osmo-fl2k
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- udev
+version: 0.1.1

@@ -1,0 +1,13 @@
+category: app-arch
+conflicts:
+- 
+  category: app-arch
+  name: pbzip2
+  
+  version: ""
+name: lbzip2
+requires: []
+use_flags:
+- debug
+- symlink
+version: 2.5_p20181227-r1

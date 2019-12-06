@@ -1,0 +1,43 @@
+category: dev-util
+conflicts: []
+name: bite
+requires:
+- 
+  category: dev-python
+  name: requests
+  
+  version: "2"
+- 
+  category: dev-python
+  name: multidict
+  
+  version: ""
+- 
+  category: dev-python
+  name: chardet
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-dateutil
+  
+  version: "2.1"
+- 
+  category: dev-python
+  name: lxml
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: ""
+- 
+  category: dev-python
+  name: snakeoil
+  
+  version: "9999"
+use_flags:
+- doc
+- test
+version: "9999"

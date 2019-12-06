@@ -1,0 +1,8 @@
+category: sci-libs
+conflicts: []
+name: libccd
+requires: []
+use_flags:
+- double
+- doc
+version: "2.0"

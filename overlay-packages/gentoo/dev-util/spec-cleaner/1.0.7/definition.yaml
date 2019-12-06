@@ -1,0 +1,12 @@
+category: dev-util
+conflicts: []
+name: spec-cleaner
+requires:
+- 
+  category: app-arch
+  name: rpm
+  
+  version: 4.11.0.1
+use_flags:
+- test
+version: 1.0.7

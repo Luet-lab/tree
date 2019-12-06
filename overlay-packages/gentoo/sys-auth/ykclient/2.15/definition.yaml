@@ -1,0 +1,12 @@
+category: sys-auth
+conflicts: []
+name: ykclient
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.21.1
+use_flags:
+- static-libs
+version: "2.15"

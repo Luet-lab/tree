@@ -1,0 +1,76 @@
+category: sci-misc
+conflicts:
+- 
+  category: app-admin
+  name: quickswitch
+  
+  version: ""
+name: boinc
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: x11-libs
+  name: wxGTK
+  
+  version: ""
+- 
+  category: app-misc
+  name: ca-certificates
+  
+  version: "20080809"
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: "2.1"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: "0.7"
+- 
+  category: x11-drivers
+  name: nvidia-drivers
+  
+  version: "180.22"
+- 
+  category: net-misc
+  name: curl[curl_ssl_gnutls(-)=,curl_ssl_libressl(-)=,-curl_ssl_nss(-),curl_ssl_openssl(-)=,-curl_ssl_axtls(-),-curl_ssl_cyassl(-)]
+  
+  version: ""
+use_flags:
+- X
+- cuda
+- curl_ssl_gnutls
+- curl_ssl_libressl
+- +curl_ssl_openssl
+version: 7.14.2

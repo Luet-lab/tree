@@ -1,0 +1,3 @@
+category: app-metrics
+name: node_exporter
+version: 0.18.1

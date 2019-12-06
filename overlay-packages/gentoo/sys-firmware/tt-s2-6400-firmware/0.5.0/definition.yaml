@@ -1,0 +1,7 @@
+category: sys-firmware
+conflicts: []
+name: tt-s2-6400-firmware
+requires: []
+use_flags:
+- ""
+version: 0.5.0

@@ -1,0 +1,17 @@
+category: dev-php
+conflicts: []
+name: PEAR-HTTP_Header
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-HTTP
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.1-r2

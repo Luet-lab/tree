@@ -1,0 +1,12 @@
+category: sec-policy
+conflicts: []
+name: selinux-devicekit
+requires:
+- 
+  category: sec-policy
+  name: selinux-dbus
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180114-r1

@@ -1,0 +1,7 @@
+category: sys-libs
+conflicts: []
+name: libsepol
+requires: []
+use_flags:
+- ""
+version: 3.0_rc2

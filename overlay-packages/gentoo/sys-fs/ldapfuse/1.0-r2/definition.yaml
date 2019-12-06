@@ -1,0 +1,20 @@
+category: sys-fs
+conflicts: []
+name: ldapfuse
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libhx
+  
+  version: "3.12"
+- 
+  category: net-nds
+  name: openldap
+  
+  version: ""
+version: 1.0-r2

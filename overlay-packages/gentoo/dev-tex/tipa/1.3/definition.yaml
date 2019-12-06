@@ -1,0 +1,12 @@
+category: dev-tex
+conflicts: []
+name: tipa
+requires:
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+use_flags:
+- ""
+version: "1.3"

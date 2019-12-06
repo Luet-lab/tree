@@ -1,0 +1,27 @@
+category: sci-chemistry
+conflicts: []
+name: votca-ctp
+requires:
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: ""
+- 
+  category: sci-chemistry
+  name: votca-csg
+  
+  version: "9999"
+- 
+  category: sci-libs
+  name: votca-tools
+  
+  version: "9999"
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: "3.3"
+use_flags:
+- doc
+version: "9999"

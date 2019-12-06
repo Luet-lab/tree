@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: xbyak
+requires: []
+use_flags:
+- ""
+version: "5.73"

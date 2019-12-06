@@ -1,0 +1,178 @@
+category: sci-visualization
+conflicts: []
+name: labplot
+requires:
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: knewstuff
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: karchive
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcrash
+  
+  version: 5.60.0
+- 
+  category: kde-apps
+  name: cantor
+  
+  version: 19.08.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: netcdf
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtserialport
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kservice
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: libcerf
+  
+  version: ""
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ktextwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: syntax-highlighting
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: cfitsio
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kparts
+  
+  version: 5.60.0
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: "1.15"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: 5.60.0
+use_flags:
+- cantor
+- fftw
+- fits
+- hdf5
+- libcerf
+- netcdf
+- root
+version: "9999"

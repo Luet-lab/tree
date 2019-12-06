@@ -1,0 +1,17 @@
+category: media-radio
+conflicts: []
+name: dxcc
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Tk
+  
+  version: ""
+use_flags:
+- tk
+version: "20190309"

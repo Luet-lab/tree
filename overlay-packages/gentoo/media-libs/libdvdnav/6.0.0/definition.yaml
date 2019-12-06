@@ -1,0 +1,12 @@
+category: media-libs
+conflicts: []
+name: libdvdnav
+requires:
+- 
+  category: media-libs
+  name: libdvdread
+  
+  version: 5.0.3
+use_flags:
+- static-libs
+version: 6.0.0

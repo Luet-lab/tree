@@ -1,0 +1,25 @@
+category: sys-process
+conflicts: []
+name: psmisc
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.7-r7
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+use_flags:
+- ipv6
+- nls
+- selinux
+- X
+version: 23.3-r1

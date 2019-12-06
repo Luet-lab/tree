@@ -1,0 +1,27 @@
+category: dev-util
+conflicts: []
+name: qdevicemonitor
+requires:
+- 
+  category: dev-util
+  name: android-tools
+  
+  version: ""
+- 
+  category: app-pda
+  name: usbmuxd
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.1-r1

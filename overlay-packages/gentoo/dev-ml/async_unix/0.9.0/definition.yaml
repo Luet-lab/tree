@@ -1,0 +1,47 @@
+category: dev-ml
+conflicts: []
+name: async_unix
+requires:
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ocaml-migrate-parsetree
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: "100"
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: "100"
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: 4.02.0
+- 
+  category: dev-ml
+  name: async_kernel
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+use_flags:
+- ""
+version: 0.9.0

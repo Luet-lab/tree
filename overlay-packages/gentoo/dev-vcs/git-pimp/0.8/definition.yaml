@@ -1,0 +1,27 @@
+category: dev-vcs
+conflicts: []
+name: git-pimp
+requires:
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+- 
+  category: app-shells
+  name: zsh
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git-mailz
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git-mantle
+  
+  version: ""
+use_flags:
+- test
+version: "0.8"

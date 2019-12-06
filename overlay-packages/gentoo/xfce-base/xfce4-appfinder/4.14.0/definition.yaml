@@ -1,0 +1,42 @@
+category: xfce-base
+conflicts:
+- 
+  category: xfce-base
+  name: xfce-utils
+  
+  version: ""
+name: xfce4-appfinder
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.20"
+- 
+  category: xfce-base
+  name: garcon
+  
+  version: "0.3"
+- 
+  category: xfce-base
+  name: libxfce4util
+  
+  version: "4.11"
+- 
+  category: xfce-base
+  name: libxfce4ui
+  
+  version: "4.11"
+- 
+  category: xfce-base
+  name: xfconf
+  
+  version: "4.10"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.42"
+use_flags:
+- ""
+version: 4.14.0

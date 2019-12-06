@@ -1,0 +1,65 @@
+category: x11-misc
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: pcmanfm-qt
+requires:
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: virtual
+  name: freedesktop-icon-theme
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libfm-qt
+  
+  version: ""
+- 
+  category: virtual
+  name: eject
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+version: 0.14.1-r1

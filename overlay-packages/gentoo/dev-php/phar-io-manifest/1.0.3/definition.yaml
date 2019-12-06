@@ -1,0 +1,22 @@
+category: dev-php
+conflicts: []
+name: phar-io-manifest
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-php
+  name: phar-io-version
+  
+  version: "2"
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- examples
+version: 1.0.3

@@ -1,0 +1,10 @@
+category: app-dicts
+conflicts: []
+name: bookview
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+version: 3.2.1

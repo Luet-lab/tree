@@ -1,0 +1,51 @@
+category: sys-devel
+conflicts: []
+name: gdb
+requires:
+- 
+  category: dev-libs
+  name: mpfr
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: 5.2-r2
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-util
+  name: source-highlight
+  
+  version: ""
+use_flags:
+- +client
+- lzma
+- multitarget
+- nls
+- +python
+- +server
+- source-highlight
+- test
+- vanilla
+- xml
+version: "8.3"

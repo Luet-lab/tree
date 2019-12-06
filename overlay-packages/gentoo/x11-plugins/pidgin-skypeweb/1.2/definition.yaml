@@ -1,0 +1,15 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-skypeweb
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: dev-libs
+  name: json-glib
+  
+  version: ""
+version: "1.2"

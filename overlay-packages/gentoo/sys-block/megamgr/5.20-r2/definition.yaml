@@ -1,0 +1,7 @@
+category: sys-block
+conflicts: []
+name: megamgr
+requires: []
+use_flags:
+- ""
+version: 5.20-r2

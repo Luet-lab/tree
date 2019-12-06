@@ -1,0 +1,38 @@
+category: app-i18n
+conflicts: []
+name: ibus-handwrite
+requires:
+- 
+  category: x11-libs
+  name: gtkglext
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: app-i18n
+  name: zinnia
+  
+  version: ""
+- 
+  category: app-i18n
+  name: zinnia-tomoe
+  
+  version: ""
+- 
+  category: app-i18n
+  name: ibus
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- nls
+- +zinnia
+version: 3.0.0

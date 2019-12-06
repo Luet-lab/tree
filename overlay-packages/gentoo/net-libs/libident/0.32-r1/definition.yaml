@@ -1,0 +1,7 @@
+category: net-libs
+conflicts: []
+name: libident
+requires: []
+use_flags:
+- ""
+version: 0.32-r1

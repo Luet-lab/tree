@@ -1,0 +1,44 @@
+category: www-client
+conflicts: []
+name: luakit
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-lua
+  name: luafilesystem[luajit=]
+  
+  version: ""
+- 
+  category: net-libs
+  name: webkit-gtk
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-lang
+  name: luajit
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- doc
+- luajit
+- test
+version: 2017.08.10

@@ -1,0 +1,17 @@
+category: dev-libs
+conflicts: []
+name: cloog
+requires:
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: 6.0.0
+- 
+  category: dev-libs
+  name: isl
+  
+  version: "0.15"
+use_flags:
+- static-libs
+version: 0.18.4

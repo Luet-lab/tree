@@ -1,0 +1,12 @@
+category: x11-wm
+conflicts: []
+name: stumpwm-contrib
+requires:
+- 
+  category: x11-wm
+  name: stumpwm
+  
+  version: 1.0.0
+use_flags:
+- ""
+version: "20180128"

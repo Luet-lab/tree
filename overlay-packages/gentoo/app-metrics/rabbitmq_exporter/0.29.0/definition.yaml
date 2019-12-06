@@ -1,0 +1,3 @@
+category: app-metrics
+name: rabbitmq_exporter
+version: 0.29.0

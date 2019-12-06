@@ -1,0 +1,15 @@
+category: app-admin
+conflicts: []
+name: newsyslog
+requires:
+- 
+  category: virtual
+  name: cron
+  
+  version: ""
+- 
+  category: app-arch
+  name: gzip
+  
+  version: ""
+version: 1.1.0.81

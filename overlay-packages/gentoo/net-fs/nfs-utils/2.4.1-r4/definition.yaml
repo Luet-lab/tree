@@ -1,0 +1,114 @@
+category: net-fs
+conflicts:
+- 
+  category: net-nds
+  name: portmap
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnfsidmap
+  
+  version: ""
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: 0.13.9
+name: nfs-utils
+requires:
+- 
+  category: sys-libs
+  name: e2fsprogs-libs
+  
+  version: ""
+- 
+  category: sys-apps
+  name: keyutils
+  
+  version: 1.5.9
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: ""
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: "3.3"
+- 
+  category: net-nds
+  name: rpcbind
+  
+  version: 0.2.4
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-rpc
+  
+  version: ""
+- 
+  category: net-libs
+  name: libtirpc
+  
+  version: ""
+- 
+  category: net-libs
+  name: libtirpc
+  
+  version: 0.2.4-r1
+- 
+  category: app-crypt
+  name: mit-krb5
+  
+  version: ""
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-rpcbind
+  
+  version: ""
+use_flags:
+- caps
+- ipv6
+- junction
+- kerberos
+- ldap
+- +libmount
+- nfsdcld
+- +nfsidmap
+- +nfsv4
+- nfsv41
+- selinux
+- tcpd
+- +uuid
+version: 2.4.1-r4

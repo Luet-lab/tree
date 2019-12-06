@@ -1,0 +1,22 @@
+category: app-crypt
+conflicts: []
+name: mcrypt
+requires:
+- 
+  category: dev-libs
+  name: libmcrypt
+  
+  version: 2.5.8
+- 
+  category: app-crypt
+  name: mhash
+  
+  version: 0.9.9
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- nls
+version: 2.6.8-r3

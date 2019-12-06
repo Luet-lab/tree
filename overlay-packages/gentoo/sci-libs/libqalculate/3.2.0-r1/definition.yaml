@@ -1,0 +1,51 @@
+category: sci-libs
+conflicts: []
+name: libqalculate
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: "3.7"
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: mpfr
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+use_flags:
+- curl
+- icu
+- gnuplot
+- readline
+- static-libs
+version: 3.2.0-r1

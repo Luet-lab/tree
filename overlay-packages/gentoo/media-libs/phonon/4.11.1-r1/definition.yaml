@@ -1,0 +1,36 @@
+category: media-libs
+conflicts: []
+name: phonon
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: designer
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+use_flags:
+- debug
+- designer
+- gstreamer
+- pulseaudio
+- +vlc
+version: 4.11.1-r1

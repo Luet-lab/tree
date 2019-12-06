@@ -1,0 +1,12 @@
+category: dev-python
+conflicts: []
+name: transmissionrpc
+requires:
+- 
+  category: dev-python
+  name: six
+  
+  version: 1.1.0
+use_flags:
+- ""
+version: "0.11"

@@ -1,0 +1,5 @@
+category: dev-util
+name: shunit2
+use_flags:
+- ""
+version: 2.1.6-r1

@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts:
+- 
+  category: sci-libs
+  name: libaec
+  
+  version: ""
+name: szip
+requires: []
+use_flags:
+- static-libs
+version: 2.1-r2

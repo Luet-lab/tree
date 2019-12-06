@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: console_bridge
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

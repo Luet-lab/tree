@@ -1,0 +1,77 @@
+category: app-misc
+conflicts: []
+name: lirc
+requires:
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: dev-embedded
+  name: libftdi
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: portaudio
+  
+  version: "18"
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: vte
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: ""
+- 
+  category: app-misc
+  name: inputlircd
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+use_flags:
+- audio
+- +devinput
+- doc
+- ftdi
+- gtk
+- inputlirc
+- static-libs
+- systemd
+- +uinput
+- usb
+- X
+version: 0.10.1-r2

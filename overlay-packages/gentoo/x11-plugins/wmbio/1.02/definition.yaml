@@ -1,0 +1,22 @@
+category: x11-plugins
+conflicts: []
+name: wmbio
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+use_flags:
+- ""
+version: "1.02"

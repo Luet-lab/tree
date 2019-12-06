@@ -1,0 +1,17 @@
+category: sec-policy
+conflicts: []
+name: selinux-android
+requires:
+- 
+  category: sec-policy
+  name: selinux-java
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-xserver
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180114-r2

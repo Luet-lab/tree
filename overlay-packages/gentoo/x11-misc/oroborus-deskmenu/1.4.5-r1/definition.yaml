@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts:
+- 
+  category: x11-wm
+  name: oroborus-extras
+  
+  version: ""
+name: oroborus-deskmenu
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2"
+use_flags:
+- ""
+version: 1.4.5-r1

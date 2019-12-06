@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: SmarTagger
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: MP3-Info
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1-r2

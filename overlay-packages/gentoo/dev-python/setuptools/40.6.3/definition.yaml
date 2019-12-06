@@ -1,0 +1,7 @@
+category: dev-python
+conflicts: []
+name: setuptools
+requires: []
+use_flags:
+- test
+version: 40.6.3

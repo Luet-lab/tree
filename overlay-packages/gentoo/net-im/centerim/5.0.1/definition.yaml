@@ -1,0 +1,33 @@
+category: net-im
+conflicts: []
+name: centerim
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "5.2"
+- 
+  category: net-im
+  name: pidgin
+  
+  version: 2.7.0
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.16.0
+- 
+  category: dev-libs
+  name: libsigc++
+  
+  version: 2.2.0
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+use_flags:
+- debug
+- nls
+version: 5.0.1

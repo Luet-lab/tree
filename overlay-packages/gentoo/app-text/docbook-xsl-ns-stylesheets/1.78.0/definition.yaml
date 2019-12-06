@@ -1,0 +1,17 @@
+category: app-text
+conflicts: []
+name: docbook-xsl-ns-stylesheets
+requires:
+- 
+  category: app-text
+  name: build-docbook-catalog
+  
+  version: "1.4"
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: ""
+use_flags:
+- ruby
+version: 1.78.0

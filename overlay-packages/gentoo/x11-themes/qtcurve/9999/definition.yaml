@@ -1,0 +1,132 @@
+category: x11-themes
+conflicts: []
+name: qtcurve
+requires:
+- 
+  category: kde-frameworks
+  name: kguiaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: frameworkintegration
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: karchive
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kdelibs4support
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+use_flags:
+- gtk
+- nls
+- plasma
+- +qt5
+- test
+- +X
+version: "9999"

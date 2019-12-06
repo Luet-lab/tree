@@ -1,0 +1,174 @@
+category: mate-base
+conflicts: []
+name: mate-control-center
+requires:
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: "1.5"
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxklavier
+  
+  version: "4"
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: gnome-base
+  name: dconf
+  
+  version: 0.13.4
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: sys-apps
+  name: accountsservice
+  
+  version: ""
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: "0.73"
+- 
+  category: mate-base
+  name: mate-settings-daemon
+  
+  version: 1.21.2
+- 
+  category: x11-libs
+  name: libXScrnSaver
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libappindicator
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: mate-base
+  name: mate-desktop
+  
+  version: 1.21.2
+- 
+  category: mate-base
+  name: caja
+  
+  version: 1.20.0
+- 
+  category: mate-base
+  name: mate-menus
+  
+  version: 1.21.0
+- 
+  category: media-libs
+  name: libcanberra
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: ""
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: "2.0"
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: "1"
+- 
+  category: x11-apps
+  name: xmodmap
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-wm
+  name: marco
+  
+  version: 1.17.0
+- 
+  category: mate-base
+  name: libmatekbd
+  
+  version: 1.17.0
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: "1"
+- 
+  category: x11-libs
+  name: libXxf86misc
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+use_flags:
+- accountsservice
+- appindicator
+- debug
+version: 1.22.1

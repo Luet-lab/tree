@@ -1,0 +1,32 @@
+category: app-misc
+conflicts: []
+name: g15stats
+requires:
+- 
+  category: dev-libs
+  name: libg15
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libg15render
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libgtop
+  
+  version: ""
+- 
+  category: app-misc
+  name: g15daemon
+  
+  version: 1.9.0
+use_flags:
+- ""
+version: 1.9.7

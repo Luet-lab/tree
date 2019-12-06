@@ -1,0 +1,12 @@
+category: app-arch
+conflicts: []
+name: rar
+requires:
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+use_flags:
+- all_sfx
+version: 5.7.1_p20190427

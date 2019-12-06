@@ -1,0 +1,10 @@
+category: net-misc
+conflicts: []
+name: httptype
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.3.9-r1

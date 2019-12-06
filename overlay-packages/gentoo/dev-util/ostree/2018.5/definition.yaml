@@ -1,0 +1,91 @@
+category: dev-util
+conflicts: []
+name: ostree
+requires:
+- 
+  category: dev-libs
+  name: libassuan
+  
+  version: ""
+- 
+  category: sys-boot
+  name: grub
+  
+  version: ""
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-libs
+  name: libsoup
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgpg-error
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+use_flags:
+- grub
+- selinux
+- soup
+- systemd
+- zeroconf
+version: "2018.5"

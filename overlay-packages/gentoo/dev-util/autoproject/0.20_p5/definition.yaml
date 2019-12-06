@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: autoproject
+requires:
+- 
+  category: sys-devel
+  name: autoconf
+  
+  version: ""
+- 
+  category: sys-devel
+  name: automake
+  
+  version: ""
+use_flags:
+- test
+version: 0.20_p5

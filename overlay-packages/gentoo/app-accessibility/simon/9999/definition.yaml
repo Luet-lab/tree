@@ -1,0 +1,170 @@
+category: app-accessibility
+conflicts: []
+name: simon
+requires:
+- 
+  category: kde-frameworks
+  name: ktexteditor
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcrash
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: x11-libs
+  name: qwt
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: khtml
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: kde-apps
+  name: okular
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcmutils
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kdbusaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: karchive
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kparts
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kdelibs4support
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kguiaddons
+  
+  version: ""
+- 
+  category: media-libs
+  name: libqaccessibilityclient
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+use_flags:
+- libsamplerate
+- opencv
+- pim
+- sphinx
+version: "9999"

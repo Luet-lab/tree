@@ -1,0 +1,9 @@
+category: dev-libs
+conflicts: []
+name: zookeeper-c
+requires: []
+use_flags:
+- doc
+- static-libs
+- test
+version: 3.4.8

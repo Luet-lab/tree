@@ -1,0 +1,17 @@
+category: lxde-base
+conflicts: []
+name: lxinput
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- ""
+version: 0.3.5

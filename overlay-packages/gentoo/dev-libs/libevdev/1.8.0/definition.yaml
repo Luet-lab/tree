@@ -1,0 +1,6 @@
+category: dev-libs
+name: libevdev
+use_flags:
+- doc
+- static-libs
+version: 1.8.0

@@ -1,0 +1,32 @@
+category: dev-libs
+conflicts: []
+name: xerces-c
+requires:
+- 
+  category: dev-libs
+  name: icu
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_sse2
+- curl
+- doc
+- elibc_Darwin
+- elibc_FreeBSD
+- examples
+- iconv
+- icu
+- static-libs
+- test
+- threads
+version: 3.2.2-r1

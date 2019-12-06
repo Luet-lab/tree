@@ -1,0 +1,33 @@
+category: app-misc
+conflicts: []
+name: khard
+requires:
+- 
+  category: dev-python
+  name: atomicwrites
+  
+  version: ""
+- 
+  category: dev-python
+  name: configobj
+  
+  version: ""
+- 
+  category: dev-python
+  name: ruamel-yaml
+  
+  version: ""
+- 
+  category: dev-python
+  name: unidecode
+  
+  version: ""
+- 
+  category: dev-python
+  name: vobject
+  
+  version: 0.9.3
+use_flags:
+- test
+- zsh-completion
+version: 0.13.0

@@ -1,0 +1,77 @@
+category: sys-libs
+conflicts: []
+name: libblockdev
+requires:
+- 
+  category: dev-libs
+  name: libbytesize
+  
+  version: ""
+- 
+  category: sys-fs
+  name: dmraid
+  
+  version: ""
+- 
+  category: virtual
+  name: udev
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libyaml
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nss
+  
+  version: 3.18.0
+- 
+  category: dev-libs
+  name: volume_key
+  
+  version: ""
+- 
+  category: sys-fs
+  name: cryptsetup
+  
+  version: 1.6.7
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.42.2
+- 
+  category: sys-apps
+  name: kmod
+  
+  version: "19"
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: "2.27"
+- 
+  category: sys-block
+  name: parted
+  
+  version: "3.1"
+use_flags:
+- bcache
+- +cryptsetup
+- device-mapper
+- dmraid
+- escrow
+- gtk-doc
+- lvm
+- kbd
+- test
+- +tools
+- vdo
+version: "2.22"

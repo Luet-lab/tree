@@ -1,0 +1,22 @@
+category: sec-policy
+conflicts: []
+name: selinux-base
+requires:
+- 
+  category: sys-apps
+  name: policycoreutils
+  
+  version: "2.8"
+- 
+  category: virtual
+  name: udev
+  
+  version: ""
+use_flags:
+- doc
+- +open_perms
+- +peer_perms
+- systemd
+- +ubac
+- +unconfined
+version: 2.20180701-r2

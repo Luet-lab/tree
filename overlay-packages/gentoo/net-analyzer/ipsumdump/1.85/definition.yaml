@@ -1,0 +1,13 @@
+category: net-analyzer
+conflicts: []
+name: ipsumdump
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- +ipv6
+- +nanotimestamp
+version: "1.85"

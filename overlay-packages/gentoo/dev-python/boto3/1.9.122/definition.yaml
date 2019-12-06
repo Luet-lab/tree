@@ -1,0 +1,23 @@
+category: dev-python
+conflicts: []
+name: boto3
+requires:
+- 
+  category: dev-python
+  name: botocore
+  
+  version: 1.12.4
+- 
+  category: dev-python
+  name: jmespath
+  
+  version: ""
+- 
+  category: dev-python
+  name: s3transfer
+  
+  version: ""
+use_flags:
+- doc
+- test
+version: 1.9.122

@@ -1,0 +1,27 @@
+category: net-misc
+conflicts: []
+name: cfengine
+requires:
+- 
+  category: sys-libs
+  name: db
+  
+  version: "4"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: "1.1"
+- 
+  category: app-portage
+  name: portage-utils
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnsl
+  
+  version: ""
+use_flags:
+- vim-syntax
+version: 2.2.10-r5

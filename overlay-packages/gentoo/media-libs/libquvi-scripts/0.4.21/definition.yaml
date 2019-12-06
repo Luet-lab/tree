@@ -1,0 +1,5 @@
+category: media-libs
+name: libquvi-scripts
+use_flags:
+- offensive
+version: 0.4.21

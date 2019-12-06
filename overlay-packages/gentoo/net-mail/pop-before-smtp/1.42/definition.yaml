@@ -1,0 +1,22 @@
+category: net-mail
+conflicts: []
+name: pop-before-smtp
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Net-Netmask
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TimeDate
+  
+  version: ""
+use_flags:
+- ""
+version: "1.42"

@@ -1,0 +1,24 @@
+category: sys-libs
+conflicts:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: <sys-libs
+  name: ncurses
+  
+  version: "6"
+name: ncurses-compat
+requires:
+- 
+  category: sys-libs
+  name: gpm
+  
+  version: ""
+use_flags:
+- gpm
+- tinfo
+- unicode
+version: 6.1_p20190609

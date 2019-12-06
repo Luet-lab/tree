@@ -1,0 +1,102 @@
+category: net-wireless
+conflicts: []
+name: kismet
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libnl
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyserial
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+- 
+  category: net-libs
+  name: libmicrohttpd
+  
+  version: ""
+- 
+  category: net-misc
+  name: networkmanager
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: dev-python
+  name: protobuf-python
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-apps
+  name: lm-sensors
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-kismet
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf-c
+  
+  version: ""
+use_flags:
+- lm-sensors
+- mousejack
+- networkmanager
+- +pcre
+- selinux
+- +suid
+version: 2019.09.1-r1

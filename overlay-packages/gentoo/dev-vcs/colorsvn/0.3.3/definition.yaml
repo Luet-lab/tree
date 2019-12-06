@@ -1,0 +1,17 @@
+category: dev-vcs
+conflicts: []
+name: colorsvn
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+use_flags:
+- ""
+version: 0.3.3

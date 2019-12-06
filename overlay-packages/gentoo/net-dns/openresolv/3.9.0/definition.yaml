@@ -1,0 +1,12 @@
+category: net-dns
+conflicts: []
+name: openresolv
+requires:
+- 
+  category: sec-policy
+  name: selinux-resolvconf
+  
+  version: ""
+use_flags:
+- selinux
+version: 3.9.0

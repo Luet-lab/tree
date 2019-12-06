@@ -1,0 +1,13 @@
+category: media-libs
+conflicts: []
+name: lastfmlib
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- debug
+- syslog
+version: 0.4.0

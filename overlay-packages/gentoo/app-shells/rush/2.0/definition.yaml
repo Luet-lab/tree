@@ -1,0 +1,5 @@
+category: app-shells
+name: rush
+use_flags:
+- nls
+version: "2.0"

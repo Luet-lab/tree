@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: vorbisgain
+requires:
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+use_flags:
+- ""
+version: 0.37-r2

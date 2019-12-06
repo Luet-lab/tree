@@ -1,0 +1,7 @@
+category: net-misc
+conflicts: []
+name: vrrpd
+requires: []
+use_flags:
+- ""
+version: "1.0"

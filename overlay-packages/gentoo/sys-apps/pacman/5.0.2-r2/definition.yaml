@@ -1,0 +1,47 @@
+category: sys-apps
+conflicts: []
+name: pacman
+requires:
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: 1.4.0
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: virtual
+  name: libiconv
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+use_flags:
+- curl
+- debug
+- doc
+- +gpg
+- libressl
+- test
+version: 5.0.2-r2

@@ -1,0 +1,112 @@
+category: x11-drivers
+conflicts:
+- 
+  category: <=media-libs
+  name: mesa
+  
+  version: 12.0.4
+name: xf86-video-intel
+requires:
+- 
+  category: x11-libs
+  name: libxshmfence
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: "1.5"
+- 
+  category: x11-libs
+  name: libXdamage
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXvMC
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: 0.27.1
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXScrnSaver
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libdrm-2.4.52[video_cards_intel]
+  
+  version: ""
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: "1.18"
+use_flags:
+- debug
+- +sna
+- tools
+- +udev
+- uxa
+- xvmc
+version: 2.99.917_p20190301

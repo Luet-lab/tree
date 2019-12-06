@@ -1,0 +1,38 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-power
+  name: pmtools
+  
+  version: ""
+- 
+  category: net-misc
+  name: usbip
+  
+  version: ""
+name: linux-misc-apps
+requires:
+- 
+  category: sys-fs
+  name: sysfsutils
+  
+  version: "2"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.6"
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+- 
+  category: sys-apps
+  name: hwids
+  
+  version: ""
+use_flags:
+- static-libs
+- tcpd
+version: 3.6-r2

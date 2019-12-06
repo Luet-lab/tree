@@ -1,0 +1,20 @@
+category: dev-embedded
+conflicts: []
+name: libftdi
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+use_flags:
+- cxx
+- doc
+- examples
+- python
+version: 0.20-r1

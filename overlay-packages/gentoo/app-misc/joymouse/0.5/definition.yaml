@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: joymouse
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXtst
+  
+  version: ""
+use_flags:
+- ""
+version: "0.5"

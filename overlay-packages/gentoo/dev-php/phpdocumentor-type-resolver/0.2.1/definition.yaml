@@ -1,0 +1,22 @@
+category: dev-php
+conflicts: []
+name: phpdocumentor-type-resolver
+requires:
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+- 
+  category: dev-php
+  name: phpdocumentor-reflection-common
+  
+  version: "2"
+- 
+  category: dev-lang
+  name: php
+  
+  version: "5.6"
+use_flags:
+- ""
+version: 0.2.1

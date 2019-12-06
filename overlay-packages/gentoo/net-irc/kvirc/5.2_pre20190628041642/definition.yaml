@@ -1,0 +1,168 @@
+category: net-irc
+conflicts: []
+name: kvirc
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: knotifications
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-sound
+  name: gsm
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtmultimedia
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXScrnSaver
+  
+  version: ""
+- 
+  category: media-libs
+  name: audiofile
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kservice
+  
+  version: ""
+- 
+  category: media-libs
+  name: phonon[qt5(+)]
+  
+  version: ""
+- 
+  category: media-libs
+  name: libtheora
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: ""
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwebkit
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: app-text
+  name: enchant
+  
+  version: ""
+use_flags:
+- audiofile
+- +dbus
+- dcc_video
+- debug
+- doc
+- gsm
+- kde
+- +nls
+- oss
+- +perl
+- +phonon
+- profile
+- +python
+- spell
+- +ssl
+- theora
+- webkit
+version: 5.2_pre20190628041642

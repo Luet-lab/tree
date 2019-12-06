@@ -1,0 +1,42 @@
+category: x11-misc
+conflicts: []
+name: vnc2swf
+requires:
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-misc
+  name: x11vnc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- x11vnc
+version: 0.5.0-r1

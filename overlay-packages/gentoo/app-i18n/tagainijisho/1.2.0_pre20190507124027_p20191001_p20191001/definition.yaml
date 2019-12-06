@@ -1,0 +1,52 @@
+category: app-i18n
+conflicts: []
+name: tagainijisho
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: "3.12"
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+use_flags:
+- ar
+- cs
+- de
+- es
+- fa
+- fi
+- fr
+- hu
+- id
+- it
+- nb
+- nl
+- pl
+- pt
+- ru
+- sv
+- th
+- tr
+- uk
+- vi
+- zh
+version: 1.2.0_pre20190507124027_p20191001_p20191001

@@ -1,0 +1,25 @@
+category: mail-client
+conflicts: []
+name: clawsker
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.0
+- 
+  category: dev-perl
+  name: Gtk2
+  
+  version: "1.200"
+- 
+  category: dev-perl
+  name: Locale-gettext
+  
+  version: "1.05"
+- 
+  category: mail-client
+  name: claws-mail
+  
+  version: 3.5.0
+version: 1.1.0

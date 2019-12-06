@@ -1,0 +1,7 @@
+category: sci-astronomy
+conflicts: []
+name: stuff
+requires: []
+use_flags:
+- threads
+version: 1.26.0

@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: mkgallery
+requires:
+- 
+  category: sys-devel
+  name: bc
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1-r1

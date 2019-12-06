@@ -1,0 +1,10 @@
+category: net-analyzer
+conflicts: []
+name: prelude-lml-rules
+requires:
+- 
+  category: net-analyzer
+  name: prelude-lml
+  
+  version: 4.1.0
+version: 4.1.0

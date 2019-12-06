@@ -1,0 +1,177 @@
+category: dev-python
+conflicts: []
+name: PyQt5
+requires:
+- 
+  category: dev-qt
+  name: qtmultimedia
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtxmlpatterns
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtbluetooth
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qthelp
+  
+  version: "5.10"
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-qt
+  name: designer
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtserialport
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtwebchannel
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtwebkit
+  
+  version: ""
+- 
+  category: virtual
+  name: python-enum34
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtpositioning
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtlocation
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: "5.10"
+- 
+  category: dev-python
+  name: PyQt5-sip
+  
+  version: 4.19.19
+- 
+  category: dev-qt
+  name: qttest
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtwebsockets
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtnetworkauth
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtsensors
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: "5.10"
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: "5.10"
+use_flags:
+- bluetooth
+- dbus
+- debug
+- declarative
+- designer
+- examples
+- gles2
+- gui
+- help
+- location
+- "multimedia\n\tnetwork"
+- networkauth
+- opengl
+- positioning
+- printsupport
+- sensors
+- serialport
+- sql
+- +ssl
+- "svg\n\ttestlib"
+- webchannel
+- webkit
+- websockets
+- widgets
+- x11extras
+- xmlpatterns
+version: 5.13.2

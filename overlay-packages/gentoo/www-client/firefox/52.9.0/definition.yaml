@@ -1,0 +1,36 @@
+category: www-client
+conflicts: []
+name: firefox
+requires:
+- 
+  category: virtual
+  name: jack
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nss
+  
+  version: 3.28.3
+- 
+  category: dev-libs
+  name: nspr
+  
+  version: 4.13.1
+- 
+  category: sec-policy
+  name: selinux-mozilla
+  
+  version: ""
+use_flags:
+- bindist
+- eme-free
+- +gmp-autoupdate
+- hardened
+- hwaccel
+- jack
+- pgo
+- rust
+- selinux
+- test
+version: 52.9.0

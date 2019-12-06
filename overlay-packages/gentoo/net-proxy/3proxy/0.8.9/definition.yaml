@@ -1,0 +1,5 @@
+category: net-proxy
+name: 3proxy
+use_flags:
+- ""
+version: 0.8.9

@@ -1,0 +1,5 @@
+category: app-crypt
+name: mhash
+use_flags:
+- static-libs
+version: 0.9.9.9-r2

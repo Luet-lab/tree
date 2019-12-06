@@ -1,0 +1,12 @@
+category: games-misc
+conflicts: []
+name: fortune-mod-sp-fortunes
+requires:
+- 
+  category: games-misc
+  name: fortune-mod
+  
+  version: ""
+use_flags:
+- ""
+version: "0.2"

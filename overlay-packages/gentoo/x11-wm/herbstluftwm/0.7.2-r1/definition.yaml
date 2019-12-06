@@ -1,0 +1,39 @@
+category: x11-wm
+conflicts: []
+name: herbstluftwm
+requires:
+- 
+  category: app-shells
+  name: zsh
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.24"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+use_flags:
+- examples
+- xinerama
+- zsh-completion
+version: 0.7.2-r1

@@ -1,0 +1,41 @@
+category: media-libs
+conflicts: []
+name: libde265
+requires:
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: media-video
+  name: libav
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_sse
+- debug
+- libav
+- qt5
+- static-libs
+version: 1.0.3

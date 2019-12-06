@@ -1,0 +1,27 @@
+category: media-sound
+conflicts: []
+name: vlorb
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: CDDB
+  
+  version: ""
+- 
+  category: media-sound
+  name: cdparanoia
+  
+  version: ""
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+use_flags:
+- ogg
+version: "1.2"

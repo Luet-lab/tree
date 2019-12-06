@@ -1,0 +1,17 @@
+category: media-plugins
+conflicts: []
+name: gmpc-extraplaylist
+requires:
+- 
+  category: media-sound
+  name: gmpc
+  
+  version: 0.20.0
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- ""
+version: 0.20.0

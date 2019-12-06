@@ -1,0 +1,22 @@
+category: sci-biology
+conflicts: []
+name: repeatmasker
+requires:
+- 
+  category: sci-biology
+  name: rmblast
+  
+  version: ""
+- 
+  category: sci-biology
+  name: trf
+  
+  version: ""
+- 
+  category: sci-biology
+  name: repeatmasker-libraries
+  
+  version: ""
+use_flags:
+- ""
+version: 4.0.1

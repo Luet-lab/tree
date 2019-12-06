@@ -1,0 +1,8 @@
+category: sys-boot
+conflicts: []
+name: udk
+requires: []
+use_flags:
+- doc
+- examples
+version: "2018"

@@ -1,0 +1,7 @@
+category: x11-misc
+conflicts: []
+name: xtitle
+requires: []
+use_flags:
+- ""
+version: 1.0.4

@@ -1,0 +1,16 @@
+category: net-misc
+conflicts: []
+name: dhcpcd
+requires:
+- 
+  category: virtual
+  name: udev
+  
+  version: ""
+use_flags:
+- elibc_glibc
+- +embedded
+- ipv6
+- kernel_linux
+- +udev
+version: 7.2.3

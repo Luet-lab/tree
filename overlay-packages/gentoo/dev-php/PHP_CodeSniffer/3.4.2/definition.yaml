@@ -1,0 +1,12 @@
+category: dev-php
+conflicts: []
+name: PHP_CodeSniffer
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- test
+version: 3.4.2

@@ -1,0 +1,17 @@
+category: net-mail
+conflicts: []
+name: nmzmail
+requires:
+- 
+  category: app-text
+  name: namazu
+  
+  version: "2"
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+use_flags:
+- ""
+version: "1.1"

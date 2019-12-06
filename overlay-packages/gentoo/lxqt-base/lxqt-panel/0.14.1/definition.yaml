@@ -1,0 +1,170 @@
+category: lxqt-base
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: lxqt-panel
+requires:
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libdbusmenu-qt[qt5(+)]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: sys-apps
+  name: lm-sensors
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-sound
+  name: pavucontrol-qt
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libqtxdg
+  
+  version: 3.3.1
+- 
+  category: lxde-base
+  name: lxmenu-data
+  
+  version: 0.1.5
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxkbcommon
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcomposite
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: liblxqt
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: solid
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: lxde-base
+  name: menu-cache
+  
+  version: 1.1.0
+- 
+  category: lxqt-base
+  name: libsysstat
+  
+  version: 0.4.1
+- 
+  category: x11-libs
+  name: libXdamage
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: lxqt-globalkeys
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libstatgrab
+  
+  version: ""
+use_flags:
+- +alsa
+- colorpicker
+- cpuload
+- +desktopswitch
+- +directorymenu
+- dom
+- +kbindicator
+- "+mainmenu\n\t+mount"
+- networkmonitor
+- pulseaudio
+- +quicklaunch
+- sensors
+- "+showdesktop\n\t+spacer"
+- statusnotifier
+- sysstat
+- +taskbar
+- +tray
+- +volume
+- +worldclock
+version: 0.14.1

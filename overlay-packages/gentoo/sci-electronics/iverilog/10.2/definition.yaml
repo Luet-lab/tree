@@ -1,0 +1,22 @@
+category: sci-electronics
+conflicts: []
+name: iverilog
+requires:
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- examples
+version: "10.2"

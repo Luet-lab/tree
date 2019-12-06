@@ -1,0 +1,323 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: kdevplatform
+  
+  version: ""
+- 
+  category: dev-util
+  name: kdevelop-clang-tidy
+  
+  version: ""
+name: kdevelop
+requires:
+- 
+  category: kde-frameworks
+  name: kguiaddons
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kitemmodels
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: 5.12.3
+- 
+  category: kde-apps
+  name: kapptemplate
+  
+  version: 19.04.3
+- 
+  category: dev-qt
+  name: qtquickcontrols
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kservice
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kxmlgui
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: sonnet
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kconfigwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: threadweaver
+  
+  version: 5.60.0
+- 
+  category: dev-libs
+  name: apr
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kiconthemes
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: knewstuff
+  
+  version: 5.60.0
+- 
+  category: dev-util
+  name: ninja
+  
+  version: ""
+- 
+  category: kde-apps
+  name: ktp-accounts-kcm
+  
+  version: 19.04.3
+- 
+  category: kde-frameworks
+  name: knotifications
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ktextwidgets
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: karchive
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qttest
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qdbus
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: 5.60.0
+- 
+  category: kde-apps
+  name: libkomparediff2
+  
+  version: 19.04.3
+- 
+  category: sys-devel
+  name: clang
+  
+  version: 3.8.0
+- 
+  category: dev-util
+  name: kdevelop-pg-qt
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwebkit
+  
+  version: 5.212.0_pre20180120
+- 
+  category: kde-frameworks
+  name: kcompletion
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qthelp
+  
+  version: 5.12.3
+- 
+  category: dev-libs
+  name: apr-util
+  
+  version: ""
+- 
+  category: kde-apps
+  name: kio-extras
+  
+  version: 19.04.3
+- 
+  category: kde-frameworks
+  name: kcmutils
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcoreaddons
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: 5.12.3
+- 
+  category: dev-libs
+  name: grantlee
+  
+  version: ""
+- 
+  category: kde-plasma
+  name: libksysguard
+  
+  version: 5.16.5
+- 
+  category: kde-frameworks
+  name: kconfig
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kcrash
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: plasma
+  
+  version: 5.60.0
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+- 
+  category: kde-frameworks
+  name: kitemviews
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kparts
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kdeclarative
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ktexteditor
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kwidgetsaddons
+  
+  version: 5.60.0
+- 
+  category: dev-util
+  name: astyle
+  
+  version: "3.1"
+- 
+  category: sys-devel
+  name: gdb
+  
+  version: "7.0"
+- 
+  category: kde-frameworks
+  name: kcodecs
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kio
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: purpose
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: ki18n
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: krunner
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: kbookmarks
+  
+  version: 5.60.0
+- 
+  category: kde-frameworks
+  name: knotifyconfig
+  
+  version: 5.60.0
+- 
+  category: app-editors
+  name: okteta
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtquickcontrols2
+  
+  version: 5.12.3
+- 
+  category: kde-frameworks
+  name: kjobwidgets
+  
+  version: 5.60.0
+- 
+  category: dev-qt
+  name: qtwebengine
+  
+  version: 5.12.3
+use_flags:
+- +gdbui
+- hex
+- +plasma
+- +qmake
+- reviewboard
+- subversion
+- webkit
+version: 5.4.4

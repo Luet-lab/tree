@@ -1,0 +1,17 @@
+category: sys-cluster
+conflicts: []
+name: osc-mpiexec
+requires:
+- 
+  category: sys-cluster
+  name: torque
+  
+  version: ""
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+use_flags:
+- ""
+version: "0.83"

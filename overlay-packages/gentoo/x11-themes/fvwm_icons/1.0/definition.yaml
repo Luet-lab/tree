@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: fvwm_icons
+requires:
+- 
+  category: x11-wm
+  name: fvwm
+  
+  version: 2.6.2
+use_flags:
+- ""
+version: "1.0"

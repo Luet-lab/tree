@@ -1,0 +1,5 @@
+category: app-cdr
+name: iat
+use_flags:
+- ""
+version: 0.1.7-r1

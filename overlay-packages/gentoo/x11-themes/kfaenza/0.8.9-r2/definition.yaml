@@ -1,0 +1,6 @@
+category: x11-themes
+name: kfaenza
+use_flags:
+- +additional
+- branding
+version: 0.8.9-r2

@@ -1,0 +1,54 @@
+category: sys-cluster
+conflicts: []
+name: openstack-meta
+requires:
+- 
+  category: sys-cluster
+  name: cinder
+  
+  version: 2019.2.9999
+- 
+  category: sys-cluster
+  name: nova
+  
+  version: 2019.2.9999
+- 
+  category: sys-cluster
+  name: heat
+  
+  version: 2019.2.9999
+- 
+  category: sys-cluster
+  name: placement
+  
+  version: 2019.2.9999
+- 
+  category: sys-auth
+  name: keystone
+  
+  version: 2019.2.9999
+- 
+  category: sys-cluster
+  name: swift
+  
+  version: 2019.2.9999
+- 
+  category: sys-cluster
+  name: neutron
+  
+  version: 2019.2.9999
+- 
+  category: app-admin
+  name: glance
+  
+  version: 2019.2.9999
+use_flags:
+- cinder
+- glance
+- heat
+- keystone
+- neutron
+- nova
+- placement
+- swift
+version: 2019.2.9999

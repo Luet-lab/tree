@@ -1,0 +1,17 @@
+category: dev-vcs
+conflicts: []
+name: github-pages-publish
+requires:
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygit2
+  
+  version: 0.20.0
+use_flags:
+- ""
+version: 0.1.2

@@ -1,0 +1,23 @@
+category: net-libs
+conflicts: []
+name: balde
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.34"
+- 
+  category: dev-libs
+  name: fcgi
+  
+  version: ""
+- 
+  category: x11-misc
+  name: shared-mime-info
+  
+  version: ""
+use_flags:
+- doc
+- test
+version: 0.1.1

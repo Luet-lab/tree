@@ -1,0 +1,40 @@
+category: www-client
+conflicts:
+- 
+  category: www-client
+  name: qupzilla
+  
+  version: ""
+name: falkon
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libxcb
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- dbus
+- kde
+- libressl
+- +X
+version: 3.1.0-r1

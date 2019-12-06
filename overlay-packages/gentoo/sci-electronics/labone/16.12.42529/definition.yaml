@@ -1,0 +1,7 @@
+category: sci-electronics
+conflicts: []
+name: labone
+requires: []
+use_flags:
+- minimal
+version: 16.12.42529

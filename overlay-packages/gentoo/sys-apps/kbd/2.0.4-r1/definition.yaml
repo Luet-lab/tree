@@ -1,0 +1,24 @@
+category: sys-apps
+conflicts:
+- 
+  category: app-misc
+  name: vlock
+  
+  version: ""
+name: kbd
+requires:
+- 
+  category: app-arch
+  name: gzip
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+use_flags:
+- nls
+- pam
+- test
+version: 2.0.4-r1

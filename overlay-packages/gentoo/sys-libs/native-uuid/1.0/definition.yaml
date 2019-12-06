@@ -1,0 +1,15 @@
+category: sys-libs
+conflicts:
+- 
+  category: '!sys-libs'
+  name: libuuid
+  
+  version: ""
+- 
+  category: '!sys-apps'
+  name: util-linux
+  
+  version: ""
+name: native-uuid
+requires: []
+version: "1.0"

@@ -1,0 +1,99 @@
+category: net-analyzer
+conflicts: []
+name: ettercap
+requires:
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnet
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: 2.2.2
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "5.3"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: 0.8.1
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: 1.2.3
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.26.0
+- 
+  category: dev-libs
+  name: geoip
+  
+  version: ""
+- 
+  category: dev-libs
+  name: atk
+  
+  version: 1.2.4
+- 
+  category: dev-libs
+  name: libbsd
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.2.2
+use_flags:
+- doc
+- geoip
+- gtk
+- ipv6
+- libressl
+- ncurses
+- +plugins
+- test
+version: 0.8.3

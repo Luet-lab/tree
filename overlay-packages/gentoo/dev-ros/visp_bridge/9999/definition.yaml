@@ -1,0 +1,42 @@
+category: dev-ros
+conflicts: []
+name: visp_bridge
+requires:
+- 
+  category: dev-ros
+  name: camera_calibration_parsers
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: sci-libs
+  name: ViSP
+  
+  version: ""
+- 
+  category: dev-ros
+  name: geometry_msgs
+  
+  version: ""
+- 
+  category: dev-ros
+  name: roscpp
+  
+  version: ""
+- 
+  category: dev-ros
+  name: sensor_msgs
+  
+  version: ""
+- 
+  category: dev-ros
+  name: std_msgs
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

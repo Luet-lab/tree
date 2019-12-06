@@ -1,0 +1,221 @@
+category: media-sound
+conflicts: []
+name: mixxx
+requires:
+- 
+  category: media-libs
+  name: libid3tag
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: rubberband
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmp4v2
+  
+  version: ""
+- 
+  category: "(\tmedia-libs"
+  name: opusfile
+  
+  version: ""
+- 
+  category: dev-libs
+  name: protobuf
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: media-libs
+  name: portmidi
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtx11extras
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtxml
+  
+  version: ""
+- 
+  category: media-libs
+  name: vamp-plugin-sdk
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmad
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: sys-power
+  name: upower
+  
+  version: ""
+- 
+  category: dev-libs
+  name: hidapi
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsndfile
+  
+  version: ""
+- 
+  category: media-libs
+  name: taglib
+  
+  version: ""
+- 
+  category: media-libs
+  name: lilv
+  
+  version: 0.24.2-r3
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsql
+  
+  version: ""
+- 
+  category: media-libs
+  name: libogg
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: faad2
+  
+  version: ""
+- 
+  category: media-sound
+  name: wavpack
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtscript
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsoundtouch
+  
+  version: "1.5"
+- 
+  category: media-libs
+  name: libshout
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: media-libs
+  name: chromaprint
+  
+  version: ""
+- 
+  category: media-libs
+  name: portaudio
+  
+  version: 19_pre
+use_flags:
+- aac
+- doc
+- ffmpeg
+- hid
+- lv2
+- mp3
+- mp4
+- opus
+- shout
+- wavpack
+version: 2.2.2

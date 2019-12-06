@@ -1,0 +1,27 @@
+category: dev-python
+conflicts: []
+name: python-caja
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.50"
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: ""
+- 
+  category: mate-base
+  name: caja
+  
+  version: 1.17.1
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.22"
+use_flags:
+- doc
+version: 1.22.0-r1

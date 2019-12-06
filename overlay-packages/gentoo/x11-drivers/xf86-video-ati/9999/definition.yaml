@@ -1,0 +1,27 @@
+category: x11-drivers
+conflicts: []
+name: xf86-video-ati
+requires:
+- 
+  category: x11-libs
+  name: libdrm-2.4.89[video_cards_radeon]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libpciaccess
+  
+  version: 0.8.0
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+use_flags:
+- udev
+version: "9999"

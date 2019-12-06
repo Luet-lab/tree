@@ -1,0 +1,66 @@
+category: net-misc
+conflicts: []
+name: cfengine
+requires:
+- 
+  category: sys-libs
+  name: db
+  
+  version: "4"
+- 
+  category: dev-db
+  name: postgresql
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: dev-db
+  name: tokyocabinet
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 0.9.7
+- 
+  category: net-libs
+  name: libnsl
+  
+  version: ""
+- 
+  category: virtual
+  name: mysql
+  
+  version: ""
+- 
+  category: dev-db
+  name: qdbm
+  
+  version: ""
+- 
+  category: app-emulation
+  name: libvirt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+use_flags:
+- examples
+- html
+- libvirt
+- mysql
+- postgres
+- +qdbm
+- selinux
+- tests
+- tokyocabinet
+- vim-syntax
+version: 3.3.9

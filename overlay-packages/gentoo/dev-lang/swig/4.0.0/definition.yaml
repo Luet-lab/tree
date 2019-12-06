@@ -1,0 +1,19 @@
+category: dev-lang
+conflicts: []
+name: swig
+requires:
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ccache
+- doc
+- pcre
+version: 4.0.0

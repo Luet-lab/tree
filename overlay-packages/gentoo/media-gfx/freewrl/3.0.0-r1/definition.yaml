@@ -1,0 +1,151 @@
+category: media-gfx
+conflicts: []
+name: freewrl
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: motif
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: media-sound
+  name: sox
+  
+  version: ""
+- 
+  category: dev-lang
+  name: spidermonkey
+  
+  version: ""
+- 
+  category: media-fonts
+  name: dejavu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: media-libs
+  name: liblo
+  
+  version: ""
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+- 
+  category: media-libs
+  name: freealut
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: "2"
+- 
+  category: virtual
+  name: jre
+  
+  version: "1.4"
+- 
+  category: x11-libs
+  name: libXxf86vm
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- curl
+- debug
+- java
+- libeai
+- motif
+- +nsplugin
+- opencl
+- osc
+- +sox
+- static-libs
+version: 3.0.0-r1

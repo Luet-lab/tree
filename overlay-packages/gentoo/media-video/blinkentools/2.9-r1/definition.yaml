@@ -1,0 +1,15 @@
+category: media-video
+conflicts: []
+name: blinkentools
+requires:
+- 
+  category: media-libs
+  name: blib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmng
+  
+  version: ""
+version: 2.9-r1

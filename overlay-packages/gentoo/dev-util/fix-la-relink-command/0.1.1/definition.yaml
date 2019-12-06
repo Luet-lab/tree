@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: fix-la-relink-command
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1.1

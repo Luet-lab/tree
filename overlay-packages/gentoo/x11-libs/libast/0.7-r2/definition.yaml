@@ -1,0 +1,54 @@
+category: x11-libs
+conflicts:
+- 
+  category: sci-astronomy
+  name: ast
+  
+  version: ""
+name: libast
+requires:
+- 
+  category: x11-base
+  name: xorg-proto
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+use_flags:
+- imlib
+- cpu_flags_x86_mmx
+- pcre
+version: 0.7-r2

@@ -1,0 +1,10 @@
+category: app-admin
+conflicts: []
+name: sshguard
+requires:
+- 
+  category: virtual
+  name: logger
+  
+  version: ""
+version: 2.4.0

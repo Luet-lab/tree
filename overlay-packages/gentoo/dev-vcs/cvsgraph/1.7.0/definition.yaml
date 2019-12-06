@@ -1,0 +1,42 @@
+category: dev-vcs
+conflicts: []
+name: cvsgraph
+requires:
+- 
+  category: media-libs
+  name: gd
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  name: giflib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+use_flags:
+- gif
+- jpeg
+- nls
+- png
+- truetype
+- zlib
+version: 1.7.0

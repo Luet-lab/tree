@@ -1,0 +1,45 @@
+category: sys-kernel
+conflicts:
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: 0.9.9
+name: genkernel
+requires:
+- 
+  category: sys-fs
+  name: e2fsprogs
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: sys-fs
+  name: cryptsetup
+  
+  version: ""
+- 
+  category: app-arch
+  name: cpio
+  
+  version: ""
+- 
+  category: app-misc
+  name: pax-utils
+  
+  version: 1.2.2
+- 
+  category: sys-kernel
+  name: linux-firmware
+  
+  version: ""
+use_flags:
+- cryptsetup
+- ibm
+- +firmware
+- selinux
+version: 3.5.1.1

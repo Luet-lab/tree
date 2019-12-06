@@ -1,0 +1,17 @@
+category: kde-apps
+conflicts: []
+name: kdeadmin-meta
+requires:
+- 
+  category: kde-apps
+  name: ksystemlog
+  
+  version: 19.08.3
+- 
+  category: kde-apps
+  name: kcron
+  
+  version: 19.08.3
+use_flags:
+- +cron
+version: 19.08.3

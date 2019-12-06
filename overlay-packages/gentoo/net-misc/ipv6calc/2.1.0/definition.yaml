@@ -1,0 +1,24 @@
+category: net-misc
+conflicts: []
+name: ipv6calc
+requires:
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: geoip
+  
+  version: 1.4.7
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- geoip
+- libressl
+- test
+version: 2.1.0

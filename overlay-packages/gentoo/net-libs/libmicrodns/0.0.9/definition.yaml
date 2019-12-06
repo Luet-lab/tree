@@ -1,0 +1,7 @@
+category: net-libs
+conflicts: []
+name: libmicrodns
+requires: []
+use_flags:
+- ""
+version: 0.0.9

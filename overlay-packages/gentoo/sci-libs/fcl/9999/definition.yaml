@@ -1,0 +1,27 @@
+category: sci-libs
+conflicts: []
+name: fcl
+requires:
+- 
+  category: sci-libs
+  name: octomap
+  
+  version: ""
+- 
+  category: sci-libs
+  name: flann
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: sci-libs
+  name: libccd
+  
+  version: ""
+use_flags:
+- cpu_flags_x86_sse
+version: "9999"

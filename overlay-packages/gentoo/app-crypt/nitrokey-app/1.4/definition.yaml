@@ -1,0 +1,35 @@
+category: app-crypt
+conflicts: []
+name: nitrokey-app
+requires:
+- 
+  category: app-crypt
+  name: libnitrokey
+  
+  version: "3.5"
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+version: "1.4"

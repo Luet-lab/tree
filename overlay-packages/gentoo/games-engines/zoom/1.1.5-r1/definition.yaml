@@ -1,0 +1,32 @@
+category: games-engines
+conflicts: []
+name: zoom
+requires:
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: t1lib
+  
+  version: "5"
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+use_flags:
+- ""
+version: 1.1.5-r1

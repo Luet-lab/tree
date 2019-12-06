@@ -1,0 +1,22 @@
+category: media-sound
+conflicts:
+- 
+  category: media-sound
+  name: modplugplay
+  
+  version: ""
+name: modplugtools
+requires:
+- 
+  category: media-libs
+  name: libao
+  
+  version: 0.8.0
+- 
+  category: media-libs
+  name: libmodplug
+  
+  version: 0.8.8.1
+use_flags:
+- ""
+version: 0.5.3

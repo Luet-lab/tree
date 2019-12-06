@@ -1,0 +1,27 @@
+category: app-i18n
+conflicts: []
+name: pology
+requires:
+- 
+  category: dev-libs
+  name: libxslt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: ""
+use_flags:
+- ""
+version: "9999"

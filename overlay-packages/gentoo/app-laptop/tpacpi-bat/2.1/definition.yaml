@@ -1,0 +1,17 @@
+category: app-laptop
+conflicts: []
+name: tpacpi-bat
+requires:
+- 
+  category: sys-power
+  name: acpi_call
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "2.1"

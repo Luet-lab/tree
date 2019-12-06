@@ -1,0 +1,54 @@
+category: sys-apps
+conflicts:
+- 
+  category: net-misc
+  name: arpd
+  
+  version: ""
+name: iproute2
+requires:
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: virtual
+  name: libelf
+  
+  version: ""
+- 
+  category: net-firewall
+  name: iptables
+  
+  version: 1.4.20
+- 
+  category: sys-libs
+  name: db
+  
+  version: ""
+- 
+  category: net-dialup
+  name: linux-atm
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: net-libs
+  name: libmnl
+  
+  version: ""
+use_flags:
+- atm
+- berkdb
+- caps
+- elf
+- +iptables
+- ipv6
+- minimal
+- selinux
+version: 4.19.0-r1

@@ -1,0 +1,69 @@
+category: media-sound
+conflicts: []
+name: pithos
+requires:
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: "3.12"
+- 
+  category: dev-libs
+  name: appstream-glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: gstreamer
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "3.14"
+- 
+  category: x11-themes
+  name: gnome-icon-theme-symbolic
+  
+  version: ""
+- 
+  category: dev-libs
+  name: keybinder
+  
+  version: ""
+- 
+  category: dev-python
+  name: pylast
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: media-plugins
+  name: gst-plugins-meta
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libappindicator
+  
+  version: ""
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+use_flags:
+- libnotify
+- appindicator
+- +keybinder
+version: 1.3.1

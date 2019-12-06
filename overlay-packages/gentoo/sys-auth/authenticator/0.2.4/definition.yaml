@@ -1,0 +1,47 @@
+category: sys-auth
+conflicts: []
+name: authenticator
+requires:
+- 
+  category: dev-python
+  name: pyotp
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-gnupg
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyzbar
+  
+  version: ""
+- 
+  category: media-libs
+  name: gd
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: app-crypt
+  name: libsecret
+  
+  version: ""
+- 
+  category: dev-python
+  name: pillow
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: ""
+use_flags:
+- test
+version: 0.2.4

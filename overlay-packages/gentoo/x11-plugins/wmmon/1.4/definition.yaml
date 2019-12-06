@@ -1,0 +1,22 @@
+category: x11-plugins
+conflicts: []
+name: wmmon
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libdockapp
+  
+  version: "0.7"
+use_flags:
+- ""
+version: "1.4"

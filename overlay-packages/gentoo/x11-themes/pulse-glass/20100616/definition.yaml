@@ -1,0 +1,5 @@
+category: x11-themes
+name: pulse-glass
+use_flags:
+- ""
+version: "20100616"

@@ -1,0 +1,12 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-birthday-reminder
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+use_flags:
+- static-libs
+version: 1.7-r1

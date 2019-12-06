@@ -1,0 +1,15 @@
+category: sci-libs
+conflicts: []
+name: orocos_kdl
+requires:
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: ""
+use_flags:
+- doc
+- test
+- examples
+- models
+version: 1.4.0

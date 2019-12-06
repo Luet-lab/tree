@@ -1,0 +1,20 @@
+category: sys-fs
+conflicts: []
+name: fuseiso
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+version: 20070708-r2

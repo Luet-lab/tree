@@ -1,0 +1,12 @@
+category: app-doc
+conflicts: []
+name: vilearn
+requires:
+- 
+  category: app-editors
+  name: vim
+  
+  version: ""
+use_flags:
+- ""
+version: "1.0"

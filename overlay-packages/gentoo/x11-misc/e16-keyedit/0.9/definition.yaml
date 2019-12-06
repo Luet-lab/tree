@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts:
+- 
+  category: x11-misc
+  name: e16keyedit
+  
+  version: ""
+name: e16-keyedit
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- gtk2
+version: "0.9"

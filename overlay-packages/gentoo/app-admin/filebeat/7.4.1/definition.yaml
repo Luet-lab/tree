@@ -1,0 +1,10 @@
+category: app-admin
+conflicts:
+- 
+  category: app-admin
+  name: filebeat-bin
+  
+  version: ""
+name: filebeat
+requires: []
+version: 7.4.1

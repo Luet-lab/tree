@@ -1,0 +1,54 @@
+category: app-cdr
+conflicts: []
+name: burncdda
+requires:
+- 
+  category: media-sound
+  name: mpg123
+  
+  version: ""
+- 
+  category: media-sound
+  name: mp3_check
+  
+  version: ""
+- 
+  category: media-sound
+  name: vorbis-tools
+  
+  version: ""
+- 
+  category: dev-util
+  name: dialog
+  
+  version: ""
+- 
+  category: virtual
+  name: cdrtools
+  
+  version: ""
+- 
+  category: media-sound
+  name: sox
+  
+  version: ""
+- 
+  category: media-libs
+  name: flac
+  
+  version: ""
+- 
+  category: app-cdr
+  name: cdrdao
+  
+  version: ""
+- 
+  category: media-sound
+  name: normalize
+  
+  version: ""
+use_flags:
+- flac
+- mp3
+- vorbis
+version: 1.8.3

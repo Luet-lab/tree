@@ -1,0 +1,22 @@
+category: sys-auth
+conflicts: []
+name: pam_ssh_agent_auth
+requires:
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: virtual
+  name: ssh
+  
+  version: ""
+use_flags:
+- ""
+version: 0.10.3

@@ -1,0 +1,12 @@
+category: www-plugins
+conflicts: []
+name: passff
+requires:
+- 
+  category: www-plugins
+  name: passff-host
+  
+  version: ""
+use_flags:
+- ""
+version: "1.9"

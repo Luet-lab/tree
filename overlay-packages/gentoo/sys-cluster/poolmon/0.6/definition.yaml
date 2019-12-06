@@ -1,0 +1,17 @@
+category: sys-cluster
+conflicts: []
+name: poolmon
+requires:
+- 
+  category: dev-perl
+  name: IO-Socket-SSL
+  
+  version: ""
+- 
+  category: net-mail
+  name: dovecot
+  
+  version: ""
+use_flags:
+- ""
+version: "0.6"

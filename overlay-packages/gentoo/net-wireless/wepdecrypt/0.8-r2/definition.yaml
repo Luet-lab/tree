@@ -1,0 +1,27 @@
+category: net-wireless
+conflicts: []
+name: wepdecrypt
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: ""
+use_flags:
+- X
+version: 0.8-r2

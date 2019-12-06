@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: kodi-pvr-hts
+requires:
+- 
+  category: dev-libs
+  name: libplatform
+  
+  version: "2"
+- 
+  category: media-libs
+  name: kodi-platform
+  
+  version: "18"
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+use_flags:
+- ""
+version: 4.4.12

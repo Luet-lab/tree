@@ -1,0 +1,30 @@
+category: net-misc
+conflicts: []
+name: sslh
+requires:
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libconfig
+  
+  version: "1.5"
+use_flags:
+- caps
+- pcre
+- systemd
+- tcpd
+version: "1.20"

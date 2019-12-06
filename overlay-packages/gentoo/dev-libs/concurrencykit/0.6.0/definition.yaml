@@ -1,0 +1,10 @@
+category: dev-libs
+conflicts:
+- 
+  category: sys-cluster
+  name: charm
+  
+  version: ""
+name: concurrencykit
+requires: []
+version: 0.6.0

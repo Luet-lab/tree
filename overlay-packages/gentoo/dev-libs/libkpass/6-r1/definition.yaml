@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: libkpass
+requires:
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: 2.7.1
+use_flags:
+- static-libs
+version: 6-r1

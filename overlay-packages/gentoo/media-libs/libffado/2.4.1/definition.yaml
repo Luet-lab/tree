@@ -1,0 +1,74 @@
+category: media-libs
+conflicts:
+- 
+  category: <media-sound
+  name: jack-audio-connection-kit
+  
+  version: 0.122.0
+- 
+  category: <media-sound
+  name: jack-audio-connection-kit
+  
+  version: 1.9.9
+name: libffado
+requires:
+- 
+  category: dev-libs
+  name: dbus-c++
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libconfig
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libraw1394
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: libxmlpp
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libiec61883
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libavc1394
+  
+  version: ""
+- 
+  category: dev-python
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+use_flags:
+- debug
+- qt5
+- test-programs
+version: 2.4.1

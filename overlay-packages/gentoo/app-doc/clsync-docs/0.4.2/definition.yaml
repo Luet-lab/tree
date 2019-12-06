@@ -1,0 +1,6 @@
+category: app-doc
+name: clsync-docs
+use_flags:
+- api
+- +examples
+version: 0.4.2

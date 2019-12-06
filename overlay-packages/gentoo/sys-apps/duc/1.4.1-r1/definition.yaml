@@ -1,0 +1,63 @@
+category: sys-apps
+conflicts: []
+name: duc
+requires:
+- 
+  category: dev-libs
+  name: leveldb
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  name: glfw
+  
+  version: "3.0"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango[X]
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-db
+  name: tokyocabinet
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo[X]
+  
+  version: ""
+use_flags:
+- cairo
+- gui
+- -leveldb
+- ncurses
+- -sqlite
+- +tokyocabinet
+- X
+version: 1.4.1-r1

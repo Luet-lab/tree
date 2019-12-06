@@ -1,0 +1,18 @@
+category: net-ftp
+conflicts: []
+name: tnftp
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "5.1"
+- 
+  category: net-proxy
+  name: dante
+  
+  version: ""
+use_flags:
+- ipv6
+- socks5
+version: "20151004"

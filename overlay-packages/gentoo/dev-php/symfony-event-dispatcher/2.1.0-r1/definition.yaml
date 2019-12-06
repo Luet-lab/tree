@@ -1,0 +1,22 @@
+category: dev-php
+conflicts: []
+name: symfony-event-dispatcher
+requires:
+- 
+  category: dev-php
+  name: symfony-dependency-injection
+  
+  version: 2.1.0
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: fedora-autoloader
+  
+  version: ""
+use_flags:
+- test
+version: 2.1.0-r1

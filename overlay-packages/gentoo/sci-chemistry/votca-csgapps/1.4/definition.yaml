@@ -1,0 +1,12 @@
+category: sci-chemistry
+conflicts: []
+name: votca-csgapps
+requires:
+- 
+  category: sci-chemistry
+  name: votca-csg
+  
+  version: "1.4"
+use_flags:
+- ""
+version: "1.4"

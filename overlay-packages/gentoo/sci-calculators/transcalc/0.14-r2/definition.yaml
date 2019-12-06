@@ -1,0 +1,12 @@
+category: sci-calculators
+conflicts: []
+name: transcalc
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- ""
+version: 0.14-r2

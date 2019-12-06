@@ -1,0 +1,26 @@
+category: dev-cpp
+conflicts: []
+name: asio
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- libressl
+- ssl
+- test
+version: 1.13.0

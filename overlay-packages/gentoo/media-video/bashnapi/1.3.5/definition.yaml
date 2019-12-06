@@ -1,0 +1,17 @@
+category: media-video
+conflicts:
+- 
+  category: media-video
+  name: subotage
+  
+  version: ""
+name: bashnapi
+requires:
+- 
+  category: app-arch
+  name: p7zip
+  
+  version: ""
+use_flags:
+- ""
+version: 1.3.5

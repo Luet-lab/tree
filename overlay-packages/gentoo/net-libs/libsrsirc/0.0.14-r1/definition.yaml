@@ -1,0 +1,13 @@
+category: net-libs
+conflicts: []
+name: libsrsirc
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- static-libs
+- ssl
+version: 0.0.14-r1

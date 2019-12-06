@@ -1,0 +1,54 @@
+category: x11-plugins
+conflicts:
+- 
+  category: x11-plugins
+  name: epplets
+  
+  version: ""
+name: e16-epplets
+requires:
+- 
+  category: x11-wm
+  name: e16
+  
+  version: ""
+- 
+  category: media-libs
+  name: libcdaudio
+  
+  version: ""
+- 
+  category: gnome-base
+  name: libgtop
+  
+  version: ""
+- 
+  category: media-libs
+  name: glu
+  
+  version: ""
+- 
+  category: media-libs
+  name: imlib2
+  
+  version: 1.2.0
+- 
+  category: media-libs
+  name: mesa[X(+)]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- cdaudio
+- libgtop
+- opengl
+version: "0.16"

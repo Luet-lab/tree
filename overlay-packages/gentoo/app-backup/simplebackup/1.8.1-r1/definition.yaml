@@ -1,0 +1,17 @@
+category: app-backup
+conflicts: []
+name: simplebackup
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Authen-SASL
+  
+  version: ""
+use_flags:
+- sasl
+version: 1.8.1-r1

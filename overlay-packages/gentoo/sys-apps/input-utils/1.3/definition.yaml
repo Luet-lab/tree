@@ -1,0 +1,7 @@
+category: sys-apps
+conflicts: []
+name: input-utils
+requires: []
+use_flags:
+- ""
+version: "1.3"

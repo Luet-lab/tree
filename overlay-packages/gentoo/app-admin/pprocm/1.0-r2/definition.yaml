@@ -1,0 +1,25 @@
+category: app-admin
+conflicts: []
+name: pprocm
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: POE
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Sys-Statistics-Linux
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-Pipely
+  
+  version: ""
+version: 1.0-r2

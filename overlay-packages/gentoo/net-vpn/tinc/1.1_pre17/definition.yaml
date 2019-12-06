@@ -1,0 +1,55 @@
+category: net-vpn
+conflicts: []
+name: tinc
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: net-libs
+  name: miniupnpc
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: net-misc
+  name: vde
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: lzo
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+use_flags:
+- +lzo
+- +ncurses
+- libressl
+- +readline
+- +ssl
+- uml
+- vde
+- upnp
+- +zlib
+version: 1.1_pre17

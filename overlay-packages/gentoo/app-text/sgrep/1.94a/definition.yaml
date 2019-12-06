@@ -1,0 +1,5 @@
+category: app-text
+name: sgrep
+use_flags:
+- ""
+version: 1.94a

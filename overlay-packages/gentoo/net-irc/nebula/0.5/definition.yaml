@@ -1,0 +1,12 @@
+category: net-irc
+conflicts: []
+name: nebula
+requires:
+- 
+  category: x11-libs
+  name: motif
+  
+  version: "2.3"
+use_flags:
+- ""
+version: "0.5"

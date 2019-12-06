@@ -1,0 +1,44 @@
+category: sys-devel
+conflicts: []
+name: byfl
+requires:
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: 6.0.0
+- 
+  category: sys-devel
+  name: binutils
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Switch
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: sys-devel
+  name: clang
+  
+  version: 6.0.0
+use_flags:
+- hdf5
+- static-libs
+- sqlite
+version: 1.6-r1

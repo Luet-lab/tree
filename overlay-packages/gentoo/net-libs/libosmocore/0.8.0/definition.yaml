@@ -1,0 +1,18 @@
+category: net-libs
+conflicts: []
+name: libosmocore
+requires:
+- 
+  category: sys-libs
+  name: talloc
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pcsc-lite
+  
+  version: ""
+use_flags:
+- embedded
+- pcsc-lite
+version: 0.8.0

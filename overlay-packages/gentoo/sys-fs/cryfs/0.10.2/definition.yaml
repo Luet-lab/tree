@@ -1,0 +1,40 @@
+category: sys-fs
+conflicts: []
+name: cryfs
+requires:
+- 
+  category: dev-libs
+  name: crypto++
+  
+  version: 8.2.0
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: 2.8.6
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: 1.65.1
+use_flags:
+- custom-optimization
+- debug
+- libressl
+- test
+version: 0.10.2

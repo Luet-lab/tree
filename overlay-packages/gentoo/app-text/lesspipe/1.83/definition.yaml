@@ -1,0 +1,17 @@
+category: app-text
+conflicts:
+- 
+  category: <sys-apps
+  name: less
+  
+  version: 483-r1
+name: lesspipe
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: "1.83"

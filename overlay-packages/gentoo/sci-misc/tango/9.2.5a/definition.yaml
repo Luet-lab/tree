@@ -1,0 +1,50 @@
+category: sci-misc
+conflicts: []
+name: tango
+requires:
+- 
+  category: dev-db
+  name: mariadb
+  
+  version: ""
+- 
+  category: dev-db
+  name: mysql
+  
+  version: ""
+- 
+  category: virtual
+  name: mysql
+  
+  version: ""
+- 
+  category: virtual
+  name: jdk
+  
+  version: ""
+- 
+  category: net-libs
+  name: zeromq
+  
+  version: ""
+- 
+  category: net-misc
+  name: omniORB
+  
+  version: ""
+- 
+  category: dev-db
+  name: mariadb-connector-c
+  
+  version: ""
+- 
+  category: dev-db
+  name: mysql-connector-c
+  
+  version: ""
+use_flags:
+- +dbserver
+- java
+- +mariadb
+- +zeromq
+version: 9.2.5a

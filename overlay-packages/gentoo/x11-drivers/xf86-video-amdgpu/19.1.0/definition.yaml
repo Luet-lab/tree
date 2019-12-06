@@ -1,0 +1,22 @@
+category: x11-drivers
+conflicts: []
+name: xf86-video-amdgpu
+requires:
+- 
+  category: x11-base
+  name: xorg-server
+  
+  version: ""
+- 
+  category: virtual
+  name: libudev
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libdrm-2.4.89[video_cards_amdgpu]
+  
+  version: ""
+use_flags:
+- udev
+version: 19.1.0

@@ -1,0 +1,25 @@
+category: net-analyzer
+conflicts: []
+name: etherape
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: popt
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+- 
+  category: x11-libs
+  name: goocanvas
+  
+  version: ""
+version: 0.9.18

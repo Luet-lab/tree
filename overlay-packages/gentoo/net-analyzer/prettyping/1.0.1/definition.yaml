@@ -1,0 +1,20 @@
+category: net-analyzer
+conflicts: []
+name: prettyping
+requires:
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: net-misc
+  name: iputils
+  
+  version: ""
+- 
+  category: virtual
+  name: awk
+  
+  version: ""
+version: 1.0.1

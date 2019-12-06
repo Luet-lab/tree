@@ -1,0 +1,12 @@
+category: media-sound
+conflicts: []
+name: podcatcher
+requires:
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: 1.8.2
+use_flags:
+- ""
+version: 3.1.6

@@ -1,0 +1,58 @@
+category: dev-embedded
+conflicts:
+- 
+  category: dev-embedded
+  name: sdcc-svn
+  
+  version: ""
+name: sdcc
+requires:
+- 
+  category: dev-embedded
+  name: gputils
+  
+  version: 0.13.7
+- 
+  category: dev-libs
+  name: boehm-gc
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+use_flags:
+- avr
+- ds390
+- ds400
+- gbz80
+- hc08
+- mcs51
+- pic14
+- pic16
+- r2k
+- r3ka
+- s08
+- stm8
+- tlcs90
+- "z180\n\tz80\n\n\t+boehm-gc"
+- device-lib
+- doc
+- non-free
+- packihx
+- +sdbinutils
+- sdcdb
+- +sdcpp
+- ucsim
+version: 3.8.0-r1

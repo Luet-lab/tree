@@ -1,0 +1,20 @@
+category: net-fs
+conflicts: []
+name: sshfs
+requires:
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: 2.6.0_pre3
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.4.2
+- 
+  category: net-misc
+  name: openssh
+  
+  version: "4.4"
+version: 2.10-r1

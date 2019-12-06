@@ -1,0 +1,12 @@
+category: media-plugins
+conflicts: []
+name: vdr-ddci2
+requires:
+- 
+  category: media-video
+  name: vdr
+  
+  version: 2.1.7
+use_flags:
+- ""
+version: 1.0.4

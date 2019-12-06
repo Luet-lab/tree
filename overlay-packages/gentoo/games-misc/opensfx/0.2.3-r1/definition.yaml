@@ -1,0 +1,7 @@
+category: games-misc
+conflicts: []
+name: opensfx
+requires: []
+use_flags:
+- ""
+version: 0.2.3-r1

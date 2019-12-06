@@ -1,0 +1,42 @@
+category: sys-apps
+conflicts:
+- 
+  category: <dev-libs
+  name: libaio
+  
+  version: 0.3.109-r2
+- 
+  category: <dev-libs
+  name: libbsd
+  
+  version: 0.8.3-r1
+- 
+  category: <sys-apps
+  name: keyutils
+  
+  version: 1.5.9-r4
+- 
+  category: <sys-apps
+  name: attr
+  
+  version: 2.4.47-r2
+name: man-pages
+requires:
+- 
+  category: virtual
+  name: man
+  
+  version: ""
+use_flags:
+- nls
+- ""
+- l10n_da
+- l10n_de
+- l10n_fr
+- l10n_it
+- l10n_ja
+- l10n_nl
+- l10n_pl
+- l10n_ru
+- l10n_zh-CN
+version: "5.04"

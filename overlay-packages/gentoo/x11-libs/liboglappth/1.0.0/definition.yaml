@@ -1,0 +1,17 @@
+category: x11-libs
+conflicts: []
+name: liboglappth
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.0

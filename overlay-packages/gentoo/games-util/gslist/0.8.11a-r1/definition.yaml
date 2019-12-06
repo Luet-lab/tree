@@ -1,0 +1,12 @@
+category: games-util
+conflicts: []
+name: gslist
+requires:
+- 
+  category: dev-libs
+  name: geoip
+  
+  version: ""
+use_flags:
+- web
+version: 0.8.11a-r1

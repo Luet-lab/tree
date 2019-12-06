@@ -1,0 +1,17 @@
+category: media-plugins
+conflicts: []
+name: gimp-lqr
+requires:
+- 
+  category: media-gfx
+  name: gimp
+  
+  version: "2.8"
+- 
+  category: media-libs
+  name: liblqr
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7.2

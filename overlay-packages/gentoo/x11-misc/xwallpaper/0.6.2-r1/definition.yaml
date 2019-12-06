@@ -1,0 +1,45 @@
+category: x11-misc
+conflicts: []
+name: xwallpaper
+requires:
+- 
+  category: x11-libs
+  name: pixman
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util
+  
+  version: ""
+- 
+  category: x11-libs
+  name: xcb-util-image
+  
+  version: ""
+- 
+  category: media-libs
+  name: libjpeg-turbo
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libseccomp
+  
+  version: 2.3.1
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+use_flags:
+- jpeg
+- png
+- seccomp
+- xpm
+version: 0.6.2-r1

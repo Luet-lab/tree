@@ -1,0 +1,47 @@
+category: dev-ml
+conflicts: []
+name: bignum
+requires:
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: "100"
+- 
+  category: dev-lang
+  name: ocaml
+  
+  version: ""
+- 
+  category: dev-ml
+  name: core_kernel
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_jane
+  
+  version: ""
+- 
+  category: dev-ml
+  name: typerep
+  
+  version: ""
+- 
+  category: dev-ml
+  name: zarith
+  
+  version: ""
+- 
+  category: dev-ml
+  name: ppx_driver
+  
+  version: "100"
+use_flags:
+- ""
+version: 0.9.0

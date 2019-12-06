@@ -1,0 +1,154 @@
+category: net-proxy
+conflicts:
+- 
+  category: <=sci-biology
+  name: meme
+  
+  version: 4.8.1-r1
+name: squid
+requires:
+- 
+  category: virtual
+  name: krb5
+  
+  version: ""
+- 
+  category: net-libs
+  name: libnetfilter_conntrack
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: ""
+- 
+  category: net-libs
+  name: libecap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-SQLite
+  
+  version: ""
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libltdl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libcap
+  
+  version: "2.16"
+- 
+  category: dev-libs
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: app-admin
+  name: logrotate
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-Pg
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-squid
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 3.1.5
+- 
+  category: sys-libs
+  name: db
+  
+  version: "4"
+- 
+  category: net-fs
+  name: samba
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBD-mysql
+  
+  version: ""
+use_flags:
+- caps
+- gnutls
+- ipv6
+- pam
+- ldap
+- libressl
+- samba
+- sasl
+- kerberos
+- nis
+- radius
+- ssl
+- snmp
+- selinux
+- logrotate
+- test
+- "\tecap"
+- esi
+- ssl-crtd
+- "\tmysql"
+- postgres
+- sqlite
+- "\tperl"
+- qos
+- tproxy
+- "\t+htcp"
+- +wccp
+- +wccpv2
+- "\tpf-transparent"
+- ipf-transparent
+- kqueue
+- "\telibc_uclibc"
+- kernel_linux
+version: "4.9"

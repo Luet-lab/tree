@@ -1,0 +1,22 @@
+category: net-libs
+conflicts:
+- 
+  category: <net-misc
+  name: bfgminer
+  
+  version: 3.0.3
+name: libblkmaker
+requires:
+- 
+  category: dev-libs
+  name: jansson
+  
+  version: 2.0.0
+- 
+  category: dev-libs
+  name: libbase58
+  
+  version: ""
+use_flags:
+- ""
+version: 0.5.1

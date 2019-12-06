@@ -1,0 +1,7 @@
+category: sci-astronomy
+conflicts: []
+name: missfits
+requires: []
+use_flags:
+- doc
+version: 2.8.0

@@ -1,0 +1,37 @@
+category: net-analyzer
+conflicts: []
+name: nagios-check_mysql_health
+requires:
+- 
+  category: dev-perl
+  name: DBD-mysql
+  
+  version: ""
+- 
+  category: dev-perl
+  name: DBI
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Data-Dumper
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-File-Temp
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Net-Ping
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Time-HiRes
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2.2

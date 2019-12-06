@@ -1,0 +1,64 @@
+category: net-irc
+conflicts:
+- 
+  category: net-irc
+  name: supybot
+  
+  version: ""
+- 
+  category: net-irc
+  name: supybot-plugins
+  
+  version: ""
+name: limnoria
+requires:
+- 
+  category: dev-python
+  name: PySocks
+  
+  version: ""
+- 
+  category: dev-python
+  name: sqlalchemy
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-gnupg
+  
+  version: ""
+- 
+  category: dev-python
+  name: chardet
+  
+  version: ""
+- 
+  category: dev-python
+  name: feedparser
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-dateutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: pytz
+  
+  version: ""
+- 
+  category: dev-python
+  name: ecdsa
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyopenssl
+  
+  version: ""
+use_flags:
+- crypt
+- ssl
+- test
+version: "20191123"

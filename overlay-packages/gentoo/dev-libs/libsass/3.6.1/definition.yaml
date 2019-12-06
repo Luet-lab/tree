@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: libsass
+requires: []
+use_flags:
+- static-libs
+version: 3.6.1

@@ -1,0 +1,10 @@
+category: app-crypt
+conflicts: []
+name: fcrackzip
+requires:
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+version: "1.0"

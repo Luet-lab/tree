@@ -1,0 +1,15 @@
+category: net-wireless
+conflicts: []
+name: soapyrtlsdr
+requires:
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: net-wireless
+  name: rtl-sdr
+  
+  version: ""
+version: 0.3.0

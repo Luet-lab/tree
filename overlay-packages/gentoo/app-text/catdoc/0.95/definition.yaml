@@ -1,0 +1,5 @@
+category: app-text
+name: catdoc
+use_flags:
+- tk
+version: "0.95"

@@ -1,0 +1,9 @@
+steps:
+- emerge =${PACKAGE_CATEGORY}/${PACKAGE_NAME}-${PACKAGE_VERSION}
+requires:
+- category: "layer"
+  version:  ">=0.1"
+  name:     "core-desktop-build"
+- category: "layer"
+  version:  ">=0.1"
+  name:     "sabayon-overlay"

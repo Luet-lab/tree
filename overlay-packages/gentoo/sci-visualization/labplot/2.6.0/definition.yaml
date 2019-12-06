@@ -1,0 +1,53 @@
+category: sci-visualization
+conflicts: []
+name: labplot
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: sci-libs
+  name: cfitsio
+  
+  version: ""
+- 
+  category: sci-libs
+  name: hdf5
+  
+  version: ""
+- 
+  category: sci-libs
+  name: libcerf
+  
+  version: ""
+- 
+  category: sci-libs
+  name: netcdf
+  
+  version: ""
+- 
+  category: app-arch
+  name: lz4
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: "1.15"
+use_flags:
+- cantor
+- fftw
+- fits
+- hdf5
+- libcerf
+- netcdf
+- root
+version: 2.6.0

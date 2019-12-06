@@ -1,0 +1,67 @@
+category: media-sound
+conflicts: []
+name: darkice
+requires:
+- 
+  category: media-libs
+  name: faac
+  
+  version: ""
+- 
+  category: media-libs
+  name: libaacplus
+  
+  version: 2.0.0
+- 
+  category: media-sound
+  name: jack-audio-connection-kit
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsamplerate
+  
+  version: ""
+- 
+  category: media-sound
+  name: lame
+  
+  version: ""
+- 
+  category: media-sound
+  name: twolame
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: opus
+  
+  version: ""
+- 
+  category: media-sound
+  name: pulseaudio
+  
+  version: ""
+use_flags:
+- aac
+- aacplus
+- alsa
+- debug
+- jack
+- libsamplerate
+- mp3
+- opus
+- pulseaudio
+- twolame
+- vorbis
+version: "1.3"

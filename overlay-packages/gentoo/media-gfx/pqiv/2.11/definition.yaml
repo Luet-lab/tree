@@ -1,0 +1,64 @@
+category: media-gfx
+conflicts: []
+name: pqiv
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.32"
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: "1.6"
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: media-video
+  name: libav
+  
+  version: ""
+- 
+  category: app-text
+  name: libspectre
+  
+  version: ""
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: ""
+use_flags:
+- archive
+- ffmpeg
+- imagemagick
+- kernel_linux
+- libav
+- pdf
+- postscript
+- webp
+version: "2.11"

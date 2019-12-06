@@ -1,0 +1,12 @@
+category: media-plugins
+conflicts: []
+name: gmpc-alarm
+requires:
+- 
+  category: media-sound
+  name: gmpc
+  
+  version: 11.8.16
+use_flags:
+- nls
+version: 11.8.16

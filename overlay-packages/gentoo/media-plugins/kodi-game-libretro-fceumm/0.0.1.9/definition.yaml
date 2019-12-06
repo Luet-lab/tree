@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-fceumm
+requires:
+- 
+  category: media-plugins
+  name: kodi-game-libretro
+  
+  version: ""
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+- 
+  category: games-emulation
+  name: libretro-fceumm
+  
+  version: ""
+use_flags:
+- ""
+version: 0.0.1.9

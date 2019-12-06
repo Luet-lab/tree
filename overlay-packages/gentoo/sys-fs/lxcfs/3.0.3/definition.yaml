@@ -1,0 +1,15 @@
+category: sys-fs
+conflicts: []
+name: lxcfs
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+version: 3.0.3

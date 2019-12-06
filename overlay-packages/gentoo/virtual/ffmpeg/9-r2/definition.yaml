@@ -1,0 +1,31 @@
+category: virtual
+conflicts: []
+name: ffmpeg
+requires:
+- 
+  category: media-video
+  name: libav-9.12[X?,encode?,gsm?,jpeg2k?,mp3?,opus?,sdl?,speex?,theora?,threads?,truetype?,vaapi?,vdpau?,x264?]
+  
+  version: ""
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: 1.2.6-r1
+use_flags:
+- X
+- +encode
+- gsm
+- jpeg2k
+- libav
+- mp3
+- opus
+- sdl
+- speex
+- theora
+- threads
+- truetype
+- vaapi
+- vdpau
+- x264
+version: 9-r2

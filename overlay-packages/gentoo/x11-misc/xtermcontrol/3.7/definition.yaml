@@ -1,0 +1,5 @@
+category: x11-misc
+name: xtermcontrol
+use_flags:
+- ""
+version: "3.7"

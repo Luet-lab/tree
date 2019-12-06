@@ -1,0 +1,35 @@
+category: virtual
+conflicts: []
+name: cron
+requires:
+- 
+  category: sys-process
+  name: vixie-cron
+  
+  version: ""
+- 
+  category: sys-process
+  name: bcron
+  
+  version: ""
+- 
+  category: sys-process
+  name: dcron
+  
+  version: ""
+- 
+  category: sys-process
+  name: fcron
+  
+  version: ""
+- 
+  category: sys-process
+  name: systemd-cron )
+  
+  version: ""
+- 
+  category: '|| ( sys-process'
+  name: cronie
+  
+  version: ""
+version: 0-r1

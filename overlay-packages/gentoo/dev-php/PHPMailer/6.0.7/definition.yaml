@@ -1,0 +1,14 @@
+category: dev-php
+conflicts: []
+name: PHPMailer
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+use_flags:
+- doc
+- idn
+- ssl
+version: 6.0.7

@@ -1,0 +1,6 @@
+category: ""
+name: skel
+use_flags:
+- gnome
+- X
+version: ""

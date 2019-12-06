@@ -1,0 +1,7 @@
+category: app-eselect
+conflicts: []
+name: eselect-opencascade
+requires: []
+use_flags:
+- ""
+version: "1"

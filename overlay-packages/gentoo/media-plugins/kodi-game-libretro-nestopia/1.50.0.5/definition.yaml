@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-nestopia
+requires:
+- 
+  category: media-plugins
+  name: kodi-game-libretro
+  
+  version: ""
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+- 
+  category: games-emulation
+  name: libretro-nestopia
+  
+  version: ""
+use_flags:
+- ""
+version: 1.50.0.5

@@ -1,0 +1,8 @@
+category: net-misc
+name: ntpclient
+use_flags:
+- debug
+- embedded
+- obsolete
+- +syslog
+version: "2018.244"

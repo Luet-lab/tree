@@ -1,0 +1,105 @@
+category: sci-libs
+conflicts: []
+name: pcl
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: media-libs
+  name: qhull
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtconcurrent
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtopengl
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: sci-libs
+  name: flann
+  
+  version: 1.7.1
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: dev-libs
+  name: OpenNI2
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: eigen
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: sci-libs
+  name: vtk
+  
+  version: "5.6"
+- 
+  category: dev-util
+  name: nvidia-cuda-toolkit
+  
+  version: "4"
+- 
+  category: dev-libs
+  name: OpenNI
+  
+  version: ""
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+use_flags:
+- cuda
+- doc
+- opengl
+- openni
+- openni2
+- pcap
+- png
+- +qhull
+- qt5
+- usb
+- vtk
+- cpu_flags_x86_sse
+- test
+- tutorials
+version: "9999"

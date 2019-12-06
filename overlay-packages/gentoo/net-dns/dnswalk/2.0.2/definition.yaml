@@ -1,0 +1,10 @@
+category: net-dns
+conflicts: []
+name: dnswalk
+requires:
+- 
+  category: dev-perl
+  name: Net-DNS
+  
+  version: "0.12"
+version: 2.0.2

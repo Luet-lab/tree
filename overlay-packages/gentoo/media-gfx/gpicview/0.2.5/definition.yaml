@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: gpicview
+requires:
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.6"
+use_flags:
+- ""
+version: 0.2.5

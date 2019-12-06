@@ -1,0 +1,27 @@
+category: dev-vcs
+conflicts:
+- 
+  category: kde-apps
+  name: kdesdk-kioslaves
+  
+  version: ""
+name: kdesvn
+requires:
+- 
+  category: dev-libs
+  name: apr
+  
+  version: ""
+- 
+  category: dev-libs
+  name: apr-util
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+use_flags:
+- +man
+version: 2.1.0

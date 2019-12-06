@@ -1,0 +1,12 @@
+category: app-portage
+conflicts: []
+name: elicense
+requires:
+- 
+  category: sys-apps
+  name: portage
+  
+  version: 2.3.62
+use_flags:
+- ""
+version: 1.0.1

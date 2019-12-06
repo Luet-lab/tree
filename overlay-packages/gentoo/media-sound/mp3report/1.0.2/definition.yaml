@@ -1,0 +1,15 @@
+category: media-sound
+conflicts: []
+name: mp3report
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: MP3-Info
+  
+  version: ""
+version: 1.0.2

@@ -1,0 +1,42 @@
+category: net-libs
+conflicts: []
+name: telepathy-logger-qt
+requires:
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: net-im
+  name: telepathy-logger
+  
+  version: ""
+- 
+  category: net-libs
+  name: telepathy-glib
+  
+  version: ""
+- 
+  category: net-libs
+  name: telepathy-qt[qt5(+)]
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+use_flags:
+- ""
+version: 17.08.0

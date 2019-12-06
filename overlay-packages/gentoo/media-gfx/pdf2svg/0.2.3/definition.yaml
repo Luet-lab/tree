@@ -1,0 +1,22 @@
+category: media-gfx
+conflicts: []
+name: pdf2svg
+requires:
+- 
+  category: app-text
+  name: poppler
+  
+  version: 0.12.3-r3
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: 1.2.6
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.3

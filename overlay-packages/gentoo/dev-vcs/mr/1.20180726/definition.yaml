@@ -1,0 +1,22 @@
+category: dev-vcs
+conflicts: []
+name: mr
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: libwww-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: HTML-Parser
+  
+  version: ""
+use_flags:
+- ""
+version: "1.20180726"

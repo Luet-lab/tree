@@ -1,0 +1,33 @@
+category: net-wireless
+conflicts: []
+name: soapy_power
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: dev-python
+  name: simplespectral
+  
+  version: ""
+- 
+  category: dev-python
+  name: simplesoapy
+  
+  version: 1.5.0
+- 
+  category: sci-libs
+  name: scipy
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyFFTW
+  
+  version: ""
+use_flags:
+- faster
+- +fastest
+version: 1.6.1-r1

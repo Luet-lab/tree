@@ -1,0 +1,17 @@
+category: dev-vcs
+conflicts: []
+name: gitstats
+requires:
+- 
+  category: sci-visualization
+  name: gnuplot
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- ""
+version: 0_pre20151223

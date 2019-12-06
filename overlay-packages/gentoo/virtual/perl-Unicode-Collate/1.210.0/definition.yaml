@@ -1,0 +1,25 @@
+category: virtual
+conflicts:
+- 
+  category: <perl-core
+  name: Unicode-Collate
+  
+  version: 1.210.0
+- 
+  category: '>perl-core'
+  name: Unicode-Collate
+  
+  version: 1.210.0-r999
+name: perl-Unicode-Collate
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: perl-core
+  name: Unicode-Collate
+  
+  version: 1.210.0
+version: 1.210.0

@@ -1,0 +1,12 @@
+category: media-libs
+conflicts:
+- 
+  category: <media-libs
+  name: alsa-lib
+  
+  version: 1.2.1
+name: alsa-topology-conf
+requires: []
+use_flags:
+- ""
+version: 1.2.1

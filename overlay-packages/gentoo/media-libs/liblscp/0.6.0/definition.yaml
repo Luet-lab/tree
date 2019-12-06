@@ -1,0 +1,5 @@
+category: media-libs
+name: liblscp
+use_flags:
+- doc
+version: 0.6.0

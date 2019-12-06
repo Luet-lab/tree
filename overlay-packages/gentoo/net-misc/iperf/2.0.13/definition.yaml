@@ -1,0 +1,7 @@
+category: net-misc
+name: iperf
+use_flags:
+- ipv6
+- threads
+- debug
+version: 2.0.13

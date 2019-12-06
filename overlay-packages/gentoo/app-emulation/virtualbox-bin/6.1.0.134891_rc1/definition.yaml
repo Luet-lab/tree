@@ -1,0 +1,143 @@
+category: app-emulation
+conflicts:
+- 
+  category: '!app-emulation'
+  name: virtualbox
+  
+  version: ""
+- 
+  category: app-emulation
+  name: virtualbox-additions
+  
+  version: ""
+name: virtualbox-bin
+requires:
+- 
+  category: x11-libs
+  name: libXfixes
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: app-emulation
+  name: virtualbox-modules
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXinerama
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXdmcp
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl[X]
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXcursor
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrandr
+  
+  version: ""
+- 
+  category: sys-fs
+  name: lvm2
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXau
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: media-libs
+  name: freetype
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: media-libs
+  name: fontconfig
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXft
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+use_flags:
+- +additions
+- +chm
+- headless
+- python
+- vboxwebsrv
+- rdesktop-vrdp
+- sdk
+version: 6.1.0.134891_rc1

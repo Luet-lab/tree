@@ -1,0 +1,43 @@
+category: dev-embedded
+conflicts: []
+name: openocd
+requires:
+- 
+  category: acct-group
+  name: plugdev
+  
+  version: ""
+- 
+  category: dev-lang
+  name: jimtcl
+  
+  version: "0.76"
+- 
+  category: dev-libs
+  name: hidapi
+  
+  version: ""
+- 
+  category: dev-embedded
+  name: libjaylink
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: dev-embedded
+  name: libftdi
+  
+  version: ""
+use_flags:
+- +cmsis-dap
+- dummy
+- +ftdi
+- +jlink
+- parport
+- +usb
+- verbose-io
+version: "9999"

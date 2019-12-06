@@ -1,0 +1,24 @@
+category: sci-libs
+conflicts:
+- 
+  category: app-misc
+  name: beagle
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libbeagle
+  
+  version: ""
+name: beagle
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- static-libs
+version: 3.0.3-r1

@@ -1,0 +1,7 @@
+category: app-arch
+conflicts: []
+name: duff
+requires: []
+use_flags:
+- ""
+version: 0.5.2

@@ -1,0 +1,27 @@
+category: dev-util
+conflicts: []
+name: rosdep
+requires:
+- 
+  category: dev-python
+  name: catkin_pkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: rospkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: rosdistro
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+use_flags:
+- test
+version: 0.15.0

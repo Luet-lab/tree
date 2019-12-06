@@ -1,0 +1,22 @@
+category: net-misc
+conflicts: []
+name: cbugzilla
+requires:
+- 
+  category: dev-libs
+  name: libxdg-basedir
+  
+  version: ""
+- 
+  category: app-text
+  name: htmltidy
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.1

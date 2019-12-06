@@ -1,0 +1,10 @@
+category: app-misc
+conflicts: []
+name: toilet
+requires:
+- 
+  category: media-libs
+  name: libcaca-0.99_beta18
+  
+  version: ""
+version: 0.3-r1

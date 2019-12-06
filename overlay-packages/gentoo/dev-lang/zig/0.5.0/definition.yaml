@@ -1,0 +1,17 @@
+category: dev-lang
+conflicts: []
+name: zig
+requires:
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: ""
+- 
+  category: sys-devel
+  name: clang
+  
+  version: ""
+use_flags:
+- +experimental
+version: 0.5.0

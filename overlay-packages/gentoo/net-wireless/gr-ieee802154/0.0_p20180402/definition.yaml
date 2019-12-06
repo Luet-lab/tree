@@ -1,0 +1,15 @@
+category: net-wireless
+conflicts: []
+name: gr-ieee802154
+requires:
+- 
+  category: net-wireless
+  name: gnuradio
+  
+  version: 3.7_rc
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+version: 0.0_p20180402

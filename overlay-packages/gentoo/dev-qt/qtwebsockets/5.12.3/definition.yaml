@@ -1,0 +1,23 @@
+category: dev-qt
+conflicts: []
+name: qtwebsockets
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.3
+- 
+  category: dev-qt
+  name: qtnetwork-5.12.3[ssl=]
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdeclarative
+  
+  version: 5.12.3
+use_flags:
+- qml
+- +ssl
+version: 5.12.3

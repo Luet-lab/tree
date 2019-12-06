@@ -1,0 +1,7 @@
+category: dev-libs
+conflicts: []
+name: libfmt
+requires: []
+use_flags:
+- test
+version: 6.1.0

@@ -1,0 +1,55 @@
+category: app-emulation
+conflicts: []
+name: winetricks
+requires:
+- 
+  category: app-arch
+  name: p7zip
+  
+  version: ""
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+- 
+  category: net-misc
+  name: wget
+  
+  version: ""
+- 
+  category: virtual
+  name: wine
+  
+  version: ""
+- 
+  category: kde-apps
+  name: kdialog
+  
+  version: ""
+- 
+  category: app-arch
+  name: cabextract
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: gnome-extra
+  name: zenity
+  
+  version: ""
+- 
+  category: app-arch
+  name: unrar
+  
+  version: ""
+use_flags:
+- gtk
+- kde
+- rar
+- test
+version: "20190912"

@@ -1,0 +1,5 @@
+category: x11-misc
+name: gccmakedep
+use_flags:
+- ""
+version: 1.0.3-r1

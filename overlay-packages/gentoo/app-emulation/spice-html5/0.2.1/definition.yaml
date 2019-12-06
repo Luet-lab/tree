@@ -1,0 +1,7 @@
+category: app-emulation
+conflicts: []
+name: spice-html5
+requires: []
+use_flags:
+- ""
+version: 0.2.1

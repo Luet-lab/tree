@@ -1,0 +1,15 @@
+category: dev-util
+conflicts: []
+name: clinfo
+requires:
+- 
+  category: virtual
+  name: opencl
+  
+  version: ""
+- 
+  category: app-eselect
+  name: eselect-opencl
+  
+  version: 1.1.0-r4
+version: 2.2.18.04.06

@@ -1,0 +1,15 @@
+category: sys-libs
+conflicts:
+- 
+  category: <
+  name: newlib
+  
+  version: 2.1.0
+name: newlib
+requires: []
+use_flags:
+- nls
+- threads
+- unicode
+- headers-only
+version: 2.2.0

@@ -1,0 +1,7 @@
+category: app-misc
+conflicts: []
+name: mime-types
+requires: []
+use_flags:
+- ""
+version: "9"

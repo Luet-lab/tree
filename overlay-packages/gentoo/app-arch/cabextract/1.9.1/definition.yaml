@@ -1,0 +1,17 @@
+category: app-arch
+conflicts: []
+name: cabextract
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libmspack
+  
+  version: 0.8_alpha
+use_flags:
+- extras
+version: 1.9.1

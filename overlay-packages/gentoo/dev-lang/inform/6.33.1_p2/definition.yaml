@@ -1,0 +1,5 @@
+category: dev-lang
+name: inform
+use_flags:
+- emacs
+version: 6.33.1_p2

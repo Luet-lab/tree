@@ -1,0 +1,12 @@
+category: app-arch
+conflicts: []
+name: vimball
+requires:
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+use_flags:
+- test
+version: 0.5.1

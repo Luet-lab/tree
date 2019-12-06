@@ -1,0 +1,5 @@
+category: dev-util
+name: dejagnu
+use_flags:
+- ""
+version: "1.6"

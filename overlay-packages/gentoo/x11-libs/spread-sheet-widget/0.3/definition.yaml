@@ -1,0 +1,12 @@
+category: x11-libs
+conflicts: []
+name: spread-sheet-widget
+requires:
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- ""
+version: "0.3"

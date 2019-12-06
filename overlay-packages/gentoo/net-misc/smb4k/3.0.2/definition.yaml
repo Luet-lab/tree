@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: smb4k
+requires:
+- 
+  category: net-fs
+  name: samba
+  
+  version: ""
+use_flags:
+- plasma
+version: 3.0.2

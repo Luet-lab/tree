@@ -1,0 +1,12 @@
+category: mail-filter
+conflicts:
+- 
+  category: <net-mail
+  name: mailutils
+  
+  version: "2.1"
+name: libsieve
+requires: []
+use_flags:
+- ""
+version: 2.2.7

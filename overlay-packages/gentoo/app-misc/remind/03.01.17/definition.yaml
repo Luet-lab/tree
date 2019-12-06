@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: remind
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: ""
+- 
+  category: dev-tcltk
+  name: tcllib
+  
+  version: ""
+use_flags:
+- tk
+version: 03.01.17

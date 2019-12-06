@@ -1,0 +1,19 @@
+category: sys-apps
+conflicts: []
+name: firejail-lts
+requires:
+- 
+  category: sys-libs
+  name: libapparmor
+  
+  version: ""
+use_flags:
+- apparmor
+- +globalcfg
+- +network
+- +seccomp
+- +suid
+- +userns
+- test
+- +whitelist
+version: 0.9.56.2-r1

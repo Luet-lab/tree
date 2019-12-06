@@ -1,0 +1,22 @@
+category: x11-plugins
+conflicts: []
+name: wmgtemp
+requires:
+- 
+  category: sys-apps
+  name: lm-sensors
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libdockapp
+  
+  version: "0.7"
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+use_flags:
+- ""
+version: "1.2"

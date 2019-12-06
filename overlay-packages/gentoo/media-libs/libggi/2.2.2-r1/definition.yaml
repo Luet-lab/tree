@@ -1,0 +1,44 @@
+category: media-libs
+conflicts: []
+name: libggi
+requires:
+- 
+  category: x11-libs
+  name: libXxf86dga
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXxf86vm
+  
+  version: ""
+- 
+  category: media-libs
+  name: libgii
+  
+  version: 1.0.2
+- 
+  category: media-libs
+  name: aalib
+  
+  version: 1.2-r1
+- 
+  category: media-libs
+  name: svgalib
+  
+  version: 1.4.2
+- 
+  category: x11-libs
+  name: libXt
+  
+  version: ""
+use_flags:
+- 3dfx
+- aalib
+- cpu_flags_x86_mmx
+- debug
+- fbcon
+- svga
+- vis
+- X
+version: 2.2.2-r1

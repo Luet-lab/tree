@@ -1,0 +1,20 @@
+category: app-office
+conflicts: []
+name: libreoffice-voikko
+requires:
+- 
+  category: app-office
+  name: libreoffice
+  
+  version: ""
+- 
+  category: dev-libs
+  name: voikko-fi
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libvoikko
+  
+  version: ""
+version: "5.0"

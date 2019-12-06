@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: fedora-backgrounds
+requires: []
+use_flags:
+- ""
+version: 30.1.2

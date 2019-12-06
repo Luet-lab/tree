@@ -1,0 +1,12 @@
+category: x11-themes
+conflicts: []
+name: windowmaker-themes
+requires:
+- 
+  category: x11-wm
+  name: windowmaker
+  
+  version: ""
+use_flags:
+- offensive
+version: 0.1-r1

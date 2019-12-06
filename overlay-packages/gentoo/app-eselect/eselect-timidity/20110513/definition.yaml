@@ -1,0 +1,10 @@
+category: app-eselect
+conflicts: []
+name: eselect-timidity
+requires:
+- 
+  category: app-admin
+  name: eselect
+  
+  version: 1.2.3
+version: "20110513"

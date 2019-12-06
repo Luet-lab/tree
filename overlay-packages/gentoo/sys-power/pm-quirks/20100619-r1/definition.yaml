@@ -1,0 +1,5 @@
+category: sys-power
+name: pm-quirks
+use_flags:
+- ""
+version: 20100619-r1

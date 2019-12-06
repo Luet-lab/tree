@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: soapyremote
+requires:
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: ""
+use_flags:
+- ""
+version: 0.5.0

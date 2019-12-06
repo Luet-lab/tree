@@ -1,0 +1,8 @@
+category: sci-physics
+conflicts: []
+name: siscone
+requires: []
+use_flags:
+- examples
+- static-libs
+version: 3.0.3

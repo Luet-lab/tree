@@ -1,0 +1,95 @@
+category: games-util
+conflicts: []
+name: lutris
+requires:
+- 
+  category: app-arch
+  name: unzip
+  
+  version: ""
+- 
+  category: net-libs
+  name: webkit-gtk
+  
+  version: ""
+- 
+  category: app-arch
+  name: p7zip
+  
+  version: ""
+- 
+  category: app-arch
+  name: unrar
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygobject
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+- 
+  category: dev-python
+  name: requests
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+- 
+  category: app-arch
+  name: cabextract
+  
+  version: ""
+- 
+  category: x11-apps
+  name: mesa-progs
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xrandr
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-python
+  name: pillow
+  
+  version: ""
+- 
+  category: dev-python
+  name: python-evdev
+  
+  version: ""
+- 
+  category: gnome-base
+  name: gnome-desktop
+  
+  version: ""
+- 
+  category: media-sound
+  name: fluid-soundfont
+  
+  version: ""
+- 
+  category: net-libs
+  name: libsoup
+  
+  version: ""
+- 
+  category: x11-apps
+  name: xgamma
+  
+  version: ""
+version: 0.5.3

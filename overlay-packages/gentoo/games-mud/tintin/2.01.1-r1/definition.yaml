@@ -1,0 +1,27 @@
+category: games-mud
+conflicts: []
+name: tintin
+requires:
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: ""
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 2.01.1-r1

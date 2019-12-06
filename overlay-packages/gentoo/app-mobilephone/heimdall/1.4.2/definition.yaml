@@ -1,0 +1,32 @@
+category: app-mobilephone
+conflicts: []
+name: heimdall
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libusb
+  
+  version: 1.0.18
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+use_flags:
+- qt5
+version: 1.4.2

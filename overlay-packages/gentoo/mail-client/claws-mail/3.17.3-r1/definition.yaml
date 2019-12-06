@@ -1,0 +1,252 @@
+category: mail-client
+conflicts: []
+name: claws-mail
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: net-libs
+  name: libetpan
+  
+  version: "0.57"
+- 
+  category: x11-misc
+  name: shared-mime-info
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: 1.0.0
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gdk-pixbuf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-libs
+  name: libcanberra
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: mail-filter
+  name: bogofilter
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gettext
+  
+  version: "0.18"
+- 
+  category: x11-libs
+  name: startup-notification
+  
+  version: ""
+- 
+  category: dev-util
+  name: valgrind
+  
+  version: ""
+- 
+  category: app-text
+  name: ghostscript-gpl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-python
+  name: pygtk
+  
+  version: 2.10.3
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.24"
+- 
+  category: app-pda
+  name: jpilot
+  
+  version: "0.99"
+- 
+  category: x11-libs
+  name: libSM
+  
+  version: ""
+- 
+  category: app-text
+  name: enchant
+  
+  version: 1.0.0
+- 
+  category: gnome-base
+  name: librsvg
+  
+  version: 2.40.5
+- 
+  category: net-mail
+  name: ytnef
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libical
+  
+  version: 2.0.0
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: "0.60"
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: "3.0"
+- 
+  category: dev-libs
+  name: libindicate
+  
+  version: ""
+- 
+  category: app-misc
+  name: mime-types
+  
+  version: ""
+- 
+  category: net-misc
+  name: networkmanager
+  
+  version: ""
+- 
+  category: dev-libs
+  name: nettle
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgdata
+  
+  version: 0.17.2
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+- 
+  category: app-antivirus
+  name: clamav
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libICE
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.9.7
+- 
+  category: www-client
+  name: dillo
+  
+  version: ""
+- 
+  category: net-nds
+  name: openldap
+  
+  version: 2.0.7
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+use_flags:
+- archive
+- bogofilter
+- calendar
+- clamav
+- dbus
+- debug
+- dillo
+- doc
+- gdata
+- +gnutls
+- +imap
+- ipv6
+- ldap
+- +libcanberra
+- +libindicate
+- +libnotify
+- networkmanager
+- nls
+- nntp
+- +notification
+- pda
+- pdf
+- perl
+- +pgp
+- python
+- rss
+- session
+- sieve
+- smime
+- spamassassin
+- spam-report
+- spell
+- startup-notification
+- svg
+- valgrind
+- xface
+version: 3.17.3-r1

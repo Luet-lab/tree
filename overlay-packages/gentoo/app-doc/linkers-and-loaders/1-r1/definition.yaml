@@ -1,0 +1,5 @@
+category: app-doc
+name: linkers-and-loaders
+use_flags:
+- doc
+version: 1-r1

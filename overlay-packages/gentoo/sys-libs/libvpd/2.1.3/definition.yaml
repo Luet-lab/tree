@@ -1,0 +1,17 @@
+category: sys-libs
+conflicts: []
+name: libvpd
+requires:
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: 3.7.8
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 2.1.3

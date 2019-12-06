@@ -1,0 +1,12 @@
+category: dev-ml
+conflicts: []
+name: reactiveData
+requires:
+- 
+  category: dev-ml
+  name: react
+  
+  version: ""
+use_flags:
+- +ocamlopt
+version: 0.2.1

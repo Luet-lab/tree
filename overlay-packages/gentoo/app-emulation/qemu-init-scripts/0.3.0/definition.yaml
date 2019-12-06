@@ -1,0 +1,15 @@
+category: app-emulation
+conflicts: []
+name: qemu-init-scripts
+requires:
+- 
+  category: app-emulation
+  name: qemu
+  
+  version: ""
+- 
+  category: net-misc
+  name: socat
+  
+  version: ""
+version: 0.3.0

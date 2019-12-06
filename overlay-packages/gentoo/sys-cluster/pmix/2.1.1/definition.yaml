@@ -1,0 +1,34 @@
+category: sys-cluster
+conflicts:
+- 
+  category: sys-cluster
+  name: slurm
+  
+  version: ""
+name: pmix
+requires:
+- 
+  category: dev-libs
+  name: libevent
+  
+  version: ""
+- 
+  category: sys-cluster
+  name: ucx
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-auth
+  name: munge
+  
+  version: ""
+use_flags:
+- debug
+- +munge
+- pmi
+version: 2.1.1

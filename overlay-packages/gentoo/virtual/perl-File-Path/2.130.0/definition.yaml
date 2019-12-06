@@ -1,0 +1,25 @@
+category: virtual
+conflicts:
+- 
+  category: <perl-core
+  name: File-Path
+  
+  version: 2.130.0
+- 
+  category: '>perl-core'
+  name: File-Path
+  
+  version: 2.130.0-r999
+name: perl-File-Path
+requires:
+- 
+  category: perl-core
+  name: File-Path
+  
+  version: 2.130.0
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 2.130.0

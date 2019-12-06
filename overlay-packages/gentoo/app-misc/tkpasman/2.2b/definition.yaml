@@ -1,0 +1,22 @@
+category: app-misc
+conflicts: []
+name: tkpasman
+requires:
+- 
+  category: dev-lang
+  name: tcl
+  
+  version: "8.3"
+- 
+  category: dev-lang
+  name: tk
+  
+  version: "8.3"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- ssl
+version: 2.2b

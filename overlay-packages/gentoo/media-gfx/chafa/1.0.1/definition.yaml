@@ -1,0 +1,18 @@
+category: media-gfx
+conflicts: []
+name: chafa
+requires:
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: media-gfx
+  name: imagemagick
+  
+  version: ""
+use_flags:
+- static-libs
+- +tools
+version: 1.0.1

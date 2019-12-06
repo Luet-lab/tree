@@ -1,0 +1,12 @@
+category: sci-astronomy
+conflicts: []
+name: xfitsview
+requires:
+- 
+  category: x11-libs
+  name: motif
+  
+  version: "2.3"
+use_flags:
+- ""
+version: 2.2-r2

@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: gif2png
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: "1.2"
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+use_flags:
+- ""
+version: 2.5.9

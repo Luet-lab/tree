@@ -1,0 +1,12 @@
+category: net-dns
+conflicts: []
+name: validns
+requires:
+- 
+  category: dev-libs
+  name: judy
+  
+  version: ""
+use_flags:
+- test
+version: "0.8"

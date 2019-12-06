@@ -1,0 +1,642 @@
+category: app-xemacs
+conflicts: []
+name: xemacs-packages-all
+requires:
+- 
+  category: app-xemacs
+  name: texinfo
+  
+  version: "1.32"
+- 
+  category: app-xemacs
+  name: rmail
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: vc-cc
+  
+  version: "1.24"
+- 
+  category: app-xemacs
+  name: ocaml
+  
+  version: "0.10"
+- 
+  category: app-xemacs
+  name: dictionary
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: elib
+  
+  version: "1.15"
+- 
+  category: app-xemacs
+  name: bbdb
+  
+  version: "1.34"
+- 
+  category: app-xemacs
+  name: hm-html-menus
+  
+  version: "1.26"
+- 
+  category: app-xemacs
+  name: mh-e
+  
+  version: "1.35"
+- 
+  category: app-xemacs
+  name: misc-games
+  
+  version: "1.25"
+- 
+  category: app-xemacs
+  name: zenirc
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: edit-utils
+  
+  version: "2.58"
+- 
+  category: app-xemacs
+  name: gnats
+  
+  version: "1.19"
+- 
+  category: app-xemacs
+  name: text-modes
+  
+  version: "2.06"
+- 
+  category: app-xemacs
+  name: general-docs
+  
+  version: "1.10"
+- 
+  category: app-xemacs
+  name: ediff
+  
+  version: "1.84"
+- 
+  category: app-xemacs
+  name: psgml
+  
+  version: "1.50"
+- 
+  category: app-xemacs
+  name: psgml-dtds
+  
+  version: "1.05"
+- 
+  category: app-xemacs
+  name: xemacs-ispell
+  
+  version: "1.37"
+- 
+  category: app-xemacs
+  name: debug
+  
+  version: "1.20"
+- 
+  category: app-xemacs
+  name: ruby-modes
+  
+  version: "1.07"
+- 
+  category: app-xemacs
+  name: slider
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: viper
+  
+  version: "1.69"
+- 
+  category: app-xemacs
+  name: mule-ucs
+  
+  version: "1.21"
+- 
+  category: app-xemacs
+  name: clearcase
+  
+  version: "1.12"
+- 
+  category: app-xemacs
+  name: pcl-cvs
+  
+  version: "1.73"
+- 
+  category: app-xemacs
+  name: pcomplete
+  
+  version: "1.08"
+- 
+  category: app-xemacs
+  name: mailcrypt
+  
+  version: "2.16"
+- 
+  category: app-xemacs
+  name: efs
+  
+  version: "1.37"
+- 
+  category: app-xemacs
+  name: net-utils
+  
+  version: "1.61"
+- 
+  category: app-xemacs
+  name: reftex
+  
+  version: "1.36"
+- 
+  category: app-xemacs
+  name: scheme
+  
+  version: "1.22"
+- 
+  category: app-xemacs
+  name: sh-script
+  
+  version: "1.26"
+- 
+  category: app-xemacs
+  name: w3
+  
+  version: "1.41"
+- 
+  category: app-xemacs
+  name: xemacs-base
+  
+  version: "2.46"
+- 
+  category: app-xemacs
+  name: calendar
+  
+  version: "1.42"
+- 
+  category: app-xemacs
+  name: xetla
+  
+  version: "1.04"
+- 
+  category: app-xemacs
+  name: pgg
+  
+  version: "1.10"
+- 
+  category: app-xemacs
+  name: sasl
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: games
+  
+  version: "1.23"
+- 
+  category: app-xemacs
+  name: semantic
+  
+  version: "1.23"
+- 
+  category: app-xemacs
+  name: time
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: dired
+  
+  version: "1.22"
+- 
+  category: app-xemacs
+  name: easypg
+  
+  version: "1.05"
+- 
+  category: app-xemacs
+  name: mail-lib
+  
+  version: "1.84"
+- 
+  category: app-xemacs
+  name: sounds-wav
+  
+  version: "1.14"
+- 
+  category: app-xemacs
+  name: xwem
+  
+  version: "1.26"
+- 
+  category: app-xemacs
+  name: cc-mode
+  
+  version: "1.99"
+- 
+  category: app-xemacs
+  name: edt
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: idlwave
+  
+  version: "1.34"
+- 
+  category: app-xemacs
+  name: prog-modes
+  
+  version: "2.33"
+- 
+  category: app-xemacs
+  name: crisp
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: cogre
+  
+  version: "1.04"
+- 
+  category: app-xemacs
+  name: ecb
+  
+  version: "1.25"
+- 
+  category: app-xemacs
+  name: emerge
+  
+  version: "1.13"
+- 
+  category: app-xemacs
+  name: erc
+  
+  version: "0.26"
+- 
+  category: app-xemacs
+  name: escreen
+  
+  version: "1.03"
+- 
+  category: app-xemacs
+  name: fsf-compat
+  
+  version: "1.24"
+- 
+  category: app-xemacs
+  name: ibuffer
+  
+  version: "1.12"
+- 
+  category: app-xemacs
+  name: ada
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: xemacs-eterm
+  
+  version: "1.20"
+- 
+  category: app-xemacs
+  name: c-support
+  
+  version: "1.24"
+- 
+  category: app-xemacs
+  name: mine
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: riece
+  
+  version: "1.26"
+- 
+  category: app-xemacs
+  name: sieve
+  
+  version: "1.20"
+- 
+  category: app-xemacs
+  name: vhdl
+  
+  version: "1.24"
+- 
+  category: app-xemacs
+  name: apel
+  
+  version: "1.36"
+- 
+  category: app-xemacs
+  name: gnus
+  
+  version: "2.04"
+- 
+  category: app-xemacs
+  name: sgml
+  
+  version: "1.13"
+- 
+  category: app-xemacs
+  name: xlib
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: ecrypto
+  
+  version: "0.23"
+- 
+  category: app-xemacs
+  name: eudc
+  
+  version: "1.43"
+- 
+  category: app-xemacs
+  name: fortran-modes
+  
+  version: "1.07"
+- 
+  category: app-xemacs
+  name: tooltalk
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: xemacs-devel
+  
+  version: "1.84"
+- 
+  category: app-xemacs
+  name: eieio
+  
+  version: "1.10"
+- 
+  category: app-xemacs
+  name: hyperbole
+  
+  version: "1.22"
+- 
+  category: app-xemacs
+  name: sml-mode
+  
+  version: "0.14"
+- 
+  category: app-xemacs
+  name: latin-unity
+  
+  version: "1.23"
+- 
+  category: app-xemacs
+  name: docbookide
+  
+  version: "0.10"
+- 
+  category: app-xemacs
+  name: xslt-process
+  
+  version: "1.14"
+- 
+  category: app-xemacs
+  name: eshell
+  
+  version: "1.21"
+- 
+  category: app-xemacs
+  name: tpu
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: calc
+  
+  version: "1.28"
+- 
+  category: app-xemacs
+  name: lookup
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: skk
+  
+  version: "1.27"
+- 
+  category: app-xemacs
+  name: ilisp
+  
+  version: "1.38"
+- 
+  category: app-xemacs
+  name: mmm-mode
+  
+  version: "1.08"
+- 
+  category: app-xemacs
+  name: vm
+  
+  version: "8.11"
+- 
+  category: app-xemacs
+  name: edebug
+  
+  version: "1.24"
+- 
+  category: app-xemacs
+  name: os-utils
+  
+  version: "1.44"
+- 
+  category: app-xemacs
+  name: perl-modes
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: ps-print
+  
+  version: "1.14"
+- 
+  category: app-xemacs
+  name: view-process
+  
+  version: "1.15"
+- 
+  category: app-xemacs
+  name: build
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: vc
+  
+  version: "1.50"
+- 
+  category: app-xemacs
+  name: xslide
+  
+  version: "1.11"
+- 
+  category: app-xemacs
+  name: leim
+  
+  version: "1.38"
+- 
+  category: app-xemacs
+  name: pc
+  
+  version: "1.30"
+- 
+  category: app-xemacs
+  name: python-modes
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: edict
+  
+  version: "1.19"
+- 
+  category: app-xemacs
+  name: egg-its
+  
+  version: "1.29"
+- 
+  category: app-xemacs
+  name: igrep
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: tm
+  
+  version: "1.42"
+- 
+  category: app-xemacs
+  name: tramp
+  
+  version: "1.57"
+- 
+  category: app-xemacs
+  name: locale
+  
+  version: "1.30"
+- 
+  category: app-xemacs
+  name: cookie
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: sounds-au
+  
+  version: "1.14"
+- 
+  category: app-xemacs
+  name: speedbar
+  
+  version: "1.32"
+- 
+  category: app-xemacs
+  name: auctex
+  
+  version: "1.58"
+- 
+  category: app-xemacs
+  name: supercite
+  
+  version: "1.23"
+- 
+  category: app-xemacs
+  name: textools
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: latin-euro-standards
+  
+  version: "1.11"
+- 
+  category: app-xemacs
+  name: mew
+  
+  version: "1.22"
+- 
+  category: app-xemacs
+  name: haskell-mode
+  
+  version: "1.14"
+- 
+  category: app-xemacs
+  name: jde
+  
+  version: "1.54"
+- 
+  category: app-xemacs
+  name: sun
+  
+  version: "1.19"
+- 
+  category: app-xemacs
+  name: mule-base
+  
+  version: "1.60"
+- 
+  category: app-xemacs
+  name: forms
+  
+  version: "1.17"
+- 
+  category: app-xemacs
+  name: oo-browser
+  
+  version: "1.07"
+- 
+  category: app-xemacs
+  name: strokes
+  
+  version: "1.12"
+- 
+  category: app-xemacs
+  name: footnote
+  
+  version: "1.18"
+- 
+  category: app-xemacs
+  name: ede
+  
+  version: "1.07"
+- 
+  category: app-xemacs
+  name: frame-icon
+  
+  version: "1.13"
+- 
+  category: app-xemacs
+  name: re-builder
+  
+  version: "1.07"
+- 
+  category: app-xemacs
+  name: x-symbol
+  
+  version: "1.16"
+- 
+  category: app-xemacs
+  name: cedet-common
+  
+  version: "1.03"
+use_flags:
+- mule
+version: 2018.08.11

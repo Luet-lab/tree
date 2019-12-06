@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts:
+- 
+  category: <sys-freebsd
+  name: freebsd-share
+  
+  version: 7.2-r1
+name: miscfiles
+requires: []
+use_flags:
+- minimal
+version: 1.5-r3

@@ -1,0 +1,129 @@
+category: sci-visualization
+conflicts: []
+name: gnuplot
+requires:
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtnetwork
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: sci-libs
+  name: libcerf
+  
+  version: ""
+- 
+  category: x11-libs
+  name: wxGTK
+  
+  version: ""
+- 
+  category: media-libs
+  name: gd
+  
+  version: 2.0.35-r3
+- 
+  category: media-libs
+  name: libggi
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: dev-texlive
+  name: texlive-latexrecommended
+  
+  version: 2008-r2
+- 
+  category: media-libs
+  name: svgalib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXaw
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: ""
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-tex
+  name: pgf
+  
+  version: ""
+- 
+  category: media-libs
+  name: libcaca
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtprintsupport
+  
+  version: ""
+use_flags:
+- aqua
+- bitmap
+- cairo
+- compat
+- doc
+- examples
+- +gd
+- ggi
+- latex
+- libcaca
+- libcerf
+- lua
+- qt5
+- readline
+- regis
+- svga
+- wxwidgets
+- X
+version: 5.2.7

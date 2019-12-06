@@ -1,0 +1,17 @@
+category: net-firewall
+conflicts: []
+name: ipkungfu
+requires:
+- 
+  category: net-firewall
+  name: iptables
+  
+  version: ""
+- 
+  category: virtual
+  name: logger
+  
+  version: ""
+use_flags:
+- ""
+version: 0.6.1-r1

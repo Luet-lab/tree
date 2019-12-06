@@ -1,0 +1,13 @@
+category: dev-util
+conflicts: []
+name: xdelta
+requires:
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: ""
+use_flags:
+- examples
+- lzma
+version: 3.0.11

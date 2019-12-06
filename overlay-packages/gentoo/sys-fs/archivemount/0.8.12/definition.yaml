@@ -1,0 +1,15 @@
+category: sys-fs
+conflicts: []
+name: archivemount
+requires:
+- 
+  category: app-arch
+  name: libarchive
+  
+  version: ""
+- 
+  category: sys-fs
+  name: fuse
+  
+  version: ""
+version: 0.8.12

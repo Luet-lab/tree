@@ -1,0 +1,32 @@
+category: dev-libs
+conflicts: []
+name: keybinder
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXrender
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+use_flags:
+- +introspection
+version: 0.3.2-r300

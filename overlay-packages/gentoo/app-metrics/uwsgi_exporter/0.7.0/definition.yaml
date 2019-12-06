@@ -1,0 +1,3 @@
+category: app-metrics
+name: uwsgi_exporter
+version: 0.7.0

@@ -1,0 +1,37 @@
+category: net-mail
+conflicts: []
+name: pop2imap
+requires:
+- 
+  category: dev-perl
+  name: IO-Socket-SSL
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Mail-POP3Client
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Mail-IMAPClient
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Email-Simple
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Date-Manip
+  
+  version: ""
+use_flags:
+- ""
+version: "1.18"

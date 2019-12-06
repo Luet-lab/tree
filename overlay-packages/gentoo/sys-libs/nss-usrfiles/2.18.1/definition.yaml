@@ -1,0 +1,7 @@
+category: sys-libs
+conflicts: []
+name: nss-usrfiles
+requires: []
+use_flags:
+- ""
+version: 2.18.1

@@ -1,0 +1,12 @@
+category: dev-tcltk
+conflicts: []
+name: tktable
+requires:
+- 
+  category: dev-lang
+  name: tk
+  
+  version: "8.0"
+use_flags:
+- ""
+version: "2.10"

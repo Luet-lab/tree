@@ -1,0 +1,55 @@
+category: sys-apps
+conflicts:
+- 
+  category: sys-apps
+  name: module-init-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  name: modutils
+  
+  version: ""
+- 
+  category: <sys-apps
+  name: openrc
+  
+  version: 0.13.8
+- 
+  category: <sys-apps
+  name: systemd
+  
+  version: 216-r3
+name: kmod
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 1.1.0
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: 1.2.6
+- 
+  category: app-arch
+  name: xz-utils
+  
+  version: 5.0.4-r1
+use_flags:
+- debug
+- doc
+- libressl
+- lzma
+- pkcs7
+- python
+- static-libs
+- +tools
+- zlib
+version: 26-r3

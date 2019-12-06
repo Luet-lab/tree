@@ -1,0 +1,17 @@
+category: app-admin
+conflicts: []
+name: gentoo-perl-helpers
+requires:
+- 
+  category: sys-apps
+  name: portage
+  
+  version: ""
+- 
+  category: app-portage
+  name: portage-utils
+  
+  version: "0.60"
+use_flags:
+- ""
+version: 0.3.1-r1

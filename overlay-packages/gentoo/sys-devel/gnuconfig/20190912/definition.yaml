@@ -1,0 +1,5 @@
+category: sys-devel
+name: gnuconfig
+use_flags:
+- ""
+version: "20190912"

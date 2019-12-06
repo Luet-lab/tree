@@ -1,0 +1,7 @@
+category: x11-themes
+conflicts: []
+name: gentoo-xcursors
+requires: []
+use_flags:
+- ""
+version: 0.3.1

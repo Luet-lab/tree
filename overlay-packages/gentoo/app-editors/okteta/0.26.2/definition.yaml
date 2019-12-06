@@ -1,0 +1,13 @@
+category: app-editors
+conflicts: []
+name: okteta
+requires:
+- 
+  category: app-crypt
+  name: qca
+  
+  version: ""
+use_flags:
+- crypt
+- designer
+version: 0.26.2

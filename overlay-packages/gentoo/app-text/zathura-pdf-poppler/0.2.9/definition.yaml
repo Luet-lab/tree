@@ -1,0 +1,25 @@
+category: app-text
+conflicts: []
+name: zathura-pdf-poppler
+requires:
+- 
+  category: app-text
+  name: poppler
+  
+  version: ""
+- 
+  category: app-text
+  name: zathura
+  
+  version: 0.3.9
+- 
+  category: dev-libs
+  name: girara
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+version: 0.2.9

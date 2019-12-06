@@ -1,0 +1,12 @@
+category: sci-mathematics
+conflicts:
+- 
+  category: <sci-libs
+  name: pari
+  
+  version: 2.5.0-r1
+name: pari-data
+requires: []
+use_flags:
+- ""
+version: "20120726"

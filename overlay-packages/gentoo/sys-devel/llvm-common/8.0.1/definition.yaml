@@ -1,0 +1,12 @@
+category: sys-devel
+conflicts:
+- 
+  category: sys-devel
+  name: llvm
+  
+  version: ""
+name: llvm-common
+requires: []
+use_flags:
+- ""
+version: 8.0.1

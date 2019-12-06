@@ -1,0 +1,17 @@
+category: xfce-extra
+conflicts: []
+name: xfce4-datetime-plugin
+requires:
+- 
+  category: xfce-base
+  name: libxfce4ui
+  
+  version: "4.12"
+- 
+  category: xfce-base
+  name: xfce4-panel
+  
+  version: "4.12"
+use_flags:
+- ""
+version: 0.8.0

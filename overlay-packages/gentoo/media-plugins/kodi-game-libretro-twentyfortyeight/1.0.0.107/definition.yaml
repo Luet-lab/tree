@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: kodi-game-libretro-twentyfortyeight
+requires:
+- 
+  category: games-emulation
+  name: libretro-twentyfortyeight
+  
+  version: ""
+- 
+  category: media-plugins
+  name: kodi-game-libretro
+  
+  version: ""
+- 
+  category: media-tv
+  name: kodi
+  
+  version: "18"
+use_flags:
+- ""
+version: 1.0.0.107

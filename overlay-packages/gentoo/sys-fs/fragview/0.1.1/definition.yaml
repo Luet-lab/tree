@@ -1,0 +1,25 @@
+category: sys-fs
+conflicts: []
+name: fragview
+requires:
+- 
+  category: dev-cpp
+  name: glibmm
+  
+  version: ""
+- 
+  category: dev-cpp
+  name: gtkmm
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+version: 0.1.1

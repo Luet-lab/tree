@@ -1,0 +1,7 @@
+category: dev-cpp
+conflicts: []
+name: libbinio
+requires: []
+use_flags:
+- static-libs
+version: 1.4-r1

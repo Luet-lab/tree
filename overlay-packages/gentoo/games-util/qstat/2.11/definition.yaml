@@ -1,0 +1,5 @@
+category: games-util
+name: qstat
+use_flags:
+- debug
+version: "2.11"

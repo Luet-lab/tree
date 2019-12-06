@@ -1,0 +1,35 @@
+category: games-puzzle
+conflicts: []
+name: world-of-goo
+requires:
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+- 
+  category: sys-devel
+  name: gcc
+  
+  version: "3.4"
+- 
+  category: media-libs
+  name: libsdl
+  
+  version: ""
+- 
+  category: media-libs
+  name: sdl-mixer
+  
+  version: ""
+- 
+  category: sys-libs
+  name: glibc
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+version: 1.41-r2

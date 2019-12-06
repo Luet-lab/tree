@@ -1,0 +1,35 @@
+category: sci-libs
+conflicts: []
+name: votca-tools
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: sci-libs
+  name: gsl
+  
+  version: ""
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+use_flags:
+- doc
+- +fftw
+- +gsl
+- sqlite
+version: "1.4"

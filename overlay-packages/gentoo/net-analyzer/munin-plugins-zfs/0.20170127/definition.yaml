@@ -1,0 +1,15 @@
+category: net-analyzer
+conflicts: []
+name: munin-plugins-zfs
+requires:
+- 
+  category: net-analyzer
+  name: munin
+  
+  version: ""
+- 
+  category: sys-devel
+  name: bc
+  
+  version: ""
+version: "0.20170127"

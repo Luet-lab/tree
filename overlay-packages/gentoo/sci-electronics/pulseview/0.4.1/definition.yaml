@@ -1,0 +1,53 @@
+category: sci-electronics
+conflicts: []
+name: pulseview
+requires:
+- 
+  category: sci-libs
+  name: libsigrok
+  
+  version: 0.5.1
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-libs
+  name: boost
+  
+  version: "1.55"
+- 
+  category: dev-cpp
+  name: glibmm
+  
+  version: 2.28.0
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtsvg
+  
+  version: ""
+- 
+  category: sci-libs
+  name: libsigrokdecode
+  
+  version: 0.5.2
+- 
+  category: dev-libs
+  name: glib
+  
+  version: 2.28.0
+use_flags:
+- +decode
+- static
+version: 0.4.1

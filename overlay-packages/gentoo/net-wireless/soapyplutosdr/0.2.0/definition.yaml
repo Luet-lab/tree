@@ -1,0 +1,20 @@
+category: net-wireless
+conflicts: []
+name: soapyplutosdr
+requires:
+- 
+  category: net-libs
+  name: libiio
+  
+  version: ""
+- 
+  category: net-libs
+  name: libad9361-iio
+  
+  version: ""
+- 
+  category: net-wireless
+  name: soapysdr
+  
+  version: ""
+version: 0.2.0

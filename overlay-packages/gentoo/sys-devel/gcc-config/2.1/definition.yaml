@@ -1,0 +1,12 @@
+category: sys-devel
+conflicts: []
+name: gcc-config
+requires:
+- 
+  category: sys-apps
+  name: gentoo-functions
+  
+  version: "0.10"
+use_flags:
+- ""
+version: "2.1"

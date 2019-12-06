@@ -1,0 +1,17 @@
+category: dev-embedded
+conflicts: []
+name: pista
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+use_flags:
+- ""
+version: "0.70"

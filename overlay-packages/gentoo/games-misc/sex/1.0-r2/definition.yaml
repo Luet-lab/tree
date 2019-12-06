@@ -1,0 +1,12 @@
+category: games-misc
+conflicts:
+- 
+  category: sci-astronomy
+  name: sextractor
+  
+  version: ""
+name: sex
+requires: []
+use_flags:
+- ""
+version: 1.0-r2

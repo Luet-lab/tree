@@ -1,0 +1,17 @@
+category: net-wireless
+conflicts: []
+name: kismetdb
+requires:
+- 
+  category: dev-python
+  name: python-dateutil
+  
+  version: ""
+- 
+  category: dev-python
+  name: simplekml
+  
+  version: ""
+use_flags:
+- ""
+version: 2019.05.05

@@ -1,0 +1,12 @@
+category: dev-util
+conflicts:
+- 
+  category: dev-util
+  name: cpptest
+  
+  version: ""
+name: cpptest
+requires: []
+use_flags:
+- doc
+version: 2.0.0

@@ -1,0 +1,7 @@
+category: sys-firmware
+conflicts: []
+name: sigrok-firmware-fx2lafw
+requires: []
+use_flags:
+- binary
+version: 0.1.6

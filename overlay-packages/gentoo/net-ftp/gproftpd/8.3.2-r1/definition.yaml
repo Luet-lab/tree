@@ -1,0 +1,43 @@
+category: net-ftp
+conflicts: []
+name: gproftpd
+requires:
+- 
+  category: net-ftp
+  name: proftpd
+  
+  version: 1.2.9
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: pango
+  
+  version: "1.0"
+- 
+  category: dev-libs
+  name: atk
+  
+  version: "1.0"
+- 
+  category: media-libs
+  name: freetype
+  
+  version: "2.0"
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: 0.9.6f
+use_flags:
+- gnome
+- ssl
+version: 8.3.2-r1

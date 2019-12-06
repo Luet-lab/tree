@@ -1,0 +1,17 @@
+category: sci-libs
+conflicts: []
+name: Shapely
+requires:
+- 
+  category: dev-python
+  name: numpy
+  
+  version: ""
+- 
+  category: sci-libs
+  name: geos
+  
+  version: "3.3"
+use_flags:
+- test
+version: 1.6.4_p2-r1

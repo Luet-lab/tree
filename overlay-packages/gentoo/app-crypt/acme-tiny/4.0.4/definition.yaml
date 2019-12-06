@@ -1,0 +1,12 @@
+category: app-crypt
+conflicts: []
+name: acme-tiny
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- ""
+version: 4.0.4

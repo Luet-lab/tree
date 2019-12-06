@@ -1,0 +1,17 @@
+category: gui-apps
+conflicts:
+- 
+  category: <gui-wm
+  name: sway-1.1_alpha1
+  
+  version: ""
+name: swaybg
+requires:
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+use_flags:
+- +man
+version: "1.0"

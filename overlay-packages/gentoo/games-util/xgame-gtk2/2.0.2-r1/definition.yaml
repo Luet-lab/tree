@@ -1,0 +1,17 @@
+category: games-util
+conflicts: []
+name: xgame-gtk2
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Gtk2
+  
+  version: "1.040"
+use_flags:
+- ""
+version: 2.0.2-r1

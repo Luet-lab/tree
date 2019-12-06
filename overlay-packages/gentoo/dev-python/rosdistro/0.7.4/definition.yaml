@@ -1,0 +1,27 @@
+category: dev-python
+conflicts: []
+name: rosdistro
+requires:
+- 
+  category: dev-python
+  name: catkin_pkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: rospkg
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyyaml
+  
+  version: ""
+- 
+  category: dev-python
+  name: setuptools
+  
+  version: ""
+use_flags:
+- test
+version: 0.7.4

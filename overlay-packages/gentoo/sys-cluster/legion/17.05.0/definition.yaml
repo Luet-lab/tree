@@ -1,0 +1,6 @@
+category: sys-cluster
+name: legion
+use_flags:
+- gasnet
+- +hwloc
+version: 17.05.0

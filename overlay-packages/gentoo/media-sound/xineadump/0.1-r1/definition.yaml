@@ -1,0 +1,17 @@
+category: media-sound
+conflicts: []
+name: xineadump
+requires:
+- 
+  category: media-libs
+  name: xine-lib
+  
+  version: ""
+- 
+  category: media-libs
+  name: alsa-lib
+  
+  version: ""
+use_flags:
+- ""
+version: 0.1-r1

@@ -1,0 +1,33 @@
+category: dev-scheme
+conflicts: []
+name: gauche-gl
+requires:
+- 
+  category: x11-libs
+  name: libXmu
+  
+  version: ""
+- 
+  category: media-gfx
+  name: nvidia-cg-toolkit
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: gauche
+  
+  version: 0.9.4
+- 
+  category: media-libs
+  name: freeglut
+  
+  version: ""
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+use_flags:
+- cg
+- examples
+version: "0.6"

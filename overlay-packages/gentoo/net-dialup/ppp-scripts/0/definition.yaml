@@ -1,0 +1,10 @@
+category: net-dialup
+conflicts:
+- 
+  category: <net-dialup
+  name: ppp
+  
+  version: 2.4.7-r1
+name: ppp-scripts
+requires: []
+version: "0"

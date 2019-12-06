@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: leechcraft-downloader-http
+requires:
+- 
+  category: app-leechcraft
+  name: lc-cstp
+  
+  version: "9999"
+version: "9999"

@@ -1,0 +1,39 @@
+category: sys-apps
+conflicts: []
+name: inxi
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+- 
+  category: sys-apps
+  name: usbutils
+  
+  version: ""
+- 
+  category: net-wireless
+  name: bluez
+  
+  version: ""
+- 
+  category: app-admin
+  name: hddtemp
+  
+  version: ""
+- 
+  category: x11-apps
+  name: mesa-progs
+  
+  version: ""
+use_flags:
+- bluetooth
+- hddtemp
+- opengl
+version: 3.0.34.1

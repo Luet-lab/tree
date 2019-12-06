@@ -1,0 +1,12 @@
+category: app-dicts
+conflicts: []
+name: eblook
+requires:
+- 
+  category: dev-libs
+  name: eb
+  
+  version: 3.3.4
+use_flags:
+- ""
+version: 1.6.1

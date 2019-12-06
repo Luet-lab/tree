@@ -1,0 +1,27 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-rhythmbox
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+- 
+  category: media-sound
+  name: rhythmbox
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: "2.4"
+- 
+  category: dev-libs
+  name: dbus-glib
+  
+  version: ""
+use_flags:
+- ""
+version: "2.0"

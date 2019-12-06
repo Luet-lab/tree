@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: ifp-line
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- ""
+version: "0.3"

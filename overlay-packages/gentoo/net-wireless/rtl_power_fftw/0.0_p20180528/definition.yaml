@@ -1,0 +1,22 @@
+category: net-wireless
+conflicts: []
+name: rtl_power_fftw
+requires:
+- 
+  category: dev-cpp
+  name: tclap
+  
+  version: ""
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+- 
+  category: net-wireless
+  name: rtl-sdr
+  
+  version: ""
+use_flags:
+- ""
+version: 0.0_p20180528

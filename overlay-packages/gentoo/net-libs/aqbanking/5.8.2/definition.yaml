@@ -1,0 +1,47 @@
+category: net-libs
+conflicts: []
+name: aqbanking
+requires:
+- 
+  category: app-misc
+  name: ktoblzcheck
+  
+  version: ""
+- 
+  category: dev-libs
+  name: gmp
+  
+  version: ""
+- 
+  category: sys-libs
+  name: gwenhywfar
+  
+  version: 4.20.2-r1
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: xmlsec
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libofx
+  
+  version: 0.9.5
+- 
+  category: sys-libs
+  name: libchipcard
+  
+  version: 5.0.2
+use_flags:
+- debug
+- doc
+- ebics
+- examples
+- ofx
+- smartcard
+version: 5.8.2

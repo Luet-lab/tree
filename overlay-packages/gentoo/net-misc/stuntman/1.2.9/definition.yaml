@@ -1,0 +1,17 @@
+category: net-misc
+conflicts: []
+name: stuntman
+requires:
+- 
+  category: dev-libs
+  name: boost
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.9

@@ -1,0 +1,22 @@
+category: net-misc
+conflicts:
+- 
+  category: <sys-fs
+  name: udev-init-scripts
+  
+  version: "27"
+name: netifrc
+requires:
+- 
+  category: sys-apps
+  name: gentoo-functions
+  
+  version: ""
+- 
+  category: sys-apps
+  name: openrc
+  
+  version: "0.15"
+use_flags:
+- ""
+version: 0.5.0

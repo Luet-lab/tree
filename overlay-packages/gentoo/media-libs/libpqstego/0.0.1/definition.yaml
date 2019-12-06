@@ -1,0 +1,5 @@
+category: media-libs
+name: libpqstego
+use_flags:
+- ""
+version: 0.0.1

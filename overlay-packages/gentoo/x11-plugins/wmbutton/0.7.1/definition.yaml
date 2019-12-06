@@ -1,0 +1,22 @@
+category: x11-plugins
+conflicts: []
+name: wmbutton
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- branding
+version: 0.7.1

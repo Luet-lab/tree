@@ -1,0 +1,5 @@
+category: net-analyzer
+name: dnstracer
+use_flags:
+- ipv6
+version: 1.9-r2

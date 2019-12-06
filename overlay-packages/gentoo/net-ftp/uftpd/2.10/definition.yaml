@@ -1,0 +1,27 @@
+category: net-ftp
+conflicts:
+- 
+  category: net-misc
+  name: uftp
+  
+  version: ""
+- 
+  category: net-ftp
+  name: atftp
+  
+  version: ""
+name: uftpd
+requires:
+- 
+  category: dev-libs
+  name: libite
+  
+  version: "1.5"
+- 
+  category: dev-libs
+  name: libuev
+  
+  version: "2.2"
+use_flags:
+- ""
+version: "2.10"

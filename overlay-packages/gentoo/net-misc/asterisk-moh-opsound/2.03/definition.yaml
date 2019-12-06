@@ -1,0 +1,13 @@
+category: net-misc
+name: asterisk-moh-opsound
+use_flags:
+- alaw
+- g722
+- g729
+- +gsm
+- siren7
+- siren14
+- sln16
+- ulaw
+- wav
+version: "2.03"

@@ -1,0 +1,3 @@
+category: app-metrics
+name: mongodb_exporter
+version: 0.6.2-r1

@@ -1,0 +1,22 @@
+category: dev-vcs
+conflicts: []
+name: svn2git
+requires:
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: subversion
+  
+  version: ""
+- 
+  category: dev-vcs
+  name: git
+  
+  version: ""
+use_flags:
+- ""
+version: 1.0.11-r1

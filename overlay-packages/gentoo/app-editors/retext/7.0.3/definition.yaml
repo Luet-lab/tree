@@ -1,0 +1,42 @@
+category: app-editors
+conflicts: []
+name: retext
+requires:
+- 
+  category: dev-python
+  name: docutils
+  
+  version: ""
+- 
+  category: dev-python
+  name: markdown
+  
+  version: ""
+- 
+  category: dev-python
+  name: markups
+  
+  version: "2.0"
+- 
+  category: dev-python
+  name: pygments
+  
+  version: ""
+- 
+  category: dev-python
+  name: PyQt5
+  
+  version: ""
+- 
+  category: dev-python
+  name: pyenchant
+  
+  version: ""
+- 
+  category: dev-python
+  name: chardet
+  
+  version: "2.3"
+use_flags:
+- +spell
+version: 7.0.3

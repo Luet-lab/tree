@@ -1,0 +1,45 @@
+category: media-libs
+conflicts: []
+name: harfbuzz
+requires:
+- 
+  category: media-gfx
+  name: graphite2
+  
+  version: 1.2.1
+- 
+  category: dev-libs
+  name: icu
+  
+  version: 51.2-r1
+- 
+  category: dev-libs
+  name: gobject-introspection
+  
+  version: "1.34"
+- 
+  category: media-libs
+  name: freetype
+  
+  version: 2.5.0.1
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: "2.38"
+use_flags:
+- +cairo
+- debug
+- +glib
+- +graphite
+- icu
+- +introspection
+- static-libs
+- test
+- +truetype
+version: 2.6.1

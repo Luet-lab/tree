@@ -1,0 +1,15 @@
+category: sys-libs
+conflicts: []
+name: lib-compat-loki
+requires:
+- 
+  category: sys-libs
+  name: lib-compat
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl-1.2.15-r4[abi_x86_32(-)]
+  
+  version: ""
+version: 0.2-r1

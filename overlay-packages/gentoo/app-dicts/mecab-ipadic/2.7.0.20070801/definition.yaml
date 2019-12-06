@@ -1,0 +1,5 @@
+category: app-dicts
+name: mecab-ipadic
+use_flags:
+- unicode
+version: 2.7.0.20070801

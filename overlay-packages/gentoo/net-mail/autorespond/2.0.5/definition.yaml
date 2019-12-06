@@ -1,0 +1,10 @@
+category: net-mail
+conflicts: []
+name: autorespond
+requires:
+- 
+  category: virtual
+  name: qmail
+  
+  version: ""
+version: 2.0.5

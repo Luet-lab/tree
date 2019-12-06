@@ -1,0 +1,12 @@
+category: sys-apps
+conflicts: []
+name: superiotool
+requires:
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+use_flags:
+- pci
+version: "6637"

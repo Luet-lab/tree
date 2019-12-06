@@ -1,0 +1,5 @@
+category: dev-libs
+name: tvision
+use_flags:
+- ""
+version: 2.1.0_pre2-r4

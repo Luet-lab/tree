@@ -1,0 +1,17 @@
+category: dev-lang
+conflicts:
+- 
+  category: '!sci-biology'
+  name: phylip
+  
+  version: ""
+name: elixir
+requires:
+- 
+  category: dev-lang
+  name: erlang
+  
+  version: "18"
+use_flags:
+- ""
+version: 1.8.2

@@ -1,0 +1,41 @@
+category: net-libs
+conflicts: []
+name: libisds
+requires:
+- 
+  category: app-crypt
+  name: gpgme
+  
+  version: ""
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgcrypt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: "2"
+use_flags:
+- +curl
+- debug
+- nls
+- static-libs
+- test
+version: "9999"

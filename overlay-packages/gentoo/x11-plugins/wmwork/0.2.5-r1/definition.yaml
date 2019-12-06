@@ -1,0 +1,20 @@
+category: x11-plugins
+conflicts: []
+name: wmwork
+requires:
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: 1.0.3
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: 1.1.1-r1
+- 
+  category: x11-libs
+  name: libXpm
+  
+  version: 3.5.6
+version: 0.2.5-r1

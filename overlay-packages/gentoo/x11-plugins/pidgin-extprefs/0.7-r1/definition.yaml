@@ -1,0 +1,12 @@
+category: x11-plugins
+conflicts: []
+name: pidgin-extprefs
+requires:
+- 
+  category: net-im
+  name: pidgin
+  
+  version: ""
+use_flags:
+- ""
+version: 0.7-r1

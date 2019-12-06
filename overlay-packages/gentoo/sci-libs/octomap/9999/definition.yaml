@@ -1,0 +1,34 @@
+category: sci-libs
+conflicts: []
+name: octomap
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libQGLViewer
+  
+  version: ""
+use_flags:
+- qt5
+- dynamicEDT3D
+- doc
+version: "9999"

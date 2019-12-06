@@ -1,0 +1,6 @@
+category: dev-libs
+name: faxpp
+use_flags:
+- doc
+- examples
+version: 0.4-r1

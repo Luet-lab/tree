@@ -1,0 +1,28 @@
+category: gui-apps
+conflicts: []
+name: grim
+requires:
+- 
+  category: dev-libs
+  name: wayland-protocols
+  
+  version: "1.14"
+- 
+  category: dev-libs
+  name: wayland
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: x11-libs
+  name: cairo
+  
+  version: ""
+use_flags:
+- +man
+- jpeg
+version: 1.2.0

@@ -1,0 +1,5 @@
+category: app-dicts
+name: migemo-dict
+use_flags:
+- unicode
+version: "200812"

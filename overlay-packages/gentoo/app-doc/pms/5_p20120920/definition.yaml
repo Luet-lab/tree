@@ -1,0 +1,12 @@
+category: app-doc
+conflicts:
+- 
+  category: app-doc
+  name: pms-bin
+  
+  version: ""
+name: pms
+requires: []
+use_flags:
+- html
+version: 5_p20120920

@@ -1,0 +1,12 @@
+category: dev-python
+conflicts: []
+name: jsonrpclib
+requires:
+- 
+  category: dev-python
+  name: simplejson
+  
+  version: ""
+use_flags:
+- test
+version: 0.4.0

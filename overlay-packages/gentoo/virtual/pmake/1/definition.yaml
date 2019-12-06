@@ -1,0 +1,15 @@
+category: virtual
+conflicts: []
+name: pmake
+requires:
+- 
+  category: sys-devel
+  name: bmake
+  
+  version: ""
+- 
+  category: sys-devel
+  name: bsdmake
+  
+  version: ""
+version: "1"

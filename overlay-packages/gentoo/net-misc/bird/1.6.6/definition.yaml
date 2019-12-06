@@ -1,0 +1,19 @@
+category: net-misc
+conflicts: []
+name: bird
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+use_flags:
+- +client
+- debug
+- ipv6
+version: 1.6.6

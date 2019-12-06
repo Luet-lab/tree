@@ -1,0 +1,12 @@
+category: dev-libs
+conflicts: []
+name: libusbhp
+requires:
+- 
+  category: virtual
+  name: libudev
+  
+  version: "147"
+use_flags:
+- static-libs
+version: 1.0.2

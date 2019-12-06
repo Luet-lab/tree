@@ -1,0 +1,8 @@
+category: media-tv
+conflicts: []
+name: w_scan
+requires: []
+use_flags:
+- doc
+- examples
+version: "20141122"

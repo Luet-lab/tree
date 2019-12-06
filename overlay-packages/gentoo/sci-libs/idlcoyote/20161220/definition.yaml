@@ -1,0 +1,12 @@
+category: sci-libs
+conflicts: []
+name: idlcoyote
+requires:
+- 
+  category: dev-lang
+  name: gdl
+  
+  version: ""
+use_flags:
+- ""
+version: "20161220"

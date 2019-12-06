@@ -1,0 +1,7 @@
+category: net-libs
+conflicts: []
+name: nghttp3
+requires: []
+use_flags:
+- test
+version: 0_pre20190912

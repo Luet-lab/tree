@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: keylookup
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+use_flags:
+- ""
+version: "2.2"

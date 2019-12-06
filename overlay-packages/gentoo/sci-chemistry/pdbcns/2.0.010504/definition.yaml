@@ -1,0 +1,12 @@
+category: sci-chemistry
+conflicts: []
+name: pdbcns
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 2.0.010504

@@ -1,0 +1,9 @@
+category: net-fs
+conflicts: []
+name: libnfs
+requires: []
+use_flags:
+- examples
+- static-libs
+- utils
+version: 4.0.0

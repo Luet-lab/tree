@@ -1,0 +1,9 @@
+category: sys-firmware
+conflicts: []
+name: seabios
+requires: []
+use_flags:
+- +binary
+- debug
+- +seavgabios
+version: 1.10.2

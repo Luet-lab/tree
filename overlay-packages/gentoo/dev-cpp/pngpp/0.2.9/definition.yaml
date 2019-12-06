@@ -1,0 +1,12 @@
+category: dev-cpp
+conflicts: []
+name: pngpp
+requires:
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.9

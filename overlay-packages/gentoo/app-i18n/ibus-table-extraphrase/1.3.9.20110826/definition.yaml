@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: ibus-table-extraphrase
+requires:
+- 
+  category: app-i18n
+  name: ibus-table
+  
+  version: ""
+use_flags:
+- ""
+version: 1.3.9.20110826

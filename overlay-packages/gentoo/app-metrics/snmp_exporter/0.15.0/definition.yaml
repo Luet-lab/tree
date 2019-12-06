@@ -1,0 +1,3 @@
+category: app-metrics
+name: snmp_exporter
+version: 0.15.0

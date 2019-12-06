@@ -1,0 +1,62 @@
+category: games-fps
+conflicts: []
+name: urbanterror
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libsdl2
+  
+  version: ""
+- 
+  category: media-sound
+  name: mumble
+  
+  version: ""
+- 
+  category: media-libs
+  name: openal
+  
+  version: ""
+- 
+  category: media-libs
+  name: opusfile
+  
+  version: ""
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: ""
+- 
+  category: games-fps
+  name: urbanterror-data
+  
+  version: 4.3.4
+use_flags:
+- +altgamma
+- +client
+- +curl
+- debug
+- mumble
+- openal
+- +opus
+- server
+- +skeetshootmod
+- voip
+- vorbis
+version: 4.3.4_p20180708

@@ -1,0 +1,17 @@
+category: games-util
+conflicts: []
+name: gamemode
+requires:
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: "236"
+- 
+  category: sys-auth
+  name: polkit
+  
+  version: ""
+use_flags:
+- ""
+version: "1.2"

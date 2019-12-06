@@ -1,0 +1,3 @@
+category: sys-fs
+name: zfs-auto-snapshot
+version: "9999"

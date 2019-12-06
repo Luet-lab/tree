@@ -1,0 +1,17 @@
+category: media-plugins
+conflicts: []
+name: ladspa-bs2b
+requires:
+- 
+  category: media-libs
+  name: ladspa-sdk
+  
+  version: ""
+- 
+  category: media-libs
+  name: libbs2b
+  
+  version: 3.1.0
+use_flags:
+- ""
+version: 0.9.1-r1

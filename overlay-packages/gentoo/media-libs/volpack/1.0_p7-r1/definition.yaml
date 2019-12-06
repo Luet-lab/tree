@@ -1,0 +1,7 @@
+category: media-libs
+name: volpack
+use_flags:
+- doc
+- examples
+- static-libs
+version: 1.0_p7-r1

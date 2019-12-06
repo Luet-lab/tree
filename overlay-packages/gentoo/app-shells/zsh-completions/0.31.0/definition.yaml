@@ -1,0 +1,10 @@
+category: app-shells
+conflicts: []
+name: zsh-completions
+requires:
+- 
+  category: app-shells
+  name: zsh
+  
+  version: ""
+version: 0.31.0

@@ -1,0 +1,26 @@
+category: dev-util
+conflicts: []
+name: strace
+requires:
+- 
+  category: sys-libs
+  name: libunwind
+  
+  version: ""
+- 
+  category: dev-libs
+  name: elfutils
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- aio
+- perl
+- static
+- unwind
+- elfutils
+version: "5.4"

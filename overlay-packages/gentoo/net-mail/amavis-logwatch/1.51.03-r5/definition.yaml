@@ -1,0 +1,10 @@
+category: net-mail
+conflicts: []
+name: amavis-logwatch
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+version: 1.51.03-r5

@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: sshpass
+requires:
+- 
+  category: net-misc
+  name: openssh
+  
+  version: ""
+use_flags:
+- ""
+version: "1.05"

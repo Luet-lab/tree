@@ -1,0 +1,18 @@
+category: dev-util
+conflicts: []
+name: android-ndk
+requires:
+- 
+  category: dev-util
+  name: android-sdk-update-manager
+  
+  version: "10"
+- 
+  category: sys-devel
+  name: make
+  
+  version: "3.81"
+use_flags:
+- +target-32
+- target-64
+version: "10"

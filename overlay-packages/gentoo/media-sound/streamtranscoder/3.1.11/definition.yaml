@@ -1,0 +1,32 @@
+category: media-sound
+conflicts: []
+name: streamtranscoder
+requires:
+- 
+  category: media-sound
+  name: lame
+  
+  version: "3.96"
+- 
+  category: media-libs
+  name: libmad
+  
+  version: 0.15.1b
+- 
+  category: net-misc
+  name: curl
+  
+  version: 7.11.0
+- 
+  category: media-libs
+  name: libogg
+  
+  version: "1.1"
+- 
+  category: media-libs
+  name: libvorbis
+  
+  version: 1.0.1-r2
+use_flags:
+- ""
+version: 3.1.11

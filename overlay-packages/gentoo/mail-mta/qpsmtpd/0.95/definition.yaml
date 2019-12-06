@@ -1,0 +1,69 @@
+category: mail-mta
+conflicts: []
+name: qpsmtpd
+requires:
+- 
+  category: virtual
+  name: perl-Sys-Syslog
+  
+  version: ""
+- 
+  category: virtual
+  name: inetd
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.0
+- 
+  category: dev-perl
+  name: Net-DNS
+  
+  version: 0.690.0
+- 
+  category: dev-perl
+  name: IPC-Shareable
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Socket6
+  
+  version: ""
+- 
+  category: dev-perl
+  name: ParaDNS
+  
+  version: ""
+- 
+  category: dev-perl
+  name: UNIVERSAL-isa
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-MIME-Base64
+  
+  version: ""
+- 
+  category: dev-perl
+  name: MailTools
+  
+  version: ""
+- 
+  category: dev-perl
+  name: Danga-Socket
+  
+  version: ""
+- 
+  category: dev-perl
+  name: IO-Socket-INET6
+  
+  version: ""
+use_flags:
+- postfix
+- ipv6
+- syslog
+version: "0.95"

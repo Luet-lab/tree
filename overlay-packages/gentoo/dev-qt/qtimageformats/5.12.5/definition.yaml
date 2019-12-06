@@ -1,0 +1,32 @@
+category: dev-qt
+conflicts: []
+name: qtimageformats
+requires:
+- 
+  category: media-libs
+  name: libwebp
+  
+  version: ""
+- 
+  category: media-libs
+  name: tiff
+  
+  version: ""
+- 
+  category: media-libs
+  name: libmng
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: 5.12.5
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: 5.12.5
+use_flags:
+- mng
+version: 5.12.5

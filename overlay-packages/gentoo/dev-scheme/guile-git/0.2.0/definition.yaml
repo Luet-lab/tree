@@ -1,0 +1,22 @@
+category: dev-scheme
+conflicts: []
+name: guile-git
+requires:
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: 2.0.11
+- 
+  category: dev-scheme
+  name: bytestructures
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libgit2
+  
+  version: ""
+use_flags:
+- ""
+version: 0.2.0

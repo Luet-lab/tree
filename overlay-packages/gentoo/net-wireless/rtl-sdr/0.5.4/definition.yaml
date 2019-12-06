@@ -1,0 +1,12 @@
+category: net-wireless
+conflicts: []
+name: rtl-sdr
+requires:
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+use_flags:
+- ""
+version: 0.5.4

@@ -1,0 +1,37 @@
+category: dev-php
+conflicts: []
+name: PEAR-PEAR
+requires:
+- 
+  category: dev-php
+  name: PEAR-Structures_Graph
+  
+  version: 1.1.0
+- 
+  category: dev-php
+  name: PEAR-XML_Util
+  
+  version: 1.3.0
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Archive_Tar
+  
+  version: 1.4.0
+- 
+  category: dev-php
+  name: PEAR-Console_Getopt
+  
+  version: 1.4.1
+- 
+  category: dev-php
+  name: PEAR-Exception
+  
+  version: ""
+use_flags:
+- ""
+version: 1.10.7

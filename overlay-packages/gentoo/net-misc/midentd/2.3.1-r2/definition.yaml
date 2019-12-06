@@ -1,0 +1,12 @@
+category: net-misc
+conflicts: []
+name: midentd
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+use_flags:
+- ""
+version: 2.3.1-r2

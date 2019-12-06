@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+name: c_rehash
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+version: 1.0.2g_p8

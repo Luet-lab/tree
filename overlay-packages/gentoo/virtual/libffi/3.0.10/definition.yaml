@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+name: libffi
+requires:
+- 
+  category: dev-libs
+  name: libffi
+  
+  version: 3.0.10
+version: 3.0.10

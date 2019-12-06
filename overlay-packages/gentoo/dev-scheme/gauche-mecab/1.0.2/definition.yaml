@@ -1,0 +1,17 @@
+category: dev-scheme
+conflicts: []
+name: gauche-mecab
+requires:
+- 
+  category: app-text
+  name: mecab
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: gauche
+  
+  version: 0.9.5
+use_flags:
+- ""
+version: 1.0.2

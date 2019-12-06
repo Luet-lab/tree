@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+name: xsel
+requires:
+- 
+  category: x11-libs
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libXext
+  
+  version: ""
+use_flags:
+- ""
+version: 1.2.0-r1

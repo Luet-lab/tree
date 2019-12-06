@@ -1,0 +1,18 @@
+category: sys-block
+conflicts: []
+name: thin-provisioning-tools
+requires:
+- 
+  category: dev-libs
+  name: expat
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libaio
+  
+  version: ""
+use_flags:
+- static
+- test
+version: 0.8.5

@@ -1,0 +1,30 @@
+category: dev-tex
+conflicts: []
+name: serienbrief
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: 5.8.6
+- 
+  category: virtual
+  name: perl-Getopt-Long
+  
+  version: ""
+- 
+  category: virtual
+  name: perl-Term-ANSIColor
+  
+  version: "1.08"
+- 
+  category: dev-perl
+  name: libintl-perl
+  
+  version: "1.16"
+- 
+  category: virtual
+  name: latex-base
+  
+  version: ""
+version: 0.2.5

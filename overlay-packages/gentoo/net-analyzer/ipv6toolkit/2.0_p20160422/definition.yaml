@@ -1,0 +1,17 @@
+category: net-analyzer
+conflicts: []
+name: ipv6toolkit
+requires:
+- 
+  category: net-libs
+  name: libpcap[ipv6(+)]
+  
+  version: ""
+- 
+  category: sys-apps
+  name: hwids
+  
+  version: ""
+use_flags:
+- ""
+version: 2.0_p20160422

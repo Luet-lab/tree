@@ -1,0 +1,14 @@
+category: dev-cpp
+conflicts:
+- 
+  category: dev-cpp
+  name: gmock
+  
+  version: ""
+name: gtest
+requires: []
+use_flags:
+- doc
+- examples
+- test
+version: 1.10.0

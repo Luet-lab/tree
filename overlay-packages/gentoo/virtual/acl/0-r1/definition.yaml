@@ -1,0 +1,17 @@
+category: virtual
+conflicts: []
+name: acl
+requires:
+- 
+  category: sys-freebsd
+  name: freebsd-lib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: acl[static-libs?]
+  
+  version: ""
+use_flags:
+- static-libs
+version: 0-r1

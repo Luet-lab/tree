@@ -1,0 +1,12 @@
+category: dev-tex
+conflicts: []
+name: style-check
+requires:
+- 
+  category: dev-lang
+  name: ruby
+  
+  version: ""
+use_flags:
+- test
+version: "0.14"

@@ -1,0 +1,5 @@
+category: sys-kernel
+name: xnu-headers
+use_flags:
+- +man
+version: 4903.241.1-r3

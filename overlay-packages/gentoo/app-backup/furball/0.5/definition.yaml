@@ -1,0 +1,17 @@
+category: app-backup
+conflicts: []
+name: furball
+requires:
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: app-arch
+  name: tar
+  
+  version: ""
+use_flags:
+- ""
+version: "0.5"

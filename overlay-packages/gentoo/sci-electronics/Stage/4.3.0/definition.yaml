@@ -1,0 +1,42 @@
+category: sci-electronics
+conflicts: []
+name: Stage
+requires:
+- 
+  category: virtual
+  name: opengl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libltdl
+  
+  version: ""
+- 
+  category: virtual
+  name: jpeg
+  
+  version: ""
+- 
+  category: media-libs
+  name: libpng
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  name: fltk
+  
+  version: ""
+- 
+  category: virtual
+  name: glu
+  
+  version: ""
+use_flags:
+- ""
+version: 4.3.0

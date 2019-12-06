@@ -1,0 +1,26 @@
+category: app-misc
+conflicts: []
+name: screen
+requires:
+- 
+  category: sys-libs
+  name: ncurses
+  
+  version: "5.2"
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-screen
+  
+  version: ""
+use_flags:
+- debug
+- nethack
+- pam
+- selinux
+- multiuser
+version: 4.7.0

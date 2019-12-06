@@ -1,0 +1,10 @@
+category: net-wireless
+conflicts: []
+name: reaver
+requires:
+- 
+  category: net-libs
+  name: libpcap
+  
+  version: ""
+version: 1.6.5

@@ -1,0 +1,32 @@
+category: net-nds
+conflicts: []
+name: rpcbind
+requires:
+- 
+  category: sec-policy
+  name: selinux-rpcbind
+  
+  version: ""
+- 
+  category: net-libs
+  name: libtirpc
+  
+  version: 0.2.3
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: sys-apps
+  name: tcp-wrappers
+  
+  version: ""
+use_flags:
+- debug
+- remotecalls
+- selinux
+- systemd
+- tcpd
+- warmstarts
+version: 1.2.5

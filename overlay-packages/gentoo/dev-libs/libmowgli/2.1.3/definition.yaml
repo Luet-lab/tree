@@ -1,0 +1,23 @@
+category: dev-libs
+conflicts:
+- 
+  category: ~dev-libs
+  name: libmowgli
+  
+  version: 2.1.0
+name: libmowgli
+requires:
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+use_flags:
+- libressl
+- ssl
+version: 2.1.3

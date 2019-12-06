@@ -1,0 +1,14 @@
+category: media-libs
+conflicts: []
+name: libepoxy
+requires:
+- 
+  category: media-libs
+  name: mesa
+  
+  version: ""
+use_flags:
+- +egl
+- test
+- +X
+version: 1.5.3-r1

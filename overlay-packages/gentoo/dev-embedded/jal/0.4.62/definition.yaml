@@ -1,0 +1,7 @@
+category: dev-embedded
+conflicts: []
+name: jal
+requires: []
+use_flags:
+- ""
+version: 0.4.62

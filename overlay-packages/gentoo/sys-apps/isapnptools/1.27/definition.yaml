@@ -1,0 +1,5 @@
+category: sys-apps
+name: isapnptools
+use_flags:
+- ""
+version: "1.27"

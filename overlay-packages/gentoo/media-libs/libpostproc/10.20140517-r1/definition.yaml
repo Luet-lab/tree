@@ -1,0 +1,22 @@
+category: media-libs
+conflicts:
+- 
+  category: media-video
+  name: ffmpeg
+  
+  version: ""
+name: libpostproc
+requires:
+- 
+  category: media-video
+  name: libav
+  
+  version: 0.8.2-r2
+use_flags:
+- pic
+- static-libs
+- cpu_flags_x86_3dnow
+- altivec
+- cpu_flags_x86_mmx
+- cpu_flags_x86_mmxext
+version: 10.20140517-r1

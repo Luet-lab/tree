@@ -1,0 +1,17 @@
+category: sec-policy
+conflicts: []
+name: selinux-djbdns
+requires:
+- 
+  category: sec-policy
+  name: selinux-daemontools
+  
+  version: ""
+- 
+  category: sec-policy
+  name: selinux-ucspitcp
+  
+  version: ""
+use_flags:
+- ""
+version: 2.20180114-r2

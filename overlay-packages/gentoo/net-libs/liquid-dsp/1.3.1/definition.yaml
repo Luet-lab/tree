@@ -1,0 +1,12 @@
+category: net-libs
+conflicts: []
+name: liquid-dsp
+requires:
+- 
+  category: sci-libs
+  name: fftw
+  
+  version: ""
+use_flags:
+- static-libs
+version: 1.3.1

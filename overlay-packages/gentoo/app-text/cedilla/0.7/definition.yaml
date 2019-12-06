@@ -1,0 +1,10 @@
+category: app-text
+conflicts: []
+name: cedilla
+requires:
+- 
+  category: dev-lisp
+  name: clisp
+  
+  version: ""
+version: "0.7"

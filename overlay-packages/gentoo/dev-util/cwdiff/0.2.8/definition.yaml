@@ -1,0 +1,38 @@
+category: dev-util
+conflicts: []
+name: cwdiff
+requires:
+- 
+  category: dev-vcs
+  name: mercurial
+  
+  version: ""
+- 
+  category: sys-apps
+  name: sed
+  
+  version: ""
+- 
+  category: app-shells
+  name: bash
+  
+  version: ""
+- 
+  category: app-text
+  name: wdiff
+  
+  version: ""
+- 
+  category: sys-apps
+  name: diffutils
+  
+  version: ""
+- 
+  category: app-text
+  name: a2ps
+  
+  version: ""
+use_flags:
+- a2ps
+- mercurial
+version: 0.2.8

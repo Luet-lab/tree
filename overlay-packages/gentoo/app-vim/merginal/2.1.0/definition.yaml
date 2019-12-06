@@ -1,0 +1,10 @@
+category: app-vim
+conflicts: []
+name: merginal
+requires:
+- 
+  category: app-vim
+  name: fugitive
+  
+  version: ""
+version: 2.1.0

@@ -1,0 +1,22 @@
+category: media-plugins
+conflicts: []
+name: gmpc-jamendo
+requires:
+- 
+  category: media-sound
+  name: gmpc
+  
+  version: 11.8.16
+- 
+  category: dev-db
+  name: sqlite
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libxml2
+  
+  version: ""
+use_flags:
+- nls
+version: 11.8.16

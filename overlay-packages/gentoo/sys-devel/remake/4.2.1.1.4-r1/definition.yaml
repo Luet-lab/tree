@@ -1,0 +1,18 @@
+category: sys-devel
+conflicts: []
+name: remake
+requires:
+- 
+  category: sys-libs
+  name: readline
+  
+  version: ""
+- 
+  category: dev-scheme
+  name: guile
+  
+  version: "1.8"
+use_flags:
+- guile
+- readline
+version: 4.2.1.1.4-r1

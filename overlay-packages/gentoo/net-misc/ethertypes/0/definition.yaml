@@ -1,0 +1,15 @@
+category: net-misc
+conflicts:
+- 
+  category: <net-firewall
+  name: ebtables
+  
+  version: 2.0.10.4-r2
+- 
+  category: <net-firewall
+  name: iptables-1.6.2-r2[nftables(-)]
+  
+  version: ""
+name: ethertypes
+requires: []
+version: "0"

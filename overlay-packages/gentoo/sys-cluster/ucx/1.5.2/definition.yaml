@@ -1,0 +1,18 @@
+category: sys-cluster
+conflicts: []
+name: ucx
+requires:
+- 
+  category: sys-libs
+  name: binutils-libs
+  
+  version: ""
+- 
+  category: sys-process
+  name: numactl
+  
+  version: ""
+use_flags:
+- +numa
+- +openmp
+version: 1.5.2

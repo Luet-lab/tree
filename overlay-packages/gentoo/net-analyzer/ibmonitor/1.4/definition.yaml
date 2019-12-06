@@ -1,0 +1,10 @@
+category: net-analyzer
+conflicts: []
+name: ibmonitor
+requires:
+- 
+  category: dev-perl
+  name: TermReadKey
+  
+  version: ""
+version: "1.4"

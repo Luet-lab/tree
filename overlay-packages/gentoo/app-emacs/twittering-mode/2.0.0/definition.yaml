@@ -1,0 +1,12 @@
+category: app-emacs
+conflicts: []
+name: twittering-mode
+requires:
+- 
+  category: app-crypt
+  name: gnupg
+  
+  version: ""
+use_flags:
+- ""
+version: 2.0.0

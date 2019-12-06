@@ -1,0 +1,17 @@
+category: dev-util
+conflicts: []
+name: kdevelop-clang-tidy
+requires:
+- 
+  category: dev-util
+  name: kdevelop
+  
+  version: 5.2.3
+- 
+  category: sys-devel
+  name: clang
+  
+  version: ""
+use_flags:
+- ""
+version: 0.3.3-r1

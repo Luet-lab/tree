@@ -1,0 +1,27 @@
+category: net-libs
+conflicts: []
+name: rabbitmq-c
+requires:
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: popt
+  
+  version: ""
+use_flags:
+- doc
+- libressl
+- test
+- +ssl
+- static-libs
+- tools
+version: 0.10.0

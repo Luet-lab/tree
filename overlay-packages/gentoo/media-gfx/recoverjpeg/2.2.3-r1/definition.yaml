@@ -1,0 +1,17 @@
+category: media-gfx
+conflicts: []
+name: recoverjpeg
+requires:
+- 
+  category: virtual
+  name: imagemagick-tools
+  
+  version: ""
+- 
+  category: media-gfx
+  name: exif
+  
+  version: ""
+use_flags:
+- ""
+version: 2.2.3-r1

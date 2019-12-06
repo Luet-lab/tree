@@ -1,0 +1,12 @@
+category: app-misc
+conflicts: []
+name: aldo
+requires:
+- 
+  category: media-libs
+  name: libao
+  
+  version: 0.8.5
+use_flags:
+- ""
+version: 0.7.7

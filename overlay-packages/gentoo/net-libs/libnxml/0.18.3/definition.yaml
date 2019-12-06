@@ -1,0 +1,14 @@
+category: net-libs
+conflicts: []
+name: libnxml
+requires:
+- 
+  category: net-misc
+  name: curl
+  
+  version: ""
+use_flags:
+- doc
+- examples
+- static-libs
+version: 0.18.3

@@ -1,0 +1,15 @@
+category: dev-php
+conflicts: []
+name: PEAR-Net_LDAP3
+requires:
+- 
+  category: dev-lang
+  name: php
+  
+  version: ""
+- 
+  category: dev-php
+  name: PEAR-Net_LDAP2
+  
+  version: ""
+version: 1.0.5_pre20160405

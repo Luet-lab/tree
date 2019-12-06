@@ -1,0 +1,101 @@
+category: net-print
+conflicts:
+- 
+  category: net-print
+  name: lprng
+  
+  version: ""
+name: cups
+requires:
+- 
+  category: sys-apps
+  name: acl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: xinetd
+  
+  version: ""
+- 
+  category: sys-apps
+  name: attr
+  
+  version: ""
+- 
+  category: virtual
+  name: krb5
+  
+  version: 0-r1
+- 
+  category: sys-libs
+  name: pam
+  
+  version: ""
+- 
+  category: sys-apps
+  name: systemd
+  
+  version: ""
+- 
+  category: net-dns
+  name: avahi
+  
+  version: 0.6.31-r2
+- 
+  category: sec-policy
+  name: selinux-cups
+  
+  version: ""
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: 1.6.18-r1
+- 
+  category: net-libs
+  name: gnutls
+  
+  version: 2.12.23-r6
+- 
+  category: app-text
+  name: libpaper
+  
+  version: ""
+- 
+  category: virtual
+  name: libusb
+  
+  version: ""
+- 
+  category: x11-misc
+  name: xdg-utils
+  
+  version: ""
+- 
+  category: acct-group
+  name: lp
+  
+  version: ""
+use_flags:
+- acl
+- dbus
+- debug
+- kerberos
+- lprng-compat
+- pam
+- selinux
+- +ssl
+- static-libs
+- systemd
+- +threads
+- usb
+- X
+- xinetd
+- zeroconf
+version: "9999"

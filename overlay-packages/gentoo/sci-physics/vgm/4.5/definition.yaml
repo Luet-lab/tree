@@ -1,0 +1,26 @@
+category: sci-physics
+conflicts: []
+name: vgm
+requires:
+- 
+  category: sci-physics
+  name: clhep
+  
+  version: ""
+- 
+  category: sci-physics
+  name: root
+  
+  version: ""
+- 
+  category: sci-physics
+  name: geant
+  
+  version: 4.10.03
+use_flags:
+- doc
+- examples
+- +geant4
+- +root
+- test
+version: "4.5"

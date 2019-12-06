@@ -1,0 +1,17 @@
+category: app-crypt
+conflicts: []
+name: pgpdump
+requires:
+- 
+  category: sys-libs
+  name: zlib
+  
+  version: ""
+- 
+  category: app-arch
+  name: bzip2
+  
+  version: ""
+use_flags:
+- ""
+version: "0.33"

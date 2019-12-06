@@ -1,0 +1,45 @@
+category: lxqt-base
+conflicts:
+- 
+  category: lxqt-base
+  name: lxqt-l10n
+  
+  version: ""
+name: lxqt-notificationd
+requires:
+- 
+  category: kde-frameworks
+  name: kwindowsystem
+  
+  version: ""
+- 
+  category: lxqt-base
+  name: liblxqt
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libqtxdg
+  
+  version: 3.3.1
+- 
+  category: dev-qt
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  name: qtwidgets
+  
+  version: ""
+version: 0.14.1

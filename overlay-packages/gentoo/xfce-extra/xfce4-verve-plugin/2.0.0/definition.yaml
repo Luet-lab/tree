@@ -1,0 +1,27 @@
+category: xfce-extra
+conflicts: []
+name: xfce4-verve-plugin
+requires:
+- 
+  category: xfce-base
+  name: xfce4-panel
+  
+  version: "4.12"
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libpcre
+  
+  version: "5"
+- 
+  category: xfce-base
+  name: libxfce4ui
+  
+  version: "4.12"
+use_flags:
+- ""
+version: 2.0.0

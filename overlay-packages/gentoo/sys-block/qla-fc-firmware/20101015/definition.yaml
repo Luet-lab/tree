@@ -1,0 +1,12 @@
+category: sys-block
+conflicts:
+- 
+  category: sys-kernel
+  name: linux-firmware
+  
+  version: ""
+name: qla-fc-firmware
+requires: []
+use_flags:
+- ""
+version: "20101015"

@@ -1,0 +1,12 @@
+category: app-i18n
+conflicts: []
+name: rime-data
+requires:
+- 
+  category: app-i18n
+  name: librime
+  
+  version: ""
+use_flags:
+- extra
+version: 0.38.20180515

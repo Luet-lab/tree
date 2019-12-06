@@ -1,0 +1,12 @@
+category: app-text
+conflicts: []
+name: robodoc
+requires:
+- 
+  category: dev-util
+  name: ctags
+  
+  version: 5.3.1
+use_flags:
+- examples
+version: 4.99.43

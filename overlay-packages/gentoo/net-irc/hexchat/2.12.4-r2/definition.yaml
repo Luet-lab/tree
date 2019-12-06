@@ -1,0 +1,92 @@
+category: net-irc
+conflicts: []
+name: hexchat
+requires:
+- 
+  category: net-libs
+  name: libproxy
+  
+  version: ""
+- 
+  category: dev-libs
+  name: libressl
+  
+  version: ""
+- 
+  category: dev-lang
+  name: lua
+  
+  version: ""
+- 
+  category: virtual
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  name: openssl
+  
+  version: ""
+- 
+  category: media-libs
+  name: libcanberra
+  
+  version: ""
+- 
+  category: x11-libs
+  name: libnotify
+  
+  version: ""
+- 
+  category: dev-lang
+  name: perl
+  
+  version: ""
+- 
+  category: sys-apps
+  name: pciutils
+  
+  version: ""
+- 
+  category: app-text
+  name: iso-codes
+  
+  version: ""
+- 
+  category: dev-libs
+  name: glib
+  
+  version: ""
+- 
+  category: sys-apps
+  name: dbus
+  
+  version: ""
+- 
+  category: x11-libs
+  name: gtk+
+  
+  version: ""
+- 
+  category: app-text
+  name: enchant
+  
+  version: ""
+use_flags:
+- dbus
+- debug
+- +gtk
+- libcanberra
+- libnotify
+- libproxy
+- libressl
+- lua
+- nls
+- perl
+- plugin-checksum
+- plugin-fishlim
+- plugin-sysinfo
+- python
+- spell
+- ssl
+version: 2.12.4-r2

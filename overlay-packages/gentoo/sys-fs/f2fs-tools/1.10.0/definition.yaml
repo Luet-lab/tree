@@ -1,0 +1,22 @@
+category: sys-fs
+conflicts: []
+name: f2fs-tools
+requires:
+- 
+  category: sys-apps
+  name: util-linux
+  
+  version: ""
+- 
+  category: sys-libs
+  name: libselinux
+  
+  version: ""
+- 
+  category: sys-libs
+  name: queue-standalone
+  
+  version: ""
+use_flags:
+- selinux
+version: 1.10.0
