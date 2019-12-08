@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Data-UUID
+requires: null
+set: false
+use_flags: null
+version: 1.221.0

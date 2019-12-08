@@ -1,0 +1,9 @@
+State: ""
+category: net-ftp
+conflicts: []
+name: cmdftp
+requires: []
+set: false
+use_flags:
+- ""
+version: 0.9.8

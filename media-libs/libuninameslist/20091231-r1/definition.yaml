@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libuninameslist
+requires: null
+set: false
+use_flags:
+- ""
+version: 20091231-r1

@@ -1,0 +1,38 @@
+State: ""
+category: app-shells
+conflicts: []
+name: bash
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: "6.2"
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.2-r2
+set: false
+use_flags:
+- afs
+- mem-scramble
+- +net
+- nls
+- +readline
+- static
+version: 4.2_p53

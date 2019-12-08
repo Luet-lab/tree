@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: ant-apache-bsf
+requires: null
+set: false
+use_flags: null
+version: 1.10.7

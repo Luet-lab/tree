@@ -1,0 +1,8 @@
+State: ""
+category: net-ftp
+conflicts: null
+name: tftp-hpa
+requires: null
+set: false
+use_flags: null
+version: 5.2-r1

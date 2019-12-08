@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: configparser
+requires: null
+set: false
+use_flags: null
+version: 3.5.0-r1

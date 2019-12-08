@@ -1,0 +1,10 @@
+State: ""
+category: app-doc
+conflicts: []
+name: linuxfromscratch
+requires: []
+set: false
+use_flags:
+- htmlsingle
+- pdf
+version: "8.2"

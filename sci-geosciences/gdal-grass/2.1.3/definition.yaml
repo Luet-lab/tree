@@ -1,0 +1,25 @@
+State: ""
+category: sci-geosciences
+conflicts: []
+name: gdal-grass
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: gdal
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.0
+- State: ""
+  category: sci-geosciences
+  conflicts: null
+  name: grass
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- postgres
+version: 2.1.3

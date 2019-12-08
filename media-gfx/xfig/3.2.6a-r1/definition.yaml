@@ -1,0 +1,99 @@
+State: ""
+category: media-gfx
+conflicts: []
+name: xfig
+requires:
+- State: ""
+  category: app-text
+  conflicts: null
+  name: ghostscript-gpl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXaw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: transfig
+  requires: null
+  set: false
+  use_flags: null
+  version: 3.2.5-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXaw3d
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: font-misc-misc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: urw-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: netpbm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- jpeg
+- nls
+- postscript
+version: 3.2.6a-r1

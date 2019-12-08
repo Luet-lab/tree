@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Digest-MD2
+requires: null
+set: false
+use_flags: null
+version: 2.40.0

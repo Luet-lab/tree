@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: memory_profiler
+requires: null
+set: false
+use_flags: null
+version: 0.54.0

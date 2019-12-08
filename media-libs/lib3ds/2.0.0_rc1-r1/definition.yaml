@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: lib3ds
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 2.0.0_rc1-r1

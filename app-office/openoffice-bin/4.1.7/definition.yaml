@@ -1,0 +1,121 @@
+State: ""
+category: app-office
+conflicts:
+- State: ""
+  category: app-office
+  conflicts: null
+  name: openoffice
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: openoffice-bin
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: glibc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: zip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.0"
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: unzip
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.1.10-r2
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses-compat
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXaw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXinerama
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gnome
+- java
+- l10n_ast
+- l10n_eu
+- l10n_bg
+- l10n_ca
+- l10n_ca-valencia
+- l10n_zh-CN
+- l10n_zh-TW
+- l10n_cs
+- l10n_da
+- l10n_nl
+- l10n_en-GB
+- l10n_fi
+- l10n_fr
+- l10n_gd
+- l10n_gl
+- l10n_de
+- l10n_el
+- l10n_he
+- l10n_hi
+- l10n_hu
+- l10n_it
+- l10n_ja
+- l10n_km
+- l10n_ko
+- l10n_lt
+- l10n_nb
+- l10n_pl
+- l10n_pt-BR
+- l10n_pt
+- l10n_ru
+- l10n_sr
+- l10n_sk
+- l10n_sl
+- l10n_es
+- l10n_sv
+- l10n_ta
+- l10n_th
+- l10n_tr
+- l10n_vi
+version: 4.1.7

@@ -1,0 +1,8 @@
+State: ""
+category: dev-erlang
+conflicts: null
+name: fast_yaml
+requires: null
+set: false
+use_flags: null
+version: 1.0.20

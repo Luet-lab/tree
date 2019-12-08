@@ -1,0 +1,67 @@
+State: ""
+category: net-wireless
+conflicts: []
+name: spectools
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: ncurses
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- +ncurses
+- +gtk
+version: 2016.01.1

@@ -1,0 +1,25 @@
+State: ""
+category: app-laptop
+conflicts: []
+name: tpacpi-bat
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-power
+  conflicts: null
+  name: acpi_call
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 3.0-r1

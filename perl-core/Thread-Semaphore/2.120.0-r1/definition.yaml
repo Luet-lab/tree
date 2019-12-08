@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: Thread-Semaphore
+requires: null
+set: false
+use_flags: null
+version: 2.120.0-r1

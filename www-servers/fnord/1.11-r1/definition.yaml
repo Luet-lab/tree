@@ -1,0 +1,8 @@
+State: ""
+category: www-servers
+conflicts: null
+name: fnord
+requires: null
+set: false
+use_flags: null
+version: 1.11-r1

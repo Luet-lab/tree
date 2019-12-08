@@ -1,0 +1,9 @@
+State: ""
+category: kde-misc
+conflicts: []
+name: plasma-pass
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.0

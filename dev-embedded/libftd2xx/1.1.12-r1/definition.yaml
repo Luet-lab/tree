@@ -1,0 +1,8 @@
+State: ""
+category: dev-embedded
+conflicts: null
+name: libftd2xx
+requires: null
+set: false
+use_flags: null
+version: 1.1.12-r1

@@ -1,0 +1,9 @@
+State: ""
+category: app-admin
+conflicts: null
+name: exo
+requires: null
+set: false
+use_flags:
+- ""
+version: 1.6.0

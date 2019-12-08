@@ -1,0 +1,26 @@
+State: ""
+category: dev-python
+conflicts: []
+name: flask-cors
+requires:
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: flask
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: six
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- test
+version: 1.9.0

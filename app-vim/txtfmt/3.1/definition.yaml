@@ -1,0 +1,8 @@
+State: ""
+category: app-vim
+conflicts: null
+name: txtfmt
+requires: null
+set: false
+use_flags: null
+version: "3.1"

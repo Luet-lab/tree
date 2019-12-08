@@ -1,0 +1,8 @@
+State: ""
+category: dev-vcs
+conflicts: null
+name: cvs2cl
+requires: null
+set: false
+use_flags: null
+version: 2.71-r1

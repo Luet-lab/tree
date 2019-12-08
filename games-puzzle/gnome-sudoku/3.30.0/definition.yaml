@@ -1,0 +1,8 @@
+State: ""
+category: games-puzzle
+conflicts: null
+name: gnome-sudoku
+requires: null
+set: false
+use_flags: null
+version: 3.30.0

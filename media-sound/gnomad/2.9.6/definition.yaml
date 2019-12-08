@@ -1,0 +1,57 @@
+State: ""
+category: media-sound
+conflicts: []
+name: gnomad
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgudev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libid3tag
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libmtp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libnjb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: taglib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.24"
+set: false
+use_flags:
+- nls
+version: 2.9.6

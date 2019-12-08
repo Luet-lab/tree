@@ -1,0 +1,25 @@
+State: ""
+category: dev-util
+conflicts: []
+name: android-ndk
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: android-sdk-update-manager
+  requires: null
+  set: false
+  use_flags: null
+  version: "10"
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: make
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.81"
+set: false
+use_flags:
+- legacy-toolchains
+version: 9b

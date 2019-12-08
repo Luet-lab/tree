@@ -1,0 +1,8 @@
+State: ""
+category: dev-java
+conflicts: null
+name: gson
+requires: null
+set: false
+use_flags: null
+version: 2.3.1

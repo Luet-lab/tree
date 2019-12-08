@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: lsd
+requires: null
+set: false
+use_flags: null
+version: 0.14.0

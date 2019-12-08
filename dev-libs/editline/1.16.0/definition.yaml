@@ -1,0 +1,9 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: editline
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.16.0

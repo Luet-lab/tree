@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: libmems
+requires: null
+set: false
+use_flags: null
+version: 1.6_p1-r3

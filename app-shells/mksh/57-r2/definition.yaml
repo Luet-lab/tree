@@ -1,0 +1,11 @@
+State: ""
+category: app-shells
+conflicts: null
+name: mksh
+requires: null
+set: false
+use_flags:
+- lksh
+- static
+- test
+version: 57-r2

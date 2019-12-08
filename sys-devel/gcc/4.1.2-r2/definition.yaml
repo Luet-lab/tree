@@ -1,0 +1,8 @@
+State: ""
+category: sys-devel
+conflicts: null
+name: gcc
+requires: null
+set: false
+use_flags: null
+version: 4.1.2-r2

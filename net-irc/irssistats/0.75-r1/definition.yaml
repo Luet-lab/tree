@@ -1,0 +1,8 @@
+State: ""
+category: net-irc
+conflicts: null
+name: irssistats
+requires: null
+set: false
+use_flags: null
+version: 0.75-r1

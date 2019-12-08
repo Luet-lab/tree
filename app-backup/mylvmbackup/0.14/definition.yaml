@@ -1,0 +1,49 @@
+State: ""
+category: app-backup
+conflicts: []
+name: mylvmbackup
+requires:
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: lvm2
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.02.06
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Config-IniFiles
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DBD-mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: TimeDate
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "0.14"

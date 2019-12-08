@@ -1,0 +1,144 @@
+State: ""
+category: mail-filter
+conflicts: []
+name: rspamd
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: file
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: hyperscan
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-mathematics
+  conflicts: null
+  name: fann
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: luajit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: icu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: gd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libevent
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: jemalloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre2[jit=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libnsl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: ragel
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libressl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libpcre[jit=]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- cpu_flags_x86_ssse3
+- fann
+- gd
+- jemalloc
+- +jit
+- libressl
+- pcre2
+- +torch
+version: 1.8.3

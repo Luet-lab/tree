@@ -1,0 +1,8 @@
+State: ""
+category: x11-terms
+conflicts: null
+name: kterm
+requires: null
+set: false
+use_flags: null
+version: 6.2.0-r6

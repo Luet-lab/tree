@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: pcsc-slb-rf72-drv
+requires: null
+set: false
+use_flags: null
+version: 1.1.0-r2

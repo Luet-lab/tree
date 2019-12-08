@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: null
+name: msgpack
+requires: null
+set: false
+use_flags:
+- +cxx
+- static-libs
+- test
+version: 1.1.0

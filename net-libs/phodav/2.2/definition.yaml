@@ -1,0 +1,8 @@
+State: ""
+category: net-libs
+conflicts: null
+name: phodav
+requires: null
+set: false
+use_flags: null
+version: "2.2"

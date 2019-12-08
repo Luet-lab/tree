@@ -1,0 +1,9 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: lndir
+requires: []
+set: false
+use_flags:
+- ""
+version: 1.0.3-r2

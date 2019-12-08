@@ -1,0 +1,90 @@
+State: ""
+category: sys-kernel
+conflicts: []
+name: genkernel
+requires:
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: libtool
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: pkgconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: pax-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.2.2
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: autoconf-archive
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sandbox
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: autoconf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: automake
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-kernel
+  conflicts: null
+  name: linux-firmware
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: cpio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-portage
+  conflicts: null
+  name: elt-patches
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ibm
+- +firmware
+version: 4.0.0-r1

@@ -1,0 +1,9 @@
+State: ""
+category: app-benchmarks
+conflicts: null
+name: bonnie++
+requires: null
+set: false
+use_flags:
+- debug
+version: 1.97.3

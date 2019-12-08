@@ -1,0 +1,77 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: libqalculate
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: icu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-visualization
+  conflicts: null
+  name: gnuplot
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.7"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: mpfr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- curl
+- icu
+- gnuplot
+- readline
+- static-libs
+version: 3.2.0-r1

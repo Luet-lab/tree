@@ -1,0 +1,8 @@
+State: ""
+category: sys-fs
+conflicts: null
+name: progsreiserfs
+requires: null
+set: false
+use_flags: null
+version: 0.3.1_rc8

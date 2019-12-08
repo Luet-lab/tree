@@ -1,0 +1,18 @@
+State: ""
+category: net-libs
+conflicts: []
+name: libsrsirc
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+- ssl
+version: 0.0.14-r1

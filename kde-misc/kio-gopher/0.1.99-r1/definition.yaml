@@ -1,0 +1,8 @@
+State: ""
+category: kde-misc
+conflicts: null
+name: kio-gopher
+requires: null
+set: false
+use_flags: null
+version: 0.1.99-r1

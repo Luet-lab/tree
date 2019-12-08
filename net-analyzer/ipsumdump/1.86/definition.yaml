@@ -1,0 +1,18 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: ipsumdump
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +ipv6
+- +nanotimestamp
+version: "1.86"

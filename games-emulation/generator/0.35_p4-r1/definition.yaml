@@ -1,0 +1,8 @@
+State: ""
+category: games-emulation
+conflicts: null
+name: generator
+requires: null
+set: false
+use_flags: null
+version: 0.35_p4-r1

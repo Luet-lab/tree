@@ -1,0 +1,25 @@
+State: ""
+category: www-servers
+conflicts:
+- State: ""
+  category: <=www-servers
+  conflicts: null
+  name: lighttpd
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4.20
+- State: ""
+  category: <=www-servers
+  conflicts: null
+  name: cherokee
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.98.1
+name: spawn-fcgi
+requires: []
+set: false
+use_flags:
+- ipv6
+version: 1.6.4-r1

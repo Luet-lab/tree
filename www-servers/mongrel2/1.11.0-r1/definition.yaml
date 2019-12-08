@@ -1,0 +1,33 @@
+State: ""
+category: www-servers
+conflicts: []
+name: mongrel2
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: mbedtls
+  requires: null
+  set: false
+  use_flags: null
+  version: "2.1"
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: zeromq
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.11.0-r1

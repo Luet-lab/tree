@@ -1,0 +1,8 @@
+State: ""
+category: games-util
+conflicts: null
+name: loki_patch
+requires: null
+set: false
+use_flags: null
+version: "20091105"

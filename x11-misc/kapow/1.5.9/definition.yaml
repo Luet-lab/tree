@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: kapow
+requires: null
+set: false
+use_flags: null
+version: 1.5.9

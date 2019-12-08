@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: freezegun
+requires: null
+set: false
+use_flags: null
+version: 0.3.12-r1

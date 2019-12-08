@@ -1,0 +1,10 @@
+State: ""
+category: ""
+conflicts: null
+name: skel
+requires: null
+set: false
+use_flags:
+- gnome
+- X
+version: ""

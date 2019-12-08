@@ -1,0 +1,8 @@
+State: ""
+category: dev-util
+conflicts: null
+name: obs-service-set_version
+requires: null
+set: false
+use_flags: null
+version: "0.3"

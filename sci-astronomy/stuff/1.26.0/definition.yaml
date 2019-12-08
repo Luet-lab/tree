@@ -1,0 +1,9 @@
+State: ""
+category: sci-astronomy
+conflicts: []
+name: stuff
+requires: []
+set: false
+use_flags:
+- threads
+version: 1.26.0

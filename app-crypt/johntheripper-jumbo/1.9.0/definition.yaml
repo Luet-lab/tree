@@ -1,0 +1,86 @@
+State: ""
+category: app-crypt
+conflicts:
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: johntheripper
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: johntheripper-jumbo
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libpcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gmp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.0.1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mpi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: krb5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- custom-cflags
+- kerberos
+- mpi
+- opencl
+- openmp
+- pcap
+version: 1.9.0

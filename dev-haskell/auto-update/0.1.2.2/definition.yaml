@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: auto-update
+requires: null
+set: false
+use_flags: null
+version: 0.1.2.2

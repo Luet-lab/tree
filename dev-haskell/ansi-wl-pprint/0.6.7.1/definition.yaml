@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: ansi-wl-pprint
+requires: null
+set: false
+use_flags: null
+version: 0.6.7.1

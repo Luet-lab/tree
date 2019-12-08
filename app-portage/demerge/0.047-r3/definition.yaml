@@ -1,0 +1,57 @@
+State: ""
+category: app-portage
+conflicts: []
+name: demerge
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: PortageXS
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.02.10-r3
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Term-ANSIColor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: TermReadKey
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Shell-EnvImporter
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: portage
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 0.047-r3

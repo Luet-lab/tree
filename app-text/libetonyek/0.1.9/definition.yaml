@@ -1,0 +1,51 @@
+State: ""
+category: app-text
+conflicts: []
+name: libetonyek
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: liblangtag
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: librevenge
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: mdds-1.4*
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- static-libs
+- test
+version: 0.1.9

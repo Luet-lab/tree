@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Class-Data-Inheritable
+requires: null
+set: false
+use_flags: null
+version: 0.80.0-r2

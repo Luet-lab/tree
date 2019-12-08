@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Data-Serializer
+requires: null
+set: false
+use_flags: null
+version: 0.600.0-r1

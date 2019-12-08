@@ -1,0 +1,108 @@
+State: ""
+category: net-misc
+conflicts:
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: ntp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: openntpd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: ntpsec
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-python
+  conflicts: null
+  name: psutil
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbsd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-visualization
+  conflicts: null
+  name: gnuplot
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: liberation-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libseccomp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- oncore
+- trimble
+- truetime
+- gpsd
+- jjy
+- generic
+- spectracom
+- shm
+- pps
+- hpgps
+- zyfer
+- arbiter
+- nmea
+- neoclock
+- modem
+- local
+- debug
+- doc
+- early
+- gdb
+- heat
+- libbsd
+- nist
+- ntpviz
+- samba
+- seccomp
+- smear
+- tests
+version: 1.1.4

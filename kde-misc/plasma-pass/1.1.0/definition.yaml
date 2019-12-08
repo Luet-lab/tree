@@ -1,0 +1,81 @@
+State: ""
+category: kde-misc
+conflicts: []
+name: plasma-pass
+requires:
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgraphicaleffects
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: kde-frameworks
+  conflicts: null
+  name: kcoreaddons
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.64.0
+- State: ""
+  category: kde-frameworks
+  conflicts: null
+  name: kitemmodels
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.64.0
+- State: ""
+  category: kde-frameworks
+  conflicts: null
+  name: kirigami
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.64.0
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdeclarative
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+- State: ""
+  category: kde-frameworks
+  conflicts: null
+  name: ki18n
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.64.0
+- State: ""
+  category: kde-frameworks
+  conflicts: null
+  name: plasma
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.64.0
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtdbus
+  requires: null
+  set: false
+  use_flags: null
+  version: 5.12.3
+set: false
+use_flags:
+- ""
+version: 1.1.0

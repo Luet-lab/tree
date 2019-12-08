@@ -1,0 +1,150 @@
+State: ""
+category: kde-apps
+conflicts: []
+name: kdesdk-meta
+requires:
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kapptemplate
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: cervisia
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dolphin-plugins-git
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kde-dev-scripts
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kde-dev-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dolphin-plugins-mercurial
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kompare
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: libkomparediff2
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: lokalize
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: poxml
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: umbrello
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kcachegrind
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdesdk-kioslaves
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kdesdk-thumbnailers
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: kross-interpreters
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dolphin-plugins-bazaar
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+- State: ""
+  category: kde-apps
+  conflicts: null
+  name: dolphin-plugins-subversion
+  requires: null
+  set: false
+  use_flags: null
+  version: 19.08.3
+set: false
+use_flags:
+- bazaar
+- cvs
+- git
+- mercurial
+- subversion
+- +webkit
+version: 19.08.3

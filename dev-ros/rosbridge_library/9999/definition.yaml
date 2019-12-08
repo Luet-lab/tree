@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: rosbridge_library
+requires: null
+set: false
+use_flags: null
+version: "9999"

@@ -1,0 +1,78 @@
+State: ""
+category: x11-terms
+conflicts: []
+name: eterm
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libast
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: imlib2[X]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: font-misc-misc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: screen
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libICE
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libSM
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- escreen
+- minimal
+- cpu_flags_x86_mmx
+- cpu_flags_x86_sse2
+- unicode
+- +utempter
+version: 0.9.6-r2

@@ -1,0 +1,130 @@
+State: ""
+category: sci-chemistry
+conflicts: []
+name: gromacs-2020_beta1
+requires:
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: lmfit
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libX11
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libICE
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: blas
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: nvidia-cuda-toolkit
+  requires: null
+  set: false
+  use_flags: null
+  version: 6.5.14
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: fftw
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: hwloc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libSM
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: opencl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: lapack
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sci-libs
+  conflicts: null
+  name: mkl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: mpi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- X
+- blas
+- cuda
+- +doc
+- -double-precision
+- +fftw
+- +gmxapi
+- +gmxapi-legacy
+- +hwloc
+- lapack
+- +lmfit
+- mkl
+- mpi
+- +offensive
+- opencl
+- openmp
+- +python
+- +single-precision
+- test
+- +threads
+- +tng
+- cpu_flags_x86_sse2
+- cpu_flags_x86_sse4_1
+- cpu_flags_x86_fma4
+- cpu_flags_x86_avx
+- cpu_flags_x86_avx2
+version: ""

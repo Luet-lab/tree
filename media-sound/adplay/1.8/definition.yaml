@@ -1,0 +1,52 @@
+State: ""
+category: media-sound
+conflicts: []
+name: adplay
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: alsa-lib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libao
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: adplug
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.2.1
+- State: ""
+  category: dev-cpp
+  conflicts: null
+  name: libbinio
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- alsa
+- ao
+- oss
+- sdl
+version: "1.8"

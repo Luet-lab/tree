@@ -1,0 +1,9 @@
+State: ""
+category: app-crypt
+conflicts: null
+name: mhash
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 0.9.9.9-r2

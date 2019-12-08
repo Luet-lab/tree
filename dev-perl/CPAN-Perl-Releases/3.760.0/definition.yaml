@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: CPAN-Perl-Releases
+requires: null
+set: false
+use_flags: null
+version: 3.760.0

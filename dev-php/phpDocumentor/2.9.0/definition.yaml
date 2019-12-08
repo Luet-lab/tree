@@ -1,0 +1,33 @@
+State: ""
+category: dev-php
+conflicts:
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-PhpDocumentor
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: phpDocumentor
+requires:
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: graphviz
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.9.0

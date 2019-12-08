@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libsidplay
+requires: null
+set: false
+use_flags: null
+version: 1.36.59-r2

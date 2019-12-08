@@ -1,0 +1,8 @@
+State: ""
+category: sys-cluster
+conflicts: null
+name: charmdebug
+requires: null
+set: false
+use_flags: null
+version: 6.2.0-r1

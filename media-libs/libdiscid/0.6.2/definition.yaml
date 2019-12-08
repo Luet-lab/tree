@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libdiscid
+requires: null
+set: false
+use_flags:
+- static-libs
+version: 0.6.2

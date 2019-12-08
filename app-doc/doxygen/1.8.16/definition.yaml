@@ -1,0 +1,153 @@
+State: ""
+category: app-doc
+conflicts: []
+name: doxygen
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: xapian
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-fontsextra
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: ghostscript-gpl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-latex
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtxml
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-gfx
+  conflicts: null
+  name: graphviz
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-fontutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtgui
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-latexextra
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-qt
+  conflicts: null
+  name: qtwidgets
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-devel
+  conflicts: null
+  name: clang
+  requires: null
+  set: false
+  use_flags: null
+  version: 4.0.0
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-texlive
+  conflicts: null
+  name: texlive-bibtexextra
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- clang
+- debug
+- doc
+- dot
+- doxysearch
+- latex
+- qt5
+- sqlite
+- userland_GNU
+version: 1.8.16

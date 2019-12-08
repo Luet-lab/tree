@@ -1,0 +1,8 @@
+State: ""
+category: dev-db
+conflicts: null
+name: bucardo
+requires: null
+set: false
+use_flags: null
+version: 5.4.1

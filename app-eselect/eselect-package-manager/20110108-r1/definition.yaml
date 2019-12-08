@@ -1,0 +1,16 @@
+State: ""
+category: app-eselect
+conflicts: []
+name: eselect-package-manager
+requires:
+- State: ""
+  category: app-admin
+  conflicts: null
+  name: eselect
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.1
+set: false
+use_flags: null
+version: 20110108-r1

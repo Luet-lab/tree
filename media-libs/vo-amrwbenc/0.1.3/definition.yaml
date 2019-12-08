@@ -1,0 +1,10 @@
+State: ""
+category: media-libs
+conflicts: null
+name: vo-amrwbenc
+requires: null
+set: false
+use_flags:
+- examples
+- static-libs
+version: 0.1.3

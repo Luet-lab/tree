@@ -1,0 +1,9 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: isapnptools
+requires: null
+set: false
+use_flags:
+- ""
+version: "1.27"

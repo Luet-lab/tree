@@ -1,0 +1,33 @@
+State: ""
+category: dev-php
+conflicts: []
+name: PEAR-XML_RSS-1.1.0_alpha1
+requires:
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: php
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-PEAR
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-php
+  conflicts: null
+  name: PEAR-XML_Parser
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: ""

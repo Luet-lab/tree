@@ -1,0 +1,73 @@
+State: ""
+category: gnome-extra
+conflicts: []
+name: gnome-shell-frippery
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gobject-introspection
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: gnome-menus
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: gnome-shell
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.30"
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: gnome-shell
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.31"
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: clutter
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-eselect
+  conflicts: null
+  name: eselect-gnome-shell-extensions
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: gjs
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.29"
+set: false
+use_flags:
+- ""
+version: 3.30.2

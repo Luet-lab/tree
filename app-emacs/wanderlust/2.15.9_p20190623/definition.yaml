@@ -1,0 +1,8 @@
+State: ""
+category: app-emacs
+conflicts: null
+name: wanderlust
+requires: null
+set: false
+use_flags: null
+version: 2.15.9_p20190623

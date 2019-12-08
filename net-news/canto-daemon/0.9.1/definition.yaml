@@ -1,0 +1,8 @@
+State: ""
+category: net-news
+conflicts: null
+name: canto-daemon
+requires: null
+set: false
+use_flags: null
+version: 0.9.1

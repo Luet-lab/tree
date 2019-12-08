@@ -1,0 +1,40 @@
+State: ""
+category: app-admin
+conflicts: []
+name: pprocm
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Sys-Statistics-Linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: IO-Pipely
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: POE
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 1.0-r2

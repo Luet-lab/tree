@@ -1,0 +1,8 @@
+State: ""
+category: gnustep-base
+conflicts: null
+name: gnustep-back-art
+requires: null
+set: false
+use_flags: null
+version: 0.26.2

@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libdvdcss
+requires: null
+set: false
+use_flags: null
+version: 1.4.2

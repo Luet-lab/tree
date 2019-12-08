@@ -1,0 +1,25 @@
+State: ""
+category: net-misc
+conflicts: []
+name: tiers
+requires:
+- State: ""
+  category: sci-visualization
+  conflicts: null
+  name: gnuplot
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: awk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "1.1"

@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: a52dec
+requires: null
+set: false
+use_flags: null
+version: 0.7.4-r7

@@ -1,0 +1,151 @@
+State: ""
+category: net-print
+conflicts:
+- State: ""
+  category: net-print
+  conflicts: null
+  name: lprng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: cups
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: acl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: xinetd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: lp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-cups
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: gnutls
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.12.23-r6
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: systemd
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: attr
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: krb5
+  requires: null
+  set: false
+  use_flags: null
+  version: 0-r1
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dns
+  conflicts: null
+  name: avahi
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.6.31-r2
+- State: ""
+  category: app-text
+  conflicts: null
+  name: libpaper
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: dbus
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.18-r1
+- State: ""
+  category: x11-misc
+  conflicts: null
+  name: xdg-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- acl
+- dbus
+- debug
+- kerberos
+- lprng-compat
+- pam
+- selinux
+- +ssl
+- static-libs
+- systemd
+- +threads
+- usb
+- X
+- xinetd
+- zeroconf
+version: 2.3.0

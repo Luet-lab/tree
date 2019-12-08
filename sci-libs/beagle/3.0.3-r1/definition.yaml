@@ -1,0 +1,35 @@
+State: ""
+category: sci-libs
+conflicts:
+- State: ""
+  category: app-misc
+  conflicts: null
+  name: beagle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libbeagle
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: beagle
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- examples
+- static-libs
+version: 3.0.3-r1

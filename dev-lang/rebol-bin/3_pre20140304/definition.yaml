@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: rebol-bin
+requires: null
+set: false
+use_flags:
+- ""
+version: 3_pre20140304

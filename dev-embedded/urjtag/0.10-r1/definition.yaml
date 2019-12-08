@@ -1,0 +1,43 @@
+State: ""
+category: dev-embedded
+conflicts:
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: jtag
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: urjtag
+requires:
+- State: ""
+  category: dev-embedded
+  conflicts: null
+  name: libftdi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: readline
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ftdi
+- readline
+- usb
+version: 0.10-r1

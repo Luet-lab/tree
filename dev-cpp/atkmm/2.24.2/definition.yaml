@@ -1,0 +1,8 @@
+State: ""
+category: dev-cpp
+conflicts: null
+name: atkmm
+requires: null
+set: false
+use_flags: null
+version: 2.24.2

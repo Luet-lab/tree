@@ -1,0 +1,11 @@
+State: ""
+category: sys-firmware
+conflicts: []
+name: seabios
+requires: []
+set: false
+use_flags:
+- +binary
+- debug
+- +seavgabios
+version: 1.11.0

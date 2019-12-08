@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: gentoo-artwork-livecd
+requires: null
+set: false
+use_flags:
+- ""
+version: "2007.0"

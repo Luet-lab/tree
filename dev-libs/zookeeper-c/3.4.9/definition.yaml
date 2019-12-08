@@ -1,0 +1,11 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: zookeeper-c
+requires: []
+set: false
+use_flags:
+- doc
+- static-libs
+- test
+version: 3.4.9

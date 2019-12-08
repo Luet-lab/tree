@@ -1,0 +1,33 @@
+State: ""
+category: app-misc
+conflicts: []
+name: dailystrips
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: libwww-perl
+  requires: null
+  set: false
+  use_flags: null
+  version: "5.50"
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DateTime
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: TimeDate
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.0.28-r3

@@ -1,0 +1,68 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: xwallpaper
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libjpeg-turbo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libseccomp
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.3.1
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXpm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pixman
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util-image
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- jpeg
+- png
+- seccomp
+- xpm
+version: 0.6.2-r1

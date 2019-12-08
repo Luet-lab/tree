@@ -1,0 +1,49 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: vkd3d
+requires:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: spirv-tools
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: vulkan-loader[,X]
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util-keysyms
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: xcb-util-wm
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- spirv-tools
+version: "1.0"

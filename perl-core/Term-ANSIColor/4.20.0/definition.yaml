@@ -1,0 +1,8 @@
+State: ""
+category: perl-core
+conflicts: null
+name: Term-ANSIColor
+requires: null
+set: false
+use_flags: null
+version: 4.20.0

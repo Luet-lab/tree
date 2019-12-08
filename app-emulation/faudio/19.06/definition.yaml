@@ -1,0 +1,31 @@
+State: ""
+category: app-emulation
+conflicts: []
+name: faudio
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libsdl2
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.9
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +abi_x86_32
+- +abi_x86_64
+- debug
+- ffmpeg
+- xnasong
+- test
+- utils
+version: "19.06"

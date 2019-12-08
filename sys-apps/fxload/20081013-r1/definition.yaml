@@ -1,0 +1,8 @@
+State: ""
+category: sys-apps
+conflicts: null
+name: fxload
+requires: null
+set: false
+use_flags: null
+version: 20081013-r1

@@ -1,0 +1,9 @@
+State: ""
+category: app-doc
+conflicts: null
+name: jargon
+requires: null
+set: false
+use_flags:
+- ""
+version: 4.4.7-r1

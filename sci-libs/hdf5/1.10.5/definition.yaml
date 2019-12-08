@@ -1,0 +1,8 @@
+State: ""
+category: sci-libs
+conflicts: null
+name: hdf5
+requires: null
+set: false
+use_flags: null
+version: 1.10.5

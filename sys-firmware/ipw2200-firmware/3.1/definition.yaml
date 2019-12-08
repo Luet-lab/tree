@@ -1,0 +1,9 @@
+State: ""
+category: sys-firmware
+conflicts: null
+name: ipw2200-firmware
+requires: null
+set: false
+use_flags:
+- ""
+version: "3.1"

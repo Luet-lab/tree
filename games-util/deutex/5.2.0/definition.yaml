@@ -1,0 +1,18 @@
+State: ""
+category: games-util
+conflicts: []
+name: deutex
+requires:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: libpng
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- man
+- png
+version: 5.2.0

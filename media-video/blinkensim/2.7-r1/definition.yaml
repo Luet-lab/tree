@@ -1,0 +1,42 @@
+State: ""
+category: media-video
+conflicts: []
+name: blinkensim
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.4.4
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: blib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.1.4
+- State: ""
+  category: media-video
+  conflicts: null
+  name: blinkenthemes
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: aalib
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.4_rc4-r2
+set: false
+use_flags:
+- aalib
+- gtk
+version: 2.7-r1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: backports-shutil_get_terminal_size
+requires: null
+set: false
+use_flags: null
+version: 1.0.0-r1

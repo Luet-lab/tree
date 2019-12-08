@@ -1,0 +1,10 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: kfaenza
+requires: null
+set: false
+use_flags:
+- +additional
+- branding
+version: 0.8.9-r2

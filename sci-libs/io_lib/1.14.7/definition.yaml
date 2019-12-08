@@ -1,0 +1,41 @@
+State: ""
+category: sci-libs
+conflicts: []
+name: io_lib
+requires:
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: xz-utils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-misc
+  conflicts: null
+  name: curl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-arch
+  conflicts: null
+  name: bzip2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- static-libs
+version: 1.14.7

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: Mail-SRS
+requires: null
+set: false
+use_flags: null
+version: 0.310.0-r2

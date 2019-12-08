@@ -1,0 +1,30 @@
+State: ""
+category: media-libs
+conflicts:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: ffmpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: libpostproc
+requires:
+- State: ""
+  category: media-video
+  conflicts: null
+  name: libav
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.2-r2
+set: false
+use_flags:
+- pic
+- static-libs
+- cpu_flags_x86_3dnow
+- altivec
+- cpu_flags_x86_mmx
+- cpu_flags_x86_mmxext
+version: 10.20140517-r1

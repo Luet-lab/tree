@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: hexinject
+requires: null
+set: false
+use_flags: null
+version: 1.6-r1

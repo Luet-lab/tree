@@ -1,0 +1,9 @@
+State: ""
+category: app-arch
+conflicts: null
+name: stuffit
+requires: null
+set: false
+use_flags:
+- ""
+version: 5.2.0.611

@@ -1,0 +1,23 @@
+State: ""
+category: media-libs
+conflicts: []
+name: x265
+requires:
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: numactl
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.0.10-r1
+set: false
+use_flags:
+- +10bit
+- +12bit
+- cpu_flags_arm_neon
+- numa
+- pic
+- power8
+- test
+version: "3.2"

@@ -1,0 +1,16 @@
+State: ""
+category: dev-libs
+conflicts: []
+name: rocr-runtime
+requires:
+- State: ""
+  category: sys-process
+  conflicts: null
+  name: numactl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: 2.6.0-r1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-php
+conflicts: null
+name: PEAR-Net_SmartIRC
+requires: null
+set: false
+use_flags: null
+version: 1.1.12

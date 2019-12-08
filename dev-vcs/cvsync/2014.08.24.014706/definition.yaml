@@ -1,0 +1,43 @@
+State: ""
+category: dev-vcs
+conflicts: []
+name: cvsync
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: mhash
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: openssl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- gcrypt
+- mhash
+- +openssl
+version: 2014.08.24.014706

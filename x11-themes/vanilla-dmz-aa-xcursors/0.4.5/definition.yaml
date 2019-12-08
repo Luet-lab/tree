@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: vanilla-dmz-aa-xcursors
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.4.5

@@ -1,0 +1,8 @@
+State: ""
+category: sys-power
+conflicts: null
+name: iasl
+requires: null
+set: false
+use_flags: null
+version: "20190703"

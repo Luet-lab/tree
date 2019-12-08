@@ -1,0 +1,8 @@
+State: ""
+category: media-libs
+conflicts: null
+name: libebur128
+requires: null
+set: false
+use_flags: null
+version: 1.2.3

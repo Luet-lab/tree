@@ -1,0 +1,25 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: dxpc
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libXt
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: lzo
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+set: false
+use_flags:
+- ""
+version: 3.9.2-r2

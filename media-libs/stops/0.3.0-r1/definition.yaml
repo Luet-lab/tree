@@ -1,0 +1,9 @@
+State: ""
+category: media-libs
+conflicts: null
+name: stops
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.3.0-r1

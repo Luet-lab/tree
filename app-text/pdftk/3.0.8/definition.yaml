@@ -1,0 +1,32 @@
+State: ""
+category: app-text
+conflicts: []
+name: pdftk
+requires:
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: bcprov
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-java
+  conflicts: null
+  name: commons-lang
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jre
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.7"
+set: false
+use_flags: null
+version: 3.0.8

@@ -1,0 +1,106 @@
+State: ""
+category: app-text
+conflicts: []
+name: xournal
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: glib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: freetype
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fontconfig
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gtk+
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: pango
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: atk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: gnome-base
+  conflicts: null
+  name: libgnomecanvas
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: zlib
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: gdk-pixbuf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: ghostscript-gpl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-text
+  conflicts: null
+  name: poppler
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +pdf
+- vanilla
+version: 0.4.8-r1

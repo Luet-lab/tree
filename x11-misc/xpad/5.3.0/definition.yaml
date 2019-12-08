@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: xpad
+requires: null
+set: false
+use_flags: null
+version: 5.3.0

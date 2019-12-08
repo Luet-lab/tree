@@ -1,0 +1,18 @@
+State: ""
+category: media-libs
+conflicts:
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: raspberrypi-userland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: raspberrypi-userland-bin
+requires: []
+set: false
+use_flags:
+- +hardfp
+- examples
+version: "1.20190709"

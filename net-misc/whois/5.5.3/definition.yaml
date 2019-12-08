@@ -1,0 +1,35 @@
+State: ""
+category: net-misc
+conflicts: []
+name: whois
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libintl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libiconv
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dns
+  conflicts: null
+  name: libidn2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- iconv
+- idn
+- nls
+version: 5.5.3

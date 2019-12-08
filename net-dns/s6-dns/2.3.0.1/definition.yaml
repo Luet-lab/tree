@@ -1,0 +1,18 @@
+State: ""
+category: net-dns
+conflicts: []
+name: s6-dns
+requires:
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: skalibs
+  requires: null
+  set: false
+  use_flags: null
+  version: 2.7.0.0
+set: false
+use_flags:
+- static
+- static-libs
+version: 2.3.0.1

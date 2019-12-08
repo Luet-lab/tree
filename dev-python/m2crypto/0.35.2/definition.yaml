@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: m2crypto
+requires: null
+set: false
+use_flags: null
+version: 0.35.2

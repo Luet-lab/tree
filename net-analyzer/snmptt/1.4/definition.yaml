@@ -1,0 +1,50 @@
+State: ""
+category: net-analyzer
+conflicts: []
+name: snmptt
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DBD-Pg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Config-IniFiles
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-analyzer
+  conflicts: null
+  name: net-snmp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: DBD-mysql
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- mysql
+- postgres
+version: "1.4"

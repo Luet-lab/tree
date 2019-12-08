@@ -1,0 +1,8 @@
+State: ""
+category: app-editors
+conflicts: null
+name: uemacs-pk
+requires: null
+set: false
+use_flags: null
+version: 4.0.15_p20180117

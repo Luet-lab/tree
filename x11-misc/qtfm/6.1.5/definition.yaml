@@ -1,0 +1,8 @@
+State: ""
+category: x11-misc
+conflicts: null
+name: qtfm
+requires: null
+set: false
+use_flags: null
+version: 6.1.5

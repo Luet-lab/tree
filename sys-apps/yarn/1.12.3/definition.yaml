@@ -1,0 +1,25 @@
+State: ""
+category: sys-apps
+conflicts:
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: cmdtest
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: yarn
+requires:
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: nodejs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 1.12.3

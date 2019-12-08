@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: costmap_2d
+requires: null
+set: false
+use_flags: null
+version: 1.16.2

@@ -1,0 +1,8 @@
+State: ""
+category: dev-perl
+conflicts: null
+name: JSON-Parse
+requires: null
+set: false
+use_flags: null
+version: 0.550.0

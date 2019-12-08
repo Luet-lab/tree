@@ -1,0 +1,40 @@
+State: ""
+category: x11-misc
+conflicts: []
+name: obmenu-generator
+requires:
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Data-Dump
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Linux-DesktopFiles
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.90.0
+- State: ""
+  category: x11-wm
+  conflicts: null
+  name: openbox
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "0.85"

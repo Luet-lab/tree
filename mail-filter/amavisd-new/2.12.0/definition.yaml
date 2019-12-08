@@ -1,0 +1,8 @@
+State: ""
+category: mail-filter
+conflicts: null
+name: amavisd-new
+requires: null
+set: false
+use_flags: null
+version: 2.12.0

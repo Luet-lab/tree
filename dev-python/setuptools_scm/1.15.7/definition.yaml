@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: setuptools_scm
+requires: null
+set: false
+use_flags: null
+version: 1.15.7

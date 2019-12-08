@@ -1,0 +1,9 @@
+State: ""
+category: net-proxy
+conflicts: null
+name: 3proxy
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.8.9

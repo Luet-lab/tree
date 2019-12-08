@@ -1,0 +1,33 @@
+State: ""
+category: dev-util
+conflicts:
+- State: ""
+  category: <dev-util
+  conflicts: null
+  name: rpmdevtools
+  requires: null
+  set: false
+  use_flags: null
+  version: 8.3-r1
+name: checkbashisms
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-Getopt-Long
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: 2.19.6

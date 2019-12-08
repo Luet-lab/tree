@@ -1,0 +1,8 @@
+State: ""
+category: media-tv
+conflicts: null
+name: mythtv
+requires: null
+set: false
+use_flags: null
+version: 30.0_p20190808-r1

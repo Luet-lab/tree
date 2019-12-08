@@ -1,0 +1,42 @@
+State: ""
+category: gui-apps
+conflicts: []
+name: grim
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: cairo
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland-protocols
+  requires: null
+  set: false
+  use_flags: null
+  version: "1.14"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: wayland
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: jpeg
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- +man
+- jpeg
+version: "9999"

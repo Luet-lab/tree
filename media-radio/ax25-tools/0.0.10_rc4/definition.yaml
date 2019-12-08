@@ -1,0 +1,8 @@
+State: ""
+category: media-radio
+conflicts: null
+name: ax25-tools
+requires: null
+set: false
+use_flags: null
+version: 0.0.10_rc4

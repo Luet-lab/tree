@@ -1,0 +1,65 @@
+State: ""
+category: app-misc
+conflicts: []
+name: livecd-tools
+requires:
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: gawk
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: sed
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-util
+  conflicts: null
+  name: dialog
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-dialup
+  conflicts: null
+  name: mingetty
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: baselayout
+  requires: null
+  set: false
+  use_flags: null
+  version: "2"
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.8.2-r1
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: pciutils
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- ""
+version: "2.6"

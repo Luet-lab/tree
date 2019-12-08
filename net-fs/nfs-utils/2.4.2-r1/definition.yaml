@@ -1,0 +1,173 @@
+State: ""
+category: net-fs
+conflicts:
+- State: ""
+  category: <sys-apps
+  conflicts: null
+  name: openrc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.13.9
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libnfsidmap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: portmap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: nfs-utils
+requires:
+- State: ""
+  category: dev-db
+  conflicts: null
+  name: sqlite
+  requires: null
+  set: false
+  use_flags: null
+  version: "3.3"
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libxml2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libtirpc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: rpcbind
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.4
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libcap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: util-linux
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: app-crypt
+  conflicts: null
+  name: mit-krb5
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libevent
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: keyutils
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.5.9
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-rpcbind
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: e2fsprogs-libs
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-nds
+  conflicts: null
+  name: openldap
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: net-libs
+  conflicts: null
+  name: libtirpc
+  requires: null
+  set: false
+  use_flags: null
+  version: 0.2.4-r1
+- State: ""
+  category: sys-apps
+  conflicts: null
+  name: tcp-wrappers
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-fs
+  conflicts: null
+  name: lvm2
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-rpc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- caps
+- ipv6
+- junction
+- kerberos
+- ldap
+- +libmount
+- nfsdcld
+- +nfsidmap
+- +nfsv4
+- nfsv41
+- selinux
+- tcpd
+- +uuid
+version: 2.4.2-r1

@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: monad-logger
+requires: null
+set: false
+use_flags: null
+version: 0.3.20.1

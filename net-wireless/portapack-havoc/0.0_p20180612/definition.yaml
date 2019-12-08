@@ -1,0 +1,9 @@
+State: ""
+category: net-wireless
+conflicts: null
+name: portapack-havoc
+requires: null
+set: false
+use_flags:
+- ""
+version: 0.0_p20180612

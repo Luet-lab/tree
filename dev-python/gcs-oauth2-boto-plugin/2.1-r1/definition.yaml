@@ -1,0 +1,8 @@
+State: ""
+category: dev-python
+conflicts: null
+name: gcs-oauth2-boto-plugin
+requires: null
+set: false
+use_flags: null
+version: 2.1-r1

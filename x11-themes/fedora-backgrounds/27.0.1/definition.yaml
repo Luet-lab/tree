@@ -1,0 +1,9 @@
+State: ""
+category: x11-themes
+conflicts: []
+name: fedora-backgrounds
+requires: []
+set: false
+use_flags:
+- ""
+version: 27.0.1

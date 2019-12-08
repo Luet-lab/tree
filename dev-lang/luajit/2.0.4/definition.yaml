@@ -1,0 +1,9 @@
+State: ""
+category: dev-lang
+conflicts: null
+name: luajit
+requires: null
+set: false
+use_flags:
+- lua52compat
+version: 2.0.4

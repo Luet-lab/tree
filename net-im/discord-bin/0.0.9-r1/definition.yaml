@@ -1,0 +1,8 @@
+State: ""
+category: net-im
+conflicts: null
+name: discord-bin
+requires: null
+set: false
+use_flags: null
+version: 0.0.9-r1

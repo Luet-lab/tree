@@ -1,0 +1,8 @@
+State: ""
+category: net-proxy
+conflicts: null
+name: trojan
+requires: null
+set: false
+use_flags: null
+version: 1.12.3

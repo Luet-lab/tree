@@ -1,0 +1,8 @@
+State: ""
+category: net-analyzer
+conflicts: null
+name: hping
+requires: null
+set: false
+use_flags: null
+version: 3_pre20051105-r6

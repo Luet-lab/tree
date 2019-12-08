@@ -1,0 +1,8 @@
+State: ""
+category: dev-ros
+conflicts: null
+name: collada_parser
+requires: null
+set: false
+use_flags: null
+version: "9999"

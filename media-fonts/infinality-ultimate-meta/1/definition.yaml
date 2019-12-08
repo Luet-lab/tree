@@ -1,0 +1,416 @@
+State: ""
+category: media-fonts
+conflicts: []
+name: infinality-ultimate-meta
+requires:
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-odia
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-gurmukhi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-telugu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: inconsolata
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-libs
+  conflicts: null
+  name: fontconfig-ultimate
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: wqy-microhei
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: font-bh-ttf
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: ubuntu-font-family
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-devanagari
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-assamese
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: tibetan-machine-font
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: vlgothic
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: liberation-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: droid
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: open-sans
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: wqy-zenhei
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: font-misc-meltho
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: koruri
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-nepali
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: tex-gyre
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: dzongkha-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: khmer
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-kannada
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: nanum
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: courier-prime
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: urw-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: ja-ipafonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: noto
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: ipaex
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-bengali
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-gujarati
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: mplus-fonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-malayalam
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-tamil
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: font-cursor-misc
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: source-pro
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: unfonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-marathi
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: corefonts
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: paratype
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: heuristica
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: signika
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lklug
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: lohit-tamil-classical
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: dejavu
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: symbola
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: media-fonts
+  conflicts: null
+  name: cantarell
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- minimal
+- +latin
+- +free
+- ms
+- l10n_as
+- l10n_bn
+- l10n_bo
+- l10n_brx
+- l10n_doi
+- l10n_dz
+- l10n_gu
+- l10n_hi
+- l10n_ja
+- l10n_km
+- l10n_kn
+- l10n_ko
+- l10n_kok
+- l10n_ks
+- l10n_mai
+- l10n_ml
+- l10n_mr
+- l10n_ne
+- l10n_or
+- l10n_pa
+- l10n_sa
+- l10n_sat
+- l10n_sd
+- l10n_si
+- l10n_syc
+- l10n_ta
+- l10n_te
+- l10n_zh
+version: "1"

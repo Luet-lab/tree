@@ -1,0 +1,8 @@
+State: ""
+category: dev-haskell
+conflicts: null
+name: getopt-generics
+requires: null
+set: false
+use_flags: null
+version: 0.13.0.1

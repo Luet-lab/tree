@@ -1,0 +1,36 @@
+State: ""
+category: media-libs
+conflicts: []
+name: libmtp
+requires:
+- State: ""
+  category: acct-group
+  conflicts: null
+  name: plugdev
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: libusb
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-libs
+  conflicts: null
+  name: libgcrypt
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.5.4
+set: false
+use_flags:
+- +crypt
+- doc
+- examples
+- static-libs
+version: 1.1.16

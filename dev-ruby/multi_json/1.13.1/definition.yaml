@@ -1,0 +1,8 @@
+State: ""
+category: dev-ruby
+conflicts: null
+name: multi_json
+requires: null
+set: false
+use_flags: null
+version: 1.13.1

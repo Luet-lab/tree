@@ -1,0 +1,83 @@
+State: ""
+category: dev-vcs
+conflicts:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: gitolite
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+name: gitolite-gentoo
+requires:
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-File-Temp
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: JSON
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-lang
+  conflicts: null
+  name: perl
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: virtual
+  conflicts: null
+  name: perl-File-Path
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: 1.6.6
+- State: ""
+  category: app-vim
+  conflicts: null
+  name: gitolite-syntax
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sec-policy
+  conflicts: null
+  name: selinux-gitosis
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: dev-perl
+  conflicts: null
+  name: Net-SSH-AuthorizedKeysFile
+  requires: null
+  set: false
+  use_flags: null
+  version: "0.17"
+set: false
+use_flags:
+- selinux
+- tools
+- vim-syntax
+version: 3.6.4

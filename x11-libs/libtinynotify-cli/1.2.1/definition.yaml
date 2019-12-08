@@ -1,0 +1,18 @@
+State: ""
+category: x11-libs
+conflicts: []
+name: libtinynotify-cli
+requires:
+- State: ""
+  category: x11-libs
+  conflicts: null
+  name: libtinynotify
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- doc
+- static-libs
+version: 1.2.1

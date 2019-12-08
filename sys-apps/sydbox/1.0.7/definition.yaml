@@ -1,0 +1,27 @@
+State: ""
+category: sys-apps
+conflicts: []
+name: sydbox
+requires:
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: pinktrace
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+- State: ""
+  category: sys-libs
+  conflicts: null
+  name: libunwind
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags:
+- debug
+- seccomp
+- test
+version: 1.0.7

@@ -1,0 +1,8 @@
+State: ""
+category: x11-themes
+conflicts: null
+name: adwaita-icon-theme
+requires: null
+set: false
+use_flags: null
+version: 3.30.1

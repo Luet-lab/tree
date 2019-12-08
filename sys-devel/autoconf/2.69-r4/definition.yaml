@@ -1,0 +1,8 @@
+State: ""
+category: sys-devel
+conflicts: null
+name: autoconf
+requires: null
+set: false
+use_flags: null
+version: 2.69-r4

@@ -1,0 +1,16 @@
+State: ""
+category: app-vim
+conflicts: []
+name: fugitive
+requires:
+- State: ""
+  category: dev-vcs
+  conflicts: null
+  name: git
+  requires: null
+  set: false
+  use_flags: null
+  version: ""
+set: false
+use_flags: null
+version: "2.5"
