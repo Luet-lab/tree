@@ -22,9 +22,6 @@ requires:
 - category: "$BUILD_LAYER_CATEGORY"
   version:  "$BUILD_LAYER_VERSION"
   name:     "$BUILD_LAYER_NAME"
-- category: "layer"
-  version:  ">=0.1"
-  name:     "sabayon-overlay"
 EOF
 
 if [ "${PORTAGE_ARTIFACTS}" == "true" ]; then
