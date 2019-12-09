@@ -1,0 +1,15 @@
+steps:
+# For kernels
+- equo i v86d
+
+requires:
+
+# This pins the portage version
+- category: "layer"
+  name: "sabayon-build-portage"
+  version: ">=0.1"
+
+# This pins sabayon overlays (sabayon-distro, for-gentoo)
+- category: "layer"
+  name: "build-sabayon-overlay"
+  version: ">=0.1"
