@@ -1,3 +1,4 @@
 
-unpack: true
-image: "sabayon/builder-amd64"
+image: "sabayon/base-amd64"
+prelude:
+- ACCEPT_LICENSE=* equo i git gcc layman && equo cleanup
