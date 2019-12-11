@@ -1,10 +1,9 @@
 #!/bin/bash
 
-
 LUET_REPO="${LUET_REPO:-/root/repo}"
 BUILD_LAYER_NAME="${BUILD_LAYER_NAME:-core-desktop-build}"
 BUILD_LAYER_CATEGORY="${BUILD_LAYER_CATEGORY:-layer}"
-BUILD_LAYER_VERSION="${BUILD_LAYER_VERSION:->=0.1}"
+BUILD_LAYER_VERSION="${BUILD_LAYER_VERSION:-0.1}"
 
 gen_build() {
 local f=$1
@@ -15,22 +14,22 @@ PACKAGE_VERSION="$(/tmp/yq r $f version)"
 PACKAGE_CATEGORY="$(/tmp/yq r $f category)"
 
 basedir="$(dirname $f)"
-cat <<EOF > $basedir/build.yaml
-steps:
-- emerge -b =\${PACKAGE_CATEGORY}/\${PACKAGE_NAME}-\${PACKAGE_VERSION}
-requires:
-- category: "$BUILD_LAYER_CATEGORY"
-  version:  "$BUILD_LAYER_VERSION"
-  name:     "$BUILD_LAYER_NAME"
-EOF
 
 if [ "${PORTAGE_ARTIFACTS}" == "true" ]; then
-cat <<EOF >> $basedir/build.yaml
-includes:
-- /usr/portage/packages/.*
-EOF
+mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
+                            -s LayerCategory="$BUILD_LAYER_CATEGORY" \
+                            -s LayerVersion=$BUILD_LAYER_VERSION \
+                            -s LayerName="$BUILD_LAYER_NAME" \
+                            -s Binhost="true" \
+                            -o $basedir/build.yaml
+else 
+mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
+                            -s LayerCategory="$BUILD_LAYER_CATEGORY" \
+                            -s LayerVersion=$BUILD_LAYER_VERSION \
+                            -s LayerName="$BUILD_LAYER_NAME" \
+                            -o $basedir/build.yaml
 fi
-echo "Generated build definition for $PACKAGE_NAME-$PACKAGE_VERSION ($PACKAGE_CATEGORY)"
+echo "Generated build definition for $PACKAGE_NAME-$PACKAGE_VERSION ($PACKAGE_CATEGORY) in $basedir/build.yaml"
 }
 
 clean() {
