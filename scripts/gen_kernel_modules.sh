@@ -17,18 +17,20 @@ do
         mkdir -p $basedir
 
         if [ "${PORTAGE_ARTIFACTS}" == "true" ]; then
-        mottainai-cli task compile "$DESTINATION"/templates/emerge.build.yaml.tmpl \
+        mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
                                     -s LayerCategory="sys-kernel" \
                                     -s LayerVersion=$i \
                                     -s LayerName="linux-sabayon" \
+                                    -s PackageName="$pn" \
                                     -s Binhost="true" \
                                     -o $basedir/build.yaml
 
         else
-        mottainai-cli task compile "$DESTINATION"/templates/emerge.build.yaml.tmpl \
+        mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
                                     -s LayerCategory="sys-kernel" \
                                     -s LayerVersion=$i \
                                     -s LayerName="linux-sabayon" \
+                                    -s PackageName="$pn" \
                                     -s Binhost="true" \
                                     -o $basedir/build.yaml
         fi
