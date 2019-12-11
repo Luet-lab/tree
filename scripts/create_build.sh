@@ -17,7 +17,7 @@ PACKAGE_CATEGORY="$(/tmp/yq r $f category)"
 basedir="$(dirname $f)"
 cat <<EOF > $basedir/build.yaml
 steps:
-- emerge =\${PACKAGE_CATEGORY}/\${PACKAGE_NAME}-\${PACKAGE_VERSION}
+- emerge -b =\${PACKAGE_CATEGORY}/\${PACKAGE_NAME}-\${PACKAGE_VERSION}
 requires:
 - category: "$BUILD_LAYER_CATEGORY"
   version:  "$BUILD_LAYER_VERSION"
