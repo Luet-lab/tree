@@ -22,7 +22,7 @@ mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
                             -s LayerName="$BUILD_LAYER_NAME" \
                             -s Binhost="true" \
                             -o $basedir/build.yaml
-else 
+else
 mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
                             -s LayerCategory="$BUILD_LAYER_CATEGORY" \
                             -s LayerVersion=$BUILD_LAYER_VERSION \

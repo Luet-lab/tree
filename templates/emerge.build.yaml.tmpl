@@ -1,8 +1,8 @@
 steps:
-- emerge -b =\${PACKAGE_CATEGORY}/\${PACKAGE_NAME}-\${PACKAGE_VERSION}
+- emerge -b =${PACKAGE_CATEGORY}/${PACKAGE_NAME}-${PACKAGE_VERSION}
 requires:
 - category: "{{.LayerCategory}}"
-  version:  ">={{.LayerVersion}}"
+  version:  "{{.LayerVersion}}"
   name:     "{{.LayerName}}"
 {{ if .Binhost }}
 includes:

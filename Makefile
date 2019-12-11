@@ -32,3 +32,4 @@ generate:
 	luet convert $(OVERLAY) $(DESTINATION)
 	LUET_REPO=$(DESTINATION) scripts/sanitize.sh
 	LUET_REPO=$(DESTINATION) scripts/create_build.sh
+	scripts/gen_kernel_modules.sh
