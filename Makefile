@@ -10,6 +10,7 @@ all: deps build
 deps:
 	@echo "Installing luet"
 	go get -u github.com/mudler/luet
+	go get -u github.com/MottainaiCI/mottainai-cli
 
 .PHONY: clean
 clean:
