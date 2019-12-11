@@ -1,0 +1,10 @@
+steps:
+- emerge -b =${PACKAGE_CATEGORY}/{{.PackageName}}-${PACKAGE_VERSION}
+requires:
+- category: "{{.LayerCategory}}"
+  version:  "{{.LayerVersion}}"
+  name:     "{{.LayerName}}"
+{{ if .Binhost }}
+includes:
+- /usr/portage/packages/.*
+{{end}}
