@@ -36,9 +36,9 @@ do
         fi
 
         mottainai-cli task compile "$DESTINATION"/templates/definition.yaml.tmpl \
-                                    -s PackageCategory="$cat" \
+                                    -s PackageCategory="$cat-$i" \
                                     -s PackageVersion="$ver" \
-                                    -s PackageName="$pn-kernel-$i" \
+                                    -s PackageName="$pn" \
                                     -o $basedir/definition.yaml
     done
 done
