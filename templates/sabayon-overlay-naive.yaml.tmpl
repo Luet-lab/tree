@@ -1,0 +1,8 @@
+steps:
+- layman -S
+- cd /var/lib/layman/sabayon && git reset --hard {{.ForGentooCommit}}
+- cd /var/lib/layman/sabayon-distro && git reset --hard {{.DistroCommit}}
+requires:
+- category: "layer"
+  name: "core-desktop-build"
+  version: ">={{.LayerVersion}}"

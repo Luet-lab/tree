@@ -33,3 +33,12 @@ generate:
 	LUET_REPO=$(DESTINATION) scripts/sanitize.sh
 	LUET_REPO=$(DESTINATION) scripts/create_build.sh
 	scripts/gen_kernel_modules.sh
+
+.PHONY: bump-portage
+bump-portage:
+	scripts/portage_bump.sh
+
+
+.PHONY: bump-overlay
+bump-overlay:
+	scripts/overlay_bump.sh

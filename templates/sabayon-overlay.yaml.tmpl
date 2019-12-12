@@ -1,0 +1,15 @@
+steps:
+- rm -rfv /opt/sabayon-build /etc/portage-gentoo || true
+- bash portage_config.sh
+- layman -S
+- echo "yes" | layman -a sabayon || true
+- echo "yes" | layman -a sabayon-distro || true
+- cd /var/lib/layman/sabayon && git reset --hard {{.ForGentooCommit}}
+- cd /var/lib/layman/sabayon-distro && git reset --hard {{.DistroCommit}}
+requires:
+- category: "layer"
+  name: "build"
+  version: ">={{.LayerVersion}}"
+- category: "layer"
+  name: "sabayon-build-portage"
+  version: ">={{.PortageVersion}}"
