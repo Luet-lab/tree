@@ -36,8 +36,8 @@ mkdir -p $basedir
 cp -rfv $ROOT_DIR/overlays/sabayon-build-overlays/sabayon-overlay/portage_config.sh $basedir/
 
 mottainai-cli task compile "$ROOT_DIR"/templates/sabayon-overlay.yaml.tmpl \
-                            -s ForGentooCommit="$SHA" \
-                            -s DistroCommit="$SHA2" \
+                            -s ForGentooCommit="$SHA2" \
+                            -s DistroCommit="$SHA" \
                             -s LayerVersion="0.1" \
                             -s PortageVersion="0.1" \
                             -o $basedir/build.yaml
@@ -54,8 +54,8 @@ basedir=$ROOT_DIR/overlays/sabayon-overlay/0.$d
 mkdir -p $basedir
 
 mottainai-cli task compile "$ROOT_DIR"/templates/sabayon-overlay-naive.yaml.tmpl \
-                            -s ForGentooCommit="$SHA" \
-                            -s DistroCommit="$SHA2" \
+                            -s ForGentooCommit="$SHA2" \
+                            -s DistroCommit="$SHA" \
                             -s LayerVersion="0.1" \
                             -o $basedir/build.yaml
 
