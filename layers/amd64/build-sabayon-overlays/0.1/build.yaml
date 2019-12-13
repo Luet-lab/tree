@@ -10,7 +10,7 @@ requires:
 #  version: ">=0.1"
 - category: "layer"
   name: "sabayon-build-portage"
-  version: ">=0.1"
+  version: "0.20191126"
 
 # This pins sabayon overlays (sabayon-distro, for-gentoo)
 #- category: "layer"
