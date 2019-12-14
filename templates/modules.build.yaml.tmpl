@@ -4,6 +4,9 @@ requires:
 - category: "{{.LayerCategory}}"
   version:  "{{.LayerVersion}}"
   name:     "{{.LayerName}}"
+- category: "{{.LayerCategory}}"
+  version:  "{{.LayerVersion}}"
+  name:     "sabayon-sources"
 {{ if .Binhost }}
 includes:
 - /usr/portage/packages/.*
