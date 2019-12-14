@@ -8,7 +8,6 @@ version=$(wget -4 -O -  http://distfiles.gentoo.org/releases/amd64/autobuilds/la
 echo "Generating base layer spec for $version"
 basedir=$ROOT_DIR/layers/amd64/base/0.$version
 
-sed -i "s|layer/portage-0.* |layer/portage-0.$version |g" $ROOT_DIR/.travis.yml
 if [ ! -d $basedir ]; then
 mkdir -p $basedir
 cp -rf $ROOT_DIR/layers/amd64/base/build.sh $basedir/
@@ -42,6 +41,7 @@ popd
 
 d=`date +%Y%m%d`
 
+sed -i "s|layer/portage-0.* |layer/portage-0.$d |g" $ROOT_DIR/.travis.yml
 echo "Generating portage spec for $d - $SHA"
 basedir=$ROOT_DIR/overlays/portage/0.$d
 
