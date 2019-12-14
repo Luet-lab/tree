@@ -42,3 +42,7 @@ bump-portage:
 .PHONY: bump-overlay
 bump-overlay:
 	scripts/overlay_bump.sh
+
+.PHONY: bump-base
+bump-base:
+	scripts/base_bump.sh

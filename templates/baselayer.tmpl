@@ -1,0 +1,9 @@
+unpack: true
+steps:
+- sh build.sh
+env:
+- STAGE_VERSION={{.StageVersion}}
+requires:
+- category: "layer"
+  name: "seed"
+  version: ">=0.1"
