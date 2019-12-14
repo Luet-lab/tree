@@ -22,6 +22,7 @@ do
                                     -s LayerVersion=$i \
                                     -s LayerName="linux-sabayon" \
                                     -s PackageName="$pn" \
+                                    -s PackageCategory="$cat" \
                                     -s Binhost="true" \
                                     -o $basedir/build.yaml
 
@@ -31,6 +32,7 @@ do
                                     -s LayerVersion=$i \
                                     -s LayerName="linux-sabayon" \
                                     -s PackageName="$pn" \
+                                    -s PackageCategory="$cat" \
                                     -s Binhost="true" \
                                     -o $basedir/build.yaml
         fi
