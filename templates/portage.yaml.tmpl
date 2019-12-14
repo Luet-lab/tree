@@ -11,5 +11,5 @@ steps:
 - touch /usr/portage/.keep
 requires:
 - category: "{{.LayerCategory}}"
-  version:  "{{.LayerVersion}}"
+  version:  ">={{.LayerVersion}}"
   name:     "{{.LayerName}}"
