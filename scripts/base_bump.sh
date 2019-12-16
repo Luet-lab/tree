@@ -41,7 +41,6 @@ popd
 
 d=`date +%Y%m%d`
 
-sed -i "s|layer/portage-0.* |layer/portage-0.$d |g" $ROOT_DIR/.travis.yml
 echo "Generating portage spec for $d - $SHA"
 basedir=$ROOT_DIR/overlays/portage/0.$d
 
