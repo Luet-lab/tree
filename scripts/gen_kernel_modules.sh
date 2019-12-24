@@ -25,37 +25,45 @@ do
     for m in ${MODULES[@]};
     do
         parts=($(echo $m | tr "@" "\n"))
-        cat=${parts[0]}
         pn=${parts[1]}
-        ver=${parts[2]}
-        echo "Generating spec for kernel $i, package $cat $pn $ver"
-        basedir=$DESTINATION/kernel-modules/"$pn"/"$ver"/"$i"
+        pkg_version=${parts[2]}
+        v="$(pkgs-checker pkg info ${parts[0]}/${pn}-${pkg_version} | grep "version:" | awk '{ print $2 }')"
+        vsuff="$(pkgs-checker pkg info ${parts[0]}/${pn}-${pkg_version} | grep "version_suffix:" | awk '{ print $2 }')"
+        slot=$(echo $i | awk 'match($0, /[0-9]+[.][0-9]+/) { print substr($0, RSTART, RLENGTH) }')
+        ver="${v}.${i}${vsuff}"
+        cat="${parts[0]}-${slot}"
+        echo "Generating spec for kernel $i, package $cat/$pn-$ver"
+        basedir=$DESTINATION/kernel-modules/"$pn"/"${pkg_version}"/"$i"
         mkdir -p $basedir
 
         if [ "${PORTAGE_ARTIFACTS}" == "true" ]; then
-        mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
-                                    -s LayerCategory="sys-kernel" \
-                                    -s LayerVersion=$i \
-                                    -s LayerName="linux-sabayon" \
-                                    -s PackageName="$pn" \
-                                    -s PackageCategory="$cat" \
-                                    -s Binhost="true" \
-                                    -o $basedir/build.yaml
+            mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
+                                        -s LayerCategory="sys-kernel" \
+                                        -s LayerVersion=$i \
+                                        -s LayerName="linux-sabayon" \
+                                        -s PackageCategory="${parts[0]}" \
+                                        -s PackageName="$pn" \
+                                        -s GentooVersion="${pkg_version}" \
+                                        -s PackageVersion="${ver}" \
+                                        -s Binhost="true" \
+                                        -o $basedir/build.yaml
 
         else
-        mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
-                                    -s LayerCategory="sys-kernel" \
-                                    -s LayerVersion=$i \
-                                    -s LayerName="linux-sabayon" \
-                                    -s PackageName="$pn" \
-                                    -s PackageCategory="$cat" \
-                                    -s Binhost="true" \
-                                    -o $basedir/build.yaml
+            mottainai-cli task compile "$DESTINATION"/templates/modules.build.yaml.tmpl \
+                                        -s LayerCategory="sys-kernel" \
+                                        -s LayerVersion=$i \
+                                        -s LayerName="linux-sabayon" \
+                                        -s PackageCategory="${parts[0]}" \
+                                        -s PackageName="$pn" \
+                                        -s PackageVersion="${ver}" \
+                                        -s GentooVersion="${pkg_version}" \
+                                        -s Binhost="true" \
+                                        -o $basedir/build.yaml
         fi
 
         mottainai-cli task compile "$DESTINATION"/templates/definition.yaml.tmpl \
-                                    -s PackageCategory="$cat-$i" \
-                                    -s PackageVersion="$ver" \
+                                    -s PackageCategory="$cat" \
+                                    -s PackageVersion="${ver}" \
                                     -s PackageName="$pn" \
                                     -o $basedir/definition.yaml
     done
