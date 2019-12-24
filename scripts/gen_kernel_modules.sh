@@ -8,6 +8,7 @@ MODULES=(
 "app-laptop@tp_smapi@0.43"
 "media-video@v4l2loopback@0.12.1"
 "net-firewall@rtsp-conntrack@4.18"
+"net-firewall@xtables-addons@3.7"
 "net-wireless@broadcom-sta@6.30.223.271-r6"
 "sys-fs@vhba@20190410"
 "sys-fs@zfs-kmod@0.8.2"
