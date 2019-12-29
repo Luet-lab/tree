@@ -6,6 +6,9 @@ steps:
 - echo "yes" | layman -a sabayon-distro || true
 - cd /var/lib/layman/sabayon && git reset --hard {{.ForGentooCommit}}
 - cd /var/lib/layman/sabayon-distro && git reset --hard {{.DistroCommit}}
+# Create mask file of upstream packages
+- source /sbin/sark-functions.sh && sabayon_mask_upstream_pkgs
+- eselect profile set sabayon-distro:default/linux/amd64/17.0/sabayon
 requires:
 - category: "layer"
   name: "build"
