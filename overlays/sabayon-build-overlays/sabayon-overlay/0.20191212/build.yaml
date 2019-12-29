@@ -7,9 +7,10 @@ steps:
 - cd /var/lib/layman/sabayon && git reset --hard ebcaa552222844c0a8c99438018dec86ad1a3524
 - cd /var/lib/layman/sabayon-distro && git reset --hard 24584f9006bdde8c3c7e5921ee73ff52d586717e
 - wget https://raw.githubusercontent.com/Sabayon/sabayon-sark/develop/sark-functions.sh -O /sbin/sark-functions.sh
-- source /sbin/sark-functions.sh && sabayon_mask_upstream_pkgs
 - eselect profile set sabayon-distro:default/linux/amd64/17.0/sabayon
 - eselect profile list
+- eval "mkdir -p /etc/portage/package.mask || true"
+- source /sbin/sark-functions.sh && SABAYON_ARCH=$(uname -m) sabayon_mask_upstream_pkgs
 requires:
 - category: "layer"
   name: "build"
