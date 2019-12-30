@@ -29,13 +29,23 @@ set_build_profile () {
 
 # Drop portdir, we use default here
 sed -i 's/PORTDIR.*//g' /etc/portage/make.conf
-sed -i 's|/usr/portage.*|/var/db/repos/gentoo|g' /etc/portage/repos.conf/gentoo.conf || true
 echo 'PORTDIR="/var/db/repos/gentoo"' >> /etc/portage/make.conf
+mkdir -p /etc/portage/repos.conf/
+echo "[DEFAULT]
+main-repo = gentoo
+
+[gentoo]
+location = /var/db/repos/gentoo
+sync-type = rsync
+sync-uri = rsync://rsync.europe.gentoo.org/gentoo-portage
+" > /etc/portage/repos.conf/gentoo.conf
+
 sed -i 's/repos\.conf/make.conf/' /etc/layman/layman.cfg
+echo 'PORTDIR="/var/db/repos/gentoo"' >> /etc/portage/make.conf
 rm -rf /var/lib/layman/make.conf || true
 layman-updater -R
 eselect profile list
 # We need to select a profile here, because we just overwrote /etc/portage
-eselect profile set 5
+#eselect profile set 5
 
 #emerge --update --newuse --deep --complete-graph @world
