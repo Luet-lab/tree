@@ -23,6 +23,8 @@ set_build_profile () {
   cp -rfv /opt/sabayon-build/conf/intel/portage portage
 }
 
+source /etc/profile
+
 # Uncomment this to enable sabayon-build profile instead of sabayon profile
 # from sabayon-distro overlay
 # set_build_profile
