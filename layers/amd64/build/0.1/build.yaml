@@ -1,4 +1,4 @@
 
 image: "sabayon/base-amd64"
 prelude:
-- ACCEPT_LICENSE=* equo i git gcc layman && equo cleanup
+- source /etc/profile && ACCEPT_LICENSE=* equo i git gcc layman && equo cleanup
