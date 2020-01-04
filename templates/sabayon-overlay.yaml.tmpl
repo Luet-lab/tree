@@ -7,12 +7,13 @@ steps:
 - echo "yes" | layman -a sabayon-distro || true
 - cd /var/lib/layman/sabayon && git reset --hard {{.ForGentooCommit}}
 - cd /var/lib/layman/sabayon-distro && git reset --hard {{.DistroCommit}}
+- rm -fv /etc/make.profile
 - wget https://raw.githubusercontent.com/Sabayon/sabayon-sark/develop/sark-functions.sh -O /sbin/sark-functions.sh
-- source /etc/profile && eselect profile set sabayon-distro:default/linux/amd64/17.0/sabayon
-- source /etc/profile && eselect profile list
+- source /etc/profile && eval 'eselect profile list || true'
+- source /etc/profile && eval 'eselect profile set sabayon-distro:default/linux/amd64/17.0/sabayon || true' && eval 'eselect profile list || true'
 # Create mask file of upstream packages
 - eval "mkdir -p /etc/portage/package.mask || true"
-- source /sbin/sark-functions.sh && SABAYON_ARCH=amd64 sabayon_mask_upstream_pkgs
+- source /etc/profile && source /sbin/sark-functions.sh && SABAYON_ARCH=amd64 sabayon_mask_upstream_pkgs
 requires:
 - category: "layer"
   name: "build"
