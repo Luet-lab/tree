@@ -1,5 +1,6 @@
 BACKEND?=docker
 CONCURRENCY?=1
+CLEAN?=false
 LUET?=luet
 export ROOT_DIR:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 DESTINATION?=$(ROOT_DIR)/output
@@ -21,12 +22,12 @@ clean:
 .PHONY: build
 build: clean
 	mkdir -p $(ROOT_DIR)/build
-	sudo $(LUET) build `cat $(ROOT_DIR)/$(TARGET) | xargs echo` --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
+	sudo $(LUET) build --clean=$(CLEAN) `cat $(ROOT_DIR)/$(TARGET) | xargs echo` --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
 
 .PHONY: build-all
 build-all: clean
 	mkdir -p $(ROOT_DIR)/build
-	sudo $(LUET) build --all --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
+	sudo $(LUET) build --clean=$(CLEAN) --all --destination $(ROOT_DIR)/build --backend $(BACKEND) --concurrency $(CONCURRENCY)
 
 .PHONY: generate
 generate:
