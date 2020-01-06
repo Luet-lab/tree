@@ -1,0 +1,67 @@
+category: app-admin
+conflicts: []
+description: a layman equivalent for entropy repositories
+license: ""
+name: enman
+requires:
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: LWP-Protocol-https
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: perl-Encode
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: libwww-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: libintl-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: JSON
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: perl-Term-ANSIColor
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: Module-Build
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: App-Cmd
+  
+  version: ""
+uri:
+- https://github.com/Sabayon/enman/archive/v1.4.0.tar.gz -> enman-1.4.0.tar.gz
+use_flags:
+- ""
+version: 1.4.0-r1

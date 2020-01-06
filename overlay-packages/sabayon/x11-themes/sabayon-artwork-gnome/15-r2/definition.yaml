@@ -1,0 +1,46 @@
+category: x11-themes
+conflicts: []
+description: Sabayon Linux Official GNOME artwork
+license: CCPL-Attribution-ShareAlike-3.0
+name: sabayon-artwork-gnome
+requires:
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-core
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: arc-theme
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: numix-icon-theme-circle
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: numix-icon-theme
+  
+  version: ""
+- 
+  category: gnome-extra
+  description: ""
+  license: ""
+  name: gnome-shell-extensions
+  
+  version: "3.12"
+uri:
+- mirror://sabayon//sabayon-artwork-gnome/sabayon-artwork-gnome-15-r1.tar.xz
+use_flags:
+- ""
+version: 15-r2

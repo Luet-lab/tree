@@ -1,0 +1,38 @@
+category: net-dns
+conflicts: []
+description: System which facilitates service discovery on a local network (mono pkg)
+license: LGPL-2.1
+name: avahi-mono
+requires:
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-base-0.7[dbus=,gdbm=,introspection=,nls=,python=]
+  
+  version: ""
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-gtk-0.7[dbus=,gdbm=,nls=]
+  
+  version: ""
+- 
+  category: dev-dotnet
+  description: ""
+  license: ""
+  name: gtk-sharp
+  
+  version: "2"
+uri:
+- https://github.com/lathiat/avahi/archive/v0.7.tar.gz -> avahi-0.7.tar.gz
+use_flags:
+- dbus
+- doc
+- gdbm
+- gtk
+- introspection
+- nls
+- python
+version: 0.7-r1

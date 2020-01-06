@@ -1,0 +1,33 @@
+category: app-misc
+conflicts: []
+description: Bash Screenshot Information Tool
+license: GPL-3
+name: screenfetch
+requires:
+- 
+  category: net-misc
+  description: ""
+  license: ""
+  name: curl
+  
+  version: ""
+- 
+  category: media-gfx
+  description: ""
+  license: ""
+  name: scrot
+  
+  version: ""
+- 
+  category: x11-apps
+  description: ""
+  license: ""
+  name: xdpyinfo
+  
+  version: ""
+uri:
+- https://github.com/KittyKatt/screenFetch/archive/v3.8.0.tar.gz -> screenfetch-3.8.0.tar.gz
+use_flags:
+- curl
+- X
+version: 3.8.0-r1

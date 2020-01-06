@@ -1,0 +1,12 @@
+category: app-admin
+conflicts: []
+description: Image Bundle is a python package that allows users to create an image
+  from the current state of the running virtual machine.
+license: Apache-2.0
+name: gcimagebundle
+requires: []
+uri:
+- https://github.com/GoogleCloudPlatform/compute-image-packages/releases/download/1.2.0/gcimagebundle-1.2.0.tar.gz
+use_flags:
+- ""
+version: 1.2.0

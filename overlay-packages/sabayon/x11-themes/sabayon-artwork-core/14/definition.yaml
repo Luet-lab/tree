@@ -1,0 +1,45 @@
+category: x11-themes
+conflicts: []
+description: Official Sabayon Linux Core Artwork
+license: CCPL-Attribution-ShareAlike-3.0
+name: sabayon-artwork-core
+requires:
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-cursor
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-grub
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-plymouth-default
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-wallpapers
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: findutils
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: "14"

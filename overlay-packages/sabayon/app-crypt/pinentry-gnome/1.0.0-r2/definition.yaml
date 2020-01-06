@@ -1,0 +1,46 @@
+category: app-crypt
+conflicts: []
+description: GNOME 3 frontend for pinentry
+license: GPL-2
+name: pinentry-gnome
+requires:
+- 
+  category: app-crypt
+  description: ""
+  license: ""
+  name: gcr
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: ncurses
+  
+  version: ""
+- 
+  category: app-crypt
+  description: ""
+  license: ""
+  name: pinentry-base
+  
+  version: 1.0.0
+- 
+  category: app-crypt
+  description: ""
+  license: ""
+  name: libsecret
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: libcap
+  
+  version: ""
+uri:
+- mirror://gnupg/pinentry/pinentry-1.0.0.tar.bz2
+use_flags:
+- caps
+version: 1.0.0-r2

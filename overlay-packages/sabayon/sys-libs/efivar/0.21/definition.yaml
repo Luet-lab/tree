@@ -1,0 +1,16 @@
+category: sys-libs
+conflicts: []
+description: Tools and library to manipulate EFI variables
+license: GPL-2
+name: efivar
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: popt
+  
+  version: ""
+uri:
+- https://github.com/rhinstaller/efivar/releases/download/0.21/efivar-0.21.tar.bz2
+version: "0.21"

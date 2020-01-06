@@ -1,0 +1,19 @@
+category: x11-themes
+conflicts: []
+description: Colorized icons shared between all gnome-colors iconsets
+license: GPL-2 public-domain
+name: gnome-colors-common
+requires:
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: adwaita-icon-theme
+  
+  version: ""
+uri:
+- http://gnome-colors.googlecode.com/files/gnome-colors-5.5.1.tar.gz
+- 'mirror://sabayon/x11-themes/fdo-icons-sabayon4.tar.gz '
+use_flags:
+- +branding
+version: 5.5.1-r12

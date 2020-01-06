@@ -1,0 +1,38 @@
+category: net-p2p
+conflicts: []
+description: A Fast, Easy and Free BitTorrent client - Gtk+ UI
+license: ""
+name: transmission-gtk
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libappindicator
+  
+  version: 0.4.90
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: dbus-glib
+  
+  version: "0.100"
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: "2.32"
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: "3.4"
+uri: []
+use_flags:
+- ayatana
+version: "2.94"

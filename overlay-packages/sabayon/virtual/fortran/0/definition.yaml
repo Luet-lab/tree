@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+description: Virtual for Fortran Compiler
+license: ""
+name: fortran
+requires: []
+uri: []
+use_flags:
+- openmp
+version: "0"

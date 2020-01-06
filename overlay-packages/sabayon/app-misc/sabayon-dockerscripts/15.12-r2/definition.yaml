@@ -1,0 +1,25 @@
+category: app-misc
+conflicts: []
+description: Sabayon live image scripts and tools
+license: GPL-2
+name: sabayon-dockerscripts
+requires:
+- 
+  category: games-misc
+  description: ""
+  license: ""
+  name: cowsay
+  
+  version: ""
+- 
+  category: app-emulation
+  description: ""
+  license: ""
+  name: docker
+  
+  version: ""
+uri:
+- https://github.com/Sabayon/sabayon-dockerscripts/archive/v15.12-r2.tar.gz -> 15.12-r2.tar.gz
+use_flags:
+- ""
+version: 15.12-r2

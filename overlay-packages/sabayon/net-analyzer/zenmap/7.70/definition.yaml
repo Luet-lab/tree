@@ -1,0 +1,19 @@
+category: net-analyzer
+conflicts: []
+description: Graphical frontend for nmap
+license: GPL-2
+name: zenmap
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+uri:
+- https://nmap.org/dist/nmap-7.70.tar.bz2
+- https://dev.gentoo.org/~jer/nmap-logo-64.png
+use_flags:
+- nls
+version: "7.70"

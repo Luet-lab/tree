@@ -1,0 +1,23 @@
+category: sys-boot
+conflicts: []
+description: GNU GRUB Legacy boot loader
+license: GPL-2
+name: grub
+requires:
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: ncurses
+  
+  version: 5.9-r3
+uri:
+- mirror://gentoo/grub-0.97.tar.gz
+- mirror://gnu-alpha/grub/grub-0.97.tar.gz
+- mirror://gentoo/grub-0.97-patches-1.14.tar.bz2
+use_flags:
+- custom-cflags
+- ncurses
+- netboot
+- static
+version: 0.97-r22

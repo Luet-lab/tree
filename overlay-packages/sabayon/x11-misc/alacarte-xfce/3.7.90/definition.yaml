@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+description: Simple GNOME menu editor (meta package)
+license: metapackage
+name: alacarte-xfce
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: alacarte
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: 3.7.90

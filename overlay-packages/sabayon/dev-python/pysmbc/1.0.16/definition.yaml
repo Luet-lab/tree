@@ -1,0 +1,7 @@
+category: dev-python
+description: Python bindings for libsmbclient
+license: GPL-2
+name: pysmbc
+uri:
+- mirror://pypi/p/pysmbc/pysmbc-1.0.16.tar.bz2
+version: 1.0.16

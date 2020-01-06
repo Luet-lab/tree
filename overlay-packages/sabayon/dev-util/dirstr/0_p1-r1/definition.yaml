@@ -1,0 +1,11 @@
+category: dev-util
+conflicts: []
+description: Makes a directory structure according to a specifcation file
+license: Apache-2.0
+name: dirstr
+requires: []
+uri:
+- mirror://sabayon//dirstr-0.tar.gz
+use_flags:
+- ""
+version: 0_p1-r1

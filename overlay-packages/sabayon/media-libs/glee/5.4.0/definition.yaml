@@ -1,0 +1,18 @@
+category: media-libs
+conflicts: []
+description: OpenGL Easy Extension library
+license: BSD-2
+name: glee
+requires:
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: opengl
+  
+  version: ""
+uri:
+- http://elf-stone.com/downloads/GLee/GLee-5.4.0-src.tar.gz
+use_flags:
+- ""
+version: 5.4.0

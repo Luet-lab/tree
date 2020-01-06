@@ -1,0 +1,139 @@
+category: dev-python
+conflicts: []
+description: Pylons Web Framework
+license: BSD
+name: pylons
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: webtest
+  
+  version: "1.1"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: beaker
+  
+  version: "1.3"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: decorator
+  
+  version: 2.3.2
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: repoze-lru
+  
+  version: "0.3"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: webob
+  
+  version: 0.9.6.1
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: mako
+  
+  version: 0.2.4
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: nose
+  
+  version: 0.10.4
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: simplejson
+  
+  version: 2.0.8
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: webhelpers
+  
+  version: 0.6.4
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: genshi
+  
+  version: 0.4.4
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: routes
+  
+  version: "1.12"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: tempita
+  
+  version: "0.2"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: weberror
+  
+  version: 0.10.1
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: jinja
+  
+  version: "2"
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: formencode
+  
+  version: 1.2.1
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: paste
+  
+  version: 1.7.2
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pastedeploy
+  
+  version: 1.3.3
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pastescript
+  
+  version: 1.7.3
+uri:
+- mirror://pypi/P/Pylons/Pylons-1.0.1.tar.gz
+use_flags:
+- genshi
+- jinja
+- test
+version: 1.0.1-r3

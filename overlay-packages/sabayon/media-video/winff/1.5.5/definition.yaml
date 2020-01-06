@@ -1,0 +1,60 @@
+category: media-video
+conflicts: []
+description: Graphical video and audio batch converter using ffmpeg or avconv
+license: GPL-3 doc? ( FDL-1.3 )
+name: winff
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libX11
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: pango
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: atk
+  
+  version: ""
+uri:
+- http://winff.org/docs/source/winff-1.5.5-source.tar.gz
+use_flags:
+- doc
+version: 1.5.5

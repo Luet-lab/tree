@@ -1,0 +1,40 @@
+category: x11-misc
+conflicts: []
+description: Qt5 libraries for LightDM
+license: GPL-3 LGPL-3
+name: lightdm-qt5
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: lightdm-base
+  
+  version: 1.24.0
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtdbus
+  
+  version: ""
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtgui
+  
+  version: ""
+uri:
+- https://launchpad.net/lightdm//1.24.0/+download/lightdm-1.24.0.tar.xz
+- mirror://gentoo/introspection-20110205.m4.tar.bz2
+use_flags:
+- ""
+version: 1.24.0-r1

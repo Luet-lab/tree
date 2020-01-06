@@ -1,0 +1,32 @@
+category: x11-misc
+conflicts: []
+description: Openbox Key Editor
+license: MIT
+name: obkey
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+- 
+  category: x11-wm
+  description: ""
+  license: ""
+  name: openbox
+  
+  version: ""
+uri:
+- https://github.com/nsf/obkey/archive/v1.0.tar.gz -> obkey-1.0.tar.gz
+use_flags:
+- ""
+version: "1.0"

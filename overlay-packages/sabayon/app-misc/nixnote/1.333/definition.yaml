@@ -1,0 +1,26 @@
+category: app-misc
+conflicts: []
+description: An open source Evernote clone
+license: GPL-2
+name: nixnote
+requires:
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libpng-compat
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: jdk
+  
+  version: "1.5"
+uri:
+- 'mirror://sourceforge/nevernote/nixnote-1.333_i386.tar.gz '
+- 'mirror://sourceforge/nevernote/nixnote-1.333_amd64.tar.gz '
+use_flags:
+- ""
+version: "1.333"

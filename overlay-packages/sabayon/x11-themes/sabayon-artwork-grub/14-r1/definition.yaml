@@ -1,0 +1,11 @@
+category: x11-themes
+conflicts: []
+description: Sabayon GRUB2 background images
+license: CCPL-Attribution-ShareAlike-3.0
+name: sabayon-artwork-grub
+requires: []
+uri:
+- mirror://sabayon//sabayon-artwork-grub/sabayon-artwork-grub-14-r1.tar.xz
+use_flags:
+- ""
+version: 14-r1

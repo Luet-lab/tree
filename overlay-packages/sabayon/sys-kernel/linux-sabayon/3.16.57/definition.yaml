@@ -1,0 +1,6 @@
+category: sys-kernel
+description: Official Sabayon Linux Standard kernel image
+license: ""
+name: linux-sabayon
+uri: []
+version: 3.16.57

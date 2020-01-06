@@ -1,0 +1,11 @@
+category: sys-apps
+conflicts: []
+description: Program to automatically probe a monitor for information
+license: GPL-2
+name: ddcxinfo-knoppix-bin
+requires: []
+uri:
+- mirror://sabayon/sys-apps/ddcxinfo-knoppix-bin-0.6.tar.bz2
+use_flags:
+- ""
+version: "0.6"

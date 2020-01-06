@@ -1,0 +1,9 @@
+category: media-fonts
+description: Animal Tracks by Andrew D. Taylor
+license: animal-tracks
+name: animal-tracks
+uri:
+- mirror://sabayon//animal-tracks/animal-tracks-1.0.tar.lzma
+use_flags:
+- ""
+version: "1.0"

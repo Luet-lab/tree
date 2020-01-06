@@ -1,0 +1,11 @@
+category: dev-cpp
+conflicts: []
+description: ETL is a multi-platform class and template library
+license: GPL-2
+name: ETL
+requires: []
+uri:
+- mirror://sourceforge/synfig/releases/0.64.1/source/ETL-0.04.17.tar.gz
+use_flags:
+- ""
+version: 0.04.17

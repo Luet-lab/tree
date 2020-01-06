@@ -1,0 +1,43 @@
+category: sys-kernel
+conflicts: []
+description: Sabayon Dracut Configuration
+license: GPL-3
+name: sabayon-dracut
+requires:
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: lvm2
+  
+  version: ""
+- 
+  category: sys-boot
+  description: ""
+  license: ""
+  name: plymouth
+  
+  version: ""
+- 
+  category: sys-kernel
+  description: ""
+  license: ""
+  name: dracut
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: btrfs-progs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: mdadm
+  
+  version: ""
+uri: []
+version: 1.4-r1

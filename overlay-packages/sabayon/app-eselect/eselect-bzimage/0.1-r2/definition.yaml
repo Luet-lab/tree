@@ -1,0 +1,24 @@
+category: app-eselect
+conflicts: []
+description: Eselect module for making easy to switch between x86/x86_64 Linux kernels
+license: GPL-2
+name: eselect-bzimage
+requires:
+- 
+  category: app-admin
+  description: ""
+  license: ""
+  name: eselect
+  
+  version: 1.2.3
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: file
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: 0.1-r2

@@ -1,0 +1,42 @@
+category: x11-plugins
+conflicts: []
+description: Pidgin plugin for adding Xfire accounts and connecting to the Xfire network
+license: GPL-3
+name: pidgin-gfire
+requires:
+- 
+  category: net-im
+  description: ""
+  license: ""
+  name: pidgin
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libnotify
+  
+  version: ""
+uri:
+- mirror://sourceforge/gfire/pidgin-gfire-0.9.4.tar.bz2
+use_flags:
+- debug
+- kmess-status
+- libnotify
+- nls
+version: 0.9.4

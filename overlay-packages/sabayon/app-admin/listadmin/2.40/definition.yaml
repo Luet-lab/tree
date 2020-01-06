@@ -1,0 +1,75 @@
+category: app-admin
+conflicts: []
+description: Listadmin is a Perl script designed to administer Mailman mailinglists
+  easily.
+license: GPL-2
+name: listadmin
+requires:
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: libwww-perl
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: Term-ReadLine-Perl
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: perl-MIME-Base64
+  
+  version: ""
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: perl
+  
+  version: ""
+- 
+  category: net-mail
+  description: ""
+  license: ""
+  name: mailman
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: perl-Getopt-Long
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: HTML-TokeParser-Simple
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: Text-Reform
+  
+  version: ""
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: TermReadKey
+  
+  version: ""
+uri:
+- http://heim.ifi.uio.no/kjetilho/hacks/listadmin-2.40.tar.gz
+use_flags:
+- ""
+version: "2.40"

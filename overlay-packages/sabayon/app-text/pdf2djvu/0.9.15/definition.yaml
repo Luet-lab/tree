@@ -1,0 +1,49 @@
+category: app-text
+conflicts: []
+description: A tool to create DjVu files from PDF files
+license: GPL-2
+name: pdf2djvu
+requires:
+- 
+  category: app-text
+  description: ""
+  license: ""
+  name: djvu
+  
+  version: 3.5.21
+- 
+  category: app-text
+  description: ""
+  license: ""
+  name: poppler
+  
+  version: 0.16.7
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libxml2
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libxslt
+  
+  version: ""
+- 
+  category: media-gfx
+  description: ""
+  license: ""
+  name: graphicsmagick
+  
+  version: ""
+uri:
+- https://github.com/jwilk/pdf2djvu/releases/download/0.9.15/pdf2djvu-0.9.15.tar.xz
+use_flags:
+- +graphicsmagick
+- nls
+- openmp
+- test
+version: 0.9.15

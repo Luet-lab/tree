@@ -1,0 +1,53 @@
+category: app-admin
+conflicts: []
+description: Command line tool for setting up authentication from network services
+license: GPL-2+
+name: authconfig
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: newt
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: libglade
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: 2.14.0
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: hicolor-icon-theme
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: pam
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libpwquality
+  
+  version: "0.9"
+uri:
+- https://pagure.io/releases/authconfig/authconfig-7.0.1.tar.bz2
+use_flags:
+- -gtk
+version: 7.0.1

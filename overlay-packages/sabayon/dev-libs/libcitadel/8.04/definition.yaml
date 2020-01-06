@@ -1,0 +1,53 @@
+category: dev-libs
+conflicts: []
+description: Code shared across all the components of a Citadel system
+license: GPL-3
+name: libcitadel
+requires:
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: zlib
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: expat
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libical
+  
+  version: ""
+- 
+  category: net-misc
+  description: ""
+  license: ""
+  name: curl
+  
+  version: ""
+- 
+  category: mail-filter
+  description: ""
+  license: ""
+  name: libsieve
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: db
+  
+  version: ""
+uri:
+- http://easyinstall.citadel.org/libcitadel-8.04.tar.gz
+use_flags:
+- ""
+version: "8.04"

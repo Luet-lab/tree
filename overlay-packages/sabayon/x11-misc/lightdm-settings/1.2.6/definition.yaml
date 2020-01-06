@@ -1,0 +1,58 @@
+category: x11-misc
+conflicts: []
+description: LightDM settings app
+license: GPL-3
+name: lightdm-settings
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: lightdm-slick-greeter
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: setproctitle
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject
+  
+  version: ""
+- 
+  category: sys-auth
+  description: ""
+  license: ""
+  name: polkit
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: xapp
+  
+  version: ""
+- 
+  category: x11-themes
+  description: ""
+  license: ""
+  name: hicolor-icon-theme
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: lsb-release
+  
+  version: ""
+uri:
+- https://github.com/linuxmint/lightdm-settings/archive/1.2.6.tar.gz -> lightdm-settings-1.2.6.tar.gz
+version: 1.2.6

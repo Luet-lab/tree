@@ -1,0 +1,85 @@
+category: media-sound
+conflicts: []
+description: Modern music player and library organizer based on Amarok 1.4 and Qt
+license: GPL-3
+name: clementine
+requires:
+- 
+  category: dev-db
+  description: ""
+  license: ""
+  name: sqlite
+  
+  version: ""
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: gst-plugins-meta
+  
+  version: ""
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: gst-plugins-soup
+  
+  version: ""
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: gst-plugins-taglib
+  
+  version: ""
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: gst-plugins-libmms
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: gvfs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: udisks
+  
+  version: ""
+- 
+  category: app-crypt
+  description: ""
+  license: ""
+  name: qca
+  
+  version: ""
+uri:
+- https://github.com/clementine-player/Clementine/archive/610566d25271c67d1625fd62041f6a27435b0a9d.tar.gz
+  -> clementine-1.3.1.tar.gz
+use_flags:
+- box
+- cdda
+- +dbus
+- debug
+- dropbox
+- googledrive
+- ipod
+- lastfm
+- mms
+- moodbar
+- mtp
+- projectm
+- pulseaudio
+- seafile
+- skydrive
+- test
+- +udisks
+- wiimote
+version: 1.3.1_p20190127

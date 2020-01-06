@@ -1,0 +1,18 @@
+category: app-misc
+conflicts: []
+description: Sabayon Official Calamares branding
+license: CC-BY-SA-4.0
+name: calamares-sabayon-branding
+requires:
+- 
+  category: app-admin
+  description: ""
+  license: ""
+  name: calamares
+  
+  version: "1.0"
+uri:
+- mirror://sabayon//calamares-sabayon-branding/calamares-sabayon-branding-15.10.tar.xz
+use_flags:
+- ""
+version: "15.10"

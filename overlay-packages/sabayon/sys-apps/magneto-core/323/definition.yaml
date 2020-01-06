@@ -1,0 +1,25 @@
+category: sys-apps
+conflicts: []
+description: Entropy Package Manager notification applet library
+license: GPL-2
+name: magneto-core
+requires:
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: rigo-daemon
+  
+  version: "323"
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: xdg-utils
+  
+  version: ""
+uri:
+- mirror://sabayon/sys-apps/entropy-323.tar.bz2
+use_flags:
+- ""
+version: "323"

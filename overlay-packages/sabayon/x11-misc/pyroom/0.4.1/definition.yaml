@@ -1,0 +1,25 @@
+category: x11-misc
+conflicts: []
+description: a text editor that stays out of your way.
+license: GPL-3
+name: pyroom
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyxdg
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+uri:
+- http://launchpad.net/pyroom//0.4.1/+download/pyroom-0.4.1.tar.gz
+use_flags:
+- ""
+version: 0.4.1

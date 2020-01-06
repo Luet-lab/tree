@@ -1,0 +1,10 @@
+category: app-misc
+conflicts: []
+description: Sabayon Linux Entropy/Portage failure (fooooon't install this)
+license: GPL-2
+name: entrofoo-fail
+requires: []
+uri: []
+use_flags:
+- ""
+version: "1"

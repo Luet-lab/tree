@@ -1,0 +1,11 @@
+category: net-irc
+conflicts: []
+description: Qt/KDE IRC client supporting a remote daemon (common files)
+license: GPL-3
+name: quassel-common
+requires: []
+uri:
+- https://quassel-irc.org/pub/quassel-0.13.1.tar.bz2
+use_flags:
+- kde
+version: 0.13.1

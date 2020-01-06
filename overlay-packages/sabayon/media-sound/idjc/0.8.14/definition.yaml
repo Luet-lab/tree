@@ -1,0 +1,132 @@
+category: media-sound
+conflicts: []
+description: IDJC has two media players, jingles player, crossfader, VoIP and streaming
+license: GPL-2
+name: idjc
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: eyeD3
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libsndfile
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: mpg123
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: mysql-python
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: twolame
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: mutagen
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: jack-audio-connection-kit
+  
+  version: 0.116.0
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: ffmpeg
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: lame
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libsamplerate
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libvorbis
+  
+  version: ""
+- 
+  category: sys-devel
+  description: ""
+  license: ""
+  name: gettext
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: opus
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: speex
+  
+  version: ""
+uri:
+- mirror://sourceforge/idjc/idjc-0.8.14.tar.gz
+use_flags:
+- doc
+- ffmpeg
+- flac
+- mad
+- mpg123
+- mysql
+- nls
+- opus
+- speex
+- twolame
+version: 0.8.14

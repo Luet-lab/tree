@@ -1,0 +1,18 @@
+category: games-misc
+conflicts: []
+description: configurable talking ASCII cow (and other characters)
+license: GPL-2
+name: cowsay
+requires:
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: perl
+  
+  version: "5"
+uri:
+- http://www.nog.net/~tony/warez/cowsay-3.03.tar.gz
+use_flags:
+- ""
+version: 3.03-r2

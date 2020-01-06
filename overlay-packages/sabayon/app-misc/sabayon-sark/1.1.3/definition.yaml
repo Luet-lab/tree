@@ -1,0 +1,53 @@
+category: app-misc
+conflicts: []
+description: Sabayon Automated Repository Kit
+license: GPL-2
+name: sabayon-sark
+requires:
+- 
+  category: app-emulation
+  description: ""
+  license: ""
+  name: docker
+  
+  version: ""
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: perl
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: shyaml
+  
+  version: ""
+- 
+  category: dev-util
+  description: ""
+  license: ""
+  name: pkgs-checker
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: sabayon-devkit
+  
+  version: ""
+- 
+  category: sys-process
+  description: ""
+  license: ""
+  name: tini
+  
+  version: ""
+uri:
+- https://github.com/Sabayon/sabayon-sark/archive/v1.1.3.tar.gz -> sabayon-sark-1.1.3.tar.gz
+use_flags:
+- ""
+version: 1.1.3

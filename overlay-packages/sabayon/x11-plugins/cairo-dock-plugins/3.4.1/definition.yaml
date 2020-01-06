@@ -1,0 +1,201 @@
+category: x11-plugins
+conflicts: []
+description: Official plugins for cairo-dock
+license: GPL-3
+name: cairo-dock-plugins
+requires:
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtkglext
+  
+  version: ""
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: vala
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: gnote
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: gnome-menus
+  
+  version: ""
+- 
+  category: net-libs
+  description: ""
+  license: ""
+  name: webkit-gtk
+  
+  version: 1.4.0
+- 
+  category: xfce-base
+  description: ""
+  license: ""
+  name: thunar
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libindicator
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libxml2
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: cairo
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: net-libs
+  description: ""
+  license: ""
+  name: libetpan
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libXxf86vm
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libxklavier
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: oauth
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: simplejson
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: dbus
+  
+  version: ""
+- 
+  category: kde-frameworks
+  description: ""
+  license: ""
+  name: kdelibs
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: vte
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libzeitgeist
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: librsvg
+  
+  version: ""
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: cairo-dock
+  
+  version: 3.4.1
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libexif
+  
+  version: ""
+uri:
+- http://launchpad.net/cairo-dock-plug-ins//3.4.1/+download/cairo-dock-plug-ins-3.4.1.tar.gz
+use_flags:
+- alsa
+- exif
+- gmenu
+- gtk3
+- kde
+- terminal
+- gnote
+- vala
+- webkit
+- xfce
+- xgamma
+- xklavier
+- twitter
+- indicator3
+- zeitgeist
+- mail
+version: 3.4.1

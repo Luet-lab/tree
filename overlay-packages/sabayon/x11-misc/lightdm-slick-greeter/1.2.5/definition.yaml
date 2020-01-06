@@ -1,0 +1,58 @@
+category: x11-misc
+conflicts: []
+description: LightDM greeter forked from Unity by Linux Mint team
+license: GPL-3
+name: lightdm-slick-greeter
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: lightdm-base
+  
+  version: "1.12"
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: pixman
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: cairo
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: freetype
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: "3.20"
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libcanberra
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libXext
+  
+  version: ""
+uri:
+- https://github.com/linuxmint/slick-greeter/archive/1.2.5.tar.gz -> slick-greeter-1.2.5.tar.gz
+version: 1.2.5

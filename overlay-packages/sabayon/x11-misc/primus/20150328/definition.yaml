@@ -1,0 +1,17 @@
+category: x11-misc
+conflicts: []
+description: Faster OpenGL offloading for Bumblebee
+license: ISC
+name: primus
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: bumblebee[video_cards_nvidia]
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: "20150328"

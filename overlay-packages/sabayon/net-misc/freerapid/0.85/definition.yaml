@@ -1,0 +1,19 @@
+category: net-misc
+conflicts: []
+description: FreeRapid is a simple Java downloader that supports downloading from
+  Rapidshare and other file-sharing services.
+license: GPL
+name: freerapid
+requires:
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: jre
+  
+  version: "1.6"
+uri:
+- mirror://sabayon//FreeRapid-0.85u1-b566.zip
+use_flags:
+- ""
+version: "0.85"

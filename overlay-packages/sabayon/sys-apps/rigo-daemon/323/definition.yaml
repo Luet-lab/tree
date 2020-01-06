@@ -1,0 +1,46 @@
+category: sys-apps
+conflicts: []
+description: Entropy Client DBus Services, aka RigoDaemon
+license: GPL-3
+name: rigo-daemon
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: entropy
+  
+  version: "323"
+- 
+  category: sys-auth
+  description: ""
+  license: ""
+  name: polkit
+  
+  version: ""
+- 
+  category: sys-devel
+  description: ""
+  license: ""
+  name: gettext
+  
+  version: ""
+uri:
+- mirror://sabayon/sys-apps/entropy-323.tar.bz2
+use_flags:
+- ""
+version: "323"

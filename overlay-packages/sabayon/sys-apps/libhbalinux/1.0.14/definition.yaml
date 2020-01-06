@@ -1,0 +1,9 @@
+category: sys-apps
+description: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
+license: SNIA
+name: libhbalinux
+uri:
+- mirror://sabayon//libhbalinux-1.0.14.tar.gz
+use_flags:
+- ""
+version: 1.0.14

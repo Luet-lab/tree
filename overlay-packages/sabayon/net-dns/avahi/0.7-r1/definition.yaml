@@ -1,0 +1,62 @@
+category: net-dns
+conflicts: []
+description: System which facilitates service discovery on a local network (meta package)
+license: LGPL-2.1
+name: avahi
+requires:
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-base-0.7-r1[autoipd=,bookmarks=,dbus=,doc=,gdbm=,howl-compat=,introspection=,ipv6=,mdnsresponder-compat=,python=,test=,nls=,selinux=,]
+  
+  version: ""
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-gtk-0.7-r1[gdbm=,nls=,dbus=]
+  
+  version: ""
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-gtk3-0.7-r1[dbus=,gdbm=,introspection=,nls=,python=]
+  
+  version: ""
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-mono
+  
+  version: 0.7-r1
+- 
+  category: net-dns
+  description: ""
+  license: ""
+  name: avahi-qt5
+  
+  version: 0.7-r1
+uri: []
+use_flags:
+- autoipd
+- bookmarks
+- dbus
+- doc
+- gdbm
+- gtk
+- gtk3
+- howl-compat
+- +introspection
+- ipv6
+- kernel_linux
+- mdnsresponder-compat
+- mono
+- nls
+- python
+- qt5
+- selinux
+- test
+version: 0.7-r1

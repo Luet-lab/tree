@@ -1,0 +1,73 @@
+category: sys-boot
+conflicts:
+- 
+  category: <sys-kernel
+  description: ""
+  license: ""
+  name: dracut
+  
+  version: 0.37-r3
+description: Graphical boot animation (splash) and logger
+license: GPL-2
+name: plymouth
+requires:
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libdrm
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: pango
+  
+  version: "1.21"
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: udev
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libpng
+  
+  version: 1.2.16
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: "3.14"
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: cairo
+  
+  version: ""
+uri:
+- https://www.freedesktop.org/software/plymouth/releases/plymouth-0.9.4.tar.xz
+use_flags:
+- debug
+- gdm
+- +gtk
+- +libkms
+- +pango
+- +split-usr
+- static-libs
+version: 0.9.4-r1

@@ -1,0 +1,11 @@
+category: sys-apps
+conflicts: []
+description: LSB version query program
+license: GPL-2
+name: lsb-release
+requires: []
+uri:
+- mirror://sourceforge/lsb/lsb-release-1.4.tar.gz
+use_flags:
+- ""
+version: "1.4"

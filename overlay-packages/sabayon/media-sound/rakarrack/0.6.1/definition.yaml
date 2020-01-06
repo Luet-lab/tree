@@ -1,0 +1,46 @@
+category: media-sound
+conflicts: []
+description: Basic rack of 10 effects for guitar with presets, banks and MIDI control
+license: GPL-2
+name: rakarrack
+requires:
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: fltk
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libXpm
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: alsa-lib
+  
+  version: "0.9"
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: alsa-utils
+  
+  version: "0.9"
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: jack-audio-connection-kit
+  
+  version: 0.100.0
+uri:
+- mirror://sourceforge/rakarrack/rakarrack-0.6.1.tar.bz2
+use_flags:
+- ""
+version: 0.6.1
