@@ -1,0 +1,18 @@
+category: dev-python
+conflicts: []
+description: Extensions for Python Markdown.
+license: MIT
+name: pymdown-extensions
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: mkdocs
+  
+  version: 1.0.1
+uri:
+- https://github.com/facelessuser/pymdown-extensions/archive/6.0.0.tar.gz -> pymdown-extensions-6.0.0.tar.gz
+use_flags:
+- ""
+version: 6.0.0

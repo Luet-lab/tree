@@ -1,0 +1,12 @@
+category: app-cdr
+conflicts: []
+description: Provides a way of making use of the ISO9660 application data area to
+  store md5sum data about the iso
+license: GPL-2
+name: isomd5sum
+requires: []
+uri:
+- https://github.com/rhinstaller/isomd5sum/archive/1.0.12.tar.gz -> isomd5sum-1.0.12.tar.gz
+use_flags:
+- ""
+version: 1.0.12

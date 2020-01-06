@@ -1,0 +1,50 @@
+category: app-text
+conflicts: []
+description: Qt5 bindings for poppler
+license: GPL-2
+name: poppler-qt5
+requires:
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtcore
+  
+  version: ""
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtgui
+  
+  version: ""
+- 
+  category: dev-qt
+  description: ""
+  license: ""
+  name: qtxml
+  
+  version: ""
+- 
+  category: app-text
+  description: ""
+  license: ""
+  name: poppler-base-0.82.0[cjk=,cxx=,jpeg=,jpeg2k=,lcms=,png=,tiff=,utils=,curl=,debug=,doc=,nss=]
+  
+  version: ""
+uri:
+- https://poppler.freedesktop.org/poppler-0.82.0.tar.xz
+use_flags:
+- cjk
+- curl
+- cxx
+- debug
+- doc
+- +jpeg
+- +jpeg2k
+- +lcms
+- nss
+- png
+- tiff
+- +utils
+version: 0.82.0

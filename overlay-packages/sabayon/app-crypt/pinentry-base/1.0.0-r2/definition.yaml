@@ -1,0 +1,63 @@
+category: app-crypt
+conflicts: []
+description: Simple passphrase entry dialogs which utilize the Assuan protocol
+license: GPL-2
+name: pinentry-base
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libassuan
+  
+  version: "2.1"
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libgcrypt
+  
+  version: 1.6.3
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: ncurses
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: libcap
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: ncurses
+  
+  version: 5.7-r5
+- 
+  category: app-eselect
+  description: ""
+  license: ""
+  name: eselect-pinentry
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libgpg-error
+  
+  version: "1.17"
+uri:
+- mirror://gnupg/pinentry/pinentry-1.0.0.tar.bz2
+use_flags:
+- caps
+- gtk
+- qt5
+- static
+version: 1.0.0-r2

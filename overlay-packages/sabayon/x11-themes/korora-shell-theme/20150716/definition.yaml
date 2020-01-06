@@ -1,0 +1,22 @@
+category: x11-themes
+conflicts: []
+description: a Korora tweaked Gnome shell theme
+license: GPL-2
+name: korora-shell-theme
+requires:
+- 
+  category: gnome-extra
+  description: ""
+  license: ""
+  name: gnome-shell-extensions
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: gnome-shell
+  
+  version: "3.10"
+uri: []
+version: "20150716"

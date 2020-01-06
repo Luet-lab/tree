@@ -1,0 +1,81 @@
+category: app-misc
+conflicts:
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: livecd-tools
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: gpu-detector
+  
+  version: ""
+description: Sabayon live image scripts and tools
+license: GPL-2
+name: sabayon-live
+requires:
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: keyboard-configuration-helpers
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: sed
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: systemd
+  
+  version: 239-r2
+- 
+  category: app-eselect
+  description: ""
+  license: ""
+  name: eselect-opengl
+  
+  version: ""
+- 
+  category: dev-util
+  description: ""
+  license: ""
+  name: dialog
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: gawk
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: pciutils
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: dmidecode
+  
+  version: ""
+uri:
+- https://github.com/Sabayon/sabayon-live/archive/v26.tar.gz -> 26.tar.gz
+use_flags:
+- ""
+version: "26"

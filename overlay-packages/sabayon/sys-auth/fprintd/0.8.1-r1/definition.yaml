@@ -1,0 +1,48 @@
+category: sys-auth
+conflicts: []
+description: D-Bus service to access fingerprint readers
+license: GPL-2
+name: fprintd
+requires:
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: pam
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: dbus-glib
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: sys-auth
+  description: ""
+  license: ""
+  name: libfprint
+  
+  version: ""
+- 
+  category: sys-auth
+  description: ""
+  license: ""
+  name: polkit
+  
+  version: ""
+uri:
+- https://cgit.freedesktop.org/libfprint/fprintd/snapshot/V_.tar.bz2 -> fprintd-0.8.1.tar.bz2
+use_flags:
+- doc
+- pam
+- static-libs
+version: 0.8.1-r1

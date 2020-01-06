@@ -1,0 +1,25 @@
+category: net-print
+conflicts: []
+description: CUPS filters and drivers for Xerox Phaser 6000B and 6010
+license: as-is
+name: xerox-phaser6000-drivers
+requires:
+- 
+  category: app-emulation
+  description: ""
+  license: ""
+  name: emul-linux-x86-baselibs
+  
+  version: ""
+- 
+  category: net-print
+  description: ""
+  license: ""
+  name: cups
+  
+  version: ""
+uri:
+- http://download.support.xerox.com/pub/drivers/6000/drivers/linux/en_GB/6000_6010_rpm_1.01_20110222.zip
+use_flags:
+- ""
+version: "20110222"

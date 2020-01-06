@@ -1,0 +1,33 @@
+category: x11-misc
+conflicts: []
+description: Gtk+ program for configuring xbindkeys
+license: GPL-2
+name: xbindkeys-config
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: xbindkeys
+  
+  version: ""
+uri:
+- mirror://debian/pool/main/x/xbindkeys-config/xbindkeys-config_0.1.3.orig.tar.gz
+- mirror://debian/pool/main/x/xbindkeys-config/xbindkeys-config_0.1.3-2.diff.gz
+use_flags:
+- ""
+version: 0.1.3

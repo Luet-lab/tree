@@ -1,0 +1,14 @@
+category: app-emulation
+conflicts: []
+description: Packer is a tool for creating machine and container images for multiple
+  platforms
+license: MIT
+name: packer-bin
+requires: []
+uri:
+- 'https://releases.hashicorp.com/packer/1.2.1/packer_1.2.1_linux_amd64.zip '
+- 'https://releases.hashicorp.com/packer/1.2.1/packer_1.2.1_linux_386.zip '
+- 'https://releases.hashicorp.com/packer/1.2.1/packer_1.2.1_linux_arm.zip '
+use_flags:
+- ""
+version: 1.2.1

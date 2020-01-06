@@ -1,0 +1,32 @@
+category: dev-python
+conflicts: []
+description: YAML for command line
+license: BSD-2
+name: shyaml
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyyaml
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: setuptools
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: d2to1
+  
+  version: ""
+uri:
+- https://github.com/0k/shyaml/archive/0.5.2.tar.gz -> shyaml-0.5.2.tar.gz
+use_flags:
+- ""
+version: 0.5.2

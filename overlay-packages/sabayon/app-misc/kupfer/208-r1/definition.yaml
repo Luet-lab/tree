@@ -1,0 +1,76 @@
+category: app-misc
+conflicts: []
+description: Kupfer, a convenient command and access tool
+license: Apache-2.0 GPL-2 GPL-3
+name: kupfer
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pycairo
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: libgnome-python
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: keybinder
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyxdg
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: libwnck-python
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject
+  
+  version: ""
+- 
+  category: gnome-base
+  description: ""
+  license: ""
+  name: nautilus
+  
+  version: ""
+uri:
+- mirror://github/engla/kupfer/kupfer-v208.tar.xz
+use_flags:
+- +keybinder
+- doc
+- nautilus
+version: 208-r1

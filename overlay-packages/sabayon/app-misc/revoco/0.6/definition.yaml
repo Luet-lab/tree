@@ -1,0 +1,18 @@
+category: app-misc
+conflicts: []
+description: Tool for controlling Logitech MX Revolution mouses
+license: public-domain
+name: revoco
+requires:
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: udev
+  
+  version: ""
+uri:
+- mirror://sourceforge/revoco/revoco-0.6.tar.bz2
+use_flags:
+- ""
+version: "0.6"

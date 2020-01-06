@@ -1,0 +1,9 @@
+category: media-fonts
+description: Asenine Fonts by Graham Meade of Apostrophic Labs
+license: ApostrophicLabs
+name: asenine
+uri:
+- mirror://sabayon//asenine/asenine-1.0.tar.lzma
+use_flags:
+- ""
+version: "1.0"

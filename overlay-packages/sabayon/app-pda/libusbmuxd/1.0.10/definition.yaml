@@ -1,0 +1,40 @@
+category: app-pda
+conflicts:
+- 
+  category: =app-pda
+  description: ""
+  license: ""
+  name: usbmuxd
+  
+  version: 1.0.9
+- 
+  category: <app-pda
+  description: ""
+  license: ""
+  name: usbmuxd
+  
+  version: 1.0.8_p1
+description: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
+license: GPL-2+ LGPL-2.1+
+name: libusbmuxd
+requires:
+- 
+  category: app-pda
+  description: ""
+  license: ""
+  name: libplist
+  
+  version: "1.11"
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: libusb
+  
+  version: ""
+uri:
+- http://www.libimobiledevice.org/downloads/libusbmuxd-1.0.10.tar.bz2
+use_flags:
+- kernel_linux
+- static-libs
+version: 1.0.10

@@ -1,0 +1,8 @@
+category: net-p2p
+description: Console .torrent file creator. It support Multi Trackers (tier groups)
+license: BSD
+name: mktorrent-borg
+uri: []
+use_flags:
+- ""
+version: 0.9.9

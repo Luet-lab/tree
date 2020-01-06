@@ -1,0 +1,18 @@
+category: net-p2p
+conflicts: []
+description: Tool for distributing files via a distributed network of nodes
+license: BitTorrent
+name: bittorrent
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pycrypto
+  
+  version: "2.0"
+uri:
+- http://www.bittorrent.com/dl/BitTorrent-4.4.0.tar.gz
+use_flags:
+- ""
+version: 4.4.0-r5

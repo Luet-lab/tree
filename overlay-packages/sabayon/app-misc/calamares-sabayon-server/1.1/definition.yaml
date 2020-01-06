@@ -1,0 +1,87 @@
+category: app-misc
+conflicts:
+- 
+  category: '!app-misc'
+  description: ""
+  license: ""
+  name: calamares-sabayon
+  
+  version: ""
+- 
+  category: '!app-admin'
+  description: ""
+  license: ""
+  name: anaconda
+  
+  version: ""
+description: Sabayon Official Installer
+license: CC-BY-SA-4.0
+name: calamares-sabayon-server
+requires:
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: btrfs-progs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: dosfstools
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: jfsutils
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: reiserfsprogs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: xfsprogs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: xfsdump
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: ntfs3g
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: calamares-sabayon-server-base-modules
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: calamares-sabayon-server-branding
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: "1.1"

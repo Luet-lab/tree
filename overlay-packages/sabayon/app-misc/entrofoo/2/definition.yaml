@@ -1,0 +1,11 @@
+category: app-misc
+conflicts: []
+description: Sabayon Linux Entropy Test Package (fooooon't install this)
+license: GPL-2
+name: entrofoo
+requires: []
+uri:
+- mirror://sabayon/app-misc/entrofoo-2.tar.bz2
+use_flags:
+- ""
+version: "2"

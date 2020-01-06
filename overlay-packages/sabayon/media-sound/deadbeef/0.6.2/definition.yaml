@@ -1,0 +1,270 @@
+category: media-sound
+conflicts:
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: deadbeef-ffmpeg
+  
+  version: ""
+description: foobar2k-like music player
+license: "DeaDBeeF\n\tGPL-2\n\tLGPL-2.1\n\tpsf? ( BSD XMAME )\n\tdumb? ( DUMB-0.9.2
+  )\n\tshn? ( shorten )"
+name: deadbeef
+requires:
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libsamplerate
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libcddb
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: timidity-freepats
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libmms
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libmad
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: musepack-tools
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libsndfile
+  
+  version: ""
+- 
+  category: net-misc
+  description: ""
+  license: ""
+  name: curl
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: adplug
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libcdio
+  
+  version: "0.90"
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libzip
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: zlib
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: alsa-lib
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: flac
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: libvorbis
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: wavpack
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: faad2
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: imlib2
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: ffmpeg
+  
+  version: "9"
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtkglext
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: dbus
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: pulseaudio
+  
+  version: ""
+uri:
+- mirror://sourceforge/deadbeef/deadbeef-.tar.bz2
+- http://sourceforge.net/projects/deadbeef/files/deadbeef-.tar.bz2/download -> deadbeef-.tar.bz2
+use_flags:
+- adplug
+- aac
+- alac
+- alsa
+- psf
+- ape
+- cdda
+- cover
+- cover-imlib2
+- dts
+- dumb
+- converter
+- curl
+- ffmpeg
+- flac
+- "gme\n\thotkeys"
+- lastfm
+- m3u
+- midi
+- mms
+- mp3
+- musepack
+- nls
+- notify
+- nullout
+- oss
+- pulseaudio
+- rpath
+- mono2stereo
+- "pltbrowser\n\tshellexec"
+- shn
+- sid
+- sndfile
+- src
+- static
+- supereq
+- threads
+- tta
+- vorbis
+- vtx
+- wavpack
+- zip
+- gtk3
+- +gtk2
+- wma
+- linguas_be
+- linguas_bg
+- linguas_bn
+- linguas_ca
+- linguas_cs
+- linguas_da
+- linguas_de
+- linguas_el
+- linguas_en_GB
+- linguas_es
+- linguas_et
+- linguas_eu
+- linguas_fa
+- linguas_fi
+- linguas_fr
+- linguas_gl
+- linguas_he
+- linguas_hr
+- linguas_hu
+- linguas_id
+- linguas_it
+- linguas_ja
+- linguas_kk
+- linguas_km
+- linguas_lg
+- linguas_lt
+- linguas_nl
+- linguas_pl
+- linguas_pt
+- linguas_pt_BR
+- linguas_ro
+- linguas_ru
+- linguas_si_LK
+- linguas_sk
+- linguas_sl
+- linguas_sr
+- linguas_sr@latin
+- linguas_sv
+- linguas_te
+- linguas_tr
+- linguas_ug
+- linguas_uk
+- linguas_vi
+- linguas_zh_CN
+- linguas_zh_TW
+version: 0.6.2

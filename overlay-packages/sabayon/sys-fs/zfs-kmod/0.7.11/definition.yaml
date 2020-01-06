@@ -1,0 +1,42 @@
+category: sys-fs
+conflicts:
+- 
+  category: sys-kernel
+  description: ""
+  license: ""
+  name: spl
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: zfs-fuse
+  
+  version: ""
+description: Linux ZFS kernel module for sys-fs/zfs
+license: CDDL debug? ( GPL-2+ )
+name: zfs-kmod
+requires:
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: perl
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: awk
+  
+  version: ""
+uri:
+- https://github.com/zfsonlinux/zfs/releases/download/zfs-0.7.11/zfs-0.7.11.tar.gz
+- https://github.com/zfsonlinux/spl/archive/spl-.tar.gz
+use_flags:
+- custom-cflags
+- debug
+- +rootfs
+version: 0.7.11

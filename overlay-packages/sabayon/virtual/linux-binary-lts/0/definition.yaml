@@ -1,0 +1,8 @@
+category: virtual
+conflicts: []
+description: Virtual for Linux LTS kernel binaries
+license: ""
+name: linux-binary-lts
+requires: []
+uri: []
+version: "0"

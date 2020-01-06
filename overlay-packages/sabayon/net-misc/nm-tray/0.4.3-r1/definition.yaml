@@ -1,0 +1,18 @@
+category: net-misc
+conflicts: []
+description: Pure Qt NetworkManager front-end residing in panels
+license: GPL-2
+name: nm-tray
+requires:
+- 
+  category: x11-terms
+  description: ""
+  license: ""
+  name: xterm
+  
+  version: ""
+uri:
+- https://github.com/palinek/nm-tray/archive/0.4.3.tar.gz -> nm-tray-0.4.3.tar.gz
+use_flags:
+- ""
+version: 0.4.3-r1

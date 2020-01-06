@@ -1,0 +1,133 @@
+category: x11-misc
+conflicts:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: gxneur
+  
+  version: ""
+description: In-place conversion of text typed in with a wrong keyboard layout
+license: GPL-2
+name: xneur
+requires:
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: xosd
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: gst-plugins-good
+  
+  version: ""
+- 
+  category: media-plugins
+  description: ""
+  license: ""
+  name: gst-plugins-alsa
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: libintl
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libpcre
+  
+  version: "5.0"
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: freealut
+  
+  version: 1.0.1
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libnotify
+  
+  version: 0.4.0
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libX11
+  
+  version: "1.1"
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libXtst
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: zlib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libXi
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: gstreamer
+  
+  version: ""
+- 
+  category: media-sound
+  description: ""
+  license: ""
+  name: alsa-utils
+  
+  version: 1.0.17
+- 
+  category: app-text
+  description: ""
+  license: ""
+  name: enchant
+  
+  version: ""
+uri:
+- https://launchpad.net/~andrew-crew-kuznetsov/+archive/xneur-stable/+files/xneur_0.20.0.orig.tar.gz
+use_flags:
+- aplay
+- debug
+- gstreamer
+- gtk
+- gtk3
+- keylogger
+- libnotify
+- nls
+- openal
+- xosd
+- +spell
+version: 0.20.0

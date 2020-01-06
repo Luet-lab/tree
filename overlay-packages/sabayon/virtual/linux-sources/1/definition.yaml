@@ -1,0 +1,10 @@
+category: virtual
+conflicts: []
+description: Virtual for Linux kernel sources
+license: ""
+name: linux-sources
+requires: []
+uri: []
+use_flags:
+- firmware
+version: "1"

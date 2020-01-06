@@ -1,0 +1,39 @@
+category: app-misc
+conflicts: []
+description: Sabayon Welcome screen
+license: GPL-2
+name: sabayon-greeter
+requires:
+- 
+  category: net-libs
+  description: ""
+  license: ""
+  name: webkit-gtk
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject-base
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: simplejson
+  
+  version: ""
+uri:
+- https://github.com/Sabayon/sabayon-greeter/archive/v0.11.tar.gz -> sabayon-greeter-0.11.tar.gz
+use_flags:
+- ""
+version: "0.11"

@@ -1,0 +1,53 @@
+category: x11-misc
+conflicts: []
+description: Desktop automation utility for Linux and X11
+license: GPL-3
+name: autokey
+requires:
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyatspi
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtksourceview
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: python-xlib
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygtk
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyinotify
+  
+  version: ""
+uri:
+- https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/autokey/autokey_0.81.4.tar.gz
+use_flags:
+- doc
+version: 0.81.4

@@ -1,0 +1,49 @@
+category: sys-libs
+conflicts: []
+description: A user and group account administration library
+license: GPL-2
+name: libuser
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: net-nds
+  description: ""
+  license: ""
+  name: openldap
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: popt
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: cyrus-sasl
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: libselinux
+  
+  version: ""
+uri:
+- https://releases.pagure.org/libuser/libuser-0.62.tar.xz
+use_flags:
+- ldap
+- +popt
+- sasl
+- selinux
+version: "0.62"

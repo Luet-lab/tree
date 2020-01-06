@@ -1,0 +1,32 @@
+category: sci-geosciences
+conflicts: []
+description: A weather monitoring program
+license: GPL-3
+name: aweather
+requires:
+- 
+  category: sci-libs
+  description: ""
+  license: ""
+  name: grits
+  
+  version: 0.6.3
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: sci-libs
+  description: ""
+  license: ""
+  name: rsl
+  
+  version: ""
+uri:
+- http://lug.rose-hulman.edu/proj/aweather/files/aweather-0.6.3.tar.gz
+use_flags:
+- ""
+version: 0.6.3

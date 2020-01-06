@@ -1,0 +1,113 @@
+category: media-gfx
+conflicts: []
+description: gfxboot allows you to create gfx menus for bootmanagers.
+license: GPL-2
+name: gfxboot
+requires:
+- 
+  category: dev-perl
+  description: ""
+  license: ""
+  name: HTML-Parser
+  
+  version: ""
+- 
+  category: app-arch
+  description: ""
+  license: ""
+  name: cpio
+  
+  version: ""
+- 
+  category: dev-lang
+  description: ""
+  license: ""
+  name: nasm
+  
+  version: ""
+- 
+  category: media-libs
+  description: ""
+  license: ""
+  name: freetype
+  
+  version: "2"
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: fribidi
+  
+  version: ""
+- 
+  category: "(\tapp-text"
+  description: ""
+  license: ""
+  name: xmlto
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: libxslt
+  
+  version: ""
+- 
+  category: app-text
+  description: ""
+  license: ""
+  name: docbook-xml-dtd
+  
+  version: ""
+uri:
+- http://download.opensuse.org/distribution/11.0/repo/src-oss/suse/src/gfxboot-4.0.14-.1.src.rpm
+use_flags:
+- themes
+- doc
+- animate
+- speech
+- beep
+- linguas_af
+- linguas_ar
+- linguas_bg
+- linguas_ca
+- linguas_cs
+- linguas_da
+- linguas_de
+- linguas_el
+- linguas_en
+- linguas_es
+- linguas_et
+- linguas_fi
+- linguas_fr
+- linguas_gu
+- linguas_hi
+- linguas_hr
+- linguas_hu
+- linguas_id
+- linguas_it
+- linguas_ja
+- linguas_lt
+- linguas_mr
+- linguas_nb
+- linguas_nl
+- linguas_pa
+- linguas_pl
+- linguas_pt_BR
+- linguas_pt
+- linguas_ro
+- linguas_ru
+- linguas_sk
+- linguas_sl
+- linguas_sr
+- linguas_sv
+- linguas_ta
+- linguas_tr
+- linguas_uk
+- linguas_wa
+- linguas_xh
+- linguas_zh_CN
+- linguas_zh_TW
+- linguas_zu
+version: 4.0.14-r4

@@ -1,0 +1,24 @@
+category: app-misc
+conflicts: []
+description: Sabayon Linux Media Center Infrastructure
+license: GPL-2
+name: sabayon-mce
+requires:
+- 
+  category: media-tv
+  description: ""
+  license: ""
+  name: kodi
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: sabayon-live
+  
+  version: ""
+uri: []
+use_flags:
+- ""
+version: 1.1-r5

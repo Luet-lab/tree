@@ -1,0 +1,25 @@
+category: sys-boot
+conflicts: []
+description: User-space application to modify the EFI boot manager
+license: GPL-2
+name: efibootmgr
+requires:
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: pciutils
+  
+  version: ""
+- 
+  category: sys-libs
+  description: ""
+  license: ""
+  name: efivar
+  
+  version: "0.19"
+uri:
+- https://github.com/rhinstaller/efibootmgr/releases/download/efibootmgr-0.12/efibootmgr-0.12.tar.bz2
+use_flags:
+- ""
+version: "0.12"

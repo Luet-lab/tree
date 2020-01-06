@@ -1,0 +1,6 @@
+category: app-emulation
+description: A mix of tools for Docker
+license: GPL-2
+name: docker-companion
+uri: []
+version: 0.4.5

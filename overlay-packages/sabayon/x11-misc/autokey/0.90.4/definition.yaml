@@ -1,0 +1,95 @@
+category: x11-misc
+conflicts: []
+description: Desktop automation utility for Linux and X11
+license: GPL-3
+name: autokey
+requires:
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: gobject-introspection
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pygobject
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyinotify
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: python-xlib
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtk+
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: gtksourceview
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: libnotify
+  
+  version: ""
+- 
+  category: x11-libs
+  description: ""
+  license: ""
+  name: pango
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: dbus-python
+  
+  version: ""
+- 
+  category: dev-python
+  description: ""
+  license: ""
+  name: pyatspi
+  
+  version: ""
+- 
+  category: gnome-extra
+  description: ""
+  license: ""
+  name: zenity
+  
+  version: ""
+uri:
+- https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/autokey/autokey-0.90.4.tar.gz
+use_flags:
+- doc
+version: 0.90.4

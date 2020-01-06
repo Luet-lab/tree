@@ -1,0 +1,29 @@
+category: x11-misc
+conflicts: []
+description: LightDM meta package
+license: GPL-3 LGPL-3
+name: lightdm
+requires:
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: lightdm-base-1.28.0[introspection=]
+  
+  version: ""
+- 
+  category: x11-misc
+  description: ""
+  license: ""
+  name: lightdm-qt5
+  
+  version: 1.28.0
+uri: []
+use_flags:
+- audit
+- +gnome
+- +gtk
+- +introspection
+- qt5
+- vala
+version: 1.28.0

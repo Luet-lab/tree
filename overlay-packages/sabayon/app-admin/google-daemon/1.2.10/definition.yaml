@@ -1,0 +1,18 @@
+category: app-admin
+conflicts: []
+description: Background service for managing ssh keys and users.
+license: Apache-2.0
+name: google-daemon
+requires:
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: systemd
+  
+  version: ""
+uri:
+- https://github.com/GoogleCloudPlatform/compute-image-packages/releases/download/1.2.10/google-daemon-1.2.10.tar.gz
+use_flags:
+- ""
+version: 1.2.10

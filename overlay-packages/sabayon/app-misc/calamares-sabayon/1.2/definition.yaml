@@ -1,0 +1,74 @@
+category: app-misc
+conflicts: []
+description: Sabayon Official Installer
+license: CC-BY-SA-4.0
+name: calamares-sabayon
+requires:
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: calamares-sabayon-base-modules
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: xfsprogs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: ntfs3g
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: btrfs-progs
+  
+  version: ""
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: calamares-sabayon-branding
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: dosfstools
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: jfsutils
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: reiserfsprogs
+  
+  version: ""
+- 
+  category: sys-fs
+  description: ""
+  license: ""
+  name: xfsdump
+  
+  version: ""
+uri:
+- mirror://sabayon//calamares-sabayon/installer-desktop-icon.png
+use_flags:
+- ""
+version: "1.2"

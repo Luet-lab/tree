@@ -1,0 +1,1143 @@
+category: app-office
+conflicts: []
+description: LibreOffice.org localisation meta-package
+license: LGPL-2
+name: libreoffice-l10n-meta
+requires:
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-de
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-en_ZA
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ga
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-it
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-pt
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-sw
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-eo
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-es
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ja
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-hu
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-mk
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-nb
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-bg
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-kok
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-gl
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ca
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-cs
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-fr
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-tn
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-tt
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-uk
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-da
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-tn
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-gu
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ro
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sid
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-en_US
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-mni
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-or
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ta
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sat
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sk
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sr
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-tr
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-zu
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-id
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-af
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-am
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ks
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-es
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-bn
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-br
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-pt
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-zh_TW
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-bg
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-el
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-eo
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-fa
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-mr
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-nr
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-lt
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-mi
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-eu
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-en
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-hu
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-ca
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-mai
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sd
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sl
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-as
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-zu
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-hi
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ru
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-zh_CN
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-it
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-nso
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-rw
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sv
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sq
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-mk
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-hr
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-kk
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-om
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-kn
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-lb
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-si
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-fi
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-te
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-is
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ts
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-fr
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-ro
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-sv
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-bs
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-da
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-gd
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-nl
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-pl
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ug
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-et
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-mn
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-cy
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-lv
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-gug
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ka
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-nb
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-pt_BR
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sw_TZ
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-brx
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-dgo
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-gl
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-tg
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-he
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-lo
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-lt
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-vi
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-sl
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-uk
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-hr
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-pl
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-sk
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-ga
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ne
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-nn
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ve
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ko
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-lv
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ss
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-fo
+  
+  version: ""
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-ru
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-be
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-en_GB
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-km
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-st
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-uz
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-xh
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-de
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-dz
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-id
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-el
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-et
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ml
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-nl
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-oc
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ar
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-bo
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-cy
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-af
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-he
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-sa_IN
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-cs
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-th
+  
+  version: 6.2.8.2
+- 
+  category: app-dicts
+  description: ""
+  license: ""
+  name: myspell-ia
+  
+  version: ""
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-ast
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-my
+  
+  version: 6.2.8.2
+- 
+  category: app-office
+  description: ""
+  license: ""
+  name: libreoffice-l10n-pa_IN
+  
+  version: 6.2.8.2
+uri: []
+use_flags:
+- linguas_af
+- linguas_am
+- linguas_ar
+- linguas_as
+- linguas_ast
+- linguas_be
+- linguas_bg
+- linguas_bn
+- linguas_bo
+- linguas_br
+- linguas_brx
+- linguas_bs
+- linguas_ca
+- linguas_cs
+- linguas_cy
+- linguas_da
+- linguas_de
+- linguas_dgo
+- linguas_dz
+- linguas_el
+- linguas_en_GB
+- linguas_en_US
+- linguas_en_ZA
+- linguas_eo
+- linguas_es
+- linguas_et
+- linguas_eu
+- linguas_fa
+- linguas_fi
+- linguas_fr
+- linguas_ga
+- linguas_gd
+- linguas_gl
+- linguas_gu
+- linguas_gug
+- linguas_he
+- linguas_hi
+- linguas_hr
+- linguas_hu
+- linguas_id
+- linguas_is
+- linguas_it
+- linguas_ja
+- linguas_ka
+- linguas_kk
+- linguas_km
+- linguas_kn
+- linguas_ko
+- linguas_kok
+- linguas_ks
+- linguas_lb
+- linguas_lo
+- linguas_lt
+- linguas_lv
+- linguas_mai
+- linguas_mk
+- linguas_ml
+- linguas_mn
+- linguas_mni
+- linguas_mr
+- linguas_my
+- linguas_nb
+- linguas_ne
+- linguas_nl
+- linguas_nn
+- linguas_nr
+- linguas_nso
+- linguas_oc
+- linguas_om
+- linguas_or
+- linguas_pa_IN
+- linguas_pl
+- linguas_pt
+- linguas_pt_BR
+- linguas_ro
+- linguas_ru
+- linguas_rw
+- linguas_sa_IN
+- linguas_sat
+- linguas_sd
+- linguas_si
+- linguas_sid
+- linguas_sk
+- linguas_sl
+- linguas_sq
+- linguas_sr
+- linguas_ss
+- linguas_st
+- linguas_sv
+- linguas_sw_TZ
+- linguas_ta
+- linguas_te
+- linguas_tg
+- linguas_th
+- linguas_tn
+- linguas_tr
+- linguas_ts
+- linguas_tt
+- linguas_ug
+- linguas_uk
+- linguas_uz
+- linguas_ve
+- linguas_vi
+- linguas_xh
+- linguas_zh_CN
+- linguas_zh_TW
+- linguas_zu
+- linguas_en
+- linguas_fo
+- linguas_ia
+- linguas_mi
+- linguas_sw
+version: 6.2.8.2

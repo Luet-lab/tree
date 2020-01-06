@@ -1,0 +1,17 @@
+category: app-misc
+conflicts: []
+description: Sabayon Steam Box provisioning tools
+license: GPL-2
+name: sabayon-steambox
+requires:
+- 
+  category: app-misc
+  description: ""
+  license: ""
+  name: sabayon-live
+  
+  version: "8"
+uri: []
+use_flags:
+- ""
+version: "12"

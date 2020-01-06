@@ -1,0 +1,23 @@
+category: net-p2p
+conflicts: []
+description: A BitTorrent client (meta package)
+license: ""
+name: transmission
+requires:
+- 
+  category: net-p2p
+  description: ""
+  license: ""
+  name: transmission-base-2.94[lightweight=,xfs=,libressl=]
+  
+  version: ""
+uri: []
+use_flags:
+- ayatana
+- gtk
+- libressl
+- lightweight
+- systemd
+- qt5
+- xfs
+version: "2.94"

@@ -1,0 +1,18 @@
+category: x11-themes
+conflicts:
+- 
+  category: <x11-themes
+  description: ""
+  license: ""
+  name: sabayon-artwork-core
+  
+  version: "14"
+description: Official Sabayon Linux Wallpapers Artwork
+license: CCPL-Attribution-ShareAlike-3.0
+name: sabayon-artwork-wallpapers
+requires: []
+uri:
+- mirror://sabayon//sabayon-artwork-wallpapers/sabayon-artwork-wallpapers-16.10.tar.xz
+use_flags:
+- ""
+version: "16.10"

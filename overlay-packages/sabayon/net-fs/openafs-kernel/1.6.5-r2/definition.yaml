@@ -1,0 +1,10 @@
+category: net-fs
+description: The OpenAFS distributed file system kernel module
+license: IBM BSD openafs-krb5-a APSL-2
+name: openafs-kernel
+uri:
+- http://openafs.org/dl/openafs//openafs--src.tar.bz2
+- mirror://gentoo/openafs-1.6.5-patches-1.tar.bz2
+use_flags:
+- ""
+version: 1.6.5-r2

@@ -1,0 +1,11 @@
+category: dev-libs
+conflicts: []
+description: Helper functions to simplify Uinput usage.
+license: GPL-3
+name: libsuinput
+requires: []
+uri:
+- http://edge.launchpad.net/libsuinput/trunk/0.5/+download/libsuinput-0.5.tar.gz
+use_flags:
+- ""
+version: "0.5"

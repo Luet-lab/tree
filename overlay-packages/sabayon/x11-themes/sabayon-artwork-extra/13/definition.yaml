@@ -1,0 +1,11 @@
+category: x11-themes
+conflicts: []
+description: Official Sabayon Linux Artwork Extras
+license: CCPL-Attribution-ShareAlike-3.0
+name: sabayon-artwork-extra
+requires: []
+uri:
+- mirror://sabayon//sabayon-artwork-extra/sabayon-artwork-extra-13.tar.xz
+use_flags:
+- ""
+version: "13"

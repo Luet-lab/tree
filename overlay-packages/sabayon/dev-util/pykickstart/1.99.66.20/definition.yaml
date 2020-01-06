@@ -1,0 +1,23 @@
+category: dev-util
+conflicts: []
+description: a python library that is used for reading and writing kickstart files.
+license: GPL-2
+name: pykickstart
+requires:
+- 
+  category: sys-devel
+  description: ""
+  license: ""
+  name: gettext
+  
+  version: ""
+- 
+  category: app-i18n
+  description: ""
+  license: ""
+  name: transifex-client
+  
+  version: ""
+uri:
+- https://github.com/rhinstaller/pykickstart/archive/r1.99.66.20-1.tar.gz -> pykickstart-1.99.66.20.tar.gz
+version: 1.99.66.20

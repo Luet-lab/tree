@@ -1,0 +1,53 @@
+category: sys-auth
+conflicts: []
+description: DBus service for configuring kerberos and other online identities
+license: LGPL-2+
+name: realmd
+requires:
+- 
+  category: sys-auth
+  description: ""
+  license: ""
+  name: polkit
+  
+  version: ""
+- 
+  category: sys-devel
+  description: ""
+  license: ""
+  name: gettext
+  
+  version: ""
+- 
+  category: dev-libs
+  description: ""
+  license: ""
+  name: glib
+  
+  version: ""
+- 
+  category: virtual
+  description: ""
+  license: ""
+  name: krb5
+  
+  version: ""
+- 
+  category: sys-apps
+  description: ""
+  license: ""
+  name: systemd
+  
+  version: ""
+- 
+  category: app-admin
+  description: ""
+  license: ""
+  name: packagekit-base
+  
+  version: ""
+uri:
+- http://www.freedesktop.org/software/realmd/releases/realmd-0.16.3.tar.gz
+use_flags:
+- systemd
+version: 0.16.3

@@ -1,0 +1,15 @@
+category: virtual
+conflicts: []
+description: Virtual for Linux LTS kernel binaries
+license: ""
+name: linux-binary-lts
+requires:
+- 
+  category: sys-kernel
+  description: ""
+  license: ""
+  name: linux-sabayon
+  
+  version: ""
+uri: []
+version: "1"

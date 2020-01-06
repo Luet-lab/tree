@@ -1,0 +1,9 @@
+category: net-wireless
+description: Assembler for Broadcom BCM43xx firmware
+license: GPL-2
+name: b43-asm
+uri:
+- mirror://sabayon//b43-asm/b43-asm-0.20091126.tar.gz
+use_flags:
+- ""
+version: "0.20091126"
