@@ -1,9 +1,0 @@
-category: app-misc
-description: a lightweight hotkey daemon
-license: GPL-3
-name: triggerhappy
-uri:
-- https://github.com/wertarbyte/triggerhappy/archive/release/0.3.4.tar.gz -> triggerhappy-0.3.4.tar.gz
-use_flags:
-- ""
-version: 0.3.4

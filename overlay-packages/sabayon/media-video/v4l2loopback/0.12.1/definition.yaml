@@ -1,9 +1,0 @@
-category: media-video
-description: v4l2 loopback device which output is it's own input
-license: GPL-2
-name: v4l2loopback
-uri:
-- https://github.com/umlaeute/v4l2loopback/tarball/v0.12.1 -> v4l2loopback-0.12.1.tar.gz
-use_flags:
-- examples
-version: 0.12.1

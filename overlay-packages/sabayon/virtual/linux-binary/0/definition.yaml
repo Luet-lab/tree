@@ -1,8 +1,0 @@
-category: virtual
-conflicts: []
-description: Virtual for Linux kernel binaries
-license: ""
-name: linux-binary
-requires: []
-uri: []
-version: "0"

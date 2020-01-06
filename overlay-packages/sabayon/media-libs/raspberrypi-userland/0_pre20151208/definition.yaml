@@ -1,7 +1,0 @@
-category: media-libs
-description: Raspberry Pi userspace tools and libraries
-license: BSD
-name: raspberrypi-userland
-uri:
-- https://github.com/raspberrypi/userland/tarball/cfa3df1 -> raspberrypi-userland-0.tar.gz
-version: 0_pre20151208
