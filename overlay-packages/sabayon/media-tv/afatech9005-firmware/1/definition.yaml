@@ -1,8 +1,0 @@
-category: media-tv
-description: Firmware for the Afatech 9005 DVB-T device
-license: AS-IS
-name: afatech9005-firmware
-uri: []
-use_flags:
-- ""
-version: "1"

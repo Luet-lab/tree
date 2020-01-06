@@ -1,9 +1,0 @@
-category: net-wireless
-description: OpenBroadcom Firmware
-license: GPL-2
-name: b43-openfwwf
-uri:
-- http://www.ing.unibs.it/openfwwf/firmware/openfwwf-5.2.tar.gz
-use_flags:
-- ""
-version: "5.2"

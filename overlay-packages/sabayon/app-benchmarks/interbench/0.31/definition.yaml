@@ -1,9 +1,0 @@
-category: app-benchmarks
-conflicts: []
-description: Con Kolivas' Benchmarking Suite -- Successor to Contest
-license: GPL-2
-name: interbench
-requires: []
-uri:
-- mirror://kernel/linux/kernel/people/ck/apps/interbench/.tar.gz
-version: "0.31"

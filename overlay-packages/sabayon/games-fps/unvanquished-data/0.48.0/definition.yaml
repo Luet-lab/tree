@@ -1,9 +1,0 @@
-category: games-fps
-description: Datafiles and maps for unvanquished
-license: CC-BY-SA-2.5 CC-BY-SA-3.0 CC-BY-NC-SA-3.0 CC-BY-NC-3.0 shaderlab
-name: unvanquished-data
-uri:
-- https://github.com/Unvanquished/Unvanquished/releases/download/v0.48.0/unvanquished_0.48.0.zip
-use_flags:
-- ""
-version: 0.48.0

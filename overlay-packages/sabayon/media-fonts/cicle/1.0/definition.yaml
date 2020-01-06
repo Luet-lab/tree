@@ -1,9 +1,0 @@
-category: media-fonts
-description: Cicle Fonts by Joan Alegret (Tipomatika)
-license: cicle
-name: cicle
-uri:
-- mirror://sabayon//cicle/cicle-1.0.tar.lzma
-use_flags:
-- ""
-version: "1.0"

@@ -1,9 +1,0 @@
-category: dev-python
-description: Python interface for working with block devices
-license: GPL-2
-name: pyblock
-uri:
-- http://pkgs.fedoraproject.org/repo/pkgs/python-pyblock/pyblock-0.46.tar.bz2/6ee6115b6ba1da744534e499f5ee25d8/pyblock-0.46.tar.bz2
-use_flags:
-- selinux
-version: "0.46"
