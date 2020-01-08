@@ -1,5 +1,5 @@
 steps:
-- rm -rfv /opt/sabayon-build /etc/portage || true
+- rm -rf /opt/sabayon-build /etc/portage || true
 - mv /etc/portage-gentoo /etc/portage
 - bash portage_config.sh
 - layman -S
@@ -14,6 +14,7 @@ steps:
 # Create mask file of upstream packages
 - eval "mkdir -p /etc/portage/package.mask || true"
 - source /etc/profile && source /sbin/sark-functions.sh && SABAYON_ARCH=amd64 sabayon_mask_upstream_pkgs
+- cp package.license /etc/portage/
 requires:
 - category: "layer"
   name: "build"
