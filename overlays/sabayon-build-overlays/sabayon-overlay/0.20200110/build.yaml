@@ -1,0 +1,24 @@
+steps:
+- rm -rf /opt/sabayon-build /etc/portage || true
+- mv /etc/portage-gentoo /etc/portage
+- bash portage_config.sh
+- layman -S
+- echo "yes" | layman -a sabayon || true
+- echo "yes" | layman -a sabayon-distro || true
+- cd /var/lib/layman/sabayon && git reset --hard a29d55fce00145b46015f91fc384f8666485b0a7
+- cd /var/lib/layman/sabayon-distro && git reset --hard 3867a67895e86263508639dac4b08d6d79f16682
+- rm -fv /etc/make.profile
+- wget https://raw.githubusercontent.com/Sabayon/sabayon-sark/develop/sark-functions.sh -O /sbin/sark-functions.sh
+- source /etc/profile && eval 'eselect profile list || true'
+- source /etc/profile && eval 'eselect profile set sabayon-distro:default/linux/amd64/17.0/sabayon || true' && eval 'eselect profile list || true'
+# Create mask file of upstream packages
+- eval "mkdir -p /etc/portage/package.mask || true"
+- source /etc/profile && source /sbin/sark-functions.sh && SABAYON_ARCH=amd64 sabayon_mask_upstream_pkgs
+- cp package.license /etc/portage/
+requires:
+- category: "layer"
+  name: "build"
+  version: ">=0.1"
+- category: "layer"
+  name: "sabayon-build-portage"
+  version: ">=0.1"

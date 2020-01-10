@@ -1,0 +1,8 @@
+steps:
+- layman -S
+- cd /var/lib/layman/sabayon && git reset --hard a29d55fce00145b46015f91fc384f8666485b0a7
+- cd /var/lib/layman/sabayon-distro && git reset --hard 3867a67895e86263508639dac4b08d6d79f16682
+requires:
+- category: "layer"
+  name: "core-desktop-build"
+  version: ">=0.1"

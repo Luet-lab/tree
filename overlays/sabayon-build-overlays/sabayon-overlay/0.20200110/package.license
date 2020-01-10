@@ -1,0 +1,43 @@
+app-arch/rar				RAR
+app-text/cpdf				Coherent-Graphics
+dev-util/nvidia-cuda-toolkit		NVIDIA-CUDA
+games-arcade/primateplunge		Primate-Plunge
+games-arcade/thinktanks-demo		THINKTANKS
+games-fps/quake3-data			Q3AEULA
+games-fps/quake3-demo			Q3AEULA
+games-fps/enemy-territory		RTCW-ETEULA
+games-fps/urbanterror			Q3AEULA Q3AEULA-20000111
+games-fps/urbanterror-data		Q3AEULA Q3AEULA-20000111
+games-server/steamcmd			Steam
+games-strategy/darwinia-demo		Introversion
+games-strategy/darwinia			Introversion
+games-simulation/bcs-demo		BCS
+net-wireless/broadcom-sta		Broadcom
+app-emulation/virtualbox-bin		PUEL
+media-libs/fdk-aac			FraunhoferFDK
+media-sound/baudline			baudline
+media-sound/teamspeak-client		teamspeak3
+media-sound/teamspeak-server		teamspeak3
+media-video/makemkv			MakeMKV-EULA
+games-action/heretic2-demo		LOKI-EULA
+net-misc/chrome-remote-desktop		google-chrome
+net-misc/teamviewer			TeamViewer
+sci-biology/foldingathome		FAH-EULA-2014
+sci-electronics/eagle                   cadsoft
+sci-mathematics/gimps			GIMPS
+www-client/google-chrome		google-chrome
+www-client/google-chrome-beta		google-chrome
+www-client/google-chrome-unstable	google-chrome
+www-client/opera			OPERA-2014
+www-client/opera-developer		OPERA-2014
+www-client/vivaldi			Vivaldi
+www-client/vivaldi-snapshot		Vivaldi
+www-plugins/adobe-flash			AdobeFlash-10.3 AdobeFlash-11.x
+www-plugins/chrome-binary-plugins	google-chrome
+www-plugins/google-talkplugin           Google-TOS
+dev-java/oracle-jdk-bin			Oracle-BCLA-JavaSE
+dev-java/oracle-jre-bin			Oracle-BCLA-JavaSE
+sys-firmware/b43-firmware		Broadcom
+dev-libs/amdgpu-pro-opencl		AMD-GPU-PRO-EULA
+sys-kernel/linux-sabayo			linux-firmware
+sys-kernel/linux-firmware		linux-fw-redistributable no-source-code
