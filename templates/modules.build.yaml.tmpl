@@ -1,5 +1,5 @@
 steps:
-- emerge -b =${GENTOO_CATEGORY}/{{.PackageName}}-${GENTOO_VERSION}
+- emerge -j {{.Jobs}} -t --nospinner -b =${GENTOO_CATEGORY}/{{.PackageName}}-${GENTOO_VERSION}
 {{ if ne .GentooVersion .PackageVersion }}
 - cd /usr/portage/packages/${GENTOO_CATEGORY}
 - mv {{.PackageName}}-${GENTOO_VERSION}.tbz2 {{.PackageName}}-${PACKAGE_VERSION}.tbz2

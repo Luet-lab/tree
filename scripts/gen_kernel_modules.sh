@@ -20,6 +20,7 @@ MODULES=(
 )
 
 KERNELS=$(ls $ROOT_DIR/sys-kernel/linux-sabayon)
+JOBS=${JOBS:3}
 
 for i in $KERNELS;
 do
@@ -47,6 +48,7 @@ do
                                         -s GentooVersion="${pkg_version}" \
                                         -s PackageVersion="${ver}" \
                                         -s Binhost="true" \
+                                        -s Jobs="${JOBS}" \
                                         -o $basedir/build.yaml
 
         else
@@ -59,6 +61,7 @@ do
                                         -s PackageVersion="${ver}" \
                                         -s GentooVersion="${pkg_version}" \
                                         -s Binhost="true" \
+                                        -s Jobs="${JOBS}" \
                                         -o $basedir/build.yaml
         fi
 

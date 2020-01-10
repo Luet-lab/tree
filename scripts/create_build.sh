@@ -4,6 +4,7 @@ LUET_REPO="${LUET_REPO:-/root/repo}"
 BUILD_LAYER_NAME="${BUILD_LAYER_NAME:-core-desktop-build}"
 BUILD_LAYER_CATEGORY="${BUILD_LAYER_CATEGORY:-layer}"
 BUILD_LAYER_VERSION="${BUILD_LAYER_VERSION:-0.1}"
+JOBS=${JOBS:3}
 
 gen_build() {
 local f=$1
@@ -21,12 +22,14 @@ mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
                             -s LayerVersion=$BUILD_LAYER_VERSION \
                             -s LayerName="$BUILD_LAYER_NAME" \
                             -s Binhost="true" \
+                            -s Jobs="${JOBS}" \
                             -o $basedir/build.yaml
 else
 mottainai-cli task compile "$ROOT_DIR"/templates/emerge.build.yaml.tmpl \
                             -s LayerCategory="$BUILD_LAYER_CATEGORY" \
                             -s LayerVersion=$BUILD_LAYER_VERSION \
                             -s LayerName="$BUILD_LAYER_NAME" \
+                            -s Jobs="${JOBS}" \
                             -o $basedir/build.yaml
 fi
 echo "Generated build definition for $PACKAGE_NAME-$PACKAGE_VERSION ($PACKAGE_CATEGORY) in $basedir/build.yaml"
