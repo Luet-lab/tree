@@ -20,7 +20,7 @@ MODULES=(
 )
 
 KERNELS=$(ls $ROOT_DIR/sys-kernel/linux-sabayon)
-JOBS=${JOBS:3}
+JOBS=${JOBS:-3}
 
 for i in $KERNELS;
 do

@@ -4,7 +4,7 @@ LUET_REPO="${LUET_REPO:-/root/repo}"
 BUILD_LAYER_NAME="${BUILD_LAYER_NAME:-core-desktop-build}"
 BUILD_LAYER_CATEGORY="${BUILD_LAYER_CATEGORY:-layer}"
 BUILD_LAYER_VERSION="${BUILD_LAYER_VERSION:-0.1}"
-JOBS=${JOBS:3}
+JOBS=${JOBS:-3}
 
 gen_build() {
 local f=$1
