@@ -8,7 +8,7 @@ for f in /etc/env.d/02locale /etc/locale.conf; do
 done
 
 # Defyning /usr/local/portage configuration
-mkdir /usr/local/portage
+mkdir -p /usr/local/portage
 mkdir -p /usr/local/portage/metadata/
 mkdir -p /usr/local/portage/profiles/
 echo "masters = gentoo" > /usr/local/portage/metadata/layout.conf
